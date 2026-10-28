@@ -1,0 +1,360 @@
+{"text": "how much oxygen do I have left in my main tank?", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "normal"}
+{"text": "um is my main oxygen supply getting low", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "normal"}
+{"text": "What percent is my primary oxygen at?", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "normal"}
+{"text": "hey can you check how full my first oxygen tank is", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "normal"}
+{"text": "how much O2 is left in the primary", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "normal"}
+{"text": "EV1, say primary O2 percent.", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify pri O2 storage, over.", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, request primary oxygen quantity.", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Pri O2 remaining?", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Copy, need a read on primary tank O2 percent, how copy.", "intents": ["get_oxy_pri_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "how much oxygen is in my backup tank", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "normal"}
+{"text": "what's left in the second oxygen tank?", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "normal"}
+{"text": "uh is my reserve oxygen still full", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "normal"}
+{"text": "Can you tell me the percentage on my secondary oxygen?", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "normal"}
+{"text": "how much air do i have in tank two", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "normal"}
+{"text": "Say SOP O2 quantity.", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Sec O2 percent, over.", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, verify secondary oxygen storage.", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Request reserve O2 remaining, tank two.", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "MCC, EV2, what's my backup O2 at, how copy.", "intents": ["get_oxy_sec_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the pressure in my main oxygen tank", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "um how pressurized is my primary oxygen tank", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "Could you read me the primary O2 tank pressure please?", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "is the pressure okay in my first oxygen tank", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "check primary oxygen tank pressure", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "Pri O2 tank pressure, say value.", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request primary O2 psi.", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify pri O2 press in limits.", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, read back primary oxygen tank pressure, over.", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Primary bottle pressure?", "intents": ["get_oxy_pri_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the pressure on the backup oxygen tank", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the pressure of my second oxygen tank", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "hey whats the secondary oxygen pressure", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "is my reserve oxygen tank holding pressure", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "tank two oxygen pressure please", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "Sec O2 press, say value.", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, request secondary O2 tank psi.", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify SOP pressure nominal, over.", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Backup bottle pressure, how copy.", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, need sec oxygen tank pressure.", "intents": ["get_oxy_sec_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the oxygen partial pressure in my suit", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "normal"}
+{"text": "how much oxygen pressure is inside the suit right now", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "normal"}
+{"text": "um can you tell me the suit O2 partial pressure", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "normal"}
+{"text": "what's the partial pressure of oxygen in here in my suit", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "normal"}
+{"text": "is there enough oxygen pressure in my suit atmosphere", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "normal"}
+{"text": "Say suit ppO2.", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request suit P-P-O-two.", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify suit ppO2 in limits, over.", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, suit oxygen partial pressure readout.", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "astronaut"}
+{"text": "Read me suit ppO2, how copy.", "intents": ["get_suit_pressure_oxy"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the CO2 partial pressure in my suit", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "how much carbon dioxide pressure is in the suit", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "is the carbon dioxide partial pressure in my suit going up", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the suit's co2 pressure for me", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "uh whats the carbon dioxide partial pressure inside my suit", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "Say suit ppCO2.", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, verify suit ppCO2 nominal.", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "Request suit CO2 partial pressure, over.", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, suit P-P-C-O-two value.", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "Suit ppCO2, how copy.", "intents": ["get_suit_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the pressure of the other gases in my suit", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the trace gas pressure in the suit", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "normal"}
+{"text": "how much pressure is coming from gases besides oxygen and CO2 in here", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "normal"}
+{"text": "um what's the suit other gas partial pressure", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "normal"}
+{"text": "are there any trace gases building up pressure in my suit", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "normal"}
+{"text": "Say suit trace gas pressure.", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request suit pp-other.", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify suit other-gas partial pressure, over.", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, suit trace contaminant pressure.", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "astronaut"}
+{"text": "Suit pressure other, say value.", "intents": ["get_suit_pressure_other"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's my overall suit pressure", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "normal"}
+{"text": "is my suit holding pressure okay", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "normal"}
+{"text": "Can you tell me the total pressure inside my suit?", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "normal"}
+{"text": "how pressurized is the suit right now", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "normal"}
+{"text": "uh check total suit pressure", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "normal"}
+{"text": "Say suit total pressure.", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, verify suit press in limits, over.", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "astronaut"}
+{"text": "Request suit psi total.", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, total suit pressure check, how copy.", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "astronaut"}
+{"text": "Total suit P, say value.", "intents": ["get_suit_pressure_total"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the CO2 pressure in my helmet", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "is carbon dioxide building up in my helmet", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "um how much co2 is inside the helmet", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the carbon dioxide pressure up in my helmet", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "helmet co2 please", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "normal"}
+{"text": "Say helmet ppCO2.", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, request helmet CO2 pressure.", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify helmet CO2 in limits, over.", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, read me the helmet CO2.", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "Helmet C-O-two, how copy.", "intents": ["get_helmet_pressure_co2"], "source": "handwritten", "style": "astronaut"}
+{"text": "how fast is my main fan spinning", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "what's the RPM on the primary fan", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the speed of the first circulation fan", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "um is my main fan running at normal speed", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "primary fan speed please", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "Say pri fan RPM.", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, verify primary fan speed nominal.", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "Request fan one RPM, over.", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, pri vent fan revs.", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "Primary fan RPM, how copy.", "intents": ["get_fan_pri_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "how fast is the backup fan going", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "what's the secondary fan RPM", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the speed on fan two", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "hey is the second circulation fan spinning at the right speed", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "backup ventilation fan speed please", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "normal"}
+{"text": "Say sec fan RPM.", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, request secondary fan speed, over.", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify fan two RPM in limits.", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, backup fan revs.", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "Sec fan, say RPM, how copy.", "intents": ["get_fan_sec_rpm"], "source": "handwritten", "style": "astronaut"}
+{"text": "how full is scrubber A", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "how much CO2 has scrubber A soaked up so far", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "um what's the carbon dioxide level in scrubber a", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "can you check how much CO2 is stored in scrubber A", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "is scrubber A getting full", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "Say scrubber Alpha CO2 storage.", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request scrubber A CO2 percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify scrubber Alpha loading, over.", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, CO2 scrubber Alpha fill level.", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Scrub A storage, how copy.", "intents": ["get_scrubber_a_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "how full is scrubber B", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "what's the co2 storage in scrubber b", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "hey can you tell me how much carbon dioxide scrubber B is holding", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "is the B scrubber close to saturated", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "scrubber bee co2 level", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "normal"}
+{"text": "Say scrubber Bravo CO2 storage.", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, request scrubber B CO2 percent.", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify scrubber Bravo loading in limits, over.", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, Bravo scrubber fill.", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Scrub B storage, how copy.", "intents": ["get_scrubber_b_co2_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the temperature inside my suit", "intents": ["get_temperature"], "source": "handwritten", "style": "normal"}
+{"text": "it's getting kinda warm in here, how hot is my suit", "intents": ["get_temperature"], "source": "handwritten", "style": "normal"}
+{"text": "um how cold is it in my suit right now", "intents": ["get_temperature"], "source": "handwritten", "style": "normal"}
+{"text": "Can you check my suit temperature?", "intents": ["get_temperature"], "source": "handwritten", "style": "normal"}
+{"text": "whats the temp in the suit", "intents": ["get_temperature"], "source": "handwritten", "style": "normal"}
+{"text": "Say suit temp.", "intents": ["get_temperature"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request suit internal temperature, over.", "intents": ["get_temperature"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify suit temp in limits.", "intents": ["get_temperature"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, suit thermal reading, degrees.", "intents": ["get_temperature"], "source": "handwritten", "style": "astronaut"}
+{"text": "Suit internal temp, how copy.", "intents": ["get_temperature"], "source": "handwritten", "style": "astronaut"}
+{"text": "how much coolant do I have left", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "normal"}
+{"text": "what's my coolant level", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "normal"}
+{"text": "is my coolant running low", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "normal"}
+{"text": "um can you check the coolant reservoir percentage", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "normal"}
+{"text": "how full is the cooling water tank", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "normal"}
+{"text": "Say coolant quantity.", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request coolant storage percent.", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify coolant reservoir level, over.", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, coolant H2O remaining.", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "Coolant percent, how copy.", "intents": ["get_coolant_storage"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the coolant gas pressure", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the pressure on the gas side of the coolant loop", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "um how's the coolant gas pressure looking", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "tell me the gas pressure in my cooling system", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "is the coolant gas loop pressure okay", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "Say coolant gas press.", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, request coolant gas loop psi.", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify coolant gas pressure in limits, over.", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, coolant gas side pressure.", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Coolant gas P, how copy.", "intents": ["get_coolant_gas_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's the coolant liquid pressure", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the pressure of the liquid in my cooling loop", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "how much pressure is the liquid coolant under", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "um is the liquid coolant pressure normal", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "liquid side coolant pressure please", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "normal"}
+{"text": "Say coolant liquid press.", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request coolant liquid loop psi.", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify coolant liquid pressure nominal, over.", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, liquid cooling loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "Coolant liquid P, how copy.", "intents": ["get_coolant_liquid_pressure"], "source": "handwritten", "style": "astronaut"}
+{"text": "what's my heart rate", "intents": ["get_heart_rate"], "source": "handwritten", "style": "normal"}
+{"text": "my heart is pounding, how fast is it beating", "intents": ["get_heart_rate"], "source": "handwritten", "style": "normal"}
+{"text": "can you check my pulse", "intents": ["get_heart_rate"], "source": "handwritten", "style": "normal"}
+{"text": "um how many beats per minute am I at", "intents": ["get_heart_rate"], "source": "handwritten", "style": "normal"}
+{"text": "I feel really tired, what's my heart rate right now", "intents": ["get_heart_rate"], "source": "handwritten", "style": "normal"}
+{"text": "Say HR.", "intents": ["get_heart_rate"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request heart rate, over.", "intents": ["get_heart_rate"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify my HR in limits.", "intents": ["get_heart_rate"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, what's my pulse reading.", "intents": ["get_heart_rate"], "source": "handwritten", "style": "astronaut"}
+{"text": "My BPM, how copy.", "intents": ["get_heart_rate"], "source": "handwritten", "style": "astronaut"}
+{"text": "how fast am I using up oxygen", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "normal"}
+{"text": "what's my oxygen consumption rate", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "normal"}
+{"text": "um am I going through my oxygen too fast", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "normal"}
+{"text": "can you tell me how much oxygen I'm burning per minute", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "normal"}
+{"text": "what rate am I consuming O2 at", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "normal"}
+{"text": "Say O2 consumption rate.", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request O2 usage rate, over.", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify O2 consumption in limits.", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, metabolic O2 rate.", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "astronaut"}
+{"text": "O2 burn rate, how copy.", "intents": ["get_oxy_consumption"], "source": "handwritten", "style": "astronaut"}
+{"text": "how much CO2 am I producing", "intents": ["get_co2_production"], "source": "handwritten", "style": "normal"}
+{"text": "what's my carbon dioxide production rate", "intents": ["get_co2_production"], "source": "handwritten", "style": "normal"}
+{"text": "um how fast am I breathing out co2", "intents": ["get_co2_production"], "source": "handwritten", "style": "normal"}
+{"text": "can you check my co2 output rate", "intents": ["get_co2_production"], "source": "handwritten", "style": "normal"}
+{"text": "how quickly is my body generating carbon dioxide", "intents": ["get_co2_production"], "source": "handwritten", "style": "normal"}
+{"text": "Say CO2 production rate.", "intents": ["get_co2_production"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, request CO2 output rate, over.", "intents": ["get_co2_production"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify CO2 production in limits.", "intents": ["get_co2_production"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, metabolic CO2 rate.", "intents": ["get_co2_production"], "source": "handwritten", "style": "astronaut"}
+{"text": "CO2 gen rate, how copy.", "intents": ["get_co2_production"], "source": "handwritten", "style": "astronaut"}
+{"text": "how long have I been out here", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "normal"}
+{"text": "how much time has passed since the EVA started", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "normal"}
+{"text": "um what's the elapsed time on this spacewalk", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "normal"}
+{"text": "how long has this walk been going", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "normal"}
+{"text": "can you tell me how long ive been outside", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "normal"}
+{"text": "Say MET.", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request EVA elapsed time, over.", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, how far into the EVA are we.", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify EVA clock.", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "astronaut"}
+{"text": "Elapsed time, how copy.", "intents": ["get_eva_elapsed_time"], "source": "handwritten", "style": "astronaut"}
+{"text": "how much battery do I have left on the main battery", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "what's my primary battery at", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "um is my suit's main battery running low", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "can you check the charge on battery one", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "primary battery percentage please", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "Say pri batt percent.", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request primary battery state, over.", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify pri batt in limits.", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, main battery charge.", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "Batt one, how copy.", "intents": ["get_primary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "how much charge is in my backup battery", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "what's the secondary battery level", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "um is the spare battery still good", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "can you check battery two", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "whats the reserve battery percentage", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "normal"}
+{"text": "Say sec batt percent.", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, request secondary battery state, over.", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "Verify backup batt in limits.", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV1, batt two charge.", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "Sec battery, how copy.", "intents": ["get_secondary_battery_level"], "source": "handwritten", "style": "astronaut"}
+{"text": "are there any warnings", "intents": ["get_warnings"], "source": "handwritten", "style": "normal"}
+{"text": "is anything wrong with my suit right now", "intents": ["get_warnings"], "source": "handwritten", "style": "normal"}
+{"text": "um do I have any alerts I should know about", "intents": ["get_warnings"], "source": "handwritten", "style": "normal"}
+{"text": "what are the active alarms", "intents": ["get_warnings"], "source": "handwritten", "style": "normal"}
+{"text": "is everything okay, any problems showing up", "intents": ["get_warnings"], "source": "handwritten", "style": "normal"}
+{"text": "Say C&W status.", "intents": ["get_warnings"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, any cautions or warnings, over.", "intents": ["get_warnings"], "source": "handwritten", "style": "astronaut"}
+{"text": "Request active alerts summary.", "intents": ["get_warnings"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, read me any off-nominals.", "intents": ["get_warnings"], "source": "handwritten", "style": "astronaut"}
+{"text": "Master alarm status, how copy.", "intents": ["get_warnings"], "source": "handwritten", "style": "astronaut"}
+{"text": "show me my vitals", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "normal"}
+{"text": "can you pull up the vitals screen", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "normal"}
+{"text": "um open the health panel", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "normal"}
+{"text": "I want to see all my suit stats on one screen", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "normal"}
+{"text": "bring up the biometrics page please", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "normal"}
+{"text": "HUD, vitals page.", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, call up vitals display.", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "astronaut"}
+{"text": "Open vitals panel, over.", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "astronaut"}
+{"text": "Bring vitals up on HUD.", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "astronaut"}
+{"text": "Vitals, display.", "intents": ["open_menu_vitals"], "source": "handwritten", "style": "astronaut"}
+{"text": "open the map", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "can you show me the navigation screen", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "um pull up the map please", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "I need to see where I'm going, bring up navigation", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "show the nav panel", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "HUD, nav page.", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, call up map display.", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "Open navigation panel, over.", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "Bring map up on HUD.", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "Nav, display.", "intents": ["open_menu_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "show me my task list", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "normal"}
+{"text": "can you open the checklist", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "normal"}
+{"text": "um what do I have to do next, open my tasks", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "normal"}
+{"text": "pull up the to do list", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "normal"}
+{"text": "bring up the mission tasks screen please", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "normal"}
+{"text": "HUD, checklist page.", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, call up task list.", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "astronaut"}
+{"text": "Open procedures panel, over.", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "astronaut"}
+{"text": "Bring timeline and tasks up on HUD.", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "astronaut"}
+{"text": "Tasks, display.", "intents": ["open_menu_tasks"], "source": "handwritten", "style": "astronaut"}
+{"text": "open the UIA panel", "intents": ["open_menu_uia"], "source": "handwritten", "style": "normal"}
+{"text": "can you show me the airlock controls", "intents": ["open_menu_uia"], "source": "handwritten", "style": "normal"}
+{"text": "um pull up the umbilical interface screen", "intents": ["open_menu_uia"], "source": "handwritten", "style": "normal"}
+{"text": "bring up the airlock menu please", "intents": ["open_menu_uia"], "source": "handwritten", "style": "normal"}
+{"text": "show me the U.I.A. page", "intents": ["open_menu_uia"], "source": "handwritten", "style": "normal"}
+{"text": "HUD, UIA page.", "intents": ["open_menu_uia"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2, call up UIA display, over.", "intents": ["open_menu_uia"], "source": "handwritten", "style": "astronaut"}
+{"text": "Open umbilical interface panel.", "intents": ["open_menu_uia"], "source": "handwritten", "style": "astronaut"}
+{"text": "Bring airlock panel up on HUD for egress.", "intents": ["open_menu_uia"], "source": "handwritten", "style": "astronaut"}
+{"text": "UIA, display.", "intents": ["open_menu_uia"], "source": "handwritten", "style": "astronaut"}
+{"text": "close that", "intents": ["close_menu"], "source": "handwritten", "style": "normal"}
+{"text": "can you get rid of this window", "intents": ["close_menu"], "source": "handwritten", "style": "normal"}
+{"text": "close the map", "intents": ["close_menu"], "source": "handwritten", "style": "normal"}
+{"text": "um hide this screen please", "intents": ["close_menu"], "source": "handwritten", "style": "normal"}
+{"text": "okay I'm done, close the checklist", "intents": ["close_menu"], "source": "handwritten", "style": "normal"}
+{"text": "HUD, clear display.", "intents": ["close_menu"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, dismiss panel.", "intents": ["close_menu"], "source": "handwritten", "style": "astronaut"}
+{"text": "Close vitals page, over.", "intents": ["close_menu"], "source": "handwritten", "style": "astronaut"}
+{"text": "Clear the HUD.", "intents": ["close_menu"], "source": "handwritten", "style": "astronaut"}
+{"text": "Kill current window.", "intents": ["close_menu"], "source": "handwritten", "style": "astronaut"}
+{"text": "where is the rover", "intents": ["Get_coordinates"], "source": "handwritten", "style": "normal"}
+{"text": "what are the coordinates of Shackleton crater", "intents": ["Get_coordinates"], "source": "handwritten", "style": "normal"}
+{"text": "um can you tell me where the habitat is located", "intents": ["Get_coordinates"], "source": "handwritten", "style": "normal"}
+{"text": "what's the location of the sample cache", "intents": ["Get_coordinates"], "source": "handwritten", "style": "normal"}
+{"text": "where's station 4", "intents": ["Get_coordinates"], "source": "handwritten", "style": "normal"}
+{"text": "Say coordinates POI Bravo.", "intents": ["Get_coordinates"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request grid for lander, over.", "intents": ["Get_coordinates"], "source": "handwritten", "style": "astronaut"}
+{"text": "Lat-long on Station Charlie.", "intents": ["Get_coordinates"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, need coords on the boulder field.", "intents": ["Get_coordinates"], "source": "handwritten", "style": "astronaut"}
+{"text": "Position of geology site Delta, how copy.", "intents": ["Get_coordinates"], "source": "handwritten", "style": "astronaut"}
+{"text": "take me to the rover", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "normal"}
+{"text": "can you guide me back to the airlock", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "normal"}
+{"text": "um I want to go to the crater rim", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "normal"}
+{"text": "navigate to station three", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "normal"}
+{"text": "how do I get to the lava tube? set that as my destination", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "normal"}
+{"text": "Set nav target POI Echo.", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, route me to the LTV, over.", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "astronaut"}
+{"text": "Nav to Station Alpha.", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, set destination lander.", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "astronaut"}
+{"text": "Steer me to sample site Foxtrot.", "intents": ["Set_navigation_target"], "source": "handwritten", "style": "astronaut"}
+{"text": "find me a different route", "intents": ["reroute_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "this path is blocked, can you recalculate", "intents": ["reroute_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "um the way you're sending me looks too steep, try another path", "intents": ["reroute_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "reroute please", "intents": ["reroute_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "is there another way to get there", "intents": ["reroute_navigation"], "source": "handwritten", "style": "normal"}
+{"text": "Recompute route.", "intents": ["reroute_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, request reroute, current path obstructed.", "intents": ["reroute_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "Nav, recalc, over.", "intents": ["reroute_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, new route same destination.", "intents": ["reroute_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "Path blocked by boulder field, give me an alternate route.", "intents": ["reroute_navigation"], "source": "handwritten", "style": "astronaut"}
+{"text": "add a waypoint called sample one", "intents": ["Add_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "can you mark this spot as interesting rock", "intents": ["Add_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "um drop a pin here and name it Echo", "intents": ["Add_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "put a waypoint at the crater edge", "intents": ["Add_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "save this location as camp", "intents": ["Add_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "Drop waypoint Golf.", "intents": ["Add_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, mark waypoint Hotel at current position.", "intents": ["Add_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "Add WP designated Station Six, over.", "intents": ["Add_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, set marker Kilo here.", "intents": ["Add_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "New waypoint, name it Ridge.", "intents": ["Add_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "remove the waypoint called old campsite", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "can you delete the rock pin", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "um get rid of waypoint Lima", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "take the crater edge marker off my map", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "I don't need the boulder waypoint anymore, delete it", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "normal"}
+{"text": "Delete waypoint Golf.", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, scrub waypoint Hotel.", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "Remove WP Station Six, over.", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, clear marker Kilo.", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "Kill waypoint Ridge.", "intents": ["Delete_waypoint"], "source": "handwritten", "style": "astronaut"}
+{"text": "mark sample collection as done", "intents": ["Complete_task"], "source": "handwritten", "style": "normal"}
+{"text": "I finished the antenna setup, check it off", "intents": ["Complete_task"], "source": "handwritten", "style": "normal"}
+{"text": "um can you mark egress prep complete", "intents": ["Complete_task"], "source": "handwritten", "style": "normal"}
+{"text": "the photo survey is finished, mark it done", "intents": ["Complete_task"], "source": "handwritten", "style": "normal"}
+{"text": "check off task three", "intents": ["Complete_task"], "source": "handwritten", "style": "normal"}
+{"text": "Checklist step four complete, mark it.", "intents": ["Complete_task"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV1, UIA power-down done, mark it.", "intents": ["Complete_task"], "source": "handwritten", "style": "astronaut"}
+{"text": "Close out task Bravo, over.", "intents": ["Complete_task"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, EV2, core sample procedure complete, check it.", "intents": ["Complete_task"], "source": "handwritten", "style": "astronaut"}
+{"text": "Mark rover inspection complete.", "intents": ["Complete_task"], "source": "handwritten", "style": "astronaut"}
+{"text": "how hot is the ground out there right now", "intents": ["unhandled"], "source": "handwritten", "style": "normal"}
+{"text": "what percent of Earth's air is oxygen anyway", "intents": ["unhandled"], "source": "handwritten", "style": "normal"}
+{"text": "my phone's battery is almost dead lol", "intents": ["unhandled"], "source": "handwritten", "style": "normal"}
+{"text": "I'm a little nervous to be honest", "intents": ["unhandled"], "source": "handwritten", "style": "normal"}
+{"text": "wow look at that sunrise", "intents": ["unhandled"], "source": "handwritten", "style": "normal"}
+{"text": "Copy that.", "intents": ["unhandled"], "source": "handwritten", "style": "astronaut"}
+{"text": "EV2 standing by.", "intents": ["unhandled"], "source": "handwritten", "style": "astronaut"}
+{"text": "Houston, we're go for undock.", "intents": ["unhandled"], "source": "handwritten", "style": "astronaut"}
+{"text": "Say again, you're broken and unreadable, over.", "intents": ["unhandled"], "source": "handwritten", "style": "astronaut"}
+{"text": "Surface temp out here's got to be minus one-fifty.", "intents": ["unhandled"], "source": "handwritten", "style": "astronaut"}
