@@ -1,0 +1,98 @@
+{
+ "model": "sentence-transformers/all-mpnet-base-v2 (fine-tuned, train.py hyperparameters)",
+ "rows_per_intent": 50,
+ "seeds": [
+  0,
+  1
+ ],
+ "test": "data/test.jsonl (180 normal + 180 astronaut)",
+ "runs": {
+  "100:0": [
+   {
+    "overall": 0.869,
+    "normal": 0.989,
+    "astronaut": 0.75
+   },
+   {
+    "overall": 0.878,
+    "normal": 0.983,
+    "astronaut": 0.772
+   }
+  ],
+  "80:20": [
+   {
+    "overall": 0.981,
+    "normal": 0.989,
+    "astronaut": 0.972
+   },
+   {
+    "overall": 0.967,
+    "normal": 0.978,
+    "astronaut": 0.956
+   }
+  ],
+  "60:40": [
+   {
+    "overall": 0.981,
+    "normal": 0.989,
+    "astronaut": 0.972
+   },
+   {
+    "overall": 0.972,
+    "normal": 0.978,
+    "astronaut": 0.967
+   }
+  ],
+  "40:60": [
+   {
+    "overall": 0.972,
+    "normal": 0.978,
+    "astronaut": 0.967
+   },
+   {
+    "overall": 0.975,
+    "normal": 0.972,
+    "astronaut": 0.978
+   }
+  ],
+  "0:100": [
+   {
+    "overall": 0.964,
+    "normal": 0.95,
+    "astronaut": 0.978
+   },
+   {
+    "overall": 0.967,
+    "normal": 0.956,
+    "astronaut": 0.978
+   }
+  ]
+ },
+ "mean": {
+  "100:0": {
+   "overall": 0.8734999999999999,
+   "normal": 0.986,
+   "astronaut": 0.761
+  },
+  "80:20": {
+   "overall": 0.974,
+   "normal": 0.9835,
+   "astronaut": 0.964
+  },
+  "60:40": {
+   "overall": 0.9764999999999999,
+   "normal": 0.9835,
+   "astronaut": 0.9695
+  },
+  "40:60": {
+   "overall": 0.9735,
+   "normal": 0.975,
+   "astronaut": 0.9724999999999999
+  },
+  "0:100": {
+   "overall": 0.9655,
+   "normal": 0.953,
+   "astronaut": 0.978
+  }
+ }
+}
