@@ -1,45 +1,45 @@
 model: sentence-transformers/all-mpnet-base-v2
-accuracy: 0.898  macro-F1: 0.910  (train 1069, test 186 from test.jsonl)
+accuracy: 0.925  macro-F1: 0.924  (train 3060, test 360 from test.jsonl)
 
                              precision    recall  f1-score   support
 
-               Add_waypoint       1.00      0.50      0.67         6
-              Complete_task       0.75      0.60      0.67         5
-            Delete_waypoint       1.00      0.80      0.89         5
-            Get_coordinates       1.00      0.80      0.89         5
-      Set_navigation_target       0.83      1.00      0.91         5
-                 close_menu       1.00      0.60      0.75         5
-         get_co2_production       1.00      1.00      1.00         5
-   get_coolant_gas_pressure       1.00      0.80      0.89         5
-get_coolant_liquid_pressure       0.80      0.80      0.80         5
-        get_coolant_storage       0.83      1.00      0.91         5
-       get_eva_elapsed_time       1.00      1.00      1.00         5
-            get_fan_pri_rpm       1.00      1.00      1.00         5
-            get_fan_sec_rpm       1.00      1.00      1.00         5
-             get_heart_rate       1.00      0.80      0.89         5
-    get_helmet_pressure_co2       1.00      1.00      1.00         5
-        get_oxy_consumption       1.00      1.00      1.00         5
-       get_oxy_pri_pressure       0.71      1.00      0.83         5
-        get_oxy_pri_storage       1.00      1.00      1.00         5
-       get_oxy_sec_pressure       1.00      1.00      1.00         5
-        get_oxy_sec_storage       1.00      1.00      1.00         5
-  get_primary_battery_level       1.00      1.00      1.00         5
- get_scrubber_a_co2_storage       0.83      1.00      0.91         5
- get_scrubber_b_co2_storage       1.00      0.80      0.89         5
-get_secondary_battery_level       1.00      1.00      1.00         5
-      get_suit_pressure_co2       1.00      1.00      1.00         5
-    get_suit_pressure_other       1.00      0.80      0.89         5
-      get_suit_pressure_oxy       1.00      0.80      0.89         5
-    get_suit_pressure_total       1.00      1.00      1.00         5
-            get_temperature       1.00      0.80      0.89         5
-               get_warnings       1.00      1.00      1.00         5
-       open_menu_navigation       1.00      1.00      1.00         5
-            open_menu_tasks       1.00      0.60      0.75         5
-              open_menu_uia       0.83      1.00      0.91         5
-           open_menu_vitals       1.00      1.00      1.00         5
-         reroute_navigation       1.00      0.80      0.89         5
-                  unhandled       0.48      1.00      0.65        10
+               Add_waypoint       0.91      1.00      0.95        10
+              Complete_task       0.80      0.80      0.80        10
+            Delete_waypoint       1.00      0.90      0.95        10
+            Get_coordinates       0.90      0.90      0.90        10
+      Set_navigation_target       0.90      0.90      0.90        10
+                 close_menu       1.00      0.80      0.89        10
+         get_co2_production       1.00      1.00      1.00        10
+   get_coolant_gas_pressure       1.00      1.00      1.00        10
+get_coolant_liquid_pressure       1.00      1.00      1.00        10
+        get_coolant_storage       1.00      1.00      1.00        10
+       get_eva_elapsed_time       1.00      0.90      0.95        10
+            get_fan_pri_rpm       1.00      1.00      1.00        10
+            get_fan_sec_rpm       1.00      1.00      1.00        10
+             get_heart_rate       1.00      1.00      1.00        10
+    get_helmet_pressure_co2       1.00      1.00      1.00        10
+        get_oxy_consumption       1.00      1.00      1.00        10
+       get_oxy_pri_pressure       0.83      1.00      0.91        10
+        get_oxy_pri_storage       0.91      1.00      0.95        10
+       get_oxy_sec_pressure       0.90      0.90      0.90        10
+        get_oxy_sec_storage       1.00      0.90      0.95        10
+  get_primary_battery_level       0.75      0.90      0.82        10
+ get_scrubber_a_co2_storage       0.77      1.00      0.87        10
+ get_scrubber_b_co2_storage       1.00      0.70      0.82        10
+get_secondary_battery_level       0.89      0.80      0.84        10
+      get_suit_pressure_co2       1.00      0.90      0.95        10
+    get_suit_pressure_other       0.88      0.70      0.78        10
+      get_suit_pressure_oxy       0.91      1.00      0.95        10
+    get_suit_pressure_total       0.83      1.00      0.91        10
+            get_temperature       0.83      1.00      0.91        10
+               get_warnings       1.00      0.80      0.89        10
+       open_menu_navigation       1.00      1.00      1.00        10
+            open_menu_tasks       0.91      1.00      0.95        10
+              open_menu_uia       0.91      1.00      0.95        10
+           open_menu_vitals       0.91      1.00      0.95        10
+         reroute_navigation       1.00      0.90      0.95        10
+                  unhandled       0.75      0.60      0.67        10
 
-                   accuracy                           0.90       186
-                  macro avg       0.95      0.90      0.91       186
-               weighted avg       0.93      0.90      0.90       186
+                   accuracy                           0.93       360
+                  macro avg       0.93      0.92      0.92       360
+               weighted avg       0.93      0.93      0.92       360

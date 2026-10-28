@@ -12,19 +12,30 @@ python code/voice.py         # optional, mic or .wav files
 ```
 
 ## Results
-- Data: synthetic (LLM-generated) + handwritten. Same `train.jsonl` / `test.jsonl` as the MiniLM run, plus 10 handwritten `unhandled` near-misses (weather / ambient heat) added after the first round of failures
+- Data: synthetic (LLM-generated) + handwritten. `train.jsonl` is now 3600 rows (3060 train / 540 val) and `test.jsonl` is 360 handwritten sentences (180 normal + 180 astronaut-style), up from 1258 / 186 in the first MPNet run
 - Model (see MODELS.md): MPNet (`sentence-transformers/all-mpnet-base-v2`, 110M params, 768-dim)
-- Baseline accuracy (baseline.txt): 89.8% / macro-F1 91.0%
-- Fine-tuned accuracy / macro-F1 (runs/metrics.json): 96.8% / 97.1% (val 100% / 100%)
+- Baseline accuracy (baseline.txt): 92.5% / macro-F1 92.4%
+- Fine-tuned accuracy / macro-F1 (runs/metrics.json): **98.6% / 98.6%** (val 99.3% / 99.2%, 5 test misses out of 360)
+- Retrained 2026-10-28 on the expanded data, same hyperparameters as below
 
-### MPNet vs MiniLM (same test.jsonl, 186 handwritten sentences)
+### Current run vs first MPNet run
+| | First run (1258 train rows, 186 test) | Current (3600 train rows, 360 test) |
+|---|---|---|
+| Baseline accuracy / macro-F1 | 89.8% / 91.0% | 92.5% / 92.4% |
+| Fine-tuned accuracy / macro-F1 | 96.8% / 97.1% | **98.6% / 98.6%** |
+| Val accuracy / macro-F1 | 100% / 100% | 99.3% / 99.2% |
+
+- The two test sets differ, so this isn't a strict like-for-like comparison, but the new test set is twice as big and includes astronaut-style phrasing
+- Validation misses (4 of 540): `set nav site Yankee` -> unhandled, and three off-topic sentences pulled into a real intent (`what's the battery in a tesla` -> get_primary_battery_level, `sorry wrong button` -> close_menu, `explain how a fan works` -> get_fan_pri_rpm). The model still over-matches on keywords like "battery" and "fan"
+
+### MPNet vs MiniLM (first run's test.jsonl, 186 handwritten sentences)
 | | MiniLM baseline | MiniLM fine-tuned | MPNet baseline | MPNet fine-tuned |
 |---|---|---|---|---|
 | Test accuracy | 93.0% | 96.2% | 89.8% | **96.8%** |
 | Test macro-F1 | 93.6% | 96.5% | 91.0% | **97.1%** |
 
 - Frozen MPNet is *worse* than frozen MiniLM here (89.8 vs 93.0), but it gains much more from fine-tuning (+7.0 vs +3.2 points), so it ends up slightly ahead
-- Confidence is a lot higher on correct answers: most unseen sentences below are 0.93-0.97 vs 0.83-0.95 with MiniLM
+- MiniLM hasn't been retrained on the expanded data yet, so this table is still on the old 186-sentence test set
 
 ### Hyperparameters (changed from the MiniLM run)
 | | MiniLM | MPNet | Why |
@@ -36,30 +47,32 @@ python code/voice.py         # optional, mic or .wav files
 | warmup | 0.4 | 0.1 | |
 
 ## Unseen sentences (10+)
+Re-run on the 2026-10-28 model. Sentences marked * are now in the expanded `train.jsonl`, so they're no longer truly unseen (the other 13 still are).
+
 | Sentence | Predicted | Confidence | Correct? |
 |---|---|---|---|
-| how much oxygen do I have | get_oxy_pri_storage | 0.965 | Yes |
-| navigate to Ithaca | Set_navigation_target (slot: Ithaca) | 0.934 | Yes |
-| drop a pin called rock cluster | Add_waypoint (slot: rock cluster) | 0.949 | Yes |
-| get rid of the crater waypoint | Delete_waypoint (slot: crater) | 0.957 | Yes |
-| where is the lander | Get_coordinates (slot: lander) | 0.947 | Yes |
-| I finished the sample collection | Complete_task (slot: sample collection) | 0.865 | Yes |
-| bring out the map | open_menu_navigation | 0.970 | Yes |
-| find a new path around the crater | reroute_navigation | 0.950 | Yes |
-| how's my heart | get_heart_rate | 0.955 | Yes (MiniLM said unhandled 0.41) |
-| am I running low on oxygen | get_oxy_pri_storage | 0.961 | Yes (MiniLM said get_oxy_consumption) |
-| scrubber ACO2 storage | get_scrubber_a_co2_storage | 0.941 | Yes (the Whisper merge that dropped MiniLM to 0.67) |
-| what's the second fan spinning at | get_fan_sec_rpm | 0.954 | Yes |
-| what's the backup battery at | get_secondary_battery_level | 0.966 | Yes |
-| tank two pressure | get_oxy_sec_pressure | 0.960 | Yes |
-| mark the egress task complete | Complete_task (slot: egress) | 0.952 | Yes |
-| erase the pebble field waypoint | Delete_waypoint (slot: pebble field) | 0.957 | Yes |
-| set a course for the north ridge | Set_navigation_target (slot: north ridge) | 0.916 | Yes (after fix #3) |
-| plot a path to the drill site | Set_navigation_target (slot: drill site) | 0.819 | Yes (after fix #3) |
-| what's the weather on mars | unhandled | 0.951 | Yes (after fix #2, was get_temperature 0.69) |
-| I'm feeling dizzy | unhandled | 0.804 | Yes |
-| pressure | unhandled | 0.326 | Yes (ambiguous, so good it refused) |
-| is it chilly outside | get_temperature | 0.811 | **No**, outside temp isn't suit temp |
+| how much oxygen do I have | get_oxy_pri_storage | 0.993 | Yes |
+| navigate to Ithaca | Set_navigation_target (slot: Ithaca) | 0.989 | Yes |
+| drop a pin called rock cluster | Add_waypoint (slot: rock cluster) | 0.995 | Yes |
+| get rid of the crater waypoint | Delete_waypoint (slot: crater) | 0.995 | Yes |
+| where is the lander | Get_coordinates (slot: lander) | 0.995 | Yes |
+| I finished the sample collection | Complete_task (slot: sample collection) | 0.995 | Yes |
+| bring out the map * | open_menu_navigation | 0.996 | Yes |
+| find a new path around the crater * | reroute_navigation | 0.995 | Yes |
+| how's my heart | get_heart_rate | 0.995 | Yes (MiniLM said unhandled 0.41) |
+| am I running low on oxygen * | get_oxy_pri_storage | 0.993 | Yes (MiniLM said get_oxy_consumption) |
+| scrubber ACO2 storage | get_scrubber_a_co2_storage | 0.994 | Yes (the Whisper merge that dropped MiniLM to 0.67) |
+| what's the second fan spinning at * | get_fan_sec_rpm | 0.995 | Yes |
+| what's the backup battery at | get_secondary_battery_level | 0.995 | Yes |
+| tank two pressure * | get_oxy_sec_pressure | 0.993 | Yes |
+| mark the egress task complete | Complete_task (slot: egress) | 0.995 | Yes |
+| erase the pebble field waypoint | Delete_waypoint (slot: pebble field) | 0.995 | Yes |
+| set a course for the north ridge | Set_navigation_target (slot: north ridge) | 0.994 | Yes (after fix #3) |
+| plot a path to the drill site | Set_navigation_target (slot: drill site) | 0.994 | Yes (after fix #3) |
+| what's the weather on mars * | unhandled | 0.992 | Yes (after fix #2, was get_temperature 0.69) |
+| I'm feeling dizzy * | unhandled | 0.975 | Yes |
+| pressure * | unhandled | 0.983 | Yes (ambiguous, so good it refused) |
+| is it chilly outside * | unhandled | 0.993 | Yes (first run said get_temperature 0.81) |
 
 ## What failed and why
 1. **First fine-tune predicted `unhandled` for everything (5% accuracy)**
@@ -69,7 +82,7 @@ python code/voice.py         # optional, mic or .wav files
 2. **Anything about heat/weather -> `get_temperature`**
    - "what's the weather on mars" gave get_temperature (0.69). The data only had "temperature" meaning suit temp, so the model learned "hot/cold/weather" = suit temperature
    - Fix: added 10 handwritten unhandled near-misses ("is it going to rain", "how hot is the surface of the moon", "what's the temperature back in houston", ...), retrained. Weather on mars is now unhandled at 0.95
-   - Still fails on "is it chilly outside" (0.81). Need more examples about outside / ambient temperature
+   - "is it chilly outside" still failed in the first run (get_temperature 0.81). With the expanded data (which now includes it) it comes back unhandled at 0.99
 3. **Slot extraction kept command words**
    - "set a course for the north ridge" -> slot "course for the north ridge", "plot a path to the drill site" -> the whole sentence
    - Fix: added "course", "path", "plot" to `LEAD` in predict.py
