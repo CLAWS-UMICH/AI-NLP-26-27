@@ -1,0 +1,25 @@
+{"text": "Primary battery capacity reading, please.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "What percent of charge is indicated for the primary battery now?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Flight, query the primary battery monitor for its remaining level.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Uh, how many percent are still available on the primary battery?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Would you send the primary battery’s charge amount to my display?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Percent primary battery?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Before using the radio boost, ask how full the primary battery is.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Can the console read me the primary battery level in numeric form?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Please retrieve the primary battery’s current capacity percentage.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "At this waypoint, report the primary battery charge status as a level.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Would you check the primary battery energy meter for remaining percent?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Get a state-of-charge reading from my primary battery, thanks.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Primary battery remaining percentage?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Could flight say whether the primary battery has more than a third charge?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Quick, what does the primary battery meter show?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Uh, request a percent-level reading from the primary battery.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "The primary battery indicator is behind the tool pouch; read its level aloud.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "How much charge can I still draw from the primary battery?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Please state the primary battery’s charge level for the checklist.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "primary battery level telemetry", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Could you send a remaining-capacity percentage for the primary battery?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "For the next task, tell me the charge fraction on the primary battery.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Is the primary battery level close to empty?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Flight, provide the numeric charge state of the primary battery pack.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Primary battery percent available, over.", "intents": ["get_primary_battery_level"], "source": "llm"}

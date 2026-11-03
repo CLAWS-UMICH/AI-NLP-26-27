@@ -1,0 +1,25 @@
+{"text": "Have the path planner devise a detour around the cracked basin floor.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could navigation formulate another traverse clear of that crevasse?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Calculate a replacement course that avoids the dust sink.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "new path outside the exclusion boundary", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Er, find a way around the eroded cut.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Our planned segment crosses unstable soil; compute a safe bypass.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Redesign my route to stay clear of the sharp escarpment.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can the route solver skirt the fallen antenna hardware?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please derive another course around the unpassable gully.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The current traverse enters a hazard patch; calculate around it.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Get a path solution that goes past the rock barrier.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "route around the trench please", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you produce a detour that avoids the loose overhang?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "We have a blocked segment; run a new route calculation.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find an alternate traverse around the sinkhole field.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "um, recalculate past the debris", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Navigation should compute a course clear of the sharp rocks.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please solve for a bypass around the failed track section.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Generate a different path to skirt the marked danger patch.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Our route is compromised; replan around the broken terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "plot another course past the gully", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can the planner find a path around that fractured shelf?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Calculate a detour to avoid the unstable crater wall.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The rover cut is blocked; work out a route around it.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Recompute the traversal while avoiding the new obstruction.", "intents": ["reroute_navigation"], "source": "llm"}

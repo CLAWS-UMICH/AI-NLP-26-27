@@ -1,0 +1,25 @@
+{"text": "Set the visor display to the EVA navigation map.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Where is the map view? Open the navigation panel, please.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Project the EVA map onto my helmet screen.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "navigation map on visor", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Uh, switch my HUD over to the EVA mapping panel.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you expose the navigation map in the interface?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Before I move, make the map window visible.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Choose the EVA navigation panel on my display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Open the map for this excursion; I need navigation in view.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would the EVA map panel show on my wrist unit?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Bring the wayfinding page forward as the navigation view.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "map screen please", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please launch the EVA navigation interface.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Can the helmet show my navigation map panel?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Queue the map window on the HUD while I brace here.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "uh show EVA map", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Let me access the EVA navigation panel from the visor.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Tap the navigation-map option so it opens on my display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could the orbital map view be opened as my EVA navigation panel?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Put the map and navigation interface in my field of view.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "open the eva mapping view", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Use the wrist display to open the navigation map.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you call up my EVA map screen now?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I can orient after the navigation panel comes up.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Activate the EVA map panel for this traverse, please.", "intents": ["open_menu_navigation"], "source": "llm"}

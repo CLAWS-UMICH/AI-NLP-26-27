@@ -1,0 +1,100 @@
+{"text": "mark Shackleton Crater complete", "intents": ["Complete_task"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "please check Artemis Ridge off the task list", "intents": ["Complete_task"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "okay check off task Alpha 3", "intents": ["Complete_task"], "source": "llm", "slot": "Alpha 3"}
+{"text": "complete the task South Pole Station", "intents": ["Complete_task"], "source": "llm", "slot": "South Pole Station"}
+{"text": "record completion of Haworth Rim", "intents": ["Complete_task"], "source": "llm", "slot": "Haworth Rim"}
+{"text": "set the EVA task Nobile Crater as done", "intents": ["Complete_task"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "check off de Gerlache on my EVA list", "intents": ["Complete_task"], "source": "llm", "slot": "de Gerlache"}
+{"text": "sign off task Lunar Gateway", "intents": ["Complete_task"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "register site 12 as completed", "intents": ["Complete_task"], "source": "llm", "slot": "site 12"}
+{"text": "log Miller Ridge as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Miller Ridge"}
+{"text": "the Cabeus task is done mark it complete", "intents": ["Complete_task"], "source": "llm", "slot": "Cabeus"}
+{"text": "finish the checklist entry Peary Point", "intents": ["Complete_task"], "source": "llm", "slot": "Peary Point"}
+{"text": "uh mark the checklist item Kennedy Landing done", "intents": ["Complete_task"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "update my checklist Aitken Basin as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Aitken Basin"}
+{"text": "mark off Ridge 4 in the mission tasks", "intents": ["Complete_task"], "source": "llm", "slot": "Ridge 4"}
+{"text": "I have finished Falcon Outpost close out that task", "intents": ["Complete_task"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "close the task named Luna 7", "intents": ["Complete_task"], "source": "llm", "slot": "Luna 7"}
+{"text": "task Tycho Spur is complete log that", "intents": ["Complete_task"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "set task Nansen Crater to complete", "intents": ["Complete_task"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "can you mark site bravo completed", "intents": ["Complete_task"], "source": "llm", "slot": "site bravo"}
+{"text": "complete the task Endurance Ridge", "intents": ["Complete_task"], "source": "llm", "slot": "Endurance Ridge"}
+{"text": "record completion of Conrad Station", "intents": ["Complete_task"], "source": "llm", "slot": "Conrad Station"}
+{"text": "set the EVA task Malapert Massif as done", "intents": ["Complete_task"], "source": "llm", "slot": "Malapert Massif"}
+{"text": "check off Delta 9 on my EVA list", "intents": ["Complete_task"], "source": "llm", "slot": "Delta 9"}
+{"text": "sign off task Scott Crater", "intents": ["Complete_task"], "source": "llm", "slot": "Scott Crater"}
+{"text": "register Artemis Base as completed", "intents": ["Complete_task"], "source": "llm", "slot": "Artemis Base"}
+{"text": "log sample cache 2 as finished", "intents": ["Complete_task"], "source": "llm", "slot": "sample cache 2"}
+{"text": "the Permanently Shadowed Site task is done mark it complete", "intents": ["Complete_task"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "finish the checklist entry Kaguya Point", "intents": ["Complete_task"], "source": "llm", "slot": "Kaguya Point"}
+{"text": "uh mark the checklist item Rover 1 done", "intents": ["Complete_task"], "source": "llm", "slot": "Rover 1"}
+{"text": "update my checklist Henson Ridge as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Henson Ridge"}
+{"text": "mark off Leibnitz Plateau in the mission tasks", "intents": ["Complete_task"], "source": "llm", "slot": "Leibnitz Plateau"}
+{"text": "I have finished Alpha Station close out that task", "intents": ["Complete_task"], "source": "llm", "slot": "Alpha Station"}
+{"text": "close the task named site 8", "intents": ["Complete_task"], "source": "llm", "slot": "site 8"}
+{"text": "task Haworth Station is complete log that", "intents": ["Complete_task"], "source": "llm", "slot": "Haworth Station"}
+{"text": "set task Mendeleev Crater to complete", "intents": ["Complete_task"], "source": "llm", "slot": "Mendeleev Crater"}
+{"text": "can you mark Ridge Charlie completed", "intents": ["Complete_task"], "source": "llm", "slot": "Ridge Charlie"}
+{"text": "mark South Ray complete", "intents": ["Complete_task"], "source": "llm", "slot": "South Ray"}
+{"text": "please check Prospector 3 off the task list", "intents": ["Complete_task"], "source": "llm", "slot": "Prospector 3"}
+{"text": "okay check off task Luna Outpost", "intents": ["Complete_task"], "source": "llm", "slot": "Luna Outpost"}
+{"text": "check off Clementine Crater on my EVA list", "intents": ["Complete_task"], "source": "llm", "slot": "Clementine Crater"}
+{"text": "sign off task sample site 5", "intents": ["Complete_task"], "source": "llm", "slot": "sample site 5"}
+{"text": "register Davis Ridge as completed", "intents": ["Complete_task"], "source": "llm", "slot": "Davis Ridge"}
+{"text": "log Borman Point as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Borman Point"}
+{"text": "the Aitken Station task is done mark it complete", "intents": ["Complete_task"], "source": "llm", "slot": "Aitken Station"}
+{"text": "finish the checklist entry Echo 6", "intents": ["Complete_task"], "source": "llm", "slot": "Echo 6"}
+{"text": "uh mark the checklist item Artemis Waypoint done", "intents": ["Complete_task"], "source": "llm", "slot": "Artemis Waypoint"}
+{"text": "update my checklist site delta as finished", "intents": ["Complete_task"], "source": "llm", "slot": "site delta"}
+{"text": "mark off Polar Relay in the mission tasks", "intents": ["Complete_task"], "source": "llm", "slot": "Polar Relay"}
+{"text": "I have finished Littrow Valley close out that task", "intents": ["Complete_task"], "source": "llm", "slot": "Littrow Valley"}
+{"text": "close the task named Rover Beta", "intents": ["Complete_task"], "source": "llm", "slot": "Rover Beta"}
+{"text": "task Shackleton Base is complete log that", "intents": ["Complete_task"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "set task Nobile Ridge to complete", "intents": ["Complete_task"], "source": "llm", "slot": "Nobile Ridge"}
+{"text": "can you mark Conrad Crater completed", "intents": ["Complete_task"], "source": "llm", "slot": "Conrad Crater"}
+{"text": "mark Gateway Node 2 complete", "intents": ["Complete_task"], "source": "llm", "slot": "Gateway Node 2"}
+{"text": "please check Ridge 11 off the task list", "intents": ["Complete_task"], "source": "llm", "slot": "Ridge 11"}
+{"text": "okay check off task Luna 4", "intents": ["Complete_task"], "source": "llm", "slot": "Luna 4"}
+{"text": "complete the task Armstrong Point", "intents": ["Complete_task"], "source": "llm", "slot": "Armstrong Point"}
+{"text": "record completion of Scott Station", "intents": ["Complete_task"], "source": "llm", "slot": "Scott Station"}
+{"text": "set the EVA task sample Alpha as done", "intents": ["Complete_task"], "source": "llm", "slot": "sample Alpha"}
+{"text": "log Cabeus Rim as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Cabeus Rim"}
+{"text": "the Henson Crater task is done mark it complete", "intents": ["Complete_task"], "source": "llm", "slot": "Henson Crater"}
+{"text": "finish the checklist entry Delta Base", "intents": ["Complete_task"], "source": "llm", "slot": "Delta Base"}
+{"text": "uh mark the checklist item Rover 8 done", "intents": ["Complete_task"], "source": "llm", "slot": "Rover 8"}
+{"text": "update my checklist Tycho Station as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Tycho Station"}
+{"text": "mark off de Gerlache Ridge in the mission tasks", "intents": ["Complete_task"], "source": "llm", "slot": "de Gerlache Ridge"}
+{"text": "I have finished site foxtrot close out that task", "intents": ["Complete_task"], "source": "llm", "slot": "site foxtrot"}
+{"text": "close the task named Endurance Crater", "intents": ["Complete_task"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "task Nansen Ridge is complete log that", "intents": ["Complete_task"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "set task Falcon 2 to complete", "intents": ["Complete_task"], "source": "llm", "slot": "Falcon 2"}
+{"text": "can you mark Malapert Station completed", "intents": ["Complete_task"], "source": "llm", "slot": "Malapert Station"}
+{"text": "mark Kaguya Ridge complete", "intents": ["Complete_task"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "please check Peary Crater off the task list", "intents": ["Complete_task"], "source": "llm", "slot": "Peary Crater"}
+{"text": "okay check off task Miller Outpost", "intents": ["Complete_task"], "source": "llm", "slot": "Miller Outpost"}
+{"text": "complete the task South Pole Relay", "intents": ["Complete_task"], "source": "llm", "slot": "South Pole Relay"}
+{"text": "record completion of Echo Station", "intents": ["Complete_task"], "source": "llm", "slot": "Echo Station"}
+{"text": "set the EVA task Prospector Ridge as done", "intents": ["Complete_task"], "source": "llm", "slot": "Prospector Ridge"}
+{"text": "check off Kennedy Crater on my EVA list", "intents": ["Complete_task"], "source": "llm", "slot": "Kennedy Crater"}
+{"text": "sign off task sample bag 4", "intents": ["Complete_task"], "source": "llm", "slot": "sample bag 4"}
+{"text": "register Leibnitz Ridge as completed", "intents": ["Complete_task"], "source": "llm", "slot": "Leibnitz Ridge"}
+{"text": "uh mark the checklist item Shackleton Crater done", "intents": ["Complete_task"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "update my checklist Artemis Ridge as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "mark off Alpha 3 in the mission tasks", "intents": ["Complete_task"], "source": "llm", "slot": "Alpha 3"}
+{"text": "I have finished South Pole Station close out that task", "intents": ["Complete_task"], "source": "llm", "slot": "South Pole Station"}
+{"text": "close the task named Haworth Rim", "intents": ["Complete_task"], "source": "llm", "slot": "Haworth Rim"}
+{"text": "task Nobile Crater is complete log that", "intents": ["Complete_task"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "set task de Gerlache to complete", "intents": ["Complete_task"], "source": "llm", "slot": "de Gerlache"}
+{"text": "can you mark Lunar Gateway completed", "intents": ["Complete_task"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "mark site 12 complete", "intents": ["Complete_task"], "source": "llm", "slot": "site 12"}
+{"text": "please check Miller Ridge off the task list", "intents": ["Complete_task"], "source": "llm", "slot": "Miller Ridge"}
+{"text": "okay check off task Cabeus", "intents": ["Complete_task"], "source": "llm", "slot": "Cabeus"}
+{"text": "complete the task Peary Point", "intents": ["Complete_task"], "source": "llm", "slot": "Peary Point"}
+{"text": "record completion of Kennedy Landing", "intents": ["Complete_task"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "set the EVA task Aitken Basin as done", "intents": ["Complete_task"], "source": "llm", "slot": "Aitken Basin"}
+{"text": "check off Ridge 4 on my EVA list", "intents": ["Complete_task"], "source": "llm", "slot": "Ridge 4"}
+{"text": "sign off task Falcon Outpost", "intents": ["Complete_task"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "register Luna 7 as completed", "intents": ["Complete_task"], "source": "llm", "slot": "Luna 7"}
+{"text": "log Tycho Spur as finished", "intents": ["Complete_task"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "the Nansen Crater task is done mark it complete", "intents": ["Complete_task"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "finish the checklist entry site bravo", "intents": ["Complete_task"], "source": "llm", "slot": "site bravo"}

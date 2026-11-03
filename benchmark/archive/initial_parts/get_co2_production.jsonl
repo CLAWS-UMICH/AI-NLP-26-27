@@ -1,0 +1,100 @@
+{"text": "quick check co2 production rate, read it?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Can you carbon dioxide output and read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could you my CO2 generation rate and read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Please show carbon dioxide production per minute and read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Tell me CO2 production rate and give me the current value on this EVA", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "I need carbon dioxide output, give me the current value on this EVA?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Let me my CO2 generation rate; give me the current value on this EVA", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "status on carbon dioxide production per minute, give me the current value on this eva", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Read back CO2 production rate, what is it now before I continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How is carbon dioxide output what is it now before I continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "What is my CO2 generation rate what is it now before I continue?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Give me carbon dioxide production per minute and what is it now before I continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Check my CO2 production rate and check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Uh can carbon dioxide output; check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "okay so my co2 generation rate; check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Need the carbon dioxide production per minute, check the rate please?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Confirm my CO2 production rate and report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Pull up carbon dioxide output and report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Display the my CO2 generation rate and report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Report the carbon dioxide production per minute and report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Hey flight CO2 production rate; read it uh?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "ground do carbon dioxide output; read it uh", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Copy requesting my CO2 generation rate, read it uh", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "I am carbon dioxide production per minute; read it uh", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Am I CO2 production rate give me the current value right away", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Do we carbon dioxide output give me the current value right away?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Any current my CO2 generation rate give me the current value right away", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Requesting a carbon dioxide production per minute, give me the current value right away", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "one quick co2 production rate, what is it now for the log", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Before moving carbon dioxide output; what is it now for the log", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "While paused my CO2 generation rate; what is it now for the log?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "On my carbon dioxide production per minute; what is it now for the log", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "For my CO2 production rate; check the rate no punctuation", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "At this carbon dioxide output; check the rate no punctuation", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Right now my CO2 generation rate; check the rate no punctuation", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "please confirm carbon dioxide production per minute; check the rate no punctuation?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could flight CO2 production rate and report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Uh status carbon dioxide output, report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Okay what my CO2 generation rate; report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Need a carbon dioxide production per minute, report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Just checking CO2 production rate, read it?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Can flight carbon dioxide output and read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "read my my co2 generation rate and read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Show the carbon dioxide production per minute and read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "What are CO2 production rate give me the current value on this EVA", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How many carbon dioxide output give me the current value on this EVA?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Is my my CO2 generation rate give me the current value on this EVA", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Checking the carbon dioxide production per minute, give me the current value on this EVA", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "A quick CO2 production rate, what is it now before I continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "need current carbon dioxide output, what is it now before i continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Quick check my CO2 generation rate, what is it now before I continue?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Can you carbon dioxide production per minute and what is it now before I continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could you CO2 production rate and check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Please show carbon dioxide output and check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Tell me my CO2 generation rate and check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "I need carbon dioxide production per minute, check the rate please?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "let me co2 production rate; report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Status on carbon dioxide output, report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Read back my CO2 generation rate, report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How is carbon dioxide production per minute report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "What is CO2 production rate read it uh?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Give me carbon dioxide output and read it uh", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Check my my CO2 generation rate and read it uh", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "uh can carbon dioxide production per minute; read it uh", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Okay so CO2 production rate; give me the current value right away", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Need the carbon dioxide output, give me the current value right away?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Confirm my my CO2 generation rate and give me the current value right away", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Pull up carbon dioxide production per minute and give me the current value right away", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Display the CO2 production rate and what is it now for the log", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Report the carbon dioxide output and what is it now for the log", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "hey flight my co2 generation rate; what is it now for the log?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Ground do carbon dioxide production per minute; what is it now for the log", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Copy requesting CO2 production rate, check the rate no punctuation", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "I am carbon dioxide output; check the rate no punctuation", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Am I my CO2 generation rate check the rate no punctuation", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Do we carbon dioxide production per minute check the rate no punctuation?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Any current CO2 production rate report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "requesting a carbon dioxide output, report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "One quick my CO2 generation rate, report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Before moving carbon dioxide production per minute; report the number during this traverse", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "While paused CO2 production rate; read it?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "On my carbon dioxide output; read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "For my my CO2 generation rate; read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "At this carbon dioxide production per minute; read it", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "right now co2 production rate; give me the current value on this eva", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Please confirm carbon dioxide output; give me the current value on this EVA?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could flight my CO2 generation rate and give me the current value on this EVA", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Uh status carbon dioxide production per minute, give me the current value on this EVA", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Okay what CO2 production rate; what is it now before I continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Need a carbon dioxide output, what is it now before I continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Just checking my CO2 generation rate, what is it now before I continue?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "can flight carbon dioxide production per minute and what is it now before i continue", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Read my CO2 production rate and check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Show the carbon dioxide output and check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "What are my CO2 generation rate check the rate please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How many carbon dioxide production per minute check the rate please?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Is my CO2 production rate report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Checking the carbon dioxide output, report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "a quick my co2 generation rate, report the number over comms", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Need current carbon dioxide production per minute, report the number over comms", "intents": ["get_co2_production"], "source": "llm"}

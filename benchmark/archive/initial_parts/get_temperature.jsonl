@@ -1,0 +1,100 @@
+{"text": "Report let us look at the suit thermal reading again.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "What is need a fresh suit thermal reading value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I get I am trying to confirm the internal temp.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Flight, how does the internal temp look right now?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "EVA check: heat reading, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Just checking, let us look at the temperature value again.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Just checking, where does the temperature stand?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "How is need a fresh suit thermal reading value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Before I move, pull the internal temp for me.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "How is verify the temperature from telemetry.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Show me I missed that; repeat the temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "For the log, could you bring up the temperature reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Need read the suit thermal reading aloud, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "For the log, pull the suit thermal reading for me.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Quick check: send the temperature value to my display.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "How is what are we getting for suit thermal reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Are we seeing can I get a current suit thermal reading report?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I hear pull the suit thermal reading for me.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I get send the temperature value to my display.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Uh, can you read the heat reading back?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Are we seeing check the heat reading before I continue.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Give me give me the latest suit thermal reading, over.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Please report I need the temperature value on this pass.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "I need need a fresh suit thermal reading value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I hear read the suit thermal reading aloud, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Just checking, can you read the temperature value back?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Let me get could you bring up the suit thermal reading reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "One more thing, check telemetry for the temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Before I move, where does the temperature value stand?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Are we seeing need a fresh temperature value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Okay, is the suit thermal reading holding steady?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Is the check the temperature value before I continue.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Do we have give me the heat reading reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Uh, could you bring up the heat reading reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "On my display, how does the temperature value look right now?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "What is I want to compare the suit thermal reading now.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "EVA check: give me the suit thermal reading reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Are we seeing please confirm the internal temp on the suit.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I hear give me the latest internal temp, over.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Please report I missed that; repeat the heat reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Copy, is the temperature holding steady?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "We should check what is the heat reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Read me send the heat reading value to my display.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Read me can you read the heat reading back?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Do we have is the internal temp holding steady?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I get I missed that; repeat the heat reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "What is I want to compare the temperature value now.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Just checking, can I get a current heat reading report?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Give me is the temperature holding steady?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "How is give me the latest suit thermal reading, over.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Tell me what are we getting for temperature?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Can you tell me can you read the temperature value back?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Are we seeing I want to compare the temperature value now.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Read me verify the temperature from telemetry.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "One more thing, is the temperature value holding steady?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Um, where does the internal temp stand?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Is the send the temperature value value to my display.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Hey, pull the internal temp for me.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Need check the suit thermal reading before I continue.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "We should check I am trying to confirm the temperature value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Okay, I want to compare the temperature value now.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Copy, verify the suit thermal reading from telemetry.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Confirm what are we getting for temperature value?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "For the log, check the heat reading before I continue.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "EVA check: what are we getting for temperature?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "I need pull the temperature for me.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Read me need a fresh temperature value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Let me get please call out the heat reading when ready.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Tell me give me the suit thermal reading reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Current what are we getting for temperature?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Need where does the temperature stand?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "For the log, I am trying to confirm the temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Do we have what is the internal temp?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "I want to verify read the temperature aloud, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "I am checking I need the temperature value on this pass.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "What is I am trying to confirm the temperature value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "What is pull the temperature value for me.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Please report need a fresh temperature value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Hey, I want to compare the temperature now.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Give me I want to compare the internal temp now.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "On my display, need a fresh suit thermal reading value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could you check how does the temperature look right now?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "One more thing, pull the heat reading for me.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Houston, temperature, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "EVA check: give me the heat reading reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Current check the temperature before I continue.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I get could you bring up the heat reading reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Confirm give me the temperature value reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temperature temperature?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temperature internal temp?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temperature heat reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temperature suit thermal reading?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temperature temperature value?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "temperature, suit temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "internal temp, suit temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "heat reading, suit temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit thermal reading, suit temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "temperature value, suit temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "uh suit temperature temperature check 1", "intents": ["get_temperature"], "source": "llm"}
+{"text": "uh suit temperature internal temp check 2", "intents": ["get_temperature"], "source": "llm"}

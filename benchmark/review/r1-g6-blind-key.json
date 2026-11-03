@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Set_navigation_target",
+    "text": "Make de Gerlache the destination on my map"
+  },
+  {
+    "label": "unhandled",
+    "text": "Roger, continuing toward the next marker."
+  },
+  {
+    "label": "Get_coordinates",
+    "text": "Could you pull up the coordinate pair for Miller Ridge?"
+  },
+  {
+    "label": "Add_waypoint",
+    "text": "I want Peary Point recorded in my waypoint list."
+  },
+  {
+    "label": "Delete_waypoint",
+    "text": "Remove Prospector 3 from the EVA map markers."
+  },
+  {
+    "label": "Complete_task",
+    "text": "I wrapped up Gateway Node 2; mark the task complete."
+  },
+  {
+    "label": "Delete_waypoint",
+    "text": "Take that waypoint, Alpha Station, off my display."
+  },
+  {
+    "label": "Add_waypoint",
+    "text": "Insert a waypoint at Permanently Shadowed Site on my EVA map."
+  },
+  {
+    "label": "Set_navigation_target",
+    "text": "Set a course with sample cache 2 as the endpoint."
+  },
+  {
+    "label": "Get_coordinates",
+    "text": "Get a location fix for Artemis Base, please."
+  },
+  {
+    "label": "Delete_waypoint",
+    "text": "Take Kennedy Landing out of the waypoint list."
+  },
+  {
+    "label": "Add_waypoint",
+    "text": "Add Malapert Massif to the saved route points."
+  },
+  {
+    "label": "Set_navigation_target",
+    "text": "Take me to Artemis Base on the navigation display."
+  },
+  {
+    "label": "unhandled",
+    "text": "the fan has a low hum in the background."
+  },
+  {
+    "label": "Complete_task",
+    "text": "Mark the Haworth Rim task complete."
+  },
+  {
+    "label": "Get_coordinates",
+    "text": "Can I get the map position of Henson Ridge?"
+  },
+  {
+    "label": "Delete_waypoint",
+    "text": "Please remove the map waypoint called Aitken Basin."
+  },
+  {
+    "label": "Delete_waypoint",
+    "text": "Drop Tycho Spur as a saved waypoint."
+  },
+  {
+    "label": "Complete_task",
+    "text": "Could you complete the task entry Littrow Valley?"
+  },
+  {
+    "label": "Complete_task",
+    "text": "Check off South Pole Station on the EVA checklist."
+  },
+  {
+    "label": "Add_waypoint",
+    "text": "tag the route with a waypoint for Tycho Spur."
+  },
+  {
+    "label": "Get_coordinates",
+    "text": "Is there a coordinate reading available for Clementine Crater?"
+  },
+  {
+    "label": "Get_coordinates",
+    "text": "I am looking for Aitken Station; read out its grid position."
+  },
+  {
+    "label": "Set_navigation_target",
+    "text": "My target should be Cabeus Rim; update navigation."
+  },
+  {
+    "label": "unhandled",
+    "text": "No, leave the camera on the rover."
+  },
+  {
+    "label": "unhandled",
+    "text": "oxygen looks stable, so i am moving along the tether"
+  },
+  {
+    "label": "Set_navigation_target",
+    "text": "Can you change my target to Cabeus?"
+  },
+  {
+    "label": "unhandled",
+    "text": "my suit display is bright in the sunlight."
+  },
+  {
+    "label": "Add_waypoint",
+    "text": "Please store Henson Crater as one of my waypoints."
+  },
+  {
+    "label": "Complete_task",
+    "text": "Set task Nansen Crater to complete."
+  }
+]

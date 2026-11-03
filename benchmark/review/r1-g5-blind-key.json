@@ -1,0 +1,122 @@
+[
+  {
+    "label": "open_menu_uia",
+    "text": "show me the uia panel"
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "uh, map panel"
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Let me see the UIA panel now."
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "Okay, switch over to the procedures screen."
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "Could the EVA navigation panel come up now?"
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "Vitals HUD, display that."
+  },
+  {
+    "label": "close_menu",
+    "text": "Close this menu."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "Okay, pull up the suit health panel for me."
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Switch my helmet display to the UIA controls."
+  },
+  {
+    "label": "close_menu",
+    "text": "Active overlay, go away."
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Bring up the interface assembly controls while I am at the hatch."
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Please provide an alternate course that avoids the rover tracks."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "Open my suit vitals panel."
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "Would you open the route screen while I am beside the tool cache?"
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "Open the EVA checklist panel."
+  },
+  {
+    "label": "close_menu",
+    "text": "get this menu off my visor"
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "please bring up the task panel"
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Pull up the UIA page so I can check the airlock."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "I need to review my suit telemetry; open that panel, please."
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Navigation, find another path."
+  },
+  {
+    "label": "close_menu",
+    "text": "I need the visor clear; close the current HUD window."
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "Would you display the work queue in the HUD?"
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "uh show my open tasks"
+  },
+  {
+    "label": "close_menu",
+    "text": "close that window"
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "uh open the wayfinding screen"
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "The ridge passage is closed; work out a route around it."
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Reroute us around the blocked passage, please."
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Could navigation recalculate for the blocked corridor?"
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "Can you make the life support status panel visible?"
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "Please call up my position and map window."
+  }
+]

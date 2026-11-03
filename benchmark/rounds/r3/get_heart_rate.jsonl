@@ -1,0 +1,25 @@
+{"text": "Heart monitor beats per minute, please.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Can flight fetch the pulse count from my chest sensor?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "What BPM is the medical telemetry giving me?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Uh, have the suit announce my heartbeat rate.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Before I lift off the foothold, query my heart rhythm in beats per minute.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "please read bpm from heart sensor", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Pulse rate check, flight.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Does my heart sensor show more than eighty beats a minute?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Would you put the current cardiac beats-per-minute value on my display?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Give me a spoken reading from the pulse monitor.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "How many heart contractions per minute is the suit detecting?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Request my heartbeat frequency from the medical channel.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "BPM for my pulse?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Ground, can you pull the heart-rate number while I am stationary?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "The biomonitor is under my strap; read its heart rate for me.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Uh, what pulse count does telemetry show per minute?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Could the flight loop send my current heartbeat in BPM?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "I need the heart sensor result before I continue across the rocks.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Query the suit medical unit for my pulse beats each minute.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "heart bpm from telemetry please", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Would you read my heart rate aloud so I can verify the monitor?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Is my heartbeat holding at seventy-five beats per minute?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Call out the cardiac rate shown on the EVA biomonitor.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "For the medical note, please report my pulse frequency.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Pulse monitor value in BPM, now.", "intents": ["get_heart_rate"], "source": "llm"}

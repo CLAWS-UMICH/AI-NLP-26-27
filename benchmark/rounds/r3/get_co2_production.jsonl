@@ -1,0 +1,25 @@
+{"text": "CO2 generated per hour, please.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Can life support calculate my carbon dioxide emission rate?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "What hourly volume of CO2 am I breathing out?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Uh, have telemetry report my body’s carbon-dioxide output.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Before changing pace, check the rate my metabolism is creating CO2.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "carbon dioxide output per minute", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could you get a CO2 formation rate from my suit readings?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How quickly am I adding carbon dioxide to the circulation loop?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Would flight provide my exhaled CO2 rate in liters per hour?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Please request a current carbon-dioxide production measurement.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Is the amount of CO2 I produce per minute elevated?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Read my metabolic carbon dioxide rate over the radio.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "CO2 production value?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "At this work stop, get the rate of carbon dioxide I am generating.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "The scrubber load changed; what is my personal CO2 output rate?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Uh, carbon dioxide created per minute from my breathing?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Can the suit estimate my CO2 release rate right now?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "For the EVA log, note liters of carbon dioxide produced each hour.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Please tell me the production rate for my exhaled gas CO2.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "co2 made each hour please", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Flight, query how much carbon dioxide my respiration generates over a minute.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Would you retrieve my current metabolic CO2 output?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "What is the hourly rate of carbon dioxide entering the suit loop from me?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could I get the CO2 production rate while carrying this load?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Carbon dioxide generation quantity per hour, now.", "intents": ["get_co2_production"], "source": "llm"}

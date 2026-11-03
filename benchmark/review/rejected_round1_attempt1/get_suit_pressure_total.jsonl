@@ -1,0 +1,25 @@
+{"text": "total suit pressure", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "overall pressure in suit", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "suit pressure total", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "combined suit gas pressure", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "total pressure please", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "read overall suit pressure", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "What is my total suit pressure?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Could you read the overall pressure inside the suit?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I need the combined pressure of all gases in my suit.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Check total pressure across the suit atmosphere before I move.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Uh, what does the suit-wide pressure sensor read?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Please report the total pressure inside my EVA suit.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "whats the total pressure in the suit", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "suit total pressure reading please", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "show overall suit pressure now", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "total gas pressure suit", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "read the combined suit pressure", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Flight, I need the aggregate pressure for the complete suit atmosphere, all gases combined.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Before I climb down, tell me the total pressure measured inside the suit shell.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Could you confirm overall suit pressure rather than an individual gas partial pressure?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Houston, read the combined pressure from the suit environment sensor in kilopascals.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I am checking the seal; give me the total pressure throughout the suit interior.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Okay so, what is the current all-gas pressure value for my suit atmosphere?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "The individual channels can wait; first report the total pressure inside the suit.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "For the cabin log, call out the full suit pressure reading while I hold position.", "intents": ["get_suit_pressure_total"], "source": "llm"}

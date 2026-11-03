@@ -1,0 +1,727 @@
+{
+  "intent": "Complete_task",
+  "train": [
+    {
+      "text": "I have finished Artemis 5; clear it from the pending list.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Artemis 5"
+    },
+    {
+      "text": "Record Haworth Rim as complete in the EVA task panel.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Haworth Rim"
+    },
+    {
+      "text": "Ridge 4: would you record that task as finished?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Ridge 4"
+    },
+    {
+      "text": "Update my EVA tasks and mark Haworth Station done.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Haworth Station"
+    },
+    {
+      "text": "I got Polar Camp done; update the panel status.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Polar Camp"
+    },
+    {
+      "text": "Rover 8 is done; would you update the mission checklist?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Rover 8"
+    },
+    {
+      "text": "Check Scott Station off my mission checklist, please",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Scott Station"
+    },
+    {
+      "text": "Set Haworth Station to done in the mission tasks.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Haworth Station"
+    },
+    {
+      "text": "The checklist task called South Pole Station is finished; mark it so.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "South Pole Station"
+    },
+    {
+      "text": "Set the completion state of Falcon 2 to done",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Falcon 2"
+    },
+    {
+      "text": "The item named Scott Station is accomplished; log it.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Scott Station"
+    },
+    {
+      "text": "that checklist step is over: Aitken Basin. log completion.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Aitken Basin"
+    },
+    {
+      "text": "Could you set the task named Borman Point to complete?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Borman Point"
+    },
+    {
+      "text": "I am done with checklist task Littrow Valley; update the status.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Littrow Valley"
+    },
+    {
+      "text": "The step titled Aitken Station can be marked complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Aitken Station"
+    },
+    {
+      "text": "Please mark Aitken Basin completed.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Aitken Basin"
+    },
+    {
+      "text": "Mark the named EVA step Nansen Crater done.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Nansen Crater"
+    },
+    {
+      "text": "Could you mark Prospector 3 complete in the EVA task panel?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Prospector 3"
+    },
+    {
+      "text": "Ridge 4, can you set its task status to complete?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Ridge 4"
+    },
+    {
+      "text": "site 12, could you mark that checklist task complete?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site 12"
+    },
+    {
+      "text": "Check off the named EVA task Scott Station, please.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Scott Station"
+    },
+    {
+      "text": "Please put a completion check beside Miller Outpost",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Miller Outpost"
+    },
+    {
+      "text": "Mark the Haworth Rim task complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Haworth Rim"
+    },
+    {
+      "text": "Update the task board: Miller Outpost is finished.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Miller Outpost"
+    },
+    {
+      "text": "Please mark task Gateway Node 2 off the pending queue.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Gateway Node 2"
+    },
+    {
+      "text": "Set the task record South Pole Relay to complete now.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "South Pole Relay"
+    },
+    {
+      "text": "Log Miller Ridge as done in my task list",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Miller Ridge"
+    },
+    {
+      "text": "Check the sample Alpha task as complete so the list advances",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "sample Alpha"
+    },
+    {
+      "text": "Mark off the Luna Outpost task before I move on.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Luna Outpost"
+    },
+    {
+      "text": "Rover 1: could you sign off that checklist item?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Rover 1"
+    },
+    {
+      "text": "That task, site 8, is behind me. Check it off.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site 8"
+    },
+    {
+      "text": "Can you sign off Haworth Point in the EVA task log?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Haworth Point"
+    },
+    {
+      "text": "Mission control, Conrad Crater is complete on my end.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Conrad Crater"
+    },
+    {
+      "text": "Record that the task sample Alpha has been completed.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "sample Alpha"
+    },
+    {
+      "text": "Sign off the Scott Crater item in the mission list.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Scott Crater"
+    },
+    {
+      "text": "site 8 — can you close out that checklist entry?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site 8"
+    },
+    {
+      "text": "Prospector 3, would you mark the task complete before I move on?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Prospector 3"
+    },
+    {
+      "text": "I can report site bravo is complete; close the task.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site bravo"
+    },
+    {
+      "text": "I am all done with sample bag 4; check off the task.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "sample bag 4"
+    },
+    {
+      "text": "I have wrapped up task Falcon 2; mark it complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Falcon 2"
+    },
+    {
+      "text": "Log my completion of Kaguya Point in the mission panel",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Kaguya Point"
+    },
+    {
+      "text": "Will you log Aitken Station as accomplished on the checklist?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Aitken Station"
+    },
+    {
+      "text": "Please log completion for Borman Point.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Borman Point"
+    },
+    {
+      "text": "Please register completion of checklist entry Haworth Rim",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Haworth Rim"
+    },
+    {
+      "text": "please mark the named task Aitken Basin as finished.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Aitken Basin"
+    },
+    {
+      "text": "Task Kaguya Point is complete; mark it finished.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Kaguya Point"
+    },
+    {
+      "text": "Task Miller Outpost is finished on my end; log that status.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Miller Outpost"
+    },
+    {
+      "text": "close out the objective called Tycho Station.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Tycho Station"
+    },
+    {
+      "text": "record task Leibnitz Ridge as accomplished, please.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Leibnitz Ridge"
+    },
+    {
+      "text": "I wrapped up Gateway Node 2; mark the task complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Gateway Node 2"
+    },
+    {
+      "text": "please sign off Borman Point in my task list.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Borman Point"
+    },
+    {
+      "text": "I wrapped the Miller Ridge objective, mark it off.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Miller Ridge"
+    },
+    {
+      "text": "Would you set Haworth Station as completed on my EVA checklist?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Haworth Station"
+    },
+    {
+      "text": "Would you mark the checklist task site 8 as complete in my EVA task panel before I continue across the work area?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site 8"
+    },
+    {
+      "text": "Update the EVA log: Scott Crater is completed.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Scott Crater"
+    },
+    {
+      "text": "Mission control, mark Nansen Ridge as completed on the list.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Nansen Ridge"
+    },
+    {
+      "text": "i have completed site bravo, record that on the hud.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site bravo"
+    },
+    {
+      "text": "Can you check Luna Outpost off the EVA list as done?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Luna Outpost"
+    },
+    {
+      "text": "Log Polar Relay as finished before I leave this spot.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Polar Relay"
+    },
+    {
+      "text": "Check off South Pole Station on the EVA checklist.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "South Pole Station"
+    },
+    {
+      "text": "Check the sample bag 4 line off the mission checklist.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "sample bag 4"
+    },
+    {
+      "text": "Mark Kaguya Point done so the checklist advances.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Kaguya Point"
+    },
+    {
+      "text": "Close the mission item called Conrad Point as complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Conrad Point"
+    },
+    {
+      "text": "Close out task site bravo on the suit display.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site bravo"
+    },
+    {
+      "text": "Task title Nobile Station should show completed.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Nobile Station"
+    },
+    {
+      "text": "I have completed the objective labeled sample Alpha.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "sample Alpha"
+    },
+    {
+      "text": "Rover 8, can you mark that named checklist task finished?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Rover 8"
+    },
+    {
+      "text": "Delta 9 is the item; can you check it off as done?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Delta 9"
+    },
+    {
+      "text": "Would you close out the mission task Polar Relay?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Polar Relay"
+    },
+    {
+      "text": "Register Conrad Crater as finished in the task panel.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Conrad Crater"
+    },
+    {
+      "text": "Could you complete the task entry Littrow Valley?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Littrow Valley"
+    },
+    {
+      "text": "Prospector 3, will you log that objective as finished?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Prospector 3"
+    },
+    {
+      "text": "Set task Nansen Crater to complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Nansen Crater"
+    },
+    {
+      "text": "Complete: Rover 1",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Rover 1"
+    },
+    {
+      "text": "Update the checklist to show Falcon 2 done.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Falcon 2"
+    },
+    {
+      "text": "Set site 12 to finished before the next task.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "site 12"
+    },
+    {
+      "text": "Change Rover 8 to done in my EVA checklist.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Rover 8"
+    },
+    {
+      "text": "Set the mission list status for Miller Ridge to complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Miller Ridge"
+    },
+    {
+      "text": "Mark the entry Gateway Node 2 as accomplished",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Gateway Node 2"
+    },
+    {
+      "text": "I am through with Nansen Ridge; mark the EVA item complete.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Nansen Ridge"
+    }
+  ],
+  "validation": [
+    {
+      "text": "All the work at South Pole Relay is behind me; move that item out of the pending queue.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "South Pole Relay"
+    },
+    {
+      "text": "The task at South Pole Relay? All set on my side; please record the sign-off.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "South Pole Relay"
+    },
+    {
+      "text": "Rover 1, copy: task complete. Log the sign-off.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Rover 1"
+    },
+    {
+      "text": "Is Tycho Station still listed as active? I have finished that objective; please close it.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Tycho Station"
+    },
+    {
+      "text": "No more work remains at Ridge 4; the checklist can show it as finished.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Ridge 4"
+    },
+    {
+      "text": "EVA board update, please: Delta 9 has been completed.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Delta 9"
+    },
+    {
+      "text": "Nansen Crater is done on my end. Could the mission log reflect that?",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Nansen Crater"
+    },
+    {
+      "text": "Before I head out, mark Aitken Station’s task as done.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Aitken Station"
+    },
+    {
+      "text": "Delta 9 should no longer be pending; I finished that task.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Delta 9"
+    },
+    {
+      "text": "Polar Relay, that step is taken care of; clear it from my open tasks.",
+      "intents": [
+        "Complete_task"
+      ],
+      "source": "llm",
+      "slot": "Polar Relay"
+    }
+  ]
+}

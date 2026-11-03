@@ -1,0 +1,25 @@
+{"text": "Put Henson Crater in as the destination I am walking toward.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Henson Crater"}
+{"text": "Set my next nav goal to de Gerlache Ridge.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache Ridge"}
+{"text": "I am ready to depart; choose site foxtrot as my target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site foxtrot"}
+{"text": "Change the route destination to Malapert Station on my suit display.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Malapert Station"}
+{"text": "Can you point my guidance system at Kaguya Ridge?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "Have the map lead me to Echo Station from this position.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Echo Station"}
+{"text": "set the active destination pin to Prospector Ridge.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Prospector Ridge"}
+{"text": "Use Ridge 2 as the endpoint for my walk.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge 2"}
+{"text": "I want to make for Luna Base; enter it as the target.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna Base"}
+{"text": "Update my navigation goal so it reads Clementine Ridge.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Clementine Ridge"}
+{"text": "Route me toward site 21 as my selected destination.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site 21"}
+{"text": "Select the named location Rover Gamma for travel.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Rover Gamma"}
+{"text": "Switch guidance over to destination Armstrong Crater.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Armstrong Crater"}
+{"text": "Please change my current target marker to gale crater.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "gale crater"}
+{"text": "The next leg ends at soil sample; configure navigation", "intents": ["Set_navigation_target"], "source": "llm", "slot": "soil sample"}
+{"text": "Tell my HUD that Shackleton Crater is where I am heading.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "Aim my planned route at Artemis Ridge, not the old pin.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "set the target field to Nobile Crater before i move.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "I need the suit map to guide me toward de Gerlache.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache"}
+{"text": "Make Cabeus my chosen destination for this traverse.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus"}
+{"text": "Navigation request: take me to Peary Point.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Peary Point"}
+{"text": "Set a bearing route with Falcon Outpost as the destination.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "Can my new travel target be Luna 7? Set it, please.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna 7"}
+{"text": "Enter Endurance Ridge as the place I am navigating to", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Endurance Ridge"}
+{"text": "Adjust the destination on my display to Conrad Station.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Conrad Station"}

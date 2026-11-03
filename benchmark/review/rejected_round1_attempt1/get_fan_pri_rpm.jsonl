@@ -1,0 +1,25 @@
+{"text": "primary fan tach.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Read the primary fan speed.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could you give me the primary fan RPM before I reach the handrail.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Uh, the primary ventilation assembly is under load; can you read its revolutions per minute before I move?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "The primary blower pitch just changed; what rotational rate does its sensor show?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan revolutions per minute", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan speed?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "fan RPM, primary?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "pri fan tach?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Need primary fan rpm", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could I get the primary fan rotational speed in RPM?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "RPM primary fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Primary fan RPM, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Telemetry should have a primary-fan tach sample from the last minute; read it aloud.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Copy, I need the primary circulation motor turning rate, reported in revolutions per minute.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "The primary circulation fan should be above twelve hundred RPM; please verify that reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "This log needs the primary blower's current tach value, not its battery status.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Uh, read that primary fan tach one more time; radio static covered the number.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "My readout needs revolutions per minute for the primary airflow fan; query that sensor now.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Compare the new primary fan RPM with yesterday’s service note, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "The suit console is slow; fetch a fresh tach measurement for the primary airflow fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "My headset is cutting out; tell me the primary ventilation fan RPM after the chime.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "check primary fan rpm", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Panel blanked during the sample; query the primary fan's rotational speed again.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Did the primary circulation fan speed change, or is that RPM within trend?", "intents": ["get_fan_pri_rpm"], "source": "llm"}

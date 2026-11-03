@@ -1,0 +1,25 @@
+{"text": "Bring up the UIA airlock controls on my visor.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Open the UIA panel before I start the hatch check.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Can you show the airlock controls in the UIA menu?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "need the UIA airlock screen", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Uh, display the UIA controls panel.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Activate the airlock interface controls on my helmet.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "I am at the hatch; put the UIA airlock controls in view.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "UIA airlock panel, open.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Would you bring forward the UIA controls menu?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Please show the airlock controls page in the UIA panel.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Open the UIA airlock display so I can check the interface.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "hey show UIA airlock controls", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could you make the UIA controls visible while I am outside the lock?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Let me see the airlock UIA panel, please.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Switch my visor to the UIA airlock screen.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "uh, open the airlock controls", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Can you call up the UIA interface panel on my wrist display?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "I need the UIA airlock controls window active now.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Would you open the airlock control menu under UIA?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Please put the UIA panel in my helmet view.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "open uia airlock controls", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could I get the UIA airlock display on screen?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Bring up the airlock controls panel for my suit interface.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Okay, show me the UIA panel.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Open the UIA controls so I can inspect the airlock status.", "intents": ["open_menu_uia"], "source": "llm"}

@@ -1,0 +1,25 @@
+{"text": "coolant tank?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Read the coolant tank level.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "coolant storage?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Uh, we have a short pause; please call the coolant level to the crew.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "coolant tank level?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "coolant remaining level", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Read coolant storage, please.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Check coolant tank level now.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "okay so pull the coolant supply level", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Need coolant reserve", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Call out the coolant storage level while I secure the sample case and check my tether.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "I need the coolant remaining from suit telemetry before moving to the next handrail on this pass.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "The coolant quantity, please, while I check the radiator line.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "we may be low can i get the coolant tank level", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Copy, report the current coolant storage percentage to me.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Is the coolant reservoir below thirty percent?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "For my log, what is the latest coolant level in the storage tank?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Uh, repeat the coolant reserve reading for me; I missed the first call.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Please read the coolant tank storage level as a percentage.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Can we compare the stored coolant amount with the last check?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "I need a fresh reading of the coolant remaining in the reservoir.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Uh, hey, read the coolant tank contents back while I am at the radiator.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "check coolant level", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "The display blinked out; say the coolant tank percentage again, please.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Before I open the line, what amount of coolant is still stored.", "intents": ["get_coolant_storage"], "source": "llm"}

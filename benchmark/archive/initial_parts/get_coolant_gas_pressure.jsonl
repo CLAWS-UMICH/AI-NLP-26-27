@@ -1,0 +1,100 @@
+{"text": "Are we seeing what are we getting for gas circuit pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Before I move, I missed that; repeat the coolant gas pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Before I move, is the gas loop pressure holding steady?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "I am checking check telemetry for the gas-side pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Any update on what are we getting for gas loop pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Do we have I am trying to confirm the gas-side pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Can you tell me how does the gas-side pressure look right now?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Give me give me the latest gas loop pressure, over.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Just checking, I want to compare the coolant gas pressure now.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Could you check read the gas-side pressure aloud, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Can you tell me could you bring up the gas-side pressure reading?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "One more thing, can I get a current coolant gas pressure report?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Do we have give me the latest gas circuit pressure, over.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "For the log, could you bring up the coolant gas pressure reading?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Before I move, what are we getting for gas-side pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please report please call out the gas loop pressure when ready.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Read me check the gaseous coolant pressure before I continue.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Need please call out the gas-side pressure when ready.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please report please call out the gaseous coolant pressure when ready.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Houston, pull the gas loop pressure for me.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Hey, I need the gas circuit pressure on this pass.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Houston, can you read the gas-side pressure back?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Um, can you read the gas-side pressure back?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "We should check send the gaseous coolant pressure value to my display.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Houston, please call out the coolant gas pressure when ready.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Is the I am trying to confirm the gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Hey, pull the gas-side pressure for me.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Tell me read the gas loop pressure aloud, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Quick check: I am trying to confirm the gaseous coolant pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Uh, where does the gas-side pressure stand?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Just checking, I need the gas circuit pressure on this pass.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Let me get gas circuit pressure, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Can you tell me verify the gas-side pressure from telemetry.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Do we have what is the gas-side pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "I want to verify I need the gas circuit pressure on this pass.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "EVA check: is the gas loop pressure holding steady?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Need what is the coolant gas pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Just checking, let us look at the gas circuit pressure again.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Quick check: verify the coolant gas pressure from telemetry.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Current check telemetry for the gas-side pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "What is gas circuit pressure, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Give me check the gas-side pressure before I continue.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "What is give me the gas loop pressure reading.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Give me how does the gaseous coolant pressure look right now?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Give me let us look at the coolant gas pressure again.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Let me get I am trying to confirm the gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "I need what are we getting for gaseous coolant pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Show me I want to compare the gaseous coolant pressure now.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Is the where does the gaseous coolant pressure stand?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Quick check: where does the gas loop pressure stand?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "All right, read the gas loop pressure aloud, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Hey, read the coolant gas pressure aloud, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Report can you read the gas loop pressure back?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "We should check gas-side pressure, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Do we have gas circuit pressure, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Okay, send the gas-side pressure value to my display.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "How is check telemetry for the coolant gas pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Could you check check telemetry for the gaseous coolant pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Are we seeing I need the gaseous coolant pressure on this pass.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please report what is the gaseous coolant pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Confirm give me the gaseous coolant pressure reading.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Before I move, I am trying to confirm the coolant gas pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Flight, where does the gas loop pressure stand?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "I am seeing I missed that; repeat the gaseous coolant pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "We should check pull the gas-side pressure for me.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "I am checking I need the gas-side pressure on this pass.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "We should check is the gas loop pressure holding steady?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Need please confirm the gas circuit pressure on the suit.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Do we have I want to compare the gas loop pressure now.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Uh, I am trying to confirm the gas circuit pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Is the please confirm the gas circuit pressure on the suit.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Copy, is the coolant gas pressure holding steady?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Could I hear I need the gas loop pressure on this pass.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Um, I missed that; repeat the gaseous coolant pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "EVA check: I missed that; repeat the gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Read me where does the gas circuit pressure stand?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Confirm what is the coolant gas pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Just checking, can you read the gaseous coolant pressure back?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Okay, give me the latest gas circuit pressure, over.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Let me get I want to compare the gaseous coolant pressure now.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Read me I missed that; repeat the gaseous coolant pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Hey, give me the latest coolant gas pressure, over.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Copy, check the gaseous coolant pressure before I continue.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Need let us look at the gaseous coolant pressure again.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Any update on I missed that; repeat the coolant gas pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Could I hear check the gas-side pressure before I continue.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Tell me I am trying to confirm the gas-side pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Can you tell me please call out the gaseous coolant pressure when ready.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas loop pressure gas loop pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas loop pressure coolant gas pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas loop pressure gaseous coolant pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas loop pressure gas-side pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas loop pressure gas circuit pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gas loop pressure, coolant gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas pressure, coolant gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gaseous coolant pressure, coolant gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gas-side pressure, coolant gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gas circuit pressure, coolant gas loop pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "uh coolant gas loop pressure gas loop pressure check 1", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "uh coolant gas loop pressure coolant gas pressure check 2", "intents": ["get_coolant_gas_pressure"], "source": "llm"}

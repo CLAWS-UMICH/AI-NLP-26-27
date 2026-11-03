@@ -1,0 +1,44 @@
+rows=150 labels=6 mean_words=11.11
+COUNT get_oxy_pri_storage: 0
+COUNT get_oxy_sec_storage: 0
+COUNT get_oxy_pri_pressure: 0
+COUNT get_oxy_sec_pressure: 0
+COUNT get_suit_pressure_oxy: 0
+COUNT get_suit_pressure_co2: 25
+COUNT get_suit_pressure_other: 25
+COUNT get_suit_pressure_total: 25
+COUNT get_helmet_pressure_co2: 25
+COUNT get_fan_pri_rpm: 0
+COUNT get_fan_sec_rpm: 0
+COUNT get_scrubber_a_co2_storage: 25
+COUNT get_scrubber_b_co2_storage: 25
+COUNT get_temperature: 0
+COUNT get_coolant_storage: 0
+COUNT get_coolant_gas_pressure: 0
+COUNT get_coolant_liquid_pressure: 0
+COUNT get_heart_rate: 0
+COUNT get_oxy_consumption: 0
+COUNT get_co2_production: 0
+COUNT get_eva_elapsed_time: 0
+COUNT get_primary_battery_level: 0
+COUNT get_secondary_battery_level: 0
+COUNT get_warnings: 0
+COUNT open_menu_vitals: 0
+COUNT open_menu_navigation: 0
+COUNT open_menu_tasks: 0
+COUNT open_menu_uia: 0
+COUNT close_menu: 0
+COUNT Get_coordinates: 0
+COUNT Set_navigation_target: 0
+COUNT reroute_navigation: 0
+COUNT Add_waypoint: 0
+COUNT Delete_waypoint: 0
+COUNT Complete_task: 0
+COUNT unhandled: 0
+STYLE_RATES [["question", 0.34, 0.34], ["filler", 0.11333333333333333, 0.11333333333333333], ["no_punctuation_or_lowercase", 0.18666666666666668, 0.18666666666666668], ["asr", 0.006666666666666667, 0.03333333333333333]]
+INTENT_STYLE {"get_suit_pressure_co2": {"question": 0.36, "filler": 0.12, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_suit_pressure_other": {"question": 0.4, "filler": 0.12, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_suit_pressure_total": {"question": 0.28, "filler": 0.12, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_helmet_pressure_co2": {"question": 0.36, "filler": 0.12, "no_punctuation_or_lowercase": 0.12, "asr": 0.04}, "get_scrubber_a_co2_storage": {"question": 0.32, "filler": 0.12, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_scrubber_b_co2_storage": {"question": 0.32, "filler": 0.08, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}}
+STYLE_PROBE accuracy=0.2067
+CONTENT_PROBE accuracy=0.6267
+TOP_CONFUSIONS [[["get_scrubber_a_co2_storage", "get_scrubber_b_co2_storage"], 20], [["get_scrubber_b_co2_storage", "get_scrubber_a_co2_storage"], 19], [["get_suit_pressure_other", "get_suit_pressure_co2"], 4], [["get_suit_pressure_co2", "get_helmet_pressure_co2"], 3], [["get_suit_pressure_total", "get_suit_pressure_other"], 3], [["get_suit_pressure_other", "get_suit_pressure_total"], 2], [["get_helmet_pressure_co2", "get_suit_pressure_co2"], 2], [["get_suit_pressure_co2", "get_suit_pressure_other"], 1], [["get_suit_pressure_co2", "get_suit_pressure_total"], 1], [["get_helmet_pressure_co2", "get_suit_pressure_other"], 1]]
+GATES: 1 issue(s)
+FAIL cross-label near duplicate nlp-projects/benchmark/parts/get_suit_pressure_co2.jsonl:1 <> nlp-projects/benchmark/parts/get_helmet_pressure_co2.jsonl:1: 0.793

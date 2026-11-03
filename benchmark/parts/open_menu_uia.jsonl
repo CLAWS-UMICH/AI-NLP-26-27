@@ -1,0 +1,25 @@
+{"text": "Flight, display the UIA airlock controls on my HUD.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could you show the UIA interface panel on the visor?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Bring up the airlock UIA display, please.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Flight, open the UIA control screen before I enter the hatch.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Would you display the airlock interface on my wrist screen?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Uh, put the UIA panel in view for the seal check.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Please show the controls for the suit-port airlock UIA.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Show UIA airlock controls, please.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "show the airlock controls on my helmet", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "bring up the uia interface please", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "open the airlock control display on hud", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "display the suitport uia controls", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "open u i a on the wrist screen", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Can you call up the UIA airlock control panel?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Okay, switch my display to the interface for the airlock UIA.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Please make the UIA controls active so I can check the hatch status.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "I need the airlock panel visible; open the UIA screen on my visor.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Would you bring the suit-port interface up before I start repressurization?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Uh, display the airlock controls page labeled UIA.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "open the panel for the uia hatch controls", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could you open the EVA UIA interface on the helmet display?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Please show the airlock management screen from the UIA system.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Open the UIA window with the hatch and pressure controls.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Can you put the airlock UIA panel on my HUD now?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Bring the suit-port airlock interface into view for this check.", "intents": ["open_menu_uia"], "source": "llm"}

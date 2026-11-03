@@ -1,0 +1,25 @@
+{"text": "Liquid coolant-loop psi?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Liquid coolant psi?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "What pressure is the liquid coolant loop carrying?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Well, at the pump outlet, query pressure in the coolant liquid circuit before I disconnect the hose.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "um read pressure on the liquid coolant branch", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Is the coolant liquid return still within its pressure range?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Read psi at the heat exchanger on the liquid coolant side.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I need a current measurement from the coolant liquid feed line.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How much pressure does the circulating liquid coolant have?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Please retrieve the liquid-loop pressure from the pump sensor.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Um, before I loosen the fitting, ask telemetry for pressure in the coolant liquid path.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Liquid coolant pressure on the return manifold, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could you call out the pressure at the radiator’s liquid coolant inlet?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "The suit should report pressure on its fluid circuit; identify the liquid coolant reading.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "For the service notes, capture the pressure in the liquid coolant circuit.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "need psi from the coolant liquid line", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Ask Houston whether the liquid coolant pump is holding pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "whats the liquid coolant loop pressure", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "While I brace the radiator, request the latest liquid-side coolant pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Give me the pump discharge pressure for the coolant liquid circuit.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Uh, this connection is vibrating; have someone read liquid coolant pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Report pressure at the liquid-coolant return port to my console.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "please put the liquid-loop coolant pressure value on my display", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "The hose is still connected; query coolant liquid pressure before we proceed.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Get a pressure check on the coolant circuit’s liquid side before the next step.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}

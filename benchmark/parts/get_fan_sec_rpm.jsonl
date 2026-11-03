@@ -1,0 +1,25 @@
+{"text": "Secondary fan RPM?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Fetch the secondary unit’s fan tach in revolutions per minute.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Could the controller send RPM for the secondary ventilation fan?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "What speed in RPM does the secondary circulation fan report?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan rpm please read it", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Um, I need a tachometer reading from the secondary fan, in RPM.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Ask telemetry for the secondary fan motor RPM before the switch.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Is the secondary fan showing a current RPM value on the panel?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Give the secondary airflow fan’s revolutions per minute over comms.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Please return the RPM measurement from my secondary suit fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Need RPM for secondary ventilation, please.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Where is the secondary circulation fan’s tach count in RPM?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Check the secondary fan RPM through the suit diagnostics page.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Can I get the secondary fan speed expressed as revolutions per minute?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Would you read the secondary blower’s RPM from its sensor?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "what rpm does the secondary fan show", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "For my notes, report the tach speed of the secondary fan in RPM.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Could Houston pull current RPM from the secondary fan controller?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Please query the revolutions-per-minute value on the secondary fan circuit.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "How many RPM is the backup circulation fan? I mean the secondary fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Secondary ventilation tach RPM, read it back.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Would the suit interface display my secondary fan RPM now?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "read secondary fan rpm over radio", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Get a fresh RPM reading for the secondary circulation fan, thanks.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "What is the secondary fan tachometer reading in RPM after the handoff?", "intents": ["get_fan_sec_rpm"], "source": "llm"}

@@ -1,0 +1,362 @@
+[
+  {
+    "label": "get_coolant_storage",
+    "text": "Could you display the coolant storage percentage in my HUD?"
+  },
+  {
+    "label": "get_temperature",
+    "text": "Is there a current internal temperature value for my suit?"
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "Give me a current reading of coolant remaining in reserve."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Please report the fill percentage of scrubber A\u2019s CO2 cartridge."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "Would you verify the suit-wide pressure before I step across the tether?"
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "Would you report the current psi inside the coolant vapor circuit?"
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "The secondary oxygen reservoir needs a fill reading; report its remaining amount aloud for the log."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Houston, I need the B scrubber carbon dioxide storage measurement, not a pressure value."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "I am asking about the air around my head; what pressure does helmet CO2 show?"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "Compare my current oxygen use rate with the expected suit rate."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "What psi does the gaseous coolant line carry?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "how much co2 is held in scrubber b"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "Can you check the helmet channel for CO2 pressure, not suit-loop pressure?"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "Send the pressure from my secondary oxygen bottle to the wrist unit."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "Put the secondary O2 storage percentage on my wrist screen, please."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "Please send the pressure measurement for the coolant gas manifold."
+  },
+  {
+    "label": "get_temperature",
+    "text": "Suit interior temperature?"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "Cylinder pressure is the concern; read pressure inside the primary oxygen tank and state its unit."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "Houston, I need total suit pressure, with all gas components included in one reading."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "uh coolant gas pressure readback"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "The seal check needs the overall suit atmosphere pressure; can you pull that value?"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "Gauge readout: pressure inside my primary oxygen tank."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "Need the primary fan tach RPM, Houston."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Can you query the A scrubber\u2019s remaining storage headroom for carbon dioxide?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "Can you give me the partial pressure of trace constituents circulating through the suit?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Please tell me what share of scrubber A\u2019s storage volume is holding CO2."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "What speed in RPM does the secondary circulation fan report?"
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "what rpm does the secondary fan show"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "Flight, the traverse is longer than expected; give me the primary oxygen tank remaining-contents percentage."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "Would flight control transmit the primary fan\u2019s current RPM?"
+  },
+  {
+    "label": "get_temperature",
+    "text": "Please display the pressure garment\u2019s internal temperature value."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "Need RPM for secondary ventilation, please."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "Could you pull the latest suit CO2 partial-pressure reading while I stay put?"
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "O2 secondary remainder?"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "read oxygen partial pressure from suit sensor see oh two"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "The suit environmental sensor needs an oxygen partial-pressure reading; send it over."
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "When I reach the traverse, warn me if pressure in the secondary oxygen cylinder is under 190 kPa."
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "My primary oxygen tank pressure?"
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "Could you query the primary ventilation fan\u2019s RPM from telemetry?"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "Oxygen contents, primary?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "Would you confirm the pressure from the low-concentration gases inside my EVA suit?"
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "Could I get pounds per square inch for the liquid coolant feed?"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "Primary oxygen left?"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "Read the oxygen use rate."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "Get a fresh RPM reading for the secondary circulation fan, thanks."
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "The primary oxygen reservoir needs a fill reading; report its remaining amount."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "Need a psi measurement from the liquid coolant path."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "Flight, please give the partial-pressure reading for carbon dioxide in the helmet atmosphere."
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "After the tool pickup, what primary tank oxygen amount remains stored?"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "O2's use rate?"
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "whats the coolant tank level now"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "What is the partial pressure of carbon dioxide in the suit atmosphere?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "For the checklist, report the suit sensor value for nonmajor gas partial pressure."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "For maintenance, give me the carbon dioxide fill state of scrubber A."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Could I get the CO2 amount stored in scrubber B\u2019s canister for the maintenance log?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "Could you say the all-components pressure for my suit gas mixture one more time?"
+  },
+  {
+    "label": "get_temperature",
+    "text": "whats the suit interior temp reading"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "The tank amount is not the question; calculate the oxygen consumption rate per minute."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "Give the secondary airflow fan\u2019s revolutions per minute over comms."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "check pressure from minor gases within suit"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "What number does the suit environmental monitor show for carbon-dioxide pressure?"
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "Liquid-side coolant psi?"
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "How much pressure does the coolant liquid return carry?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Could you verify the remaining CO2 capture capacity in scrubber A before I continue?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "Could you report the suit trace-gas pressure?"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "Valve display, read secondary O2 tank pressure in psi."
+  },
+  {
+    "label": "get_temperature",
+    "text": "What does the internal suit thermometer show in Celsius?"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "Um, the display dropped; read back the pressure from CO2 in my helmet space."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "Secondary tank O2-fullness?"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "Report helmet CO2 pressure before I move."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "The active module is scrubber B; query its storage level for captured CO2."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "Could the pump sensor return pressure for the coolant liquid feed?"
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "How many percent of coolant remain in storage?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "What pressure does the entire gas mixture in my suit show?"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Would you read oxygen partial pressure inside the suit while I secure the tether to the rail?"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Before I leave the airlock, record suit oxygen partial pressure in kilopascals."
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "I need the oxygen consumption rate while hauling the tool case."
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "My secondary oxygen cylinder needs a pressure check; state the gauge value and unit."
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "Would you query how much coolant is still stored for use?"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "Uh, check the pressure in the primary oxygen tank before I start climbing."
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "My request is for primary oxygen tank pressure; do not send the contents percentage."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "For the handover, record the secondary oxygen bottle contents as a remaining amount, not pressure."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "Could I have the coolant gas-loop reading in pounds per square inch?"
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "Uh, send the primary fan RPM to my wrist display."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "Check RPM from the primary circulation fan sensor, please."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Please call out the unused carbon dioxide holding capacity of scrubber B."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "Flight, call out the suit-loop CO2 partial pressure in kilopascals."
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "On the secondary oxygen cylinder, what pressure does the digital dial show?"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "The suit loop is what I mean: could you give me its carbon-dioxide pressure value?"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Log mmHg for suit oxygen partial-pressure reading."
+  }
+]

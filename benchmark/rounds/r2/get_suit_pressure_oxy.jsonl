@@ -1,0 +1,25 @@
+{"text": "What is the suit oxygen partial pressure?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Please read my oxygen partial pressure inside the suit.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Can you give the EVA suit's pO2 value?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Suit O2 partial pressure, in kPa?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "I'd like the current oxygen partial pressure for my spacesuit.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Uh, what's the partial pressure of oxygen in the suit?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Report my suit's oxygen pO2 reading, please.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Could you check the oxygen partial-pressure sensor in my suit?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "How many kilopascals is suit oxygen partial pressure showing?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Need the suit oxygen partial pressure value now.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "hey read suit oxygen partial pressure for me", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Flight, confirm the EVA suit oxygen partial pressure in mmHg.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Please tell me the O2 partial pressure within the spacesuit.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "What does the suit sensor report for oxygen partial pressure?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "I'm checking breathing conditions; give my suit's oxygen partial pressure.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Would you fetch the partial pressure reading for suit O2?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Oxygen partial pressure in the suit—what's the current measurement?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Can I get the pO2 inside my EVA suit, not tank pressure?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Read the suit oxygen partial pressure gauge in kilopascals.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "What's the measured partial pressure of O2 in my suit?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Please check suit-level oxygen partial pressure, not total pressure.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "uh what is my suit p o two partial pressure", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Tell me the current oxygen partial pressure around me inside the suit.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Could you report the EVA suit's pO2 sensor value?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "How is the suit oxygen partial-pressure reading right now?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}

@@ -1,0 +1,100 @@
+{"text": "quick check elapsed eva time, read it?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Can you time since EVA start and read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Could you time on this spacewalk and read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Please show duration since we began the EVA and read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Tell me elapsed EVA time and give me the current value on this EVA", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "I need time since EVA start, give me the current value on this EVA?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Let me time on this spacewalk; give me the current value on this EVA", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "status on duration since we began the eva, give me the current value on this eva", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Read back elapsed EVA time, how long has it been before I continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "How is time since EVA start how long has it been before I continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "What is time on this spacewalk how long has it been before I continue?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Give me duration since we began the EVA and how long has it been before I continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Check my elapsed EVA time and check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Uh can time since EVA start; check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "okay so time on this spacewalk; check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Need the duration since we began the EVA, check the timer please?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Confirm my elapsed EVA time and report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Pull up time since EVA start and report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Display the time on this spacewalk and report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Report the duration since we began the EVA and report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Hey flight elapsed EVA time; read it uh?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "ground do time since eva start; read it uh", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Copy requesting time on this spacewalk, read it uh", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "I am duration since we began the EVA; read it uh", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Am I elapsed EVA time give me the current value right away", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Do we time since EVA start give me the current value right away?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Any current time on this spacewalk give me the current value right away", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Requesting a duration since we began the EVA, give me the current value right away", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "one quick elapsed eva time, how long has it been for the log", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Before moving time since EVA start; how long has it been for the log", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "While paused time on this spacewalk; how long has it been for the log?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "On my duration since we began the EVA; how long has it been for the log", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "For my elapsed EVA time; check the timer no punctuation", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "At this time since EVA start; check the timer no punctuation", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Right now time on this spacewalk; check the timer no punctuation", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "please confirm duration since we began the eva; check the timer no punctuation?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Could flight elapsed EVA time and report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Uh status time since EVA start, report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Okay what time on this spacewalk; report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Need a duration since we began the EVA, report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Just checking elapsed EVA time, read it?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Can flight time since EVA start and read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "read my time on this spacewalk and read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Show the duration since we began the EVA and read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "What are elapsed EVA time give me the current value on this EVA", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "How many time since EVA start give me the current value on this EVA?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Is my time on this spacewalk give me the current value on this EVA", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Checking the duration since we began the EVA, give me the current value on this EVA", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "A quick elapsed EVA time, how long has it been before I continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "need current time since eva start, how long has it been before i continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Quick check time on this spacewalk, how long has it been before I continue?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Can you duration since we began the EVA and how long has it been before I continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Could you elapsed EVA time and check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Please show time since EVA start and check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Tell me time on this spacewalk and check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "I need duration since we began the EVA, check the timer please?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "let me elapsed eva time; report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Status on time since EVA start, report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Read back time on this spacewalk, report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "How is duration since we began the EVA report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "What is elapsed EVA time read it uh?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Give me time since EVA start and read it uh", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Check my time on this spacewalk and read it uh", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "uh can duration since we began the eva; read it uh", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Okay so elapsed EVA time; give me the current value right away", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Need the time since EVA start, give me the current value right away?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Confirm my time on this spacewalk and give me the current value right away", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Pull up duration since we began the EVA and give me the current value right away", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Display the elapsed EVA time and how long has it been for the log", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Report the time since EVA start and how long has it been for the log", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "hey flight time on this spacewalk; how long has it been for the log?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Ground do duration since we began the EVA; how long has it been for the log", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Copy requesting elapsed EVA time, check the timer no punctuation", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "I am time since EVA start; check the timer no punctuation", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Am I time on this spacewalk check the timer no punctuation", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Do we duration since we began the EVA check the timer no punctuation?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Any current elapsed EVA time report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "requesting a time since eva start, report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "One quick time on this spacewalk, report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Before moving duration since we began the EVA; report the duration during this traverse", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "While paused elapsed EVA time; read it?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "On my time since EVA start; read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "For my time on this spacewalk; read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "At this duration since we began the EVA; read it", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "right now elapsed eva time; give me the current value on this eva", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Please confirm time since EVA start; give me the current value on this EVA?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Could flight time on this spacewalk and give me the current value on this EVA", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Uh status duration since we began the EVA, give me the current value on this EVA", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Okay what elapsed EVA time; how long has it been before I continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Need a time since EVA start, how long has it been before I continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Just checking time on this spacewalk, how long has it been before I continue?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "can flight duration since we began the eva and how long has it been before i continue", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Read my elapsed EVA time and check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Show the time since EVA start and check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "What are time on this spacewalk check the timer please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "How many duration since we began the EVA check the timer please?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Is my elapsed EVA time report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Checking the time since EVA start, report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "a quick time on this spacewalk, report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Need current duration since we began the EVA, report the duration over comms", "intents": ["get_eva_elapsed_time"], "source": "llm"}

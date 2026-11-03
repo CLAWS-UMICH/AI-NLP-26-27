@@ -1,0 +1,25 @@
+{"text": "Delete waypoint Cabeus", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Cabeus"}
+{"text": "Delete South Pole Station from my saved waypoints.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "South Pole Station"}
+{"text": "Clear the marker for Lunar Gateway off the route.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "site 12, could you remove that waypoint from my map?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "site 12"}
+{"text": "Take Kennedy Landing out of the waypoint list.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "Please remove the map waypoint called Aitken Basin.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Aitken Basin"}
+{"text": "Drop Tycho Spur as a saved waypoint.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "delete the nav marker at Nansen Crater, not the destination.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "Can you clear Malapert Massif from my route points?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Malapert Massif"}
+{"text": "Erase waypoint Delta 9 before I add another.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Delta 9"}
+{"text": "Unmark Permanently Shadowed Site as a waypoint.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "Remove the saved point for Kaguya Point.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Kaguya Point"}
+{"text": "Take that waypoint, Alpha Station, off my display.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Alpha Station"}
+{"text": "Clear the waypoint entry named site 8.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "site 8"}
+{"text": "I placed South Ray by mistake; delete that waypoint", "intents": ["Delete_waypoint"], "source": "llm", "slot": "South Ray"}
+{"text": "Remove Prospector 3 from the EVA map markers.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Prospector 3"}
+{"text": "Please wipe the waypoint at Davis Ridge.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Davis Ridge"}
+{"text": "Cancel the stored waypoint called Borman Point.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Borman Point"}
+{"text": "delete my route note for site delta from the waypoint list.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "site delta"}
+{"text": "I am done with Polar Relay as a waypoint; remove it.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Polar Relay"}
+{"text": "Get rid of the map point Nobile Ridge.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nobile Ridge"}
+{"text": "Take Conrad Crater out of my waypoint queue.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Conrad Crater"}
+{"text": "Clear Armstrong Point as a saved route waypoint now", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Armstrong Point"}
+{"text": "Delete the waypoint labeled Scott Station, please.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Scott Station"}
+{"text": "Remove the waypoint at Delta Base while I check the map.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Delta Base"}

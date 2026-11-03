@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="30" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">Validation Learning Curves</text>
+<line x1="78" y1="402.0" x2="732" y2="402.0" stroke="#ddd"/>
+<text x="68" y="406.0" text-anchor="end" font-family="Arial" font-size="11">-0.0716</text>
+<line x1="78" y1="332.4" x2="732" y2="332.4" stroke="#ddd"/>
+<text x="68" y="336.4" text-anchor="end" font-family="Arial" font-size="11">0.136</text>
+<line x1="78" y1="262.8" x2="732" y2="262.8" stroke="#ddd"/>
+<text x="68" y="266.8" text-anchor="end" font-family="Arial" font-size="11">0.343</text>
+<line x1="78" y1="193.2" x2="732" y2="193.2" stroke="#ddd"/>
+<text x="68" y="197.2" text-anchor="end" font-family="Arial" font-size="11">0.551</text>
+<line x1="78" y1="123.6" x2="732" y2="123.6" stroke="#ddd"/>
+<text x="68" y="127.6" text-anchor="end" font-family="Arial" font-size="11">0.758</text>
+<line x1="78" y1="54.0" x2="732" y2="54.0" stroke="#ddd"/>
+<text x="68" y="58.0" text-anchor="end" font-family="Arial" font-size="11">0.966</text>
+<text x="78.0" y="424" text-anchor="middle" font-family="Arial" font-size="11">1</text>
+<text x="208.8" y="424" text-anchor="middle" font-family="Arial" font-size="11">2</text>
+<text x="339.6" y="424" text-anchor="middle" font-family="Arial" font-size="11">3</text>
+<text x="470.4" y="424" text-anchor="middle" font-family="Arial" font-size="11">4</text>
+<text x="601.2" y="424" text-anchor="middle" font-family="Arial" font-size="11">5</text>
+<text x="732.0" y="424" text-anchor="middle" font-family="Arial" font-size="11">6</text>
+<line x1="78" y1="54" x2="78" y2="402" stroke="#333"/>
+<line x1="78" y1="402" x2="732" y2="402" stroke="#333"/>
+<text x="380.0" y="448" text-anchor="middle" font-family="Arial" font-size="13">Epoch</text>
+<text x="18" y="230.0" transform="rotate(-90 18 230.0)" text-anchor="middle" font-family="Arial" font-size="13">Score</text>
+<polyline points="78.0,114.3 208.8,96.6 339.6,92.0 470.4,81.7 601.2,79.9 732.0,78.0" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="78.0" cy="114.3" r="4" fill="#2563eb"/>
+<circle cx="208.8" cy="96.6" r="4" fill="#2563eb"/>
+<circle cx="339.6" cy="92.0" r="4" fill="#2563eb"/>
+<circle cx="470.4" cy="81.7" r="4" fill="#2563eb"/>
+<circle cx="601.2" cy="79.9" r="4" fill="#2563eb"/>
+<circle cx="732.0" cy="78.0" r="4" fill="#2563eb"/>
+<polyline points="78.0,120.9 208.8,100.3 339.6,94.9 470.4,83.2 601.2,81.5 732.0,79.6" fill="none" stroke="#dc2626" stroke-width="3"/>
+<circle cx="78.0" cy="120.9" r="4" fill="#dc2626"/>
+<circle cx="208.8" cy="100.3" r="4" fill="#dc2626"/>
+<circle cx="339.6" cy="94.9" r="4" fill="#dc2626"/>
+<circle cx="470.4" cy="83.2" r="4" fill="#dc2626"/>
+<circle cx="601.2" cy="81.5" r="4" fill="#dc2626"/>
+<circle cx="732.0" cy="79.6" r="4" fill="#dc2626"/>
+<line x1="78" y1="425" x2="100" y2="425" stroke="#2563eb" stroke-width="3"/>
+<text x="106" y="429" font-family="Arial" font-size="12">Validation accuracy</text>
+<line x1="248" y1="425" x2="270" y2="425" stroke="#dc2626" stroke-width="3"/>
+<text x="276" y="429" font-family="Arial" font-size="12">Validation macro-F1</text>
+</svg>

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "text": "Delete my stored route point at Aitken Point."
+  },
+  {
+    "id": 2,
+    "text": "Could you state what share of scrubber B’s canister volume holds captured CO2?"
+  },
+  {
+    "id": 3,
+    "text": "Place Artemis Ridge in the waypoint register on my HUD"
+  },
+  {
+    "id": 4,
+    "text": "Please drop Aitken Basin from my navigation waypoints."
+  },
+  {
+    "id": 5,
+    "text": "Could I get the remaining carbon dioxide capture room in scrubber A’s cartridge?"
+  },
+  {
+    "id": 6,
+    "text": "read how full scrubber B’s carbon medium is with collected CO2"
+  },
+  {
+    "id": 7,
+    "text": "What percentage of scrubber B’s carbon dioxide capacity remains unused?"
+  },
+  {
+    "id": 8,
+    "text": "Create a route waypoint with the label Alpha 3."
+  },
+  {
+    "id": 9,
+    "text": "Put a new marker at Prospector Ridge and label it as a waypoint."
+  },
+  {
+    "id": 10,
+    "text": "Clear out the waypoint called Alpha 3, please."
+  },
+  {
+    "id": 11,
+    "text": "Before I switch filters, call out the stored CO2 quantity in scrubber B."
+  },
+  {
+    "id": 12,
+    "text": "Include Luna Base in the saved waypoint set."
+  },
+  {
+    "id": 13,
+    "text": "Before I resume the traverse, check scrubber A’s unused CO2 storage space."
+  },
+  {
+    "id": 14,
+    "text": "check how much CO2 the scrubber A bed has captured"
+  },
+  {
+    "id": 15,
+    "text": "fetch the scrubber B carbon dioxide bed fill percentage"
+  },
+  {
+    "id": 16,
+    "text": "Can you wipe Nobile Station from the saved map points?"
+  },
+  {
+    "id": 17,
+    "text": "make a waypoint at Lunar Gateway before we press on."
+  },
+  {
+    "id": 18,
+    "text": "please query scrubber a co2 carbon media fill percentage"
+  },
+  {
+    "id": 19,
+    "text": "Add a waypoint called Delta Base so I can find it again."
+  },
+  {
+    "id": 20,
+    "text": "The pin at South Pole Station can be removed now"
+  },
+  {
+    "id": 21,
+    "text": "Flight, how much room remains in scrubber B for captured CO2? Read the capacity."
+  },
+  {
+    "id": 22,
+    "text": "While I wait by the airlock, report scrubber A’s stored carbon dioxide mass."
+  },
+  {
+    "id": 23,
+    "text": "Flight, read the CO2 storage utilization for scrubber B’s media."
+  },
+  {
+    "id": 24,
+    "text": "Before changing modes, tell me the unused carbon dioxide capacity in scrubber A."
+  },
+  {
+    "id": 25,
+    "text": "Remove the route pin labeled Rover 8 from my display."
+  },
+  {
+    "id": 26,
+    "text": "Save Malapert Massif as a stop marker along my EVA path"
+  },
+  {
+    "id": 27,
+    "text": "Add the named map point site 21 to my waypoints."
+  },
+  {
+    "id": 28,
+    "text": "What CO2 storage capacity remains in scrubber A?"
+  },
+  {
+    "id": 29,
+    "text": "i am finished with that route pin; erase Kennedy Landing."
+  },
+  {
+    "id": 30,
+    "text": "please check remaining storage in scrubber b for carbon dioxide"
+  },
+  {
+    "id": 31,
+    "text": "I added a duplicate; delete the waypoint Delta Ridge."
+  },
+  {
+    "id": 32,
+    "text": "How much captured CO2 is stored in scrubber B?"
+  },
+  {
+    "id": 33,
+    "text": "Okay, read scrubber B’s carbon dioxide collection quantity in grams."
+  },
+  {
+    "id": 34,
+    "text": "Would you retrieve scrubber B’s retained CO2 load?"
+  },
+  {
+    "id": 35,
+    "text": "Get the map marker Nansen Crater off the stored route."
+  },
+  {
+    "id": 36,
+    "text": "drop the marker for sample bag 4 from the navigation list."
+  },
+  {
+    "id": 37,
+    "text": "Keep Tycho Outpost on the route as a waypoint marker."
+  },
+  {
+    "id": 38,
+    "text": "Can you verify what fraction of scrubber A’s collection capacity contains CO2?"
+  },
+  {
+    "id": 39,
+    "text": "Take the saved location Polar Camp off my waypoint screen."
+  },
+  {
+    "id": 40,
+    "text": "Unpin Artemis 5 from the EVA map waypoints."
+  },
+  {
+    "id": 41,
+    "text": "Scrubber B is running; retrieve its carbon dioxide storage reading, not pressure."
+  },
+  {
+    "id": 42,
+    "text": "Save another nav point under Armstrong Crater."
+  },
+  {
+    "id": 43,
+    "text": "Could you check scrubber B’s cartridge for unused CO2 storage capacity?"
+  },
+  {
+    "id": 44,
+    "text": "query the captured co2 load in the scrubber B canister"
+  },
+  {
+    "id": 45,
+    "text": "Put Tycho Spur in the list of route waypoints for me."
+  },
+  {
+    "id": 46,
+    "text": "Would you report the retained CO2 quantity in scrubber A’s canister?"
+  },
+  {
+    "id": 47,
+    "text": "Could you unlist Kaguya Point as one of my waypoints?"
+  },
+  {
+    "id": 48,
+    "text": "Uh, call out the carbon dioxide load against scrubber A’s full capacity."
+  },
+  {
+    "id": 49,
+    "text": "Please retrieve the captured carbon dioxide load in scrubber A."
+  },
+  {
+    "id": 50,
+    "text": "Preserve Kaguya Ridge as an intermediate point on my chart."
+  }
+]

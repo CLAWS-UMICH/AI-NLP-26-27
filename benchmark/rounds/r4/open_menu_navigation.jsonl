@@ -1,0 +1,25 @@
+{"text": "Choose the EVA terrain chart as my visor view.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Is the excursion map selectable? Open the navigation display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Surface the location-tracking map for this spacewalk.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "helmet map view up", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Er, I need the EVA cartography menu on the screen.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Route the topographic display to the helmet HUD.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I am clipped in; activate the EVA navigation map window.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Put the traverse chart in focus.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could the wayfinding map be made visible?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Open the position-and-terrain panel associated with this EVA.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please call the navigation chart into the visor view.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "activate the EVA map menu", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Can I bring up the excursion map from here?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Select the location map for display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I would like to check bearings; make the EVA navigation map active.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "um, show the terrain map", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Use the visor to launch the EVA cartography panel for this traverse.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Project the EVA terrain chart panel onto my wrist unit.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Start the mapping screen so I can review our position.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "My next check is location; open the navigation map.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "put the terrain chart on visor", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please activate the EVA wayfinding page in my helmet UI.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you select the position map panel now?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I need the route and terrain display for orientation.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Bring the EVA cartography screen into my viewing area.", "intents": ["open_menu_navigation"], "source": "llm"}

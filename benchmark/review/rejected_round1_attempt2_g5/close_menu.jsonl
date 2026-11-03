@@ -1,0 +1,25 @@
+{"text": "Dismiss the menu that is active on my visor.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please close the currently open HUD menu.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can you take the active menu off screen?", "intents": ["close_menu"], "source": "llm"}
+{"text": "clear current menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Uh, close the menu I have open.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Hide the active menu before I move past the strut.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Exit the current HUD menu, please.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Dismiss this menu now.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you remove the menu currently displayed?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Close my active menu so I can see the worksite.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I am done with this menu; make it go away.", "intents": ["close_menu"], "source": "llm"}
+{"text": "hey hide the open menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can the current menu be cleared from my display?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Get the active HUD menu out of my view.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please exit the menu that is open right now.", "intents": ["close_menu"], "source": "llm"}
+{"text": "uh, dismiss the menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Close whichever menu is active on the helmet screen.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Take the open menu off my visor, thanks.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you hide the current menu for a moment?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Clear the active menu from my HUD.", "intents": ["close_menu"], "source": "llm"}
+{"text": "close the active menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you dismiss my open menu now?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Remove the current menu from view, please.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Okay, exit this menu.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I need the screen clear; close the menu that is up.", "intents": ["close_menu"], "source": "llm"}

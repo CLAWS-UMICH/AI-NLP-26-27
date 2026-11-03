@@ -1,0 +1,25 @@
+{"text": "Active EVA warnings?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Any current suit alerts?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Read the warning summary, please.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "What warnings are active on my suit right now?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could you list the current EVA caution messages?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Flight, report any active suit warnings before I proceed.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Uh, do I have any active alerts?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Need the current warning status.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Okay, check for active EVA warnings on my display.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "My alert banner disappeared; what warnings are still active?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Read out the live warnings, not the sensor values.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Please tell me whether any EVA alarms are active.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "active suit warnings now", "intents": ["get_warnings"], "source": "llm"}
+{"text": "eva alerts, any active", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Before I cross this ridge, confirm the current suit warning list.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Quick, any active warnings?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Can you summarize the warnings currently flagged for this EVA?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "I heard a chime; what active alert did the suit register?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "uh current EVA warning list", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Would flight check whether I have any active caution alerts?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Requesting a status report of active EVA alarms.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Any warnings showing on the suit?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could you read the active alert summary over comms?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "The warning panel is blocked; say which EVA alerts remain active.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Current EVA warnings, now.", "intents": ["get_warnings"], "source": "llm"}

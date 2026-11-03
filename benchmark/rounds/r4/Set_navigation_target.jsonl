@@ -1,0 +1,25 @@
+{"text": "Could you set Artemis Base as the destination for my next EVA leg?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Base"}
+{"text": "Would you point route guidance toward sample cache 2 now?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample cache 2"}
+{"text": "Can you make Henson Ridge the active target on my suit map?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Henson Ridge"}
+{"text": "Will you enter Leibnitz Plateau as the place I am navigating to?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Leibnitz Plateau"}
+{"text": "Could my selected destination be changed to Mendeleev Crater?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Mendeleev Crater"}
+{"text": "Would the planner route me to Ridge Charlie if you set it?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge Charlie"}
+{"text": "Can you update the nav target field to Clementine Crater?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Clementine Crater"}
+{"text": "Could you direct my next walk to sample site 5?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample site 5"}
+{"text": "Will you switch the destination marker over to Echo 6?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Echo 6"}
+{"text": "Can navigation guide me toward Artemis Waypoint from here?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Waypoint"}
+{"text": "Would you choose Rover Beta as my travel goal?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Rover Beta"}
+{"text": "Can you set the HUD destination to Shackleton Base, please?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "Could you aim my route at Ridge 11 before I depart?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge 11"}
+{"text": "Will you make Luna 4 the endpoint of this traverse?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna 4"}
+{"text": "Can I have the suit display target Cabeus Rim?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus Rim"}
+{"text": "Point the route arrow at Henson Crater for my next walk.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Henson Crater"}
+{"text": "Have the suit map lead toward Henson Crater from here.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Henson Crater"}
+{"text": "Select de Gerlache Ridge as my current travel goal.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache Ridge"}
+{"text": "I am leaving this spot for de Gerlache Ridge; adjust the target.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache Ridge"}
+{"text": "Set site foxtrot in the destination slot on the nav page", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site foxtrot"}
+{"text": "Please aim my route to the location site foxtrot.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site foxtrot"}
+{"text": "My destination choice should read Malapert Station.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Malapert Station"}
+{"text": "update the route screen to guide me to Malapert Station.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Malapert Station"}
+{"text": "Make Kaguya Ridge the place I am steering toward now.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "Set the mission navigation target to Kaguya Ridge.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kaguya Ridge"}

@@ -1,0 +1,25 @@
+{"text": "Secondary O2 amount?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "O2 secondary remainder?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Oxygen contents, secondary?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Secondary tank O2-fullness?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Oxygen remainder, secondary?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "O2 tank remainder, secondary?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Please read secondary O2 canister contents.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Show secondary O2 amount remaining.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could you enter the secondary oxygen tank fill percentage on my wrist display?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Check the secondary O2 storage amount.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "read secondary o2 tank amount remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Secondary oxygen quantity left, in percent; radio it back.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much oxygen remains stored in the secondary tank after the tool check?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Put the secondary O2 storage percentage on my wrist screen, please.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Check telemetry for stored oxygen remaining in the secondary cylinder.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "My secondary oxygen amount remaining needs a wrist-display reading before the climb.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "For sample return, record the secondary oxygen bottle contents as a percentage.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Report the remaining percentage of the secondary oxygen tank before berm crossing.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "At the next marker, tell me the remaining-contents percentage in the secondary oxygen tank.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Visor display, send the secondary cylinder's stored oxygen amount before drill stowage.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "The secondary oxygen reservoir needs a fill reading; report its remaining amount aloud for the log.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "If the secondary O2 tank is below a quarter, give me its stored oxygen quantity in percent.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Copy, check the oxygen left in my secondary tank while I free the tether from my tool bag.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "For handover, record the remaining oxygen amount in the secondary tank.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "For the handover, record the secondary oxygen bottle contents as a remaining amount, not pressure.", "intents": ["get_oxy_sec_storage"], "source": "llm"}

@@ -1,0 +1,1082 @@
+[
+  {
+    "label": "get_fan_sec_rpm",
+    "source": "get_fan_sec_rpm.jsonl",
+    "line": 21,
+    "text": "Please return the secondary blower’s tach reading in RPM."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 16,
+    "text": "Would you verify the carbon dioxide storage headroom in scrubber B’s module?"
+  },
+  {
+    "label": "get_warnings",
+    "source": "get_warnings.jsonl",
+    "line": 20,
+    "text": "active eva warnings list"
+  },
+  {
+    "label": "Set_navigation_target",
+    "source": "Set_navigation_target.jsonl",
+    "line": 9,
+    "text": "Tell the nav display that I am heading for Endurance Ridge."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "source": "get_suit_pressure_co2.jsonl",
+    "line": 3,
+    "text": "What partial pressure is the suit assigning to carbon dioxide right now?"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "source": "get_oxy_sec_pressure.jsonl",
+    "line": 17,
+    "text": "Need the pressure, rather than remaining level, in the secondary O2 tank."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "source": "get_suit_pressure_co2.jsonl",
+    "line": 25,
+    "text": "Flight, report the pressure that CO2 alone exerts within the suit."
+  },
+  {
+    "label": "unhandled",
+    "source": "unhandled.jsonl",
+    "line": 22,
+    "text": "We should compare sample notes after the EVA."
+  },
+  {
+    "label": "open_menu_uia",
+    "source": "open_menu_uia.jsonl",
+    "line": 25,
+    "text": "Activate the UIA airlock control panel for me."
+  },
+  {
+    "label": "Complete_task",
+    "source": "Complete_task.jsonl",
+    "line": 15,
+    "text": "Would you record Prospector 3 as completed?"
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "source": "get_fan_pri_rpm.jsonl",
+    "line": 25,
+    "text": "Tell me the RPM from the primary fan tachometer after its next update."
+  },
+  {
+    "label": "get_coolant_storage",
+    "source": "get_coolant_storage.jsonl",
+    "line": 14,
+    "text": "What does the storage gauge say about coolant left for cooling?"
+  },
+  {
+    "label": "get_primary_battery_level",
+    "source": "get_primary_battery_level.jsonl",
+    "line": 9,
+    "text": "Please find the charge indicator value on the primary battery."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "source": "get_suit_pressure_co2.jsonl",
+    "line": 24,
+    "text": "Could I have the suit loop’s carbon-dioxide pressure reading before the next move?"
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "source": "get_coolant_liquid_pressure.jsonl",
+    "line": 16,
+    "text": "Need a reading of pressure on the coolant system’s liquid side."
+  },
+  {
+    "label": "get_warnings",
+    "source": "get_warnings.jsonl",
+    "line": 10,
+    "text": "I missed the last chime; what active alert did it announce?"
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "source": "get_fan_pri_rpm.jsonl",
+    "line": 2,
+    "text": "Get RPM from primary ventilation."
+  },
+  {
+    "label": "get_heart_rate",
+    "source": "get_heart_rate.jsonl",
+    "line": 21,
+    "text": "I need the suit medical sensor to report my pulse rate."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 5,
+    "text": "Would you tell me how much carbon dioxide scrubber B has retained?"
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "source": "get_coolant_liquid_pressure.jsonl",
+    "line": 10,
+    "text": "um coolant liquid pressure check"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "source": "get_oxy_sec_pressure.jsonl",
+    "line": 10,
+    "text": "Would you inspect the gauge on the secondary O2 cylinder?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 25,
+    "text": "Please query the retained CO2 amount in scrubber B’s collection canister."
+  },
+  {
+    "label": "unhandled",
+    "source": "unhandled.jsonl",
+    "line": 6,
+    "text": "Radio check, my signal sounds clear on this end."
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "source": "get_suit_pressure_oxy.jsonl",
+    "line": 3,
+    "text": "Can you give the EVA suit's pO2 value?"
+  },
+  {
+    "label": "unhandled",
+    "source": "unhandled.jsonl",
+    "line": 19,
+    "text": "Please send a photo of the ridge to the science team."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "source": "get_fan_sec_rpm.jsonl",
+    "line": 14,
+    "text": "Please query the tach sensor assigned to secondary fan speed."
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "source": "get_suit_pressure_oxy.jsonl",
+    "line": 20,
+    "text": "What's the measured partial pressure of O2 in my suit?"
+  },
+  {
+    "label": "get_coolant_storage",
+    "source": "get_coolant_storage.jsonl",
+    "line": 20,
+    "text": "Please query the volume left in the coolant supply pouch."
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "source": "get_oxy_pri_pressure.jsonl",
+    "line": 16,
+    "text": "The primary oxygen tank gauge: what pressure is it indicating?"
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "source": "get_fan_sec_rpm.jsonl",
+    "line": 17,
+    "text": "Have the computer call out the secondary fan tachometer reading."
+  },
+  {
+    "label": "Get_coordinates",
+    "source": "Get_coordinates.jsonl",
+    "line": 9,
+    "text": "Coordinates, please: I am asking about Endurance Ridge."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "source": "get_fan_sec_rpm.jsonl",
+    "line": 20,
+    "text": "Could I see revolutions per minute for the secondary suit fan before cycling power?"
+  },
+  {
+    "label": "Add_waypoint",
+    "source": "Add_waypoint.jsonl",
+    "line": 15,
+    "text": "Please save Ridge Charlie as a waypoint, not my destination."
+  },
+  {
+    "label": "get_primary_battery_level",
+    "source": "get_primary_battery_level.jsonl",
+    "line": 5,
+    "text": "How much usable charge does the primary battery retain?"
+  },
+  {
+    "label": "open_menu_uia",
+    "source": "open_menu_uia.jsonl",
+    "line": 3,
+    "text": "Project the UIA airlock controls on my helmet display."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "source": "get_suit_pressure_other.jsonl",
+    "line": 7,
+    "text": "How much pressure comes from the other gases circulating through my suit?"
+  },
+  {
+    "label": "get_primary_battery_level",
+    "source": "get_primary_battery_level.jsonl",
+    "line": 17,
+    "text": "Get me a percentage reading for the primary battery via suit telemetry."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "source": "get_oxy_sec_storage.jsonl",
+    "line": 16,
+    "text": "Read the remaining oxygen level for the secondary storage vessel."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "source": "get_coolant_liquid_pressure.jsonl",
+    "line": 4,
+    "text": "What pressure does the liquid-phase coolant return register?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "source": "get_suit_pressure_total.jsonl",
+    "line": 14,
+    "text": "Before starting the climb, give me the aggregate pressure inside the suit."
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "source": "get_suit_pressure_oxy.jsonl",
+    "line": 7,
+    "text": "Report my suit's oxygen pO2 reading, please."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "source": "get_coolant_gas_pressure.jsonl",
+    "line": 7,
+    "text": "Would telemetry send the coolant vapor return pressure to my HUD?"
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "source": "get_eva_elapsed_time.jsonl",
+    "line": 20,
+    "text": "spacewalk elapsed hh mm"
+  },
+  {
+    "label": "get_warnings",
+    "source": "get_warnings.jsonl",
+    "line": 18,
+    "text": "At the ridge, can you check for alerts requiring action?"
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "source": "get_fan_pri_rpm.jsonl",
+    "line": 20,
+    "text": "Report how fast the primary suit ventilation fan is turning, in RPM."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "source": "get_suit_pressure_total.jsonl",
+    "line": 21,
+    "text": "Okay, retrieve the all-gases pressure reading from the suit environmental system."
+  },
+  {
+    "label": "get_primary_battery_level",
+    "source": "get_primary_battery_level.jsonl",
+    "line": 11,
+    "text": "Could ground read the current primary battery meter?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 8,
+    "text": "Before the mode change, call out the CO2 storage level in scrubber B."
+  },
+  {
+    "label": "open_menu_uia",
+    "source": "open_menu_uia.jsonl",
+    "line": 11,
+    "text": "Bring the airlock controls forward under the UIA page."
+  },
+  {
+    "label": "close_menu",
+    "source": "close_menu.jsonl",
+    "line": 19,
+    "text": "Can we remove the currently active menu?"
+  },
+  {
+    "label": "open_menu_uia",
+    "source": "open_menu_uia.jsonl",
+    "line": 10,
+    "text": "Would the UIA control window show on my wrist unit?"
+  },
+  {
+    "label": "close_menu",
+    "source": "close_menu.jsonl",
+    "line": 25,
+    "text": "Clear the open menu from the helmet screen, Houston."
+  },
+  {
+    "label": "Set_navigation_target",
+    "source": "Set_navigation_target.jsonl",
+    "line": 5,
+    "text": "set the target marker on Cabeus, please."
+  },
+  {
+    "label": "get_heart_rate",
+    "source": "get_heart_rate.jsonl",
+    "line": 5,
+    "text": "What rate is the heart monitor registering while I work?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "source": "get_suit_pressure_other.jsonl",
+    "line": 4,
+    "text": "Please retrieve the minor-gas pressure reading from inside my suit."
+  },
+  {
+    "label": "get_co2_production",
+    "source": "get_co2_production.jsonl",
+    "line": 11,
+    "text": "Would you speak the hourly carbon-dioxide production number?"
+  },
+  {
+    "label": "Set_navigation_target",
+    "source": "Set_navigation_target.jsonl",
+    "line": 12,
+    "text": "Choose sample cache 2 as the place I am going to"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "source": "get_oxy_pri_storage.jsonl",
+    "line": 14,
+    "text": "Would you check how much oxygen is still in primary tank one?"
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "source": "get_oxy_sec_storage.jsonl",
+    "line": 8,
+    "text": "How full is the secondary tank of oxygen at this point?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "source": "get_suit_pressure_total.jsonl",
+    "line": 23,
+    "text": "I need the whole-suit pressure value before I proceed past this marker."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "source": "get_coolant_gas_pressure.jsonl",
+    "line": 17,
+    "text": "Pull pressure for the coolant gas path at the controller."
+  },
+  {
+    "label": "open_menu_uia",
+    "source": "open_menu_uia.jsonl",
+    "line": 23,
+    "text": "Would you call up the UIA airlock screen now?"
+  },
+  {
+    "label": "Add_waypoint",
+    "source": "Add_waypoint.jsonl",
+    "line": 12,
+    "text": "Create a waypoint at Permanently Shadowed Site while I hold position"
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "source": "get_coolant_gas_pressure.jsonl",
+    "line": 13,
+    "text": "Is there a current pressure reading for the coolant gas circuit?"
+  },
+  {
+    "label": "Get_coordinates",
+    "source": "Get_coordinates.jsonl",
+    "line": 22,
+    "text": "Run a coordinate lookup for the named point Gateway Node 2"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 24,
+    "text": "Before the next EVA segment, check scrubber A’s remaining storage for CO2."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "source": "get_fan_sec_rpm.jsonl",
+    "line": 10,
+    "text": "um what rpm on the secondary fan channel"
+  },
+  {
+    "label": "unhandled",
+    "source": "unhandled.jsonl",
+    "line": 8,
+    "text": "That little rock looks exactly like a potato."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "source": "get_fan_pri_rpm.jsonl",
+    "line": 16,
+    "text": "What number does the primary fan’s tach report in RPM?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "source": "get_suit_pressure_other.jsonl",
+    "line": 1,
+    "text": "From the suit sensor, read the pressure of trace gases."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 18,
+    "text": "While I hold the airlock rail, report scrubber A’s collected carbon dioxide mass."
+  },
+  {
+    "label": "open_menu_tasks",
+    "source": "open_menu_tasks.jsonl",
+    "line": 19,
+    "text": "Could the task status view open as my mission checklist?"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "source": "get_oxy_pri_storage.jsonl",
+    "line": 9,
+    "text": "Primary tank oxygen remaining, in kilos?"
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "source": "get_oxy_sec_storage.jsonl",
+    "line": 14,
+    "text": "Please estimate the oxygen left in cylinder two, the secondary one."
+  },
+  {
+    "label": "close_menu",
+    "source": "close_menu.jsonl",
+    "line": 8,
+    "text": "Exit whichever menu is open on my screen."
+  },
+  {
+    "label": "open_menu_navigation",
+    "source": "open_menu_navigation.jsonl",
+    "line": 22,
+    "text": "Use the wrist display to open the navigation map."
+  },
+  {
+    "label": "Set_navigation_target",
+    "source": "Set_navigation_target.jsonl",
+    "line": 17,
+    "text": "replace my current target with Clementine Crater."
+  },
+  {
+    "label": "unhandled",
+    "source": "unhandled.jsonl",
+    "line": 15,
+    "text": "There is a lot of glare coming off the regolith."
+  },
+  {
+    "label": "open_menu_navigation",
+    "source": "open_menu_navigation.jsonl",
+    "line": 16,
+    "text": "uh show EVA map"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "source": "get_oxy_pri_pressure.jsonl",
+    "line": 14,
+    "text": "How many kilopascals are in the primary oxygen tank?"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "source": "get_oxy_pri_pressure.jsonl",
+    "line": 25,
+    "text": "Please state the gauge pressure of the primary tank's oxygen."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "source": "get_coolant_gas_pressure.jsonl",
+    "line": 4,
+    "text": "Could the transducer report pressure in the coolant gas loop?"
+  },
+  {
+    "label": "get_co2_production",
+    "source": "get_co2_production.jsonl",
+    "line": 7,
+    "text": "co two generated rate"
+  },
+  {
+    "label": "get_temperature",
+    "source": "get_temperature.jsonl",
+    "line": 13,
+    "text": "Is the internal temperature channel for my suit available now?"
+  },
+  {
+    "label": "get_warnings",
+    "source": "get_warnings.jsonl",
+    "line": 4,
+    "text": "Uh, pull the live alert queue from the suit."
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "source": "get_secondary_battery_level.jsonl",
+    "line": 13,
+    "text": "Secondary battery, charge fraction?"
+  },
+  {
+    "label": "Get_coordinates",
+    "source": "Get_coordinates.jsonl",
+    "line": 14,
+    "text": "Uh, I need a map fix on Haworth Station right away."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "source": "get_helmet_pressure_co2.jsonl",
+    "line": 6,
+    "text": "Flight, return the helmet-only reading for carbon dioxide partial pressure."
+  },
+  {
+    "label": "get_heart_rate",
+    "source": "get_heart_rate.jsonl",
+    "line": 11,
+    "text": "Can you speak the heart monitor reading in beats per minute?"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "source": "get_oxy_pri_storage.jsonl",
+    "line": 19,
+    "text": "Need the primary oxygen tank's current fill level now."
+  },
+  {
+    "label": "open_menu_navigation",
+    "source": "open_menu_navigation.jsonl",
+    "line": 18,
+    "text": "Tap the navigation-map option so it opens on my display."
+  },
+  {
+    "label": "get_oxy_consumption",
+    "source": "get_oxy_consumption.jsonl",
+    "line": 18,
+    "text": "Would you check how fast my O2 supply is being consumed?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 8,
+    "text": "Before I switch loops, tell me how much CO2 storage is left in scrubber A."
+  },
+  {
+    "label": "open_menu_tasks",
+    "source": "open_menu_tasks.jsonl",
+    "line": 21,
+    "text": "open eva work list"
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "source": "get_eva_elapsed_time.jsonl",
+    "line": 15,
+    "text": "Quick, how long has this excursion lasted so far?"
+  },
+  {
+    "label": "get_warnings",
+    "source": "get_warnings.jsonl",
+    "line": 12,
+    "text": "Ask the EVA computer for its active alarm summary."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "source": "get_fan_pri_rpm.jsonl",
+    "line": 1,
+    "text": "Primary fan tach RPM?"
+  },
+  {
+    "label": "Complete_task",
+    "source": "Complete_task.jsonl",
+    "line": 10,
+    "text": "Update the EVA log: Scott Crater is completed."
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "source": "get_oxy_pri_pressure.jsonl",
+    "line": 9,
+    "text": "Primary O2 vessel pressure, please—not remaining amount."
+  },
+  {
+    "label": "Get_coordinates",
+    "source": "Get_coordinates.jsonl",
+    "line": 5,
+    "text": "could you pull the location fix labeled Cabeus?"
+  },
+  {
+    "label": "Complete_task",
+    "source": "Complete_task.jsonl",
+    "line": 24,
+    "text": "I have completed the objective labeled sample Alpha."
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "source": "get_oxy_pri_storage.jsonl",
+    "line": 23,
+    "text": "uh read the primary o2 tank remaining amount"
+  },
+  {
+    "label": "Add_waypoint",
+    "source": "Add_waypoint.jsonl",
+    "line": 21,
+    "text": "I want Shackleton Base preserved as a point on this route."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "source": "get_oxy_sec_storage.jsonl",
+    "line": 22,
+    "text": "Could I get the remaining quantity in the secondary tank's O2 supply?"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "source": "get_oxy_consumption.jsonl",
+    "line": 11,
+    "text": "hey what is my oxygen consumption rate now"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "source": "get_oxy_sec_pressure.jsonl",
+    "line": 1,
+    "text": "What's the pressure reading on the secondary oxygen tank?"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "source": "get_oxy_sec_pressure.jsonl",
+    "line": 15,
+    "text": "Please retrieve the gauge pressure from the secondary oxygen vessel."
+  },
+  {
+    "label": "get_co2_production",
+    "source": "get_co2_production.jsonl",
+    "line": 9,
+    "text": "Read the CO2 production metric for this astronaut."
+  },
+  {
+    "label": "Delete_waypoint",
+    "source": "Delete_waypoint.jsonl",
+    "line": 14,
+    "text": "Delete the marker associated with site 8."
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "source": "get_eva_elapsed_time.jsonl",
+    "line": 16,
+    "text": "Uh, check the clock for time passed since EVA initiation."
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "source": "get_secondary_battery_level.jsonl",
+    "line": 19,
+    "text": "Can flight send the remaining capacity level for the secondary battery?"
+  },
+  {
+    "label": "Complete_task",
+    "source": "Complete_task.jsonl",
+    "line": 6,
+    "text": "Check Ridge 4 off the work list; it is done."
+  },
+  {
+    "label": "reroute_navigation",
+    "source": "reroute_navigation.jsonl",
+    "line": 3,
+    "text": "Generate a fresh path to skirt the boulder field."
+  },
+  {
+    "label": "get_primary_battery_level",
+    "source": "get_primary_battery_level.jsonl",
+    "line": 16,
+    "text": "Uh, how much charge is stored in the primary battery now?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "source": "get_suit_pressure_total.jsonl",
+    "line": 3,
+    "text": "What is the combined pressure of all gases inside the suit?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 24,
+    "text": "Would you call out the percentage of scrubber B’s carbon dioxide storage already used?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "source": "get_suit_pressure_other.jsonl",
+    "line": 21,
+    "text": "Okay, pull the suit-loop pressure for the low-abundance gases in kilopascals."
+  },
+  {
+    "label": "open_menu_vitals",
+    "source": "open_menu_vitals.jsonl",
+    "line": 3,
+    "text": "Route the EVA vitals panel to the helmet display."
+  },
+  {
+    "label": "reroute_navigation",
+    "source": "reroute_navigation.jsonl",
+    "line": 25,
+    "text": "Recalculate navigation to avoid the newly reported hazard."
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "source": "get_secondary_battery_level.jsonl",
+    "line": 25,
+    "text": "Secondary battery charge indicator, numeric readout."
+  },
+  {
+    "label": "get_oxy_consumption",
+    "source": "get_oxy_consumption.jsonl",
+    "line": 12,
+    "text": "Flight, send the oxygen consumed per minute rate."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "source": "get_suit_pressure_total.jsonl",
+    "line": 15,
+    "text": "Um, report the suit’s complete gas-mixture pressure rather than a component value."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "source": "get_helmet_pressure_co2.jsonl",
+    "line": 23,
+    "text": "Please give the carbon dioxide pressure value for the helmet breathing space."
+  },
+  {
+    "label": "Complete_task",
+    "source": "Complete_task.jsonl",
+    "line": 22,
+    "text": "Mark the entry Gateway Node 2 as accomplished"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "source": "get_suit_pressure_co2.jsonl",
+    "line": 22,
+    "text": "I missed that number; repeat the suit-side pressure value for carbon dioxide."
+  },
+  {
+    "label": "reroute_navigation",
+    "source": "reroute_navigation.jsonl",
+    "line": 15,
+    "text": "This stretch is unsafe; generate a path around it."
+  },
+  {
+    "label": "get_heart_rate",
+    "source": "get_heart_rate.jsonl",
+    "line": 15,
+    "text": "Quick, read the pulse channel before I climb."
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "source": "get_eva_elapsed_time.jsonl",
+    "line": 14,
+    "text": "Could flight report elapsed hours and minutes since hatch release?"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "source": "get_oxy_pri_storage.jsonl",
+    "line": 21,
+    "text": "Please confirm the amount of O2 remaining in the primary supply tank."
+  },
+  {
+    "label": "Delete_waypoint",
+    "source": "Delete_waypoint.jsonl",
+    "line": 15,
+    "text": "Please scrub South Ray from my saved map waypoints."
+  },
+  {
+    "label": "get_oxy_consumption",
+    "source": "get_oxy_consumption.jsonl",
+    "line": 3,
+    "text": "How quickly am I consuming oxygen right now?"
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "source": "get_oxy_sec_storage.jsonl",
+    "line": 20,
+    "text": "Secondary oxygen reservoir: report the amount remaining, not pressure."
+  },
+  {
+    "label": "get_coolant_storage",
+    "source": "get_coolant_storage.jsonl",
+    "line": 5,
+    "text": "coolant left percent readback"
+  },
+  {
+    "label": "open_menu_vitals",
+    "source": "open_menu_vitals.jsonl",
+    "line": 9,
+    "text": "Open my suit health menu; I am checking readiness."
+  },
+  {
+    "label": "Add_waypoint",
+    "source": "Add_waypoint.jsonl",
+    "line": 8,
+    "text": "Can we bookmark Tycho Spur as a waypoint?"
+  },
+  {
+    "label": "Get_coordinates",
+    "source": "Get_coordinates.jsonl",
+    "line": 23,
+    "text": "Could I have a location readout for Ridge 11 over comms?"
+  },
+  {
+    "label": "open_menu_vitals",
+    "source": "open_menu_vitals.jsonl",
+    "line": 20,
+    "text": "Put my life support and health panel up where I can see."
+  },
+  {
+    "label": "reroute_navigation",
+    "source": "reroute_navigation.jsonl",
+    "line": 7,
+    "text": "Please create a route around the fractured ledge."
+  },
+  {
+    "label": "open_menu_navigation",
+    "source": "open_menu_navigation.jsonl",
+    "line": 8,
+    "text": "Choose the EVA navigation panel on my display."
+  },
+  {
+    "label": "Add_waypoint",
+    "source": "Add_waypoint.jsonl",
+    "line": 18,
+    "text": "Make sure Davis Ridge appears in my route waypoints."
+  },
+  {
+    "label": "reroute_navigation",
+    "source": "reroute_navigation.jsonl",
+    "line": 1,
+    "text": "Work out a replacement route around the unstable berm."
+  },
+  {
+    "label": "Delete_waypoint",
+    "source": "Delete_waypoint.jsonl",
+    "line": 9,
+    "text": "Erase the bookmark at Malapert Massif from the map."
+  },
+  {
+    "label": "get_heart_rate",
+    "source": "get_heart_rate.jsonl",
+    "line": 10,
+    "text": "The chest sensor is hard to see; what pulse does it show?"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "source": "get_oxy_pri_pressure.jsonl",
+    "line": 15,
+    "text": "Please retrieve the pressure measurement for the primary oxygen bottle."
+  },
+  {
+    "label": "open_menu_vitals",
+    "source": "open_menu_vitals.jsonl",
+    "line": 23,
+    "text": "Would you call up suit health on the visor now?"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "source": "get_suit_pressure_co2.jsonl",
+    "line": 12,
+    "text": "check the suit sensor for c o 2 pressure"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "source": "get_suit_pressure_oxy.jsonl",
+    "line": 11,
+    "text": "hey read suit oxygen partial pressure for me"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "source": "get_helmet_pressure_co2.jsonl",
+    "line": 12,
+    "text": "check c o 2 pressure in the helmet air"
+  },
+  {
+    "label": "get_co2_production",
+    "source": "get_co2_production.jsonl",
+    "line": 21,
+    "text": "I need the amount of CO2 my body produces over a minute."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "source": "get_coolant_liquid_pressure.jsonl",
+    "line": 7,
+    "text": "Would Houston read the pump-side pressure of the coolant liquid feed?"
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "source": "get_coolant_liquid_pressure.jsonl",
+    "line": 21,
+    "text": "Get me a coolant-liquid pressure value from diagnostics, thanks."
+  },
+  {
+    "label": "open_menu_tasks",
+    "source": "open_menu_tasks.jsonl",
+    "line": 8,
+    "text": "Choose the mission work queue on my display."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 17,
+    "text": "Can you verify what share of scrubber A’s canister capacity is occupied by CO2?"
+  },
+  {
+    "label": "get_coolant_storage",
+    "source": "get_coolant_storage.jsonl",
+    "line": 10,
+    "text": "uh check remaining coolant volume"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "source": "get_helmet_pressure_co2.jsonl",
+    "line": 24,
+    "text": "Could I get the helmet channel’s CO2 partial-pressure measurement before moving?"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "source": "get_helmet_pressure_co2.jsonl",
+    "line": 21,
+    "text": "Okay, say the partial pressure that the helmet sensor measures for carbon dioxide."
+  },
+  {
+    "label": "get_coolant_storage",
+    "source": "get_coolant_storage.jsonl",
+    "line": 18,
+    "text": "whats the coolant reserve at"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "source": "get_suit_pressure_oxy.jsonl",
+    "line": 18,
+    "text": "Can I get the pO2 inside my EVA suit, not tank pressure?"
+  },
+  {
+    "label": "get_temperature",
+    "source": "get_temperature.jsonl",
+    "line": 7,
+    "text": "Would the flight loop report my pressure-suit interior temperature?"
+  },
+  {
+    "label": "get_co2_production",
+    "source": "get_co2_production.jsonl",
+    "line": 15,
+    "text": "Quick, what is the life-support estimate of my CO2 output?"
+  },
+  {
+    "label": "Delete_waypoint",
+    "source": "Delete_waypoint.jsonl",
+    "line": 23,
+    "text": "Delete the old waypoint label for Armstrong Point."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "source": "get_suit_pressure_other.jsonl",
+    "line": 6,
+    "text": "Flight, call out the partial pressure for trace gases in the suit loop."
+  },
+  {
+    "label": "open_menu_navigation",
+    "source": "open_menu_navigation.jsonl",
+    "line": 1,
+    "text": "Set the visor display to the EVA navigation map."
+  },
+  {
+    "label": "get_oxy_consumption",
+    "source": "get_oxy_consumption.jsonl",
+    "line": 25,
+    "text": "I need the suit's oxygen consumption speed expressed per hour."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "source": "get_coolant_gas_pressure.jsonl",
+    "line": 6,
+    "text": "For the valve check, retrieve the gas-phase coolant circuit pressure."
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "source": "get_secondary_battery_level.jsonl",
+    "line": 2,
+    "text": "What capacity fraction is registered by the secondary battery?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 14,
+    "text": "For the maintenance note, state how saturated scrubber A is with stored carbon dioxide."
+  },
+  {
+    "label": "Delete_waypoint",
+    "source": "Delete_waypoint.jsonl",
+    "line": 3,
+    "text": "Take the pin for Lunar Gateway off my map."
+  },
+  {
+    "label": "Set_navigation_target",
+    "source": "Set_navigation_target.jsonl",
+    "line": 8,
+    "text": "Switch the selected destination to Luna 7."
+  },
+  {
+    "label": "open_menu_tasks",
+    "source": "open_menu_tasks.jsonl",
+    "line": 18,
+    "text": "Tap the EVA checklist option and open it."
+  },
+  {
+    "label": "open_menu_vitals",
+    "source": "open_menu_vitals.jsonl",
+    "line": 8,
+    "text": "Select the EVA vitals panel for viewing."
+  },
+  {
+    "label": "close_menu",
+    "source": "close_menu.jsonl",
+    "line": 4,
+    "text": "get rid of current menu"
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "source": "get_eva_elapsed_time.jsonl",
+    "line": 13,
+    "text": "EVA minutes passed?"
+  },
+  {
+    "label": "get_temperature",
+    "source": "get_temperature.jsonl",
+    "line": 10,
+    "text": "uh get suit inside temperature"
+  },
+  {
+    "label": "get_temperature",
+    "source": "get_temperature.jsonl",
+    "line": 23,
+    "text": "How warm does the suit interior sensor say it is?"
+  },
+  {
+    "label": "open_menu_tasks",
+    "source": "open_menu_tasks.jsonl",
+    "line": 2,
+    "text": "Which task comes next? Open the mission tasks panel."
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "source": "get_oxy_sec_pressure.jsonl",
+    "line": 6,
+    "text": "I need the pressure value for the secondary O2 tank."
+  },
+  {
+    "label": "close_menu",
+    "source": "close_menu.jsonl",
+    "line": 3,
+    "text": "Remove the active interface menu from the visor."
+  },
+  {
+    "label": "get_temperature",
+    "source": "get_temperature.jsonl",
+    "line": 5,
+    "text": "need internal suit temp reading"
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "source": "get_secondary_battery_level.jsonl",
+    "line": 11,
+    "text": "Could you announce the secondary battery capacity on the suit monitor?"
+  }
+]

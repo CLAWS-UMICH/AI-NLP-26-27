@@ -1,0 +1,25 @@
+{"text": "Open the EVA map panel.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Can you bring navigation up on my visor?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Map HUD, please.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Put the route display in front of me while I hold position.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "uh open the wayfinding screen", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you show the position map window?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I need the navigation page visible before the traverse.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "open map", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could the EVA navigation panel come up now?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Switch my helmet display to the map view.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Okay, pull up the route planning screen.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Let me see the map panel, please.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "can i get navigation on screen", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Bring forward the wayfinding display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please call up my position and map window.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Navigation view, display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you open the route screen while I am beside the tool cache?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "uh, map panel", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Can you put the EVA map in my HUD?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I need the navigation display in view for this leg.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Open the map view.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "show me the route panel", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "please display navigation", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could I get the position map on the helmet screen?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Bring up the map HUD so I can orient myself.", "intents": ["open_menu_navigation"], "source": "llm"}

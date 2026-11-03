@@ -1,0 +1,25 @@
+{"text": "Gas coolant pressure readout?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please read pressure on the coolant gas side.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "What PSI is the coolant vapor passage registering?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Could the transducer report pressure in the coolant gas loop?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "need coolant gas line pressure", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "For the valve check, retrieve the gas-phase coolant circuit pressure.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Would telemetry send the coolant vapor return pressure to my HUD?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "How much pressure is in the coolant gas feed right now?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Ask flight control for a psi measurement from the coolant gas manifold.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "uh query vapor coolant pressure", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Can the suit computer read pressure in the gaseous coolant branch?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please transmit the gas-loop coolant pressure in pounds per square inch.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Is there a current pressure reading for the coolant gas circuit?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Get the regulator’s coolant gas pressure value, not the liquid loop.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "What does the pressure sensor show on the coolant vapor line?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Could I have a live reading from the gas-phase coolant return?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Pull pressure for the coolant gas path at the controller.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "whats psi in coolant gas circuit", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Would you call the coolant gas branch pressure over comms?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please display the reading for pressure inside the coolant vapor loop.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "How many psi does the gas coolant circuit carry at the pump?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Request the pressure measurement from the coolant gas reservoir outlet.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Can Houston check the coolant gas-loop gauge and report its pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Have telemetry return the pressure value for coolant gas circulation.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Tell me the coolant gas line’s current pressure reading, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
