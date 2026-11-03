@@ -1,0 +1,61 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "accuracy": 0.9944444444444445,
+  "macro_f1": 0.9943883277216611,
+  "validation_accuracy": 0.8944444444444445,
+  "validation_macro_f1": 0.889546798193655,
+  "best_epoch": 6,
+  "epochs_requested": 6,
+  "train_rows": 2880,
+  "validation_rows": 360,
+  "test_rows": 360,
+  "split_strategy": "explicit_files",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.8790939099258845,
+      "validation_loss": 2.0584924117378565,
+      "validation_accuracy": 0.7861111111111111,
+      "validation_macro_f1": 0.7666764618471659
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.4716817607482275,
+      "validation_loss": 1.1575180965921152,
+      "validation_accuracy": 0.8388888888888889,
+      "validation_macro_f1": 0.8280836762809438
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.7758066601223416,
+      "validation_loss": 0.7757761970810269,
+      "validation_accuracy": 0.8527777777777777,
+      "validation_macro_f1": 0.8440604660961588
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.450997294485569,
+      "validation_loss": 0.5735207796096802,
+      "validation_accuracy": 0.8833333333333333,
+      "validation_macro_f1": 0.8788799224395087
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.30437057870957585,
+      "validation_loss": 0.48982406051262567,
+      "validation_accuracy": 0.8888888888888888,
+      "validation_macro_f1": 0.8841043361307416
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.221655428989066,
+      "validation_loss": 0.42055911214455316,
+      "validation_accuracy": 0.8944444444444445,
+      "validation_macro_f1": 0.889546798193655
+    }
+  ],
+  "train_families": [],
+  "validation_families": [],
+  "test_families": [],
+  "classification_report": "                             precision    recall  f1-score   support\n\n               Add_waypoint       1.00      0.80      0.89        10\n              Complete_task       1.00      1.00      1.00        10\n            Delete_waypoint       1.00      1.00      1.00        10\n            Get_coordinates       1.00      1.00      1.00        10\n      Set_navigation_target       0.83      1.00      0.91        10\n                 close_menu       1.00      1.00      1.00        10\n         get_co2_production       1.00      1.00      1.00        10\n   get_coolant_gas_pressure       1.00      1.00      1.00        10\nget_coolant_liquid_pressure       1.00      1.00      1.00        10\n        get_coolant_storage       1.00      1.00      1.00        10\n       get_eva_elapsed_time       1.00      1.00      1.00        10\n            get_fan_pri_rpm       1.00      1.00      1.00        10\n            get_fan_sec_rpm       1.00      1.00      1.00        10\n             get_heart_rate       1.00      1.00      1.00        10\n    get_helmet_pressure_co2       1.00      1.00      1.00        10\n        get_oxy_consumption       1.00      1.00      1.00        10\n       get_oxy_pri_pressure       1.00      1.00      1.00        10\n        get_oxy_pri_storage       1.00      1.00      1.00        10\n       get_oxy_sec_pressure       1.00      1.00      1.00        10\n        get_oxy_sec_storage       1.00      1.00      1.00        10\n  get_primary_battery_level       1.00      1.00      1.00        10\n get_scrubber_a_co2_storage       1.00      1.00      1.00        10\n get_scrubber_b_co2_storage       1.00      1.00      1.00        10\nget_secondary_battery_level       1.00      1.00      1.00        10\n      get_suit_pressure_co2       1.00      1.00      1.00        10\n    get_suit_pressure_other       1.00      1.00      1.00        10\n      get_suit_pressure_oxy       1.00      1.00      1.00        10\n    get_suit_pressure_total       1.00      1.00      1.00        10\n            get_temperature       1.00      1.00      1.00        10\n               get_warnings       1.00      1.00      1.00        10\n       open_menu_navigation       1.00      1.00      1.00        10\n            open_menu_tasks       1.00      1.00      1.00        10\n              open_menu_uia       1.00      1.00      1.00        10\n           open_menu_vitals       1.00      1.00      1.00        10\n         reroute_navigation       1.00      1.00      1.00        10\n                  unhandled       1.00      1.00      1.00        10\n\n                   accuracy                           0.99       360\n                  macro avg       1.00      0.99      0.99       360\n               weighted avg       1.00      0.99      0.99       360\n"
+}

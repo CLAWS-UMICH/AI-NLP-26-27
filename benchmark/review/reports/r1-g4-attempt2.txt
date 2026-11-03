@@ -1,0 +1,43 @@
+rows=150 labels=6 mean_words=9.09
+COUNT get_oxy_pri_storage: 0
+COUNT get_oxy_sec_storage: 0
+COUNT get_oxy_pri_pressure: 0
+COUNT get_oxy_sec_pressure: 0
+COUNT get_suit_pressure_oxy: 0
+COUNT get_suit_pressure_co2: 0
+COUNT get_suit_pressure_other: 0
+COUNT get_suit_pressure_total: 0
+COUNT get_helmet_pressure_co2: 0
+COUNT get_fan_pri_rpm: 0
+COUNT get_fan_sec_rpm: 0
+COUNT get_scrubber_a_co2_storage: 0
+COUNT get_scrubber_b_co2_storage: 0
+COUNT get_temperature: 0
+COUNT get_coolant_storage: 0
+COUNT get_coolant_gas_pressure: 0
+COUNT get_coolant_liquid_pressure: 0
+COUNT get_heart_rate: 25
+COUNT get_oxy_consumption: 0
+COUNT get_co2_production: 25
+COUNT get_eva_elapsed_time: 25
+COUNT get_primary_battery_level: 25
+COUNT get_secondary_battery_level: 25
+COUNT get_warnings: 25
+COUNT open_menu_vitals: 0
+COUNT open_menu_navigation: 0
+COUNT open_menu_tasks: 0
+COUNT open_menu_uia: 0
+COUNT close_menu: 0
+COUNT Get_coordinates: 0
+COUNT Set_navigation_target: 0
+COUNT reroute_navigation: 0
+COUNT Add_waypoint: 0
+COUNT Delete_waypoint: 0
+COUNT Complete_task: 0
+COUNT unhandled: 0
+STYLE_RATES [["question", 0.46, 0.46], ["filler", 0.08666666666666667, 0.08666666666666667], ["no_punctuation_or_lowercase", 0.09333333333333334, 0.09333333333333334], ["asr", 0.006666666666666667, 0.03333333333333333]]
+INTENT_STYLE {"get_heart_rate": {"question": 0.44, "filler": 0.08, "no_punctuation_or_lowercase": 0.12, "asr": 0.0}, "get_co2_production": {"question": 0.4, "filler": 0.08, "no_punctuation_or_lowercase": 0.12, "asr": 0.04}, "get_eva_elapsed_time": {"question": 0.48, "filler": 0.12, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_primary_battery_level": {"question": 0.44, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_secondary_battery_level": {"question": 0.48, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_warnings": {"question": 0.52, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}}
+STYLE_PROBE accuracy=0.2333
+CONTENT_PROBE accuracy=0.9733
+TOP_CONFUSIONS [[["get_heart_rate", "get_warnings"], 1], [["get_co2_production", "get_eva_elapsed_time"], 1], [["get_eva_elapsed_time", "get_warnings"], 1], [["get_warnings", "get_eva_elapsed_time"], 1]]
+GATES: 0 issue(s)

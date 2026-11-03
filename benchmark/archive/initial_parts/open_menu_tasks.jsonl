@@ -1,0 +1,100 @@
+{"text": "i need the open tasks on screen", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open up the procedure list on the helmet display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you pull up the EVA checklist window for me?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Let me see the task list.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the task list?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can I have the procedure list in view?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Bring up the mission tasks page.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please call up the task list for this EVA.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can I have the mission checklist in view?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can I have the checklist HUD in view?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "put the checklist hud in the hud, please", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the procedure list.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I need the task list on screen.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Display the work queue when you can.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Show me the EVA tasks panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can I have the EVA tasks panel in view?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could I get the task list visible?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Bring up the task status display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Display the mission checklist when you can.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Let me see the checklist HUD.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "could i get the mission checklist visible", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you pull up the EVA tasks panel for me?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I need the task status display on screen.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open up the EVA tasks panel on the helmet display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "uh open the checklist HUD", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the EVA checklist window.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Hey, show the task list please.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the task list.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you pull up the task status display for me?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I need the mission tasks page on screen.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "would you pull up the task list for me", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Need the EVA checklist window now.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I need the EVA tasks panel on screen.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Show me the mission tasks page.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I want the EVA tasks panel in my visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you pull up the mission tasks page for me?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Bring up the EVA tasks panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the work queue.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please call up the procedure list for this EVA.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "uh open the EVA tasks panel", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "hey, show the eva tasks panel please", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Hey, show the mission checklist please.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I want the open tasks in my visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the mission tasks page?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the EVA tasks panel?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Put the EVA tasks panel in the HUD, please.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can we get the procedure list up here?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Bring up the procedure list.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the checklist HUD?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Display the EVA checklist window when you can.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "switch the display to the checklist hud", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open up the checklist HUD on the helmet display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could I get the open tasks visible?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the mission checklist?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Let me see the mission checklist.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you pull up the procedure list for me?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I want the checklist HUD in my visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Let me see the EVA tasks panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Put the EVA checklist window in the HUD, please.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Need the work queue now.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "can i have the work queue in view", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the open tasks.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can I have the EVA checklist window in view?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Switch the display to the mission tasks page.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "uh open the mission tasks page", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the procedure list?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Bring up the checklist HUD.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Hey, show the checklist HUD please.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Need the task list now.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I want the task status display in my visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "open the eva tasks panel", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the task status display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I want the procedure list in my visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could I get the procedure list visible?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I want the task list in my visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Need the EVA tasks panel now.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Display the procedure list when you can.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Show me the work queue.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please call up the EVA checklist window for this EVA.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Need the mission checklist now.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "uh open the task list", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could I get the task status display visible?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the work queue?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open up the task list on the helmet display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "uh open the mission checklist", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Put the work queue in the HUD, please.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please call up the mission checklist for this EVA.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you pull up the checklist HUD for me?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "okay so bring up the checklist HUD", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Put the open tasks in the HUD, please.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "can we get the mission tasks page up here", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I need the procedure list on screen.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "okay so bring up the EVA checklist window", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please call up the mission tasks page for this EVA.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please call up the task status display for this EVA.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could I get the checklist HUD visible?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Switch the display to the task list.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Switch the display to the EVA tasks panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can you display the open tasks?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can we get the mission checklist up here?", "intents": ["open_menu_tasks"], "source": "llm"}

@@ -1,0 +1,100 @@
+{"text": "set Shackleton Crater as my navigation destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "change my target to Artemis Ridge", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "make the next destination Alpha 3", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Alpha 3"}
+{"text": "navigate to South Pole Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "South Pole Station"}
+{"text": "please guide me toward Haworth Rim", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Haworth Rim"}
+{"text": "set the suit map target at Nobile Crater", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "make de Gerlache my target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache"}
+{"text": "put Lunar Gateway in as my navigation target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "okay navigate toward site 12 now", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site 12"}
+{"text": "route me to Miller Ridge as the destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Miller Ridge"}
+{"text": "destination should be Cabeus", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus"}
+{"text": "I need my destination changed to Peary Point", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Peary Point"}
+{"text": "uh point my nav system at Kennedy Landing", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "can you set a course to Aitken Basin", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Aitken Basin"}
+{"text": "lock the navigation target onto Ridge 4", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge 4"}
+{"text": "I want to head for Falcon Outpost", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "mark Luna 7 as where I am going", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna 7"}
+{"text": "head for Tycho Spur and set it as target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "select Nansen Crater for the destination marker", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "take me to site bravo on the nav display", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site bravo"}
+{"text": "navigate to Endurance Ridge", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Endurance Ridge"}
+{"text": "please guide me toward Conrad Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Conrad Station"}
+{"text": "set the suit map target at Malapert Massif", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Malapert Massif"}
+{"text": "make Delta 9 my target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Delta 9"}
+{"text": "put Scott Crater in as my navigation target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Scott Crater"}
+{"text": "okay navigate toward Artemis Base now", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Base"}
+{"text": "route me to sample cache 2 as the destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample cache 2"}
+{"text": "destination should be Permanently Shadowed Site", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "I need my destination changed to Kaguya Point", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kaguya Point"}
+{"text": "uh point my nav system at Rover 1", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Rover 1"}
+{"text": "can you set a course to Henson Ridge", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Henson Ridge"}
+{"text": "lock the navigation target onto Leibnitz Plateau", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Leibnitz Plateau"}
+{"text": "I want to head for Alpha Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Alpha Station"}
+{"text": "mark site 8 as where I am going", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site 8"}
+{"text": "head for Haworth Station and set it as target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Haworth Station"}
+{"text": "select Mendeleev Crater for the destination marker", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Mendeleev Crater"}
+{"text": "take me to Ridge Charlie on the nav display", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge Charlie"}
+{"text": "set South Ray as my navigation destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "South Ray"}
+{"text": "change my target to Prospector 3", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Prospector 3"}
+{"text": "make the next destination Luna Outpost", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna Outpost"}
+{"text": "make Clementine Crater my target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Clementine Crater"}
+{"text": "put sample site 5 in as my navigation target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample site 5"}
+{"text": "okay navigate toward Davis Ridge now", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Davis Ridge"}
+{"text": "route me to Borman Point as the destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Borman Point"}
+{"text": "destination should be Aitken Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Aitken Station"}
+{"text": "I need my destination changed to Echo 6", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Echo 6"}
+{"text": "uh point my nav system at Artemis Waypoint", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Waypoint"}
+{"text": "can you set a course to site delta", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site delta"}
+{"text": "lock the navigation target onto Polar Relay", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Polar Relay"}
+{"text": "I want to head for Littrow Valley", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Littrow Valley"}
+{"text": "mark Rover Beta as where I am going", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Rover Beta"}
+{"text": "head for Shackleton Base and set it as target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "select Nobile Ridge for the destination marker", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nobile Ridge"}
+{"text": "take me to Conrad Crater on the nav display", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Conrad Crater"}
+{"text": "set Gateway Node 2 as my navigation destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Gateway Node 2"}
+{"text": "change my target to Ridge 11", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge 11"}
+{"text": "make the next destination Luna 4", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna 4"}
+{"text": "navigate to Armstrong Point", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Armstrong Point"}
+{"text": "please guide me toward Scott Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Scott Station"}
+{"text": "set the suit map target at sample Alpha", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample Alpha"}
+{"text": "route me to Cabeus Rim as the destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus Rim"}
+{"text": "destination should be Henson Crater", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Henson Crater"}
+{"text": "I need my destination changed to Delta Base", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Delta Base"}
+{"text": "uh point my nav system at Rover 8", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Rover 8"}
+{"text": "can you set a course to Tycho Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Tycho Station"}
+{"text": "lock the navigation target onto de Gerlache Ridge", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache Ridge"}
+{"text": "I want to head for site foxtrot", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site foxtrot"}
+{"text": "mark Endurance Crater as where I am going", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "head for Nansen Ridge and set it as target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "select Falcon 2 for the destination marker", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Falcon 2"}
+{"text": "take me to Malapert Station on the nav display", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Malapert Station"}
+{"text": "set Kaguya Ridge as my navigation destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "change my target to Peary Crater", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Peary Crater"}
+{"text": "make the next destination Miller Outpost", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Miller Outpost"}
+{"text": "navigate to South Pole Relay", "intents": ["Set_navigation_target"], "source": "llm", "slot": "South Pole Relay"}
+{"text": "please guide me toward Echo Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Echo Station"}
+{"text": "set the suit map target at Prospector Ridge", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Prospector Ridge"}
+{"text": "make Kennedy Crater my target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kennedy Crater"}
+{"text": "put sample bag 4 in as my navigation target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample bag 4"}
+{"text": "okay navigate toward Leibnitz Ridge now", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Leibnitz Ridge"}
+{"text": "uh point my nav system at Shackleton Crater", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "can you set a course to Artemis Ridge", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "lock the navigation target onto Alpha 3", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Alpha 3"}
+{"text": "I want to head for South Pole Station", "intents": ["Set_navigation_target"], "source": "llm", "slot": "South Pole Station"}
+{"text": "mark Haworth Rim as where I am going", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Haworth Rim"}
+{"text": "head for Nobile Crater and set it as target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "select de Gerlache for the destination marker", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache"}
+{"text": "take me to Lunar Gateway on the nav display", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "set site 12 as my navigation destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site 12"}
+{"text": "change my target to Miller Ridge", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Miller Ridge"}
+{"text": "make the next destination Cabeus", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus"}
+{"text": "navigate to Peary Point", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Peary Point"}
+{"text": "please guide me toward Kennedy Landing", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "set the suit map target at Aitken Basin", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Aitken Basin"}
+{"text": "make Ridge 4 my target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge 4"}
+{"text": "put Falcon Outpost in as my navigation target", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "okay navigate toward Luna 7 now", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna 7"}
+{"text": "route me to Tycho Spur as the destination", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "destination should be Nansen Crater", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "I need my destination changed to site bravo", "intents": ["Set_navigation_target"], "source": "llm", "slot": "site bravo"}

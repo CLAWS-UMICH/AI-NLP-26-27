@@ -1,0 +1,242 @@
+[
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "coolant gas loop pressure"
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "The primary blower pitch just changed; what rotational rate does its sensor show?"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Quick, read the suit sensor value for oxygen partial pressure before I cross the ridge."
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "My primary bottle contents are low; read the remaining oxygen percentage before I continue."
+  },
+  {
+    "label": "get_temperature",
+    "text": "Can you read my internal suit temperature before I start the sample transfer?"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "um oxygen draw per minute"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "Requesting consumption in liters per minute before I continue the traverse."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "coolant liquid pressure?"
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "Backup tank level?"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Tell me the current oxygen partial pressure reading from the atmosphere inside my suit."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "gaseous coolant pressure?"
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "How much oxygen is left in the reserve bottle?"
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "Read the secondary fan speed."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "This log needs the primary blower's current tach value, not its battery status."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "Current secondary oxygen level"
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "Main bottle level now"
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "Was the secondary circulation fan spinning at the same speed at the previous waypoint?"
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "Uh, we have a short pause; please call the coolant level to the crew."
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "Before I open the line, what amount of coolant is still stored."
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "Flight, did the secondary fan speed fall after the power handoff?"
+  },
+  {
+    "label": "get_temperature",
+    "text": "suit temp at 21 degrees"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "Can you read secondary tank pressure in psi from the wrist display?"
+  },
+  {
+    "label": "get_temperature",
+    "text": "Uh, hey, read my internal temperature back while I am at the tool bag."
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "Read me the primary cylinder gauge."
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "Oxygen draw rate"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "For this check, I only need primary cylinder pressure in percent."
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "Is the coolant reservoir below thirty percent?"
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "Oxygen use rate"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "Sensor says secondary pressure"
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Requesting the suit O2 partial pressure before I start the ascent."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "Uh, say that gas coolant pressure again; static broke up your call."
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "Could you read the pressure in the coolant gas loop?"
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "Check pressure at the pump outlet on the coolant liquid circuit before I disconnect anything."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "Need primary fan rpm"
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "okay so pull the coolant supply level"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "uh pressure in primary oxygen tank"
+  },
+  {
+    "label": "get_temperature",
+    "text": "For my log, what is the latest internal suit temperature."
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "Secondary cylinder pressure"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "Backup gauge: pressure in kPa?"
+  },
+  {
+    "label": "get_temperature",
+    "text": "Uh, repeat the suit temperature for me; I missed the first call."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "Check the coolant liquid pump differential; I need pressure at the return manifold."
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "Flight, the slope is steep; tell me the percent left in my primary oxygen tank now."
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "I keep taking short breaths; is there enough oxygen in my primary reserve for the climb?"
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "RPM secondary fan."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "Please report the pressure in the coolant liquid loop."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "Please compare the secondary tank contents against its full capacity before we proceed."
+  },
+  {
+    "label": "get_coolant_liquid_pressure",
+    "text": "I am watching the pump seals; read back the liquid coolant circuit pressure at the outlet."
+  },
+  {
+    "label": "get_oxy_sec_storage",
+    "text": "Can we see the reserve bottle oxygen fill level before I move?"
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "Could the pressure reading from my main oxygen tank be sent to my wrist display now?"
+  },
+  {
+    "label": "get_oxy_sec_pressure",
+    "text": "Read the reserve cylinder pressure in percent and confirm it over radio."
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Suit O2 partial"
+  },
+  {
+    "label": "get_fan_sec_rpm",
+    "text": "Flight, pull a tach value from the secondary ventilation unit and send it over."
+  },
+  {
+    "label": "get_oxy_consumption",
+    "text": "Quick, tell me how rapidly the suit is using oxygen as I climb toward the marker."
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "Telemetry should have a primary-fan tach sample from the last minute; read it aloud."
+  },
+  {
+    "label": "get_oxy_pri_storage",
+    "text": "Main oxygen level"
+  },
+  {
+    "label": "get_coolant_storage",
+    "text": "check coolant level"
+  },
+  {
+    "label": "get_fan_pri_rpm",
+    "text": "primary fan speed?"
+  },
+  {
+    "label": "get_coolant_gas_pressure",
+    "text": "Copy Houston, I need the measured pressure in the coolant gas return circuit."
+  },
+  {
+    "label": "get_oxy_pri_pressure",
+    "text": "Primary oxygen tank pressure, please."
+  },
+  {
+    "label": "get_suit_pressure_oxy",
+    "text": "Status on the suit oxygen partial pressure reading while I am outside the airlock?"
+  }
+]

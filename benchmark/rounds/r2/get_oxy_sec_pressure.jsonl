@@ -1,0 +1,25 @@
+{"text": "What's the pressure reading on the secondary oxygen tank?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Please check the secondary O2 bottle pressure in kPa.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Could you read pressure from the secondary oxygen cylinder?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Tank two holds secondary oxygen; what pressure is inside?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary oxygen reservoir pressure, in bar, please.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "I need the pressure value for the secondary O2 tank.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Uh, how many psi does the secondary oxygen tank show?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Report the pressure inside the cylinder supplying secondary oxygen.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Give me the secondary oxygen tank pressure, not its fill amount.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Would you inspect the gauge on the secondary O2 cylinder?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "hey tell me secondary oxygen tank pressure now", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Flight, read the secondary oxygen bottle's pressure in kilopascals.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Could I get a pressure reading for oxygen tank two, the secondary tank?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Check the secondary tank containing O2 and report its pressure.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Please retrieve the gauge pressure from the secondary oxygen vessel.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Is the secondary oxygen cylinder pressure holding above 180 bar?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Need the pressure, rather than remaining level, in the secondary O2 tank.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "What's the measured pressure of the secondary oxygen supply cylinder?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Read out the current pressure within the secondary oxygen bottle.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary O2 tank pressure reading, please send it now.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Can you confirm the gauge value for pressure in the secondary oxygen tank?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Tell me how much pressure the secondary oxygen cylinder is under.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "uh check the oxygen pressure in secondary tank two", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Please state the secondary tank's oxygen pressure in psi.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "What's the gauge pressure on the secondary O2 storage tank?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}

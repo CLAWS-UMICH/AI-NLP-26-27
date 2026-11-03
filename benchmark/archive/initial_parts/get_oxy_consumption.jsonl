@@ -1,0 +1,100 @@
+{"text": "oxygen consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "check oxygen consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "read oxygen consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "what is oxygen consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "how is oxygen consumption rate looking", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "O2 consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "check O2 consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "read O2 consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "what is O2 consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "how is O2 consumption rate looking", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "oxygen use rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "check oxygen use rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "read oxygen use rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "what is oxygen use rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "how is oxygen use rate looking", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "rate of oxygen draw", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Can you read the oxygen consumption rate?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Tell me the my oxygen flow rate of use per minute.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I need how fast I am using oxygen on this EVA, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Check uh, O2 consumption rate as a rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Bring up um, oxygen consumption per minute right now", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "What is oxygen burn rate value", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much is okay so oxygen use rate readout", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much how quickly is the suit reporting rate the suit is consuming oxygen please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Give me could you give the measured O2 usage per minute in liters per hour", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Show me what is my rate of oxygen draw from the suit looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Do we have the oxygen consumption rate please?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could you check the my oxygen flow rate of use in liters per hour.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I want how fast I am using oxygen from the suit, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Status on uh, O2 consumption rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Let me see um, oxygen consumption per minute per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Hey, what is oxygen burn rate on this EVA", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Uh, can I get okay so oxygen use rate as a rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Okay, check how quickly is the suit reporting rate the suit is consuming oxygen right now", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Quick read on could you give the measured O2 usage per minute value", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Confirm what is my rate of oxygen draw readout looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Report the oxygen consumption rate right now?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Pull the my oxygen flow rate of use value.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Read back how fast I am using oxygen readout, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I am checking uh, O2 consumption rate please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Before I move, check um, oxygen consumption per minute in liters per hour", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "For the log, give me oxygen burn rate from the suit", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Mission control, what is okay so oxygen use rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Copy, request how quickly is the suit reporting rate the suit is consuming oxygen per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Need a reading for could you give the measured O2 usage per minute on this EVA", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could I see what is my rate of oxygen draw as a rate looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Can you read the O2 consumption rate per minute?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Tell me the oxygen consumption per minute on this EVA.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I need oxygen burn rate as a rate, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Check uh, oxygen use rate right now", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Bring up um, rate the suit is consuming oxygen value", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "What is oh two usage per minute readout", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much is okay so rate of oxygen draw please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much how quickly is the suit reporting oxygen consumption rate in liters per hour", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Give me could you give the measured my oxygen flow rate of use from the suit", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Show me what is my how fast I am using oxygen looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Do we have the O2 consumption rate in liters per hour?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could you check the oxygen consumption per minute from the suit.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I want oxygen burn rate, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Status on uh, oxygen use rate per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Let me see um, rate the suit is consuming oxygen on this EVA", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Hey, what is oh two usage per minute as a rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Uh, can I get okay so rate of oxygen draw right now", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Okay, check how quickly is the suit reporting oxygen consumption rate value", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Quick read on could you give the measured my oxygen flow rate of use readout", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Confirm what is my how fast I am using oxygen please looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Report the O2 consumption rate value?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Pull the oxygen consumption per minute readout.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Read back oxygen burn rate please, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I am checking uh, oxygen use rate in liters per hour", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Before I move, check um, rate the suit is consuming oxygen from the suit", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "For the log, give me oh two usage per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Mission control, what is okay so rate of oxygen draw per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Copy, request how quickly is the suit reporting oxygen consumption rate on this EVA", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Need a reading for could you give the measured my oxygen flow rate of use as a rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could I see what is my how fast I am using oxygen right now looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Can you read the oxygen use rate on this EVA?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Tell me the rate the suit is consuming oxygen as a rate.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I need O2 usage per minute right now, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Check uh, rate of oxygen draw value", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Bring up um, oxygen consumption rate readout", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "What is my oxygen flow rate of use please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much is okay so how fast I am using oxygen in liters per hour", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much how quickly is the suit reporting O2 consumption rate from the suit", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Give me could you give the measured oxygen consumption per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Show me what is my oxygen burn rate per minute looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Do we have the oxygen use rate from the suit?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could you check the rate the suit is consuming oxygen.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I want O2 usage per minute per minute, please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Status on uh, rate of oxygen draw on this EVA", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Let me see um, oxygen consumption rate as a rate", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Hey, what is my oxygen flow rate of use right now", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Uh, can I get okay so how fast I am using oxygen value", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Okay, check how quickly is the suit reporting O2 consumption rate readout", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Quick read on could you give the measured oxygen consumption per minute please", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Confirm what is my oxygen burn rate in liters per hour looking like", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How quickly is my suit using oxygen right now?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Read my O2 draw rate, please.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "What is the current oxygen burn rate per minute?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Can you show oxygen use as a rate?", "intents": ["get_oxy_consumption"], "source": "llm"}

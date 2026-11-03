@@ -1,0 +1,99 @@
+rows=300 labels=12 mean_words=8.48
+COUNT get_oxy_pri_storage: 25
+COUNT get_oxy_sec_storage: 25
+COUNT get_oxy_pri_pressure: 25
+COUNT get_oxy_sec_pressure: 25
+COUNT get_suit_pressure_oxy: 25
+COUNT get_suit_pressure_co2: 25
+COUNT get_suit_pressure_other: 25
+COUNT get_suit_pressure_total: 25
+COUNT get_helmet_pressure_co2: 25
+COUNT get_fan_pri_rpm: 0
+COUNT get_fan_sec_rpm: 0
+COUNT get_scrubber_a_co2_storage: 25
+COUNT get_scrubber_b_co2_storage: 25
+COUNT get_temperature: 0
+COUNT get_coolant_storage: 0
+COUNT get_coolant_gas_pressure: 0
+COUNT get_coolant_liquid_pressure: 0
+COUNT get_heart_rate: 0
+COUNT get_oxy_consumption: 25
+COUNT get_co2_production: 0
+COUNT get_eva_elapsed_time: 0
+COUNT get_primary_battery_level: 0
+COUNT get_secondary_battery_level: 0
+COUNT get_warnings: 0
+COUNT open_menu_vitals: 0
+COUNT open_menu_navigation: 0
+COUNT open_menu_tasks: 0
+COUNT open_menu_uia: 0
+COUNT close_menu: 0
+COUNT Get_coordinates: 0
+COUNT Set_navigation_target: 0
+COUNT reroute_navigation: 0
+COUNT Add_waypoint: 0
+COUNT Delete_waypoint: 0
+COUNT Complete_task: 0
+COUNT unhandled: 0
+STYLE_RATES [["question", 0.25666666666666665, 0.25666666666666665], ["filler", 0.10333333333333333, 0.10333333333333333], ["no_punctuation", 0.3233333333333333, 0.3233333333333333], ["asr", 0.03, 0.05]]
+STYLE_PROBE accuracy=0.0933
+CONTENT_PROBE accuracy=0.6300
+TOP_CONFUSIONS [[["get_scrubber_b_co2_storage", "get_scrubber_a_co2_storage"], 23], [["get_scrubber_a_co2_storage", "get_scrubber_b_co2_storage"], 20], [["get_oxy_sec_pressure", "get_oxy_sec_storage"], 9], [["get_oxy_sec_storage", "get_oxy_sec_pressure"], 7], [["get_oxy_pri_storage", "get_oxy_pri_pressure"], 6], [["get_oxy_sec_pressure", "get_oxy_pri_pressure"], 6], [["get_oxy_pri_pressure", "get_oxy_pri_storage"], 5], [["get_oxy_pri_storage", "get_oxy_sec_storage"], 5], [["get_oxy_pri_pressure", "get_oxy_sec_pressure"], 4], [["get_oxy_sec_storage", "get_oxy_pri_storage"], 4]]
+GATES: 57 issue(s)
+FAIL near duplicate same label /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_helmet_pressure_co2.jsonl:2 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_helmet_pressure_co2.jsonl:5: 0.815
+FAIL near duplicate same label /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_helmet_pressure_co2.jsonl:3 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_helmet_pressure_co2.jsonl:16: 0.812
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:5 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:5: 0.759
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:6 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:6: 0.727
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:7 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:7: 0.833
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:8 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:8: 0.764
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:10 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:10: 0.708
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:11 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:11: 0.758
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:12 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:12: 0.829
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:13 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:13: 0.822
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:18 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:18: 0.887
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:20 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:20: 0.793
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:21 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:21: 0.821
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:23 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:23: 0.776
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:24 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:24: 0.833
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_pressure.jsonl:25 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_pressure.jsonl:25: 0.845
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:6 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:6: 0.803
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:7 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:7: 0.773
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:8 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:8: 0.741
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:11 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:11: 0.750
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:12 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:12: 0.773
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:13 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:13: 0.806
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:16 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:16: 0.702
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:18 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:18: 0.746
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:19 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:19: 0.781
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:20 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:20: 0.754
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:21 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:21: 0.795
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:23 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:23: 0.771
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:24 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:24: 0.808
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_pri_storage.jsonl:25 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:25: 0.843
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:1 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:1: 0.778
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:2 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:2: 0.760
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:3 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:3: 0.793
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:4 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:4: 0.769
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:5 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:5: 0.727
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:6 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:6: 0.793
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:7 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:7: 0.778
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:8 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:8: 0.872
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:9 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:9: 0.887
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:10 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:10: 0.902
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:11 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:11: 0.867
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:12 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:12: 0.895
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:13 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:13: 0.829
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:14 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:14: 0.833
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:15 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:15: 0.846
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:16 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:16: 0.850
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:18 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:18: 0.938
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:19 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:19: 0.933
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:20 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:20: 0.928
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:21 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:21: 0.930
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:22 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:22: 0.932
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:23 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:23: 0.926
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:24 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:24: 0.944
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_a_co2_storage.jsonl:25 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_scrubber_b_co2_storage.jsonl:25: 0.926
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_co2.jsonl:5 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_oxy.jsonl:9: 0.861
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_co2.jsonl:16 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_oxy.jsonl:17: 0.889
+FAIL near duplicate same label /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_oxy.jsonl:2 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_oxy.jsonl:22: 0.875

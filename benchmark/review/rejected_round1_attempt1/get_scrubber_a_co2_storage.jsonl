@@ -1,0 +1,25 @@
+{"text": "scrubber A CO2 storage", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "A scrubber CO2 level", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "scrubber A canister level", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "A-side carbon storage", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "CO2 in scrubber A", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "check scrubber A storage", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "How full is scrubber A?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "What CO2 storage remains in the A scrubber?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could you read scrubber A carbon dioxide capacity?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I need the storage level for scrubber A, not its pressure.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Uh, how much CO2 has the A canister collected?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Please report the remaining capacity of CO2 scrubber A.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "scrubber a co2 storage percent", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "whats left in carbon scrubber a", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "read the a side co2 canister level", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "scrubber A carbon dioxide remaining", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "how full is the first scrubber canister", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Flight, tell me the stored CO2 load in scrubber A as a percentage of capacity.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Before I switch loops, check how much carbon dioxide storage remains in the A scrubber.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could you pull the A-canister storage reading and leave out any pressure values?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Houston, report the current fill level of the carbon dioxide collection bed in scrubber A.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I need the remaining CO2 capacity for the A side while I am outside the airlock.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Okay so, what fraction of its storage capacity has scrubber A used for carbon dioxide?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "The B canister is not what I mean; give me scrubber A CO2 storage level.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "For the maintenance log, call out scrubber A carbon dioxide storage in percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}

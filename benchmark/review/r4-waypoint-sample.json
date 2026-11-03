@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "text": "Remove the route marker Polar Relay before saving this track."
+  },
+  {
+    "id": 2,
+    "text": "Mark Artemis Waypoint as a waypoint so it stays on the chart."
+  },
+  {
+    "id": 3,
+    "text": "Add Permanently Shadowed Site to the map as a waypoint for a possible return."
+  },
+  {
+    "id": 4,
+    "text": "Create a saved waypoint whose label is Davis Ridge."
+  },
+  {
+    "id": 5,
+    "text": "Clear the saved waypoint named site 8 from the route."
+  },
+  {
+    "id": 6,
+    "text": "i do not need the Rover 8 marker anymore; wipe it."
+  },
+  {
+    "id": 7,
+    "text": "Delete the stored navigation point labeled site delta."
+  },
+  {
+    "id": 8,
+    "text": "Please unpin Nobile Ridge from my list of waypoints."
+  },
+  {
+    "id": 9,
+    "text": "Clear Armstrong Point as one of the saved route stops."
+  },
+  {
+    "id": 10,
+    "text": "I want the chart to remember site foxtrot as a waypoint."
+  },
+  {
+    "id": 11,
+    "text": "Remove Rover 8 from the map’s remembered waypoints."
+  },
+  {
+    "id": 12,
+    "text": "Set a waypoint at site foxtrot on the current map."
+  },
+  {
+    "id": 13,
+    "text": "Store the location South Ray as a waypoint entry."
+  },
+  {
+    "id": 14,
+    "text": "Save the map pin for Armstrong Point as an intermediate waypoint."
+  },
+  {
+    "id": 15,
+    "text": "please retain Delta Base as a navigation waypoint."
+  },
+  {
+    "id": 16,
+    "text": "Take Kennedy Crater out of the waypoint register on my display."
+  },
+  {
+    "id": 17,
+    "text": "Keep Kaguya Ridge as a waypoint, separate from the destination."
+  },
+  {
+    "id": 18,
+    "text": "Store Endurance Crater as a waypoint before the signal drops"
+  },
+  {
+    "id": 19,
+    "text": "save Peary Crater in my list of navigation markers."
+  },
+  {
+    "id": 20,
+    "text": "I may need this position later; waypoint Henson Crater."
+  },
+  {
+    "id": 21,
+    "text": "I want waypoint Davis Ridge forgotten by the suit map."
+  },
+  {
+    "id": 22,
+    "text": "Delete Endurance Crater as a waypoint, keep my destination unchanged."
+  },
+  {
+    "id": 23,
+    "text": "Please pin Alpha Station as another point on this route."
+  },
+  {
+    "id": 24,
+    "text": "Drop the waypoint entry for Scott Station now"
+  },
+  {
+    "id": 25,
+    "text": "Place a revisit marker for Endurance Crater in navigation."
+  },
+  {
+    "id": 26,
+    "text": "I want Ridge Charlie kept in the map waypoints"
+  },
+  {
+    "id": 27,
+    "text": "Unlist the waypoint for Nansen Ridge from my HUD."
+  },
+  {
+    "id": 28,
+    "text": "Take the saved map point Endurance Crater out of navigation."
+  },
+  {
+    "id": 29,
+    "text": "Put a return-path pin at the named site site delta."
+  },
+  {
+    "id": 30,
+    "text": "take Borman Point off the list of places i can revisit."
+  },
+  {
+    "id": 31,
+    "text": "Please remove Alpha Station from the nav waypoint collection."
+  },
+  {
+    "id": 32,
+    "text": "Get rid of my saved pin at Delta Base."
+  },
+  {
+    "id": 33,
+    "text": "Add the waypoint label Kaguya Ridge to the route record."
+  },
+  {
+    "id": 34,
+    "text": "That marker at South Ray is stale; delete the entry."
+  },
+  {
+    "id": 35,
+    "text": "Add a waypoint reference for the traverse at Luna 4"
+  },
+  {
+    "id": 36,
+    "text": "add a stop on my route at sample site 5."
+  },
+  {
+    "id": 37,
+    "text": "Keep the named point Nobile Ridge among my route markers."
+  },
+  {
+    "id": 38,
+    "text": "Erase the map pin for Prospector 3 out of my saved points"
+  },
+  {
+    "id": 39,
+    "text": "Add Prospector Ridge as a point to retrace on the way home."
+  },
+  {
+    "id": 40,
+    "text": "The map has an extra point; remove waypoint Conrad Crater."
+  },
+  {
+    "id": 41,
+    "text": "Insert a new waypoint at the location Peary Crater."
+  },
+  {
+    "id": 42,
+    "text": "Save Leibnitz Plateau as a waypoint marker I can revisit."
+  },
+  {
+    "id": 43,
+    "text": "Add this named site, Delta Base, to the route waypoint list."
+  },
+  {
+    "id": 44,
+    "text": "Erase that revisit marker, Miller Outpost, from the chart."
+  },
+  {
+    "id": 45,
+    "text": "Cancel the saved waypoint with label Peary Crater"
+  },
+  {
+    "id": 46,
+    "text": "I am done with that waypoint; delete Kennedy Crater."
+  },
+  {
+    "id": 47,
+    "text": "Can you preserve Shackleton Base in my waypoint collection?"
+  },
+  {
+    "id": 48,
+    "text": "Purge the route list of its Nansen Ridge waypoint."
+  },
+  {
+    "id": 49,
+    "text": "remove the waypoint record that says Miller Outpost."
+  },
+  {
+    "id": 50,
+    "text": "Please clear Peary Crater from the collection of map pins."
+  }
+]

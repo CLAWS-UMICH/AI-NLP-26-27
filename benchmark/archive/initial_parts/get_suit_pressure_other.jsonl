@@ -1,0 +1,100 @@
+{"text": "Check suit trace-gas pressure, at 18%?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Check suit trace-gas pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Read suit trace gas partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Read suit trace gas partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Show me partial pressure of trace gases in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Show me partial pressure of trace gases in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "What's the suit pressure for gases other than oxygen and carbon dioxide; it's forty one percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "What's the suit pressure for gases other than oxygen and carbon dioxide, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Can you report suit other-gas pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Can you report suit other-gas pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Could you read suit trace-gas pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Could you read suit trace-gas pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I need suit trace gas partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I need suit trace gas partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Give me partial pressure of trace gases in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Give me partial pressure of trace gases in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Pull up the suit pressure for gases other than oxygen and carbon dioxide, forty one percent copy?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Pull up the suit pressure for gases other than oxygen and carbon dioxide, this check is 53 percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Tell me suit other-gas pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Tell me suit other-gas pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Uh, check suit trace-gas pressure, at 18%?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Uh, check suit trace-gas pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Okay, read suit trace gas partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Okay, read suit trace gas partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Hey, what's partial pressure of trace gases in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Hey, what's partial pressure of trace gases in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Quick check: the suit pressure for gases other than oxygen and carbon dioxide; it's forty one percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Quick check: the suit pressure for gases other than oxygen and carbon dioxide, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "For the log, read suit other-gas pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "For the log, read suit other-gas pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Before I move, check suit trace-gas pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Before I move, check suit trace-gas pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Flight, can you report suit trace gas partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Flight, can you report suit trace gas partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Houston, what's partial pressure of trace gases in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Houston, what's partial pressure of trace gases in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I'm seeing a change; read the suit pressure for gases other than oxygen and carbon dioxide, forty one percent copy?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I'm seeing a change; read the suit pressure for gases other than oxygen and carbon dioxide, this check is 53 percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Please give me suit other-gas pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Please give me suit other-gas pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "How's suit trace-gas pressure, at 18%?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "How's suit trace-gas pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Do we have suit trace gas partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Do we have suit trace gas partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Let's check partial pressure of trace gases in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Let's check partial pressure of trace gases in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I want to verify the suit pressure for gases other than oxygen and carbon dioxide; it's forty one percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I want to verify the suit pressure for gases other than oxygen and carbon dioxide, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Can I get suit other-gas pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Can I get suit other-gas pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Uh, what's suit trace-gas pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Uh, what's suit trace-gas pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Okay so, show suit trace gas partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Okay so, show suit trace gas partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "On my display, check partial pressure of trace gases in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "On my display, check partial pressure of trace gases in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Confirm the suit pressure for gases other than oxygen and carbon dioxide, forty one percent copy?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Confirm the suit pressure for gases other than oxygen and carbon dioxide, this check is 53 percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Need a reading for suit other-gas pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Need a reading for suit other-gas pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Status on suit trace-gas pressure, at 18%?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Status on suit trace-gas pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Could I get suit trace gas partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Could I get suit trace gas partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Let's verify partial pressure of trace gases in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Let's verify partial pressure of trace gases in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I'm concerned about the suit pressure for gases other than oxygen and carbon dioxide; it's forty one percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I'm concerned about the suit pressure for gases other than oxygen and carbon dioxide, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "One more check: read suit other-gas pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "One more check: read suit other-gas pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "When you can, report suit trace-gas pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "When you can, report suit trace-gas pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "During this traverse, check suit trace gas partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "During this traverse, check suit trace gas partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Is partial pressure of trace gases in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Is partial pressure of trace gases in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Are we tracking the suit pressure for gases other than oxygen and carbon dioxide, forty one percent copy?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Are we tracking the suit pressure for gases other than oxygen and carbon dioxide, this check is 53 percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "What's the current suit other-gas pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "What's the current suit other-gas pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Read back suit trace-gas pressure, at 18%?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Read back suit trace-gas pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I missed that; report suit trace gas partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I missed that; report suit trace gas partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "For situational awareness, give me partial pressure of trace gases in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "For situational awareness, give me partial pressure of trace gases in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Before the next step, verify the suit pressure for gases other than oxygen and carbon dioxide; it's forty one percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Before the next step, verify the suit pressure for gases other than oxygen and carbon dioxide, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I'm logging suit other-gas pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I'm logging suit other-gas pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Please confirm suit trace-gas pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Please confirm suit trace-gas pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Let's get suit trace gas partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Let's get suit trace gas partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Any update on partial pressure of trace gases in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Any update on partial pressure of trace gases in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I need the current the suit pressure for gases other than oxygen and carbon dioxide, forty one percent copy?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I need the current the suit pressure for gases other than oxygen and carbon dioxide, this check is 53 percent.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Would you check suit other-gas pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Would you check suit other-gas pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_other"], "source": "llm"}

@@ -1,0 +1,25 @@
+{"text": "Display the EVA terrain-and-position chart on my helmet.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Navigation console, make that visible.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could the traverse map appear on the heads-up display?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "need the EVA position chart", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Um, I want the map interface opened for this spacewalk.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Assign the EVA cartography panel to my visor now.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "At the handhold, reveal the map screen for me.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Bring my location and terrain window into focus.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you launch the navigation chart before I resume?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Open the EVA route map interface on the suit display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I need the terrain map showing during this pause.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "cartography panel up", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please select the map view on the helmet UI.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Can you surface the EVA navigation chart on screen?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Put the location map in the foreground.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "erm, show route map", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would the visor open its EVA map interface now?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Make the terrain and position panel the one that is showing.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you bring my navigation chart up for reference?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Activate the EVA wayfinding map so I can orient at the handrail.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "open my EVA position display", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Let us see the traversal map on the wrist screen.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I need bearings; display the navigation map panel.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you put the terrain map on my visor?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Show the EVA location and map interface, please.", "intents": ["open_menu_navigation"], "source": "llm"}

@@ -1,0 +1,25 @@
+{"text": "At the suit loop, read the carbon-dioxide partial pressure channel.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Could the environmental unit return CO2 pressure for the suit atmosphere?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "What partial pressure is the suit assigning to carbon dioxide right now?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Please pull the suit-side CO2 partial-pressure figure in kilopascals.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Check the pressure contribution from CO2 within the suit volume.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Flight, say the suit sensor value for carbon dioxide partial pressure.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "How high is carbon dioxide partial pressure inside the suit shell?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Would you retrieve the CO2 pressure reading from my suit circulation loop?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "please query the suit atmosphere for its co2 partial pressure", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "read the suit carbon dioxide pressure value again", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "get partial pressure for co two in my suit", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "check the suit sensor for c o 2 pressure", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "could you say the co2 partial pressure measured inside my suit", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Before I leave this handrail, tell me the suit-loop carbon dioxide partial pressure.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Um, I need the reading for CO2 partial pressure in the suit, not the tank.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "The helmet has another sensor; please give me the suit atmosphere CO2 pressure.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Can you verify how much pressure carbon dioxide contributes to my suit gas mix?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "For the EVA log, report the suit reading for carbon dioxide in mmHg.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "While I hold at the tool bag, read the partial pressure of CO2 circulating in the suit.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Would you check whether the suit CO2 partial pressure shifted since my last call?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Okay, please retrieve carbon dioxide partial pressure from the suit environmental display.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I missed that number; repeat the suit-side pressure value for carbon dioxide.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Please state the partial pressure measured for CO2 inside my EVA suit atmosphere.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Could I have the suit loop’s carbon-dioxide pressure reading before the next move?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Flight, report the pressure that CO2 alone exerts within the suit.", "intents": ["get_suit_pressure_co2"], "source": "llm"}

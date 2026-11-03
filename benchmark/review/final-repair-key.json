@@ -1,0 +1,164 @@
+[
+  {
+    "source": "parts/get_coolant_gas_pressure.jsonl",
+    "line": 22,
+    "label": "get_coolant_gas_pressure",
+    "text": "Telemetry, please return the coolant gas circuit pressure reading."
+  },
+  {
+    "source": "rounds/r3/get_coolant_gas_pressure.jsonl",
+    "line": 10,
+    "label": "get_coolant_gas_pressure",
+    "text": "uh fetch coolant vapor line psi"
+  },
+  {
+    "source": "rounds/r2/get_coolant_liquid_pressure.jsonl",
+    "line": 7,
+    "label": "get_coolant_liquid_pressure",
+    "text": "Could Houston retrieve a pressure value at the coolant liquid pump outlet?"
+  },
+  {
+    "source": "rounds/r4/get_coolant_liquid_pressure.jsonl",
+    "line": 25,
+    "label": "get_coolant_liquid_pressure",
+    "text": "Can you pull the coolant liquid pressure sensor reading for me now?"
+  },
+  {
+    "source": "parts/get_coolant_storage.jsonl",
+    "line": 1,
+    "label": "get_coolant_storage",
+    "text": "Could I get the coolant reserve volume?"
+  },
+  {
+    "source": "parts/get_fan_pri_rpm.jsonl",
+    "line": 13,
+    "label": "get_fan_pri_rpm",
+    "text": "Could telemetry return revolutions per minute from the primary fan tachometer?"
+  },
+  {
+    "source": "rounds/r2/get_fan_pri_rpm.jsonl",
+    "line": 18,
+    "label": "get_fan_pri_rpm",
+    "text": "query the tachometer for primary fan rotation rpm"
+  },
+  {
+    "source": "rounds/r4/get_fan_pri_rpm.jsonl",
+    "line": 1,
+    "label": "get_fan_pri_rpm",
+    "text": "Can telemetry report the primary fan motor RPM value?"
+  },
+  {
+    "source": "parts/get_fan_pri_rpm.jsonl",
+    "line": 5,
+    "label": "get_fan_pri_rpm",
+    "text": "primary airflow fan rpm reading please"
+  },
+  {
+    "source": "rounds/r2/get_fan_sec_rpm.jsonl",
+    "line": 11,
+    "label": "get_fan_sec_rpm",
+    "text": "For the log, retrieve revolutions per minute from the secondary ventilation fan."
+  },
+  {
+    "source": "parts/get_helmet_pressure_co2.jsonl",
+    "line": 10,
+    "label": "get_helmet_pressure_co2",
+    "text": "Query helmet CO2 pressure via its sensor."
+  },
+  {
+    "source": "parts/get_helmet_pressure_co2.jsonl",
+    "line": 11,
+    "label": "get_helmet_pressure_co2",
+    "text": "Fetch helmet CO2 pressure telemetry."
+  },
+  {
+    "source": "rounds/r3/get_oxy_pri_pressure.jsonl",
+    "line": 1,
+    "label": "get_oxy_pri_pressure",
+    "text": "Mission log needs a reading from the primary oxygen cylinder pressure gauge."
+  },
+  {
+    "source": "parts/get_oxy_pri_pressure.jsonl",
+    "line": 3,
+    "label": "get_oxy_pri_pressure",
+    "text": "Primary oxygen tank psi?"
+  },
+  {
+    "source": "rounds/r3/get_oxy_sec_pressure.jsonl",
+    "line": 4,
+    "label": "get_oxy_sec_pressure",
+    "text": "How much tank pressure is indicated for secondary oxygen right now?"
+  },
+  {
+    "source": "rounds/r4/get_oxy_sec_pressure.jsonl",
+    "line": 21,
+    "label": "get_oxy_sec_pressure",
+    "text": "uh secondary oxygen tank gauge show pressure in bar"
+  },
+  {
+    "source": "rounds/r3/get_scrubber_a_co2_storage.jsonl",
+    "line": 18,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "At the hatch, query the mass of CO2 retained in scrubber A's cartridge."
+  },
+  {
+    "source": "rounds/r3/get_scrubber_a_co2_storage.jsonl",
+    "line": 1,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Report remaining CO2 storage inside scrubber A."
+  },
+  {
+    "source": "rounds/r3/get_suit_pressure_oxy.jsonl",
+    "line": 11,
+    "label": "get_suit_pressure_oxy",
+    "text": "check the eva suit telemetry for oxygen partial pressure value now"
+  },
+  {
+    "source": "rounds/r3/get_suit_pressure_oxy.jsonl",
+    "line": 20,
+    "label": "get_suit_pressure_oxy",
+    "text": "What is oxygen's partial pressure within my EVA suit?"
+  },
+  {
+    "source": "parts/get_suit_pressure_oxy.jsonl",
+    "line": 1,
+    "label": "get_suit_pressure_oxy",
+    "text": "Suit oxygen pO2 value?"
+  },
+  {
+    "source": "rounds/r4/get_suit_pressure_oxy.jsonl",
+    "line": 18,
+    "label": "get_suit_pressure_oxy",
+    "text": "Retrieve the spacesuit O2 partial pressure from the cabin breathing monitor."
+  },
+  {
+    "source": "rounds/r3/get_suit_pressure_oxy.jsonl",
+    "line": 1,
+    "label": "get_suit_pressure_oxy",
+    "text": "How does the suit console report oxygen partial pressure in mmHg?"
+  },
+  {
+    "source": "rounds/r3/get_suit_pressure_co2.jsonl",
+    "line": 1,
+    "label": "get_suit_pressure_co2",
+    "text": "Request the suit's carbon-dioxide component pressure from telemetry."
+  },
+  {
+    "source": "rounds/r4/get_suit_pressure_total.jsonl",
+    "line": 11,
+    "label": "get_suit_pressure_total",
+    "text": "read suit total pressure across all gases"
+  },
+  {
+    "source": "parts/get_coolant_liquid_pressure.jsonl",
+    "line": 12,
+    "label": "get_coolant_liquid_pressure",
+    "text": "show me coolant liquid circuit pressure"
+  },
+  {
+    "source": "parts/Delete_waypoint.jsonl",
+    "line": 1,
+    "label": "Delete_waypoint",
+    "text": "Delete waypoint Cabeus"
+  }
+]

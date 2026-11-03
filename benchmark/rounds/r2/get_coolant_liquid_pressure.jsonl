@@ -1,0 +1,25 @@
+{"text": "Pressure, coolant liquid loop?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Can the console show pressure in the coolant liquid passage?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Please retrieve psi from the coolant fluid-side sensor.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "What pressure does the liquid-phase coolant return register?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "coolant liquid line psi please", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Ask telemetry for a pressure value on the liquid coolant circuit.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could Houston retrieve a pressure value at the coolant liquid pump outlet?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How many pounds per square inch are in the liquid coolant loop?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Get the pressure measurement from the coolant liquid manifold.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "um coolant liquid pressure check", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could you report the radiator’s liquid-coolant inlet pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Please send a fresh reading from the coolant liquid pressure channel.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Is the liquid-side coolant circuit returning a pressure number?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Have the suit controller query pressure in the coolant liquid branch.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "What psi is the coolant liquid path showing at the exchanger?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Need a reading of pressure on the coolant system’s liquid side.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Can the display retrieve pressure from the circulating liquid coolant line?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "whats pressure on the coolant liquid side", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Would you call out the liquid coolant return’s pressure reading?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Please read the current pressure at the coolant liquid pump outlet.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Get me a coolant-liquid pressure value from diagnostics, thanks.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How much pressure does the liquid coolant feed sensor detect?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Flight, send psi from the coolant liquid circuit to my headset.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could telemetry show the pressure of liquid coolant at the radiator?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Report the liquid coolant loop pressure in PSI, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}

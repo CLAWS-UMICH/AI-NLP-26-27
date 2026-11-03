@@ -1,0 +1,25 @@
+{"text": "Add a waypoint called Delta Base so I can find it again.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Delta Base"}
+{"text": "Save the map location site foxtrot among my waypoints.", "intents": ["Add_waypoint"], "source": "llm", "slot": "site foxtrot"}
+{"text": "Please plant a route pin at Endurance Crater", "intents": ["Add_waypoint"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "Preserve Kaguya Ridge as an intermediate point on my chart.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "I want a waypoint entry for Peary Crater in the list.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "Put a new marker at Prospector Ridge and label it as a waypoint.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Prospector Ridge"}
+{"text": "bookmark Kennedy Crater on the eva map as a waypoint.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Kennedy Crater"}
+{"text": "Include Luna Base in the saved waypoint set.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Luna Base"}
+{"text": "Mark this site for later: add waypoint Aitken Point.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Aitken Point"}
+{"text": "Add the named map point site 21 to my waypoints.", "intents": ["Add_waypoint"], "source": "llm", "slot": "site 21"}
+{"text": "Keep Tycho Outpost on the route as a waypoint marker.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Tycho Outpost"}
+{"text": "Save another nav point under Armstrong Crater.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Armstrong Crater"}
+{"text": "Can you put a waypoint pin on Delta Ridge?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Delta Ridge"}
+{"text": "I may retrace this path; log soil sample as a waypoint.", "intents": ["Add_waypoint"], "source": "llm", "slot": "soil sample"}
+{"text": "Place Artemis Ridge in the waypoint register on my HUD", "intents": ["Add_waypoint"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "Create a route waypoint with the label Alpha 3.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Alpha 3"}
+{"text": "Add de Gerlache to the map’s revisit points.", "intents": ["Add_waypoint"], "source": "llm", "slot": "de Gerlache"}
+{"text": "make a waypoint at Lunar Gateway before we press on.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "Capture Peary Point as a saved location marker.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Point"}
+{"text": "I need the system to remember Kennedy Landing as a waypoint.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "Tag this point Luna 7 and store it as a waypoint.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Luna 7"}
+{"text": "Put Tycho Spur in the list of route waypoints for me.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "Add a waypoint reference for Conrad Station to the chart.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Conrad Station"}
+{"text": "Save Malapert Massif as a stop marker along my EVA path", "intents": ["Add_waypoint"], "source": "llm", "slot": "Malapert Massif"}
+{"text": "Would you store a waypoint named sample cache 2?", "intents": ["Add_waypoint"], "source": "llm", "slot": "sample cache 2"}

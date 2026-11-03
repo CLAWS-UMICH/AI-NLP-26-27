@@ -1,0 +1,43 @@
+rows=150 labels=6 mean_words=8.09
+COUNT get_oxy_pri_storage: 0
+COUNT get_oxy_sec_storage: 0
+COUNT get_oxy_pri_pressure: 0
+COUNT get_oxy_sec_pressure: 0
+COUNT get_suit_pressure_oxy: 0
+COUNT get_suit_pressure_co2: 0
+COUNT get_suit_pressure_other: 0
+COUNT get_suit_pressure_total: 0
+COUNT get_helmet_pressure_co2: 0
+COUNT get_fan_pri_rpm: 0
+COUNT get_fan_sec_rpm: 0
+COUNT get_scrubber_a_co2_storage: 0
+COUNT get_scrubber_b_co2_storage: 0
+COUNT get_temperature: 0
+COUNT get_coolant_storage: 0
+COUNT get_coolant_gas_pressure: 0
+COUNT get_coolant_liquid_pressure: 0
+COUNT get_heart_rate: 0
+COUNT get_oxy_consumption: 0
+COUNT get_co2_production: 0
+COUNT get_eva_elapsed_time: 0
+COUNT get_primary_battery_level: 0
+COUNT get_secondary_battery_level: 0
+COUNT get_warnings: 0
+COUNT open_menu_vitals: 25
+COUNT open_menu_navigation: 25
+COUNT open_menu_tasks: 25
+COUNT open_menu_uia: 25
+COUNT close_menu: 25
+COUNT Get_coordinates: 0
+COUNT Set_navigation_target: 0
+COUNT reroute_navigation: 25
+COUNT Add_waypoint: 0
+COUNT Delete_waypoint: 0
+COUNT Complete_task: 0
+COUNT unhandled: 0
+STYLE_RATES [["question", 0.23333333333333334, 0.23333333333333334], ["filler", 0.12, 0.12], ["no_punctuation_or_lowercase", 0.15333333333333332, 0.15333333333333332], ["asr", 0.0, 0.0]]
+INTENT_STYLE {"open_menu_vitals": {"question": 0.28, "filler": 0.12, "no_punctuation_or_lowercase": 0.12, "asr": 0.0}, "open_menu_navigation": {"question": 0.24, "filler": 0.12, "no_punctuation_or_lowercase": 0.16, "asr": 0.0}, "open_menu_tasks": {"question": 0.24, "filler": 0.12, "no_punctuation_or_lowercase": 0.16, "asr": 0.0}, "open_menu_uia": {"question": 0.24, "filler": 0.12, "no_punctuation_or_lowercase": 0.16, "asr": 0.0}, "close_menu": {"question": 0.2, "filler": 0.12, "no_punctuation_or_lowercase": 0.16, "asr": 0.0}, "reroute_navigation": {"question": 0.2, "filler": 0.12, "no_punctuation_or_lowercase": 0.16, "asr": 0.0}}
+STYLE_PROBE accuracy=0.1000
+CONTENT_PROBE accuracy=0.9667
+TOP_CONFUSIONS [[["open_menu_navigation", "open_menu_vitals"], 2], [["open_menu_tasks", "open_menu_vitals"], 2], [["open_menu_vitals", "open_menu_navigation"], 1]]
+GATES: 0 issue(s)

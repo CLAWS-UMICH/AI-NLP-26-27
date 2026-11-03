@@ -1,0 +1,1498 @@
+rows=3600 labels=36 mean_words=9.84
+COUNT get_oxy_pri_storage: 100
+COUNT get_oxy_sec_storage: 100
+COUNT get_oxy_pri_pressure: 100
+COUNT get_oxy_sec_pressure: 100
+COUNT get_suit_pressure_oxy: 100
+COUNT get_suit_pressure_co2: 100
+COUNT get_suit_pressure_other: 100
+COUNT get_suit_pressure_total: 100
+COUNT get_helmet_pressure_co2: 100
+COUNT get_fan_pri_rpm: 100
+COUNT get_fan_sec_rpm: 100
+COUNT get_scrubber_a_co2_storage: 100
+COUNT get_scrubber_b_co2_storage: 100
+COUNT get_temperature: 100
+COUNT get_coolant_storage: 100
+COUNT get_coolant_gas_pressure: 100
+COUNT get_coolant_liquid_pressure: 100
+COUNT get_heart_rate: 100
+COUNT get_oxy_consumption: 100
+COUNT get_co2_production: 100
+COUNT get_eva_elapsed_time: 100
+COUNT get_primary_battery_level: 100
+COUNT get_secondary_battery_level: 100
+COUNT get_warnings: 100
+COUNT open_menu_vitals: 100
+COUNT open_menu_navigation: 100
+COUNT open_menu_tasks: 100
+COUNT open_menu_uia: 100
+COUNT close_menu: 100
+COUNT Get_coordinates: 100
+COUNT Set_navigation_target: 100
+COUNT reroute_navigation: 100
+COUNT Add_waypoint: 100
+COUNT Delete_waypoint: 100
+COUNT Complete_task: 100
+COUNT unhandled: 100
+STYLE_RATES [["question", 0.17555555555555555, 0.23444444444444443], ["filler", 0.13916666666666666, 0.16083333333333333], ["lowercase", 0.11972222222222222, 0.6702777777777779], ["asr", 0.058055555555555555, 0.15194444444444444]]
+PROBES unavailable: scikit-learn/numpy not installed
+GATES: 1458 issue(s)
+FAIL duplicate rows 500 and 520
+FAIL duplicate rows 501 and 521
+FAIL duplicate rows 502 and 522
+FAIL duplicate rows 503 and 523
+FAIL duplicate rows 600 and 620
+FAIL duplicate rows 601 and 621
+FAIL duplicate rows 602 and 622
+FAIL duplicate rows 603 and 623
+FAIL duplicate rows 700 and 720
+FAIL duplicate rows 701 and 721
+FAIL duplicate rows 702 and 722
+FAIL duplicate rows 703 and 723
+FAIL duplicate rows 800 and 820
+FAIL duplicate rows 801 and 821
+FAIL duplicate rows 802 and 822
+FAIL duplicate rows 803 and 823
+FAIL duplicate rows 1100 and 1120
+FAIL duplicate rows 1101 and 1121
+FAIL duplicate rows 1102 and 1122
+FAIL duplicate rows 1103 and 1123
+FAIL duplicate rows 1200 and 1220
+FAIL duplicate rows 1201 and 1221
+FAIL duplicate rows 1202 and 1222
+FAIL duplicate rows 1203 and 1223
+FAIL duplicate rows 2402 and 2463
+FAIL duplicate rows 2421 and 2486
+FAIL duplicate rows 2426 and 2495
+FAIL duplicate rows 2444 and 2498
+FAIL duplicate rows 2507 and 2516
+FAIL duplicate rows 2517 and 2538
+FAIL duplicate rows 2539 and 2564
+FAIL duplicate rows 2545 and 2572
+FAIL duplicate rows 2548 and 2584
+FAIL duplicate rows 2639 and 2670
+FAIL duplicate rows 2627 and 2680
+FAIL duplicate rows 2709 and 2772
+FAIL duplicate rows 2741 and 2795
+FAIL duplicate rows 2822 and 2829
+FAIL duplicate rows 2833 and 2837
+FAIL get_oxy_pri_storage: only 36 distinct openings
+FAIL get_oxy_pri_storage: missing length bucket
+FAIL get_oxy_sec_storage: only 37 distinct openings
+FAIL get_oxy_sec_storage: missing length bucket
+FAIL get_oxy_pri_pressure: missing length bucket
+FAIL get_oxy_sec_pressure: missing length bucket
+FAIL get_suit_pressure_oxy: missing length bucket
+FAIL get_suit_pressure_co2: missing length bucket
+FAIL get_suit_pressure_other: missing length bucket
+FAIL get_suit_pressure_total: missing length bucket
+FAIL get_helmet_pressure_co2: missing length bucket
+FAIL get_scrubber_a_co2_storage: missing length bucket
+FAIL get_scrubber_b_co2_storage: missing length bucket
+FAIL get_temperature: missing length bucket
+FAIL get_coolant_storage: missing length bucket
+FAIL get_coolant_gas_pressure: missing length bucket
+FAIL get_coolant_liquid_pressure: missing length bucket
+FAIL get_heart_rate: missing length bucket
+FAIL get_co2_production: missing length bucket
+FAIL get_eva_elapsed_time: missing length bucket
+FAIL get_primary_battery_level: missing length bucket
+FAIL get_secondary_battery_level: missing length bucket
+FAIL get_warnings: missing length bucket
+FAIL open_menu_vitals: only 19 distinct openings
+FAIL open_menu_vitals: opening frequency >8
+FAIL open_menu_vitals: missing length bucket
+FAIL open_menu_navigation: only 19 distinct openings
+FAIL open_menu_navigation: opening frequency >8
+FAIL open_menu_navigation: missing length bucket
+FAIL open_menu_tasks: only 19 distinct openings
+FAIL open_menu_tasks: opening frequency >8
+FAIL open_menu_tasks: missing length bucket
+FAIL open_menu_uia: only 19 distinct openings
+FAIL open_menu_uia: missing length bucket
+FAIL close_menu: missing length bucket
+FAIL Get_coordinates: only 20 distinct openings
+FAIL Get_coordinates: missing length bucket
+FAIL Set_navigation_target: only 39 distinct openings
+FAIL Set_navigation_target: missing length bucket
+FAIL reroute_navigation: only 20 distinct openings
+FAIL reroute_navigation: missing length bucket
+FAIL Add_waypoint: opening frequency >8
+FAIL Add_waypoint: missing length bucket
+FAIL Delete_waypoint: only 37 distinct openings
+FAIL Delete_waypoint: opening frequency >8
+FAIL Delete_waypoint: missing length bucket
+FAIL Complete_task: only 39 distinct openings
+FAIL Complete_task: opening frequency >8
+FAIL Complete_task: missing length bucket
+FAIL unhandled: missing length bucket
+FAIL cross-label near duplicate 104/4: 0.702
+FAIL near duplicate same label 112/110: 0.806
+FAIL cross-label near duplicate 114/14: 0.702
+FAIL cross-label near duplicate 116/16: 0.714
+FAIL cross-label near duplicate 117/17: 0.754
+FAIL cross-label near duplicate 119/19: 0.774
+FAIL cross-label near duplicate 120/20: 0.787
+FAIL cross-label near duplicate 122/22: 0.759
+FAIL cross-label near duplicate 123/23: 0.708
+FAIL cross-label near duplicate 124/24: 0.745
+FAIL cross-label near duplicate 126/26: 0.736
+FAIL cross-label near duplicate 127/27: 0.778
+FAIL cross-label near duplicate 129/29: 0.763
+FAIL cross-label near duplicate 130/30: 0.803
+FAIL cross-label near duplicate 132/32: 0.708
+FAIL cross-label near duplicate 133/33: 0.720
+FAIL cross-label near duplicate 134/34: 0.770
+FAIL cross-label near duplicate 136/36: 0.745
+FAIL cross-label near duplicate 137/37: 0.720
+FAIL cross-label near duplicate 139/39: 0.791
+FAIL cross-label near duplicate 140/40: 0.846
+FAIL cross-label near duplicate 141/41: 0.734
+FAIL cross-label near duplicate 142/42: 0.764
+FAIL cross-label near duplicate 143/43: 0.754
+FAIL cross-label near duplicate 144/44: 0.797
+FAIL cross-label near duplicate 146/46: 0.750
+FAIL cross-label near duplicate 147/47: 0.731
+FAIL cross-label near duplicate 148/48: 0.702
+FAIL cross-label near duplicate 149/49: 0.819
+FAIL cross-label near duplicate 150/50: 0.791
+FAIL cross-label near duplicate 151/51: 0.794
+FAIL cross-label near duplicate 153/53: 0.725
+FAIL cross-label near duplicate 154/54: 0.725
+FAIL cross-label near duplicate 156/56: 0.736
+FAIL cross-label near duplicate 157/57: 0.767
+FAIL cross-label near duplicate 159/59: 0.808
+FAIL cross-label near duplicate 160/60: 0.812
+FAIL cross-label near duplicate 161/61: 0.781
+FAIL cross-label near duplicate 164/64: 0.778
+FAIL cross-label near duplicate 167/67: 0.745
+FAIL cross-label near duplicate 168/68: 0.731
+FAIL cross-label near duplicate 169/69: 0.791
+FAIL cross-label near duplicate 170/70: 0.821
+FAIL cross-label near duplicate 171/71: 0.778
+FAIL cross-label near duplicate 172/72: 0.726
+FAIL cross-label near duplicate 173/73: 0.725
+FAIL cross-label near duplicate 174/74: 0.770
+FAIL cross-label near duplicate 176/76: 0.759
+FAIL cross-label near duplicate 177/77: 0.725
+FAIL cross-label near duplicate 178/78: 0.814
+FAIL cross-label near duplicate 179/79: 0.746
+FAIL cross-label near duplicate 180/80: 0.806
+FAIL cross-label near duplicate 183/83: 0.708
+FAIL cross-label near duplicate 185/85: 0.712
+FAIL cross-label near duplicate 186/86: 0.736
+FAIL cross-label near duplicate 187/87: 0.736
+FAIL cross-label near duplicate 188/88: 0.794
+FAIL cross-label near duplicate 189/89: 0.742
+FAIL cross-label near duplicate 190/90: 0.794
+FAIL cross-label near duplicate 191/91: 0.754
+FAIL cross-label near duplicate 193/93: 0.731
+FAIL cross-label near duplicate 194/94: 0.720
+FAIL cross-label near duplicate 195/95: 0.707
+FAIL cross-label near duplicate 196/96: 0.731
+FAIL cross-label near duplicate 198/98: 0.803
+FAIL cross-label near duplicate 199/99: 0.720
+FAIL near duplicate same label 201/200: 0.800
+FAIL near duplicate same label 202/200: 0.800
+FAIL near duplicate same label 211/210: 0.822
+FAIL near duplicate same label 212/210: 0.841
+FAIL near duplicate same label 293/263: 0.803
+FAIL cross-label near duplicate 301/201: 0.714
+FAIL near duplicate same label 302/300: 0.816
+FAIL cross-label near duplicate 303/203: 0.711
+FAIL cross-label near duplicate 304/204: 0.750
+FAIL cross-label near duplicate 309/209: 0.729
+FAIL near duplicate same label 309/304: 0.800
+FAIL near duplicate same label 311/310: 0.822
+FAIL near duplicate same label 312/310: 0.841
+FAIL cross-label near duplicate 313/213: 0.704
+FAIL cross-label near duplicate 314/214: 0.738
+FAIL cross-label near duplicate 316/216: 0.759
+FAIL cross-label near duplicate 317/217: 0.783
+FAIL cross-label near duplicate 318/218: 0.772
+FAIL cross-label near duplicate 319/219: 0.739
+FAIL cross-label near duplicate 320/220: 0.770
+FAIL cross-label near duplicate 321/221: 0.790
+FAIL cross-label near duplicate 322/222: 0.761
+FAIL cross-label near duplicate 323/223: 0.817
+FAIL cross-label near duplicate 324/224: 0.768
+FAIL cross-label near duplicate 325/225: 0.818
+FAIL cross-label near duplicate 326/226: 0.783
+FAIL cross-label near duplicate 327/227: 0.812
+FAIL cross-label near duplicate 328/228: 0.735
+FAIL cross-label near duplicate 330/230: 0.754
+FAIL cross-label near duplicate 331/231: 0.806
+FAIL cross-label near duplicate 332/232: 0.750
+FAIL cross-label near duplicate 333/233: 0.814
+FAIL cross-label near duplicate 334/234: 0.774
+FAIL cross-label near duplicate 335/235: 0.821
+FAIL cross-label near duplicate 336/236: 0.776
+FAIL cross-label near duplicate 337/237: 0.772
+FAIL cross-label near duplicate 338/238: 0.783
+FAIL cross-label near duplicate 339/239: 0.755
+FAIL cross-label near duplicate 340/240: 0.779
+FAIL cross-label near duplicate 341/241: 0.831
+FAIL cross-label near duplicate 342/242: 0.771
+FAIL cross-label near duplicate 343/243: 0.824
+FAIL cross-label near duplicate 344/244: 0.785
+FAIL cross-label near duplicate 345/245: 0.823
+FAIL cross-label near duplicate 346/246: 0.772
+FAIL cross-label near duplicate 347/247: 0.700
+FAIL cross-label near duplicate 348/248: 0.800
+FAIL cross-label near duplicate 349/249: 0.742
+FAIL cross-label near duplicate 350/250: 0.787
+FAIL cross-label near duplicate 351/251: 0.780
+FAIL cross-label near duplicate 352/252: 0.763
+FAIL cross-label near duplicate 353/253: 0.822
+FAIL cross-label near duplicate 354/254: 0.783
+FAIL cross-label near duplicate 355/255: 0.806
+FAIL cross-label near duplicate 356/256: 0.764
+FAIL cross-label near duplicate 357/257: 0.737
+FAIL cross-label near duplicate 358/258: 0.776
+FAIL cross-label near duplicate 359/259: 0.729
+FAIL cross-label near duplicate 360/260: 0.820
+FAIL cross-label near duplicate 361/261: 0.763
+FAIL cross-label near duplicate 362/262: 0.763
+FAIL cross-label near duplicate 363/263: 0.794
+FAIL cross-label near duplicate 364/264: 0.814
+FAIL cross-label near duplicate 365/265: 0.821
+FAIL cross-label near duplicate 366/266: 0.740
+FAIL cross-label near duplicate 367/267: 0.700
+FAIL cross-label near duplicate 368/268: 0.800
+FAIL cross-label near duplicate 369/269: 0.750
+FAIL cross-label near duplicate 370/270: 0.831
+FAIL cross-label near duplicate 371/271: 0.764
+FAIL cross-label near duplicate 372/272: 0.809
+FAIL cross-label near duplicate 373/273: 0.831
+FAIL cross-label near duplicate 374/274: 0.812
+FAIL cross-label near duplicate 375/275: 0.850
+FAIL cross-label near duplicate 376/276: 0.773
+FAIL cross-label near duplicate 377/277: 0.759
+FAIL cross-label near duplicate 378/278: 0.778
+FAIL cross-label near duplicate 379/279: 0.725
+FAIL cross-label near duplicate 380/280: 0.806
+FAIL cross-label near duplicate 381/281: 0.776
+FAIL cross-label near duplicate 382/282: 0.764
+FAIL cross-label near duplicate 383/283: 0.812
+FAIL cross-label near duplicate 385/285: 0.831
+FAIL cross-label near duplicate 386/286: 0.762
+FAIL cross-label near duplicate 387/287: 0.759
+FAIL cross-label near duplicate 388/288: 0.780
+FAIL cross-label near duplicate 389/289: 0.720
+FAIL cross-label near duplicate 390/290: 0.833
+FAIL cross-label near duplicate 391/291: 0.797
+FAIL cross-label near duplicate 392/292: 0.750
+FAIL cross-label near duplicate 393/293: 0.794
+FAIL near duplicate same label 393/363: 0.812
+FAIL cross-label near duplicate 394/294: 0.704
+FAIL cross-label near duplicate 395/295: 0.844
+FAIL cross-label near duplicate 396/296: 0.780
+FAIL cross-label near duplicate 397/297: 0.745
+FAIL cross-label near duplicate 398/298: 0.765
+FAIL cross-label near duplicate 399/299: 0.772
+FAIL near duplicate same label 402/400: 0.806
+FAIL near duplicate same label 406/405: 0.814
+FAIL near duplicate same label 407/405: 0.833
+FAIL near duplicate same label 411/410: 0.818
+FAIL near duplicate same label 412/410: 0.837
+FAIL near duplicate same label 419/406: 0.840
+FAIL near duplicate same label 463/401: 0.800
+FAIL near duplicate same label 520/500: 1.000
+FAIL near duplicate same label 521/501: 1.000
+FAIL near duplicate same label 522/502: 1.000
+FAIL near duplicate same label 523/503: 1.000
+FAIL near duplicate same label 524/504: 0.812
+FAIL near duplicate same label 527/507: 0.867
+FAIL near duplicate same label 541/501: 0.895
+FAIL near duplicate same label 541/521: 0.895
+FAIL near duplicate same label 542/502: 0.821
+FAIL near duplicate same label 542/522: 0.821
+FAIL near duplicate same label 543/503: 0.841
+FAIL near duplicate same label 543/523: 0.841
+FAIL near duplicate same label 544/504: 0.804
+FAIL near duplicate same label 544/524: 0.817
+FAIL near duplicate same label 548/508: 0.820
+FAIL near duplicate same label 549/509: 0.862
+FAIL near duplicate same label 549/529: 0.817
+FAIL near duplicate same label 552/512: 0.802
+FAIL cross-label near duplicate 560/489: 0.702
+FAIL near duplicate same label 561/501: 0.861
+FAIL near duplicate same label 561/521: 0.861
+FAIL near duplicate same label 561/541: 0.819
+FAIL near duplicate same label 562/502: 0.812
+FAIL near duplicate same label 562/522: 0.812
+FAIL near duplicate same label 563/503: 0.841
+FAIL near duplicate same label 563/523: 0.841
+FAIL near duplicate same label 564/544: 0.854
+FAIL near duplicate same label 565/545: 0.819
+FAIL near duplicate same label 569/529: 0.841
+FAIL near duplicate same label 569/549: 0.824
+FAIL near duplicate same label 574/514: 0.852
+FAIL near duplicate same label 574/534: 0.835
+FAIL near duplicate same label 575/515: 0.882
+FAIL near duplicate same label 575/535: 0.837
+FAIL near duplicate same label 575/555: 0.837
+FAIL near duplicate same label 579/519: 0.807
+FAIL near duplicate same label 581/501: 0.908
+FAIL near duplicate same label 581/521: 0.908
+FAIL near duplicate same label 581/541: 0.840
+FAIL near duplicate same label 581/561: 0.810
+FAIL near duplicate same label 583/503: 0.800
+FAIL near duplicate same label 583/523: 0.800
+FAIL near duplicate same label 587/547: 0.814
+FAIL near duplicate same label 589/529: 0.841
+FAIL near duplicate same label 589/549: 0.824
+FAIL near duplicate same label 589/569: 0.832
+FAIL near duplicate same label 592/512: 0.802
+FAIL near duplicate same label 594/574: 0.815
+FAIL near duplicate same label 595/575: 0.837
+FAIL near duplicate same label 599/579: 0.800
+FAIL cross-label near duplicate 601/501: 0.716
+FAIL cross-label near duplicate 601/521: 0.716
+FAIL cross-label near duplicate 603/503: 0.786
+FAIL cross-label near duplicate 603/523: 0.786
+FAIL cross-label near duplicate 604/504: 0.712
+FAIL cross-label near duplicate 609/509: 0.737
+FAIL cross-label near duplicate 610/510: 0.736
+FAIL cross-label near duplicate 615/515: 0.717
+FAIL near duplicate same label 620/600: 1.000
+FAIL cross-label near duplicate 621/501: 0.716
+FAIL cross-label near duplicate 621/521: 0.716
+FAIL near duplicate same label 621/601: 1.000
+FAIL near duplicate same label 622/602: 1.000
+FAIL cross-label near duplicate 623/503: 0.786
+FAIL cross-label near duplicate 623/523: 0.786
+FAIL near duplicate same label 623/603: 1.000
+FAIL cross-label near duplicate 624/524: 0.718
+FAIL near duplicate same label 624/604: 0.822
+FAIL near duplicate same label 626/606: 0.822
+FAIL near duplicate same label 627/607: 0.890
+FAIL cross-label near duplicate 629/529: 0.736
+FAIL cross-label near duplicate 630/530: 0.742
+FAIL cross-label near duplicate 631/531: 0.704
+FAIL cross-label near duplicate 632/532: 0.752
+FAIL cross-label near duplicate 633/533: 0.745
+FAIL cross-label near duplicate 635/535: 0.714
+FAIL cross-label near duplicate 641/541: 0.729
+FAIL near duplicate same label 641/601: 0.893
+FAIL near duplicate same label 641/621: 0.893
+FAIL cross-label near duplicate 642/542: 0.707
+FAIL near duplicate same label 642/602: 0.810
+FAIL near duplicate same label 642/622: 0.810
+FAIL cross-label near duplicate 643/543: 0.797
+FAIL near duplicate same label 643/603: 0.838
+FAIL near duplicate same label 643/623: 0.838
+FAIL cross-label near duplicate 644/544: 0.721
+FAIL near duplicate same label 644/604: 0.814
+FAIL near duplicate same label 644/624: 0.802
+FAIL near duplicate same label 647/607: 0.831
+FAIL near duplicate same label 647/627: 0.831
+FAIL near duplicate same label 648/608: 0.800
+FAIL cross-label near duplicate 649/549: 0.725
+FAIL near duplicate same label 649/609: 0.848
+FAIL cross-label near duplicate 650/550: 0.711
+FAIL cross-label near duplicate 654/554: 0.718
+FAIL cross-label near duplicate 655/555: 0.714
+FAIL near duplicate same label 656/616: 0.830
+FAIL near duplicate same label 657/617: 0.827
+FAIL cross-label near duplicate 661/561: 0.739
+FAIL near duplicate same label 661/601: 0.859
+FAIL near duplicate same label 661/621: 0.859
+FAIL near duplicate same label 661/641: 0.817
+FAIL cross-label near duplicate 662/562: 0.710
+FAIL near duplicate same label 662/602: 0.800
+FAIL near duplicate same label 662/622: 0.800
+FAIL cross-label near duplicate 663/563: 0.797
+FAIL near duplicate same label 663/603: 0.838
+FAIL near duplicate same label 663/623: 0.838
+FAIL cross-label near duplicate 664/564: 0.723
+FAIL near duplicate same label 664/604: 0.806
+FAIL near duplicate same label 664/644: 0.856
+FAIL near duplicate same label 665/645: 0.819
+FAIL near duplicate same label 667/607: 0.819
+FAIL near duplicate same label 667/627: 0.819
+FAIL cross-label near duplicate 669/569: 0.725
+FAIL near duplicate same label 669/629: 0.820
+FAIL near duplicate same label 669/649: 0.808
+FAIL cross-label near duplicate 670/570: 0.747
+FAIL cross-label near duplicate 671/571: 0.707
+FAIL cross-label near duplicate 672/572: 0.755
+FAIL cross-label near duplicate 673/573: 0.760
+FAIL near duplicate same label 674/614: 0.864
+FAIL near duplicate same label 674/634: 0.828
+FAIL near duplicate same label 675/615: 0.865
+FAIL near duplicate same label 675/635: 0.840
+FAIL near duplicate same label 675/655: 0.822
+FAIL cross-label near duplicate 681/581: 0.733
+FAIL near duplicate same label 681/601: 0.907
+FAIL near duplicate same label 681/621: 0.907
+FAIL near duplicate same label 681/641: 0.838
+FAIL near duplicate same label 681/661: 0.807
+FAIL cross-label near duplicate 682/582: 0.730
+FAIL cross-label near duplicate 683/583: 0.810
+FAIL cross-label near duplicate 684/584: 0.760
+FAIL cross-label near duplicate 685/585: 0.717
+FAIL near duplicate same label 687/607: 0.813
+FAIL near duplicate same label 687/627: 0.813
+FAIL near duplicate same label 687/647: 0.851
+FAIL cross-label near duplicate 689/589: 0.725
+FAIL near duplicate same label 689/629: 0.820
+FAIL near duplicate same label 689/649: 0.808
+FAIL near duplicate same label 689/669: 0.800
+FAIL cross-label near duplicate 690/590: 0.742
+FAIL cross-label near duplicate 694/594: 0.702
+FAIL near duplicate same label 694/674: 0.817
+FAIL cross-label near duplicate 695/595: 0.712
+FAIL near duplicate same label 695/675: 0.838
+FAIL cross-label near duplicate 701/501: 0.753
+FAIL cross-label near duplicate 701/521: 0.753
+FAIL cross-label near duplicate 701/601: 0.740
+FAIL cross-label near duplicate 701/621: 0.740
+FAIL cross-label near duplicate 708/608: 0.708
+FAIL cross-label near duplicate 709/509: 0.712
+FAIL cross-label near duplicate 709/609: 0.778
+FAIL cross-label near duplicate 710/510: 0.780
+FAIL cross-label near duplicate 710/610: 0.768
+FAIL cross-label near duplicate 711/511: 0.736
+FAIL cross-label near duplicate 711/611: 0.722
+FAIL near duplicate same label 720/700: 1.000
+FAIL cross-label near duplicate 721/501: 0.753
+FAIL cross-label near duplicate 721/521: 0.753
+FAIL cross-label near duplicate 721/601: 0.740
+FAIL cross-label near duplicate 721/621: 0.740
+FAIL near duplicate same label 721/701: 1.000
+FAIL near duplicate same label 722/702: 1.000
+FAIL near duplicate same label 723/703: 1.000
+FAIL near duplicate same label 724/704: 0.811
+FAIL near duplicate same label 727/707: 0.869
+FAIL cross-label near duplicate 728/628: 0.727
+FAIL cross-label near duplicate 729/529: 0.723
+FAIL cross-label near duplicate 729/629: 0.771
+FAIL cross-label near duplicate 730/530: 0.775
+FAIL cross-label near duplicate 730/630: 0.773
+FAIL cross-label near duplicate 731/531: 0.740
+FAIL cross-label near duplicate 731/631: 0.737
+FAIL cross-label near duplicate 739/639: 0.724
+FAIL cross-label near duplicate 741/541: 0.765
+FAIL cross-label near duplicate 741/641: 0.753
+FAIL near duplicate same label 741/701: 0.887
+FAIL near duplicate same label 741/721: 0.887
+FAIL near duplicate same label 742/702: 0.810
+FAIL near duplicate same label 742/722: 0.810
+FAIL cross-label near duplicate 743/543: 0.727
+FAIL cross-label near duplicate 743/643: 0.711
+FAIL near duplicate same label 743/703: 0.833
+FAIL near duplicate same label 743/723: 0.833
+FAIL near duplicate same label 744/704: 0.811
+FAIL near duplicate same label 747/707: 0.809
+FAIL near duplicate same label 747/727: 0.809
+FAIL near duplicate same label 748/708: 0.805
+FAIL cross-label near duplicate 749/649: 0.767
+FAIL near duplicate same label 749/709: 0.854
+FAIL cross-label near duplicate 750/550: 0.747
+FAIL cross-label near duplicate 750/650: 0.744
+FAIL cross-label near duplicate 751/551: 0.703
+FAIL cross-label near duplicate 759/659: 0.733
+FAIL cross-label near duplicate 761/561: 0.783
+FAIL cross-label near duplicate 761/661: 0.771
+FAIL near duplicate same label 761/701: 0.863
+FAIL near duplicate same label 761/721: 0.863
+FAIL near duplicate same label 761/741: 0.818
+FAIL near duplicate same label 762/702: 0.800
+FAIL near duplicate same label 762/722: 0.800
+FAIL cross-label near duplicate 763/563: 0.721
+FAIL cross-label near duplicate 763/663: 0.705
+FAIL near duplicate same label 763/703: 0.826
+FAIL near duplicate same label 763/723: 0.826
+FAIL near duplicate same label 764/744: 0.846
+FAIL cross-label near duplicate 768/668: 0.717
+FAIL cross-label near duplicate 769/569: 0.705
+FAIL cross-label near duplicate 769/669: 0.760
+FAIL near duplicate same label 769/729: 0.833
+FAIL near duplicate same label 769/749: 0.806
+FAIL cross-label near duplicate 770/570: 0.780
+FAIL cross-label near duplicate 770/670: 0.798
+FAIL cross-label near duplicate 771/571: 0.744
+FAIL cross-label near duplicate 771/671: 0.763
+FAIL near duplicate same label 774/714: 0.833
+FAIL near duplicate same label 774/734: 0.825
+FAIL near duplicate same label 775/715: 0.843
+FAIL near duplicate same label 775/735: 0.826
+FAIL cross-label near duplicate 781/581: 0.768
+FAIL cross-label near duplicate 781/681: 0.756
+FAIL near duplicate same label 781/701: 0.901
+FAIL near duplicate same label 781/721: 0.901
+FAIL near duplicate same label 781/741: 0.829
+FAIL near duplicate same label 781/761: 0.808
+FAIL cross-label near duplicate 783/583: 0.738
+FAIL cross-label near duplicate 783/683: 0.723
+FAIL near duplicate same label 787/747: 0.833
+FAIL cross-label near duplicate 789/589: 0.705
+FAIL cross-label near duplicate 789/689: 0.760
+FAIL near duplicate same label 789/729: 0.833
+FAIL near duplicate same label 789/749: 0.806
+FAIL near duplicate same label 789/769: 0.806
+FAIL cross-label near duplicate 790/590: 0.776
+FAIL cross-label near duplicate 790/690: 0.765
+FAIL cross-label near duplicate 791/591: 0.736
+FAIL cross-label near duplicate 791/691: 0.722
+FAIL near duplicate same label 795/775: 0.814
+FAIL cross-label near duplicate 799/699: 0.702
+FAIL cross-label near duplicate 800/500: 0.739
+FAIL cross-label near duplicate 800/520: 0.739
+FAIL cross-label near duplicate 801/501: 0.896
+FAIL cross-label near duplicate 801/521: 0.896
+FAIL cross-label near duplicate 801/541: 0.829
+FAIL cross-label near duplicate 801/561: 0.800
+FAIL cross-label near duplicate 801/581: 0.819
+FAIL cross-label near duplicate 802/502: 0.730
+FAIL cross-label near duplicate 802/522: 0.730
+FAIL cross-label near duplicate 803/503: 0.861
+FAIL cross-label near duplicate 803/523: 0.861
+FAIL cross-label near duplicate 803/543: 0.760
+FAIL cross-label near duplicate 803/563: 0.760
+FAIL cross-label near duplicate 803/583: 0.714
+FAIL cross-label near duplicate 803/703: 0.713
+FAIL cross-label near duplicate 803/723: 0.713
+FAIL cross-label near duplicate 807/507: 0.810
+FAIL cross-label near duplicate 807/527: 0.718
+FAIL cross-label near duplicate 808/508: 0.704
+FAIL cross-label near duplicate 809/509: 0.821
+FAIL cross-label near duplicate 809/549: 0.719
+FAIL cross-label near duplicate 809/609: 0.706
+FAIL cross-label near duplicate 809/709: 0.725
+FAIL cross-label near duplicate 810/510: 0.855
+FAIL cross-label near duplicate 811/511: 0.833
+FAIL cross-label near duplicate 812/512: 0.780
+FAIL cross-label near duplicate 813/513: 0.731
+FAIL cross-label near duplicate 815/515: 0.786
+FAIL cross-label near duplicate 819/519: 0.744
+FAIL cross-label near duplicate 820/500: 0.739
+FAIL cross-label near duplicate 820/520: 0.739
+FAIL near duplicate same label 820/800: 1.000
+FAIL cross-label near duplicate 821/501: 0.896
+FAIL cross-label near duplicate 821/521: 0.896
+FAIL cross-label near duplicate 821/541: 0.829
+FAIL cross-label near duplicate 821/561: 0.800
+FAIL cross-label near duplicate 821/581: 0.819
+FAIL near duplicate same label 821/801: 1.000
+FAIL cross-label near duplicate 822/502: 0.730
+FAIL cross-label near duplicate 822/522: 0.730
+FAIL near duplicate same label 822/802: 1.000
+FAIL cross-label near duplicate 823/503: 0.861
+FAIL cross-label near duplicate 823/523: 0.861
+FAIL cross-label near duplicate 823/543: 0.760
+FAIL cross-label near duplicate 823/563: 0.760
+FAIL cross-label near duplicate 823/583: 0.714
+FAIL cross-label near duplicate 823/703: 0.713
+FAIL cross-label near duplicate 823/723: 0.713
+FAIL near duplicate same label 823/803: 1.000
+FAIL cross-label near duplicate 824/524: 0.716
+FAIL cross-label near duplicate 827/507: 0.712
+FAIL cross-label near duplicate 827/527: 0.817
+FAIL near duplicate same label 827/807: 0.867
+FAIL cross-label near duplicate 828/528: 0.737
+FAIL cross-label near duplicate 829/529: 0.823
+FAIL cross-label near duplicate 829/729: 0.718
+FAIL cross-label near duplicate 830/530: 0.865
+FAIL cross-label near duplicate 831/531: 0.844
+FAIL cross-label near duplicate 832/532: 0.825
+FAIL cross-label near duplicate 833/533: 0.779
+FAIL cross-label near duplicate 835/535: 0.796
+FAIL cross-label near duplicate 839/539: 0.763
+FAIL cross-label near duplicate 840/540: 0.739
+FAIL cross-label near duplicate 841/501: 0.829
+FAIL cross-label near duplicate 841/521: 0.829
+FAIL cross-label near duplicate 841/541: 0.901
+FAIL cross-label near duplicate 841/561: 0.764
+FAIL cross-label near duplicate 841/581: 0.782
+FAIL cross-label near duplicate 841/741: 0.713
+FAIL near duplicate same label 841/801: 0.902
+FAIL near duplicate same label 841/821: 0.902
+FAIL cross-label near duplicate 842/542: 0.763
+FAIL near duplicate same label 842/802: 0.849
+FAIL near duplicate same label 842/822: 0.849
+FAIL cross-label near duplicate 843/503: 0.758
+FAIL cross-label near duplicate 843/523: 0.758
+FAIL cross-label near duplicate 843/543: 0.882
+FAIL cross-label near duplicate 843/563: 0.736
+FAIL cross-label near duplicate 843/643: 0.708
+FAIL cross-label near duplicate 843/743: 0.738
+FAIL near duplicate same label 843/803: 0.870
+FAIL near duplicate same label 843/823: 0.870
+FAIL cross-label near duplicate 844/544: 0.718
+FAIL cross-label near duplicate 846/546: 0.709
+FAIL cross-label near duplicate 847/547: 0.841
+FAIL near duplicate same label 848/808: 0.828
+FAIL cross-label near duplicate 849/509: 0.711
+FAIL cross-label near duplicate 849/549: 0.820
+FAIL cross-label near duplicate 849/749: 0.719
+FAIL near duplicate same label 849/809: 0.876
+FAIL near duplicate same label 849/829: 0.826
+FAIL cross-label near duplicate 850/550: 0.848
+FAIL cross-label near duplicate 851/551: 0.815
+FAIL cross-label near duplicate 852/552: 0.783
+FAIL near duplicate same label 852/812: 0.819
+FAIL cross-label near duplicate 853/553: 0.734
+FAIL near duplicate same label 853/813: 0.821
+FAIL cross-label near duplicate 855/555: 0.786
+FAIL cross-label near duplicate 859/559: 0.762
+FAIL cross-label near duplicate 860/560: 0.760
+FAIL cross-label near duplicate 861/501: 0.800
+FAIL cross-label near duplicate 861/521: 0.800
+FAIL cross-label near duplicate 861/541: 0.764
+FAIL cross-label near duplicate 861/561: 0.905
+FAIL cross-label near duplicate 861/581: 0.756
+FAIL cross-label near duplicate 861/761: 0.730
+FAIL near duplicate same label 861/801: 0.871
+FAIL near duplicate same label 861/821: 0.871
+FAIL near duplicate same label 861/841: 0.831
+FAIL cross-label near duplicate 862/562: 0.784
+FAIL near duplicate same label 862/802: 0.840
+FAIL near duplicate same label 862/822: 0.840
+FAIL cross-label near duplicate 863/503: 0.752
+FAIL cross-label near duplicate 863/523: 0.752
+FAIL cross-label near duplicate 863/543: 0.731
+FAIL cross-label near duplicate 863/563: 0.891
+FAIL cross-label near duplicate 863/663: 0.715
+FAIL cross-label near duplicate 863/763: 0.740
+FAIL near duplicate same label 863/803: 0.863
+FAIL near duplicate same label 863/823: 0.863
+FAIL near duplicate same label 863/843: 0.836
+FAIL cross-label near duplicate 864/564: 0.721
+FAIL near duplicate same label 864/844: 0.833
+FAIL cross-label near duplicate 866/566: 0.700
+FAIL cross-label near duplicate 867/567: 0.835
+FAIL cross-label near duplicate 868/568: 0.713
+FAIL cross-label near duplicate 869/569: 0.812
+FAIL cross-label near duplicate 869/769: 0.707
+FAIL near duplicate same label 869/829: 0.843
+FAIL near duplicate same label 869/849: 0.841
+FAIL cross-label near duplicate 870/570: 0.868
+FAIL cross-label near duplicate 871/571: 0.846
+FAIL cross-label near duplicate 872/572: 0.813
+FAIL cross-label near duplicate 873/573: 0.786
+FAIL near duplicate same label 874/814: 0.827
+FAIL near duplicate same label 874/834: 0.808
+FAIL cross-label near duplicate 875/575: 0.774
+FAIL near duplicate same label 875/815: 0.854
+FAIL near duplicate same label 875/835: 0.828
+FAIL near duplicate same label 875/855: 0.817
+FAIL cross-label near duplicate 878/578: 0.705
+FAIL cross-label near duplicate 879/579: 0.739
+FAIL near duplicate same label 879/819: 0.839
+FAIL cross-label near duplicate 880/580: 0.760
+FAIL cross-label near duplicate 881/501: 0.819
+FAIL cross-label near duplicate 881/521: 0.819
+FAIL cross-label near duplicate 881/541: 0.782
+FAIL cross-label near duplicate 881/561: 0.756
+FAIL cross-label near duplicate 881/581: 0.902
+FAIL cross-label near duplicate 881/781: 0.716
+FAIL near duplicate same label 881/801: 0.915
+FAIL near duplicate same label 881/821: 0.915
+FAIL near duplicate same label 881/841: 0.851
+FAIL near duplicate same label 881/861: 0.822
+FAIL cross-label near duplicate 882/582: 0.798
+FAIL cross-label near duplicate 883/503: 0.714
+FAIL cross-label near duplicate 883/523: 0.714
+FAIL cross-label near duplicate 883/583: 0.891
+FAIL cross-label near duplicate 883/683: 0.727
+FAIL cross-label near duplicate 883/783: 0.750
+FAIL near duplicate same label 883/803: 0.818
+FAIL near duplicate same label 883/823: 0.818
+FAIL cross-label near duplicate 884/584: 0.756
+FAIL cross-label near duplicate 885/585: 0.743
+FAIL cross-label near duplicate 886/586: 0.761
+FAIL cross-label near duplicate 887/587: 0.845
+FAIL near duplicate same label 887/847: 0.824
+FAIL cross-label near duplicate 889/529: 0.700
+FAIL cross-label near duplicate 889/549: 0.700
+FAIL cross-label near duplicate 889/589: 0.812
+FAIL cross-label near duplicate 889/789: 0.707
+FAIL near duplicate same label 889/829: 0.843
+FAIL near duplicate same label 889/849: 0.841
+FAIL near duplicate same label 889/869: 0.826
+FAIL cross-label near duplicate 890/590: 0.859
+FAIL cross-label near duplicate 891/591: 0.833
+FAIL cross-label near duplicate 892/592: 0.822
+FAIL near duplicate same label 892/812: 0.819
+FAIL near duplicate same label 892/852: 0.811
+FAIL cross-label near duplicate 893/593: 0.772
+FAIL near duplicate same label 893/813: 0.821
+FAIL near duplicate same label 893/853: 0.812
+FAIL cross-label near duplicate 895/595: 0.786
+FAIL near duplicate same label 895/875: 0.817
+FAIL cross-label near duplicate 897/597: 0.701
+FAIL cross-label near duplicate 899/599: 0.745
+FAIL near duplicate same label 899/879: 0.822
+FAIL near duplicate same label 944/925: 0.903
+FAIL near duplicate same label 961/922: 0.883
+FAIL near duplicate same label 972/938: 0.848
+FAIL near duplicate same label 983/931: 0.842
+FAIL near duplicate same label 984/970: 0.825
+FAIL near duplicate same label 987/942: 0.818
+FAIL near duplicate same label 994/989: 0.846
+FAIL cross-label near duplicate 1013/925: 0.756
+FAIL near duplicate same label 1023/1016: 0.800
+FAIL cross-label near duplicate 1027/948: 0.788
+FAIL cross-label near duplicate 1030/909: 0.833
+FAIL cross-label near duplicate 1034/939: 0.745
+FAIL near duplicate same label 1037/1022: 0.868
+FAIL cross-label near duplicate 1048/983: 0.741
+FAIL cross-label near duplicate 1050/919: 0.700
+FAIL near duplicate same label 1064/1039: 0.804
+FAIL near duplicate same label 1066/1021: 0.885
+FAIL near duplicate same label 1066/1060: 0.836
+FAIL near duplicate same label 1068/1012: 0.808
+FAIL near duplicate same label 1077/1012: 0.808
+FAIL near duplicate same label 1080/1010: 0.847
+FAIL near duplicate same label 1086/1044: 0.818
+FAIL near duplicate same label 1094/1089: 0.854
+FAIL near duplicate same label 1095/1090: 0.852
+FAIL near duplicate same label 1097/1092: 0.800
+FAIL cross-label near duplicate 1099/999: 0.731
+FAIL near duplicate same label 1120/1100: 1.000
+FAIL near duplicate same label 1121/1101: 1.000
+FAIL near duplicate same label 1122/1102: 1.000
+FAIL near duplicate same label 1123/1103: 1.000
+FAIL near duplicate same label 1124/1104: 0.804
+FAIL near duplicate same label 1127/1107: 0.888
+FAIL near duplicate same label 1141/1101: 0.901
+FAIL near duplicate same label 1141/1121: 0.901
+FAIL near duplicate same label 1142/1102: 0.828
+FAIL near duplicate same label 1142/1122: 0.828
+FAIL near duplicate same label 1143/1103: 0.863
+FAIL near duplicate same label 1143/1123: 0.863
+FAIL near duplicate same label 1147/1107: 0.817
+FAIL near duplicate same label 1147/1127: 0.824
+FAIL near duplicate same label 1148/1108: 0.822
+FAIL near duplicate same label 1149/1109: 0.866
+FAIL near duplicate same label 1149/1129: 0.816
+FAIL near duplicate same label 1152/1112: 0.815
+FAIL near duplicate same label 1153/1113: 0.811
+FAIL near duplicate same label 1161/1101: 0.880
+FAIL near duplicate same label 1161/1121: 0.880
+FAIL near duplicate same label 1161/1141: 0.839
+FAIL near duplicate same label 1162/1102: 0.818
+FAIL near duplicate same label 1162/1122: 0.818
+FAIL near duplicate same label 1163/1103: 0.863
+FAIL near duplicate same label 1163/1123: 0.863
+FAIL near duplicate same label 1163/1143: 0.817
+FAIL near duplicate same label 1164/1144: 0.848
+FAIL near duplicate same label 1165/1145: 0.808
+FAIL near duplicate same label 1167/1107: 0.811
+FAIL near duplicate same label 1167/1127: 0.817
+FAIL near duplicate same label 1169/1129: 0.833
+FAIL near duplicate same label 1169/1149: 0.823
+FAIL near duplicate same label 1174/1114: 0.841
+FAIL near duplicate same label 1174/1134: 0.814
+FAIL near duplicate same label 1175/1115: 0.860
+FAIL near duplicate same label 1175/1135: 0.835
+FAIL near duplicate same label 1175/1155: 0.816
+FAIL near duplicate same label 1179/1119: 0.835
+FAIL near duplicate same label 1181/1101: 0.914
+FAIL near duplicate same label 1181/1121: 0.914
+FAIL near duplicate same label 1181/1141: 0.849
+FAIL near duplicate same label 1181/1161: 0.830
+FAIL near duplicate same label 1183/1103: 0.817
+FAIL near duplicate same label 1183/1123: 0.817
+FAIL near duplicate same label 1187/1107: 0.805
+FAIL near duplicate same label 1187/1127: 0.811
+FAIL near duplicate same label 1187/1147: 0.846
+FAIL near duplicate same label 1189/1129: 0.841
+FAIL near duplicate same label 1189/1149: 0.830
+FAIL near duplicate same label 1189/1169: 0.816
+FAIL near duplicate same label 1192/1112: 0.815
+FAIL near duplicate same label 1192/1152: 0.806
+FAIL near duplicate same label 1193/1113: 0.811
+FAIL near duplicate same label 1193/1153: 0.802
+FAIL near duplicate same label 1194/1174: 0.802
+FAIL near duplicate same label 1195/1175: 0.833
+FAIL near duplicate same label 1199/1179: 0.828
+FAIL cross-label near duplicate 1200/1100: 0.857
+FAIL cross-label near duplicate 1200/1120: 0.857
+FAIL cross-label near duplicate 1201/1101: 0.923
+FAIL cross-label near duplicate 1201/1121: 0.923
+FAIL cross-label near duplicate 1201/1141: 0.833
+FAIL cross-label near duplicate 1201/1161: 0.814
+FAIL cross-label near duplicate 1201/1181: 0.845
+FAIL cross-label near duplicate 1202/1102: 0.923
+FAIL cross-label near duplicate 1202/1122: 0.923
+FAIL cross-label near duplicate 1202/1142: 0.767
+FAIL cross-label near duplicate 1202/1162: 0.758
+FAIL cross-label near duplicate 1202/1182: 0.704
+FAIL cross-label near duplicate 1203/1103: 0.948
+FAIL cross-label near duplicate 1203/1123: 0.948
+FAIL cross-label near duplicate 1203/1143: 0.819
+FAIL cross-label near duplicate 1203/1163: 0.819
+FAIL cross-label near duplicate 1203/1183: 0.776
+FAIL cross-label near duplicate 1204/1104: 0.932
+FAIL cross-label near duplicate 1204/1124: 0.750
+FAIL cross-label near duplicate 1204/1144: 0.743
+FAIL cross-label near duplicate 1204/1164: 0.735
+FAIL cross-label near duplicate 1205/1105: 0.915
+FAIL cross-label near duplicate 1206/1106: 0.919
+FAIL cross-label near duplicate 1206/1126: 0.729
+FAIL cross-label near duplicate 1207/1107: 0.947
+FAIL cross-label near duplicate 1207/1127: 0.840
+FAIL cross-label near duplicate 1207/1147: 0.775
+FAIL cross-label near duplicate 1207/1167: 0.769
+FAIL cross-label near duplicate 1207/1187: 0.763
+FAIL cross-label near duplicate 1208/1108: 0.932
+FAIL cross-label near duplicate 1208/1148: 0.763
+FAIL cross-label near duplicate 1209/1109: 0.955
+FAIL cross-label near duplicate 1209/1129: 0.746
+FAIL cross-label near duplicate 1209/1149: 0.826
+FAIL cross-label near duplicate 1209/1169: 0.752
+FAIL cross-label near duplicate 1209/1189: 0.758
+FAIL cross-label near duplicate 1210/1110: 0.924
+FAIL cross-label near duplicate 1210/1150: 0.701
+FAIL cross-label near duplicate 1211/1111: 0.912
+FAIL cross-label near duplicate 1212/1112: 0.930
+FAIL cross-label near duplicate 1212/1152: 0.758
+FAIL cross-label near duplicate 1212/1192: 0.758
+FAIL cross-label near duplicate 1213/1113: 0.929
+FAIL cross-label near duplicate 1213/1153: 0.753
+FAIL cross-label near duplicate 1213/1193: 0.753
+FAIL cross-label near duplicate 1214/1114: 0.926
+FAIL cross-label near duplicate 1214/1174: 0.776
+FAIL cross-label near duplicate 1214/1194: 0.702
+FAIL cross-label near duplicate 1215/1115: 0.935
+FAIL cross-label near duplicate 1215/1135: 0.726
+FAIL cross-label near duplicate 1215/1155: 0.726
+FAIL cross-label near duplicate 1215/1175: 0.802
+FAIL cross-label near duplicate 1215/1195: 0.740
+FAIL cross-label near duplicate 1216/1116: 0.922
+FAIL cross-label near duplicate 1216/1156: 0.729
+FAIL cross-label near duplicate 1217/1117: 0.925
+FAIL cross-label near duplicate 1217/1157: 0.730
+FAIL cross-label near duplicate 1218/1118: 0.912
+FAIL cross-label near duplicate 1219/1119: 0.940
+FAIL cross-label near duplicate 1219/1139: 0.750
+FAIL cross-label near duplicate 1219/1179: 0.784
+FAIL cross-label near duplicate 1219/1199: 0.726
+FAIL cross-label near duplicate 1220/1100: 0.857
+FAIL cross-label near duplicate 1220/1120: 0.857
+FAIL near duplicate same label 1220/1200: 1.000
+FAIL cross-label near duplicate 1221/1101: 0.923
+FAIL cross-label near duplicate 1221/1121: 0.923
+FAIL cross-label near duplicate 1221/1141: 0.833
+FAIL cross-label near duplicate 1221/1161: 0.814
+FAIL cross-label near duplicate 1221/1181: 0.845
+FAIL near duplicate same label 1221/1201: 1.000
+FAIL cross-label near duplicate 1222/1102: 0.923
+FAIL cross-label near duplicate 1222/1122: 0.923
+FAIL cross-label near duplicate 1222/1142: 0.767
+FAIL cross-label near duplicate 1222/1162: 0.758
+FAIL cross-label near duplicate 1222/1182: 0.704
+FAIL near duplicate same label 1222/1202: 1.000
+FAIL cross-label near duplicate 1223/1103: 0.948
+FAIL cross-label near duplicate 1223/1123: 0.948
+FAIL cross-label near duplicate 1223/1143: 0.819
+FAIL cross-label near duplicate 1223/1163: 0.819
+FAIL cross-label near duplicate 1223/1183: 0.776
+FAIL near duplicate same label 1223/1203: 1.000
+FAIL cross-label near duplicate 1224/1104: 0.750
+FAIL cross-label near duplicate 1224/1124: 0.935
+FAIL cross-label near duplicate 1224/1144: 0.740
+FAIL cross-label near duplicate 1224/1164: 0.733
+FAIL near duplicate same label 1224/1204: 0.804
+FAIL cross-label near duplicate 1225/1125: 0.917
+FAIL cross-label near duplicate 1226/1106: 0.729
+FAIL cross-label near duplicate 1226/1126: 0.924
+FAIL cross-label near duplicate 1227/1107: 0.840
+FAIL cross-label near duplicate 1227/1127: 0.946
+FAIL cross-label near duplicate 1227/1147: 0.781
+FAIL cross-label near duplicate 1227/1167: 0.775
+FAIL cross-label near duplicate 1227/1187: 0.769
+FAIL near duplicate same label 1227/1207: 0.888
+FAIL cross-label near duplicate 1228/1128: 0.933
+FAIL cross-label near duplicate 1228/1188: 0.708
+FAIL cross-label near duplicate 1229/1109: 0.746
+FAIL cross-label near duplicate 1229/1129: 0.954
+FAIL cross-label near duplicate 1229/1149: 0.778
+FAIL cross-label near duplicate 1229/1169: 0.795
+FAIL cross-label near duplicate 1229/1189: 0.802
+FAIL cross-label near duplicate 1230/1130: 0.930
+FAIL cross-label near duplicate 1231/1131: 0.918
+FAIL cross-label near duplicate 1232/1132: 0.939
+FAIL cross-label near duplicate 1233/1133: 0.938
+FAIL cross-label near duplicate 1234/1134: 0.930
+FAIL cross-label near duplicate 1234/1174: 0.753
+FAIL cross-label near duplicate 1235/1115: 0.726
+FAIL cross-label near duplicate 1235/1135: 0.938
+FAIL cross-label near duplicate 1235/1175: 0.780
+FAIL cross-label near duplicate 1235/1195: 0.706
+FAIL cross-label near duplicate 1236/1136: 0.946
+FAIL cross-label near duplicate 1237/1137: 0.947
+FAIL cross-label near duplicate 1238/1138: 0.920
+FAIL cross-label near duplicate 1239/1119: 0.750
+FAIL cross-label near duplicate 1239/1139: 0.944
+FAIL cross-label near duplicate 1239/1179: 0.726
+FAIL cross-label near duplicate 1240/1140: 0.857
+FAIL cross-label near duplicate 1241/1101: 0.833
+FAIL cross-label near duplicate 1241/1121: 0.833
+FAIL cross-label near duplicate 1241/1141: 0.927
+FAIL cross-label near duplicate 1241/1161: 0.778
+FAIL cross-label near duplicate 1241/1181: 0.787
+FAIL near duplicate same label 1241/1201: 0.901
+FAIL near duplicate same label 1241/1221: 0.901
+FAIL cross-label near duplicate 1242/1102: 0.767
+FAIL cross-label near duplicate 1242/1122: 0.767
+FAIL cross-label near duplicate 1242/1142: 0.931
+FAIL near duplicate same label 1242/1202: 0.828
+FAIL near duplicate same label 1242/1222: 0.828
+FAIL cross-label near duplicate 1243/1103: 0.819
+FAIL cross-label near duplicate 1243/1123: 0.819
+FAIL cross-label near duplicate 1243/1143: 0.951
+FAIL cross-label near duplicate 1243/1163: 0.776
+FAIL cross-label near duplicate 1243/1183: 0.738
+FAIL near duplicate same label 1243/1203: 0.863
+FAIL near duplicate same label 1243/1223: 0.863
+FAIL cross-label near duplicate 1244/1104: 0.743
+FAIL cross-label near duplicate 1244/1124: 0.740
+FAIL cross-label near duplicate 1244/1144: 0.936
+FAIL cross-label near duplicate 1244/1164: 0.794
+FAIL cross-label near duplicate 1245/1145: 0.918
+FAIL cross-label near duplicate 1245/1165: 0.741
+FAIL cross-label near duplicate 1246/1146: 0.929
+FAIL cross-label near duplicate 1247/1107: 0.775
+FAIL cross-label near duplicate 1247/1127: 0.781
+FAIL cross-label near duplicate 1247/1147: 0.951
+FAIL cross-label near duplicate 1247/1167: 0.732
+FAIL cross-label near duplicate 1247/1187: 0.805
+FAIL near duplicate same label 1247/1207: 0.817
+FAIL near duplicate same label 1247/1227: 0.824
+FAIL cross-label near duplicate 1248/1108: 0.763
+FAIL cross-label near duplicate 1248/1148: 0.927
+FAIL cross-label near duplicate 1248/1188: 0.725
+FAIL near duplicate same label 1248/1208: 0.822
+FAIL cross-label near duplicate 1249/1109: 0.826
+FAIL cross-label near duplicate 1249/1129: 0.778
+FAIL cross-label near duplicate 1249/1149: 0.952
+FAIL cross-label near duplicate 1249/1169: 0.784
+FAIL cross-label near duplicate 1249/1189: 0.791
+FAIL near duplicate same label 1249/1209: 0.867
+FAIL near duplicate same label 1249/1229: 0.817
+FAIL cross-label near duplicate 1250/1110: 0.701
+FAIL cross-label near duplicate 1250/1150: 0.920
+FAIL cross-label near duplicate 1251/1151: 0.902
+FAIL cross-label near duplicate 1252/1112: 0.758
+FAIL cross-label near duplicate 1252/1152: 0.931
+FAIL cross-label near duplicate 1252/1192: 0.750
+FAIL near duplicate same label 1252/1212: 0.815
+FAIL cross-label near duplicate 1253/1113: 0.753
+FAIL cross-label near duplicate 1253/1153: 0.929
+FAIL cross-label near duplicate 1253/1193: 0.745
+FAIL near duplicate same label 1253/1213: 0.811
+FAIL cross-label near duplicate 1254/1154: 0.935
+FAIL cross-label near duplicate 1255/1115: 0.726
+FAIL cross-label near duplicate 1255/1155: 0.938
+FAIL cross-label near duplicate 1255/1175: 0.762
+FAIL cross-label near duplicate 1255/1195: 0.706
+FAIL cross-label near duplicate 1256/1116: 0.729
+FAIL cross-label near duplicate 1256/1156: 0.921
+FAIL cross-label near duplicate 1257/1117: 0.730
+FAIL cross-label near duplicate 1257/1157: 0.925
+FAIL cross-label near duplicate 1258/1158: 0.936
+FAIL cross-label near duplicate 1259/1159: 0.946
+FAIL cross-label near duplicate 1259/1179: 0.704
+FAIL cross-label near duplicate 1260/1160: 0.867
+FAIL cross-label near duplicate 1261/1101: 0.814
+FAIL cross-label near duplicate 1261/1121: 0.814
+FAIL cross-label near duplicate 1261/1141: 0.778
+FAIL cross-label near duplicate 1261/1161: 0.929
+FAIL cross-label near duplicate 1261/1181: 0.769
+FAIL near duplicate same label 1261/1201: 0.880
+FAIL near duplicate same label 1261/1221: 0.880
+FAIL near duplicate same label 1261/1241: 0.839
+FAIL cross-label near duplicate 1262/1102: 0.758
+FAIL cross-label near duplicate 1262/1122: 0.758
+FAIL cross-label near duplicate 1262/1162: 0.932
+FAIL near duplicate same label 1262/1202: 0.818
+FAIL near duplicate same label 1262/1222: 0.818
+FAIL cross-label near duplicate 1263/1103: 0.819
+FAIL cross-label near duplicate 1263/1123: 0.819
+FAIL cross-label near duplicate 1263/1143: 0.776
+FAIL cross-label near duplicate 1263/1163: 0.951
+FAIL cross-label near duplicate 1263/1183: 0.750
+FAIL near duplicate same label 1263/1203: 0.863
+FAIL near duplicate same label 1263/1223: 0.863
+FAIL near duplicate same label 1263/1243: 0.817
+FAIL cross-label near duplicate 1264/1104: 0.735
+FAIL cross-label near duplicate 1264/1124: 0.733
+FAIL cross-label near duplicate 1264/1144: 0.794
+FAIL cross-label near duplicate 1264/1164: 0.937
+FAIL near duplicate same label 1264/1244: 0.848
+FAIL cross-label near duplicate 1265/1145: 0.741
+FAIL cross-label near duplicate 1265/1165: 0.919
+FAIL near duplicate same label 1265/1245: 0.808
+FAIL cross-label near duplicate 1266/1166: 0.933
+FAIL cross-label near duplicate 1267/1107: 0.769
+FAIL cross-label near duplicate 1267/1127: 0.775
+FAIL cross-label near duplicate 1267/1147: 0.732
+FAIL cross-label near duplicate 1267/1167: 0.951
+FAIL cross-label near duplicate 1267/1187: 0.709
+FAIL near duplicate same label 1267/1207: 0.811
+FAIL near duplicate same label 1267/1227: 0.817
+FAIL cross-label near duplicate 1268/1168: 0.934
+FAIL cross-label near duplicate 1269/1109: 0.752
+FAIL cross-label near duplicate 1269/1129: 0.795
+FAIL cross-label near duplicate 1269/1149: 0.784
+FAIL cross-label near duplicate 1269/1169: 0.953
+FAIL cross-label near duplicate 1269/1189: 0.778
+FAIL near duplicate same label 1269/1229: 0.835
+FAIL near duplicate same label 1269/1249: 0.825
+FAIL cross-label near duplicate 1270/1170: 0.931
+FAIL cross-label near duplicate 1271/1171: 0.919
+FAIL cross-label near duplicate 1272/1172: 0.939
+FAIL cross-label near duplicate 1273/1173: 0.941
+FAIL cross-label near duplicate 1274/1114: 0.776
+FAIL cross-label near duplicate 1274/1134: 0.753
+FAIL cross-label near duplicate 1274/1174: 0.921
+FAIL cross-label near duplicate 1274/1194: 0.742
+FAIL near duplicate same label 1274/1214: 0.841
+FAIL near duplicate same label 1274/1234: 0.814
+FAIL cross-label near duplicate 1275/1115: 0.802
+FAIL cross-label near duplicate 1275/1135: 0.780
+FAIL cross-label near duplicate 1275/1155: 0.762
+FAIL cross-label near duplicate 1275/1175: 0.931
+FAIL cross-label near duplicate 1275/1195: 0.778
+FAIL near duplicate same label 1275/1215: 0.860
+FAIL near duplicate same label 1275/1235: 0.835
+FAIL near duplicate same label 1275/1255: 0.816
+FAIL cross-label near duplicate 1276/1176: 0.929
+FAIL cross-label near duplicate 1277/1177: 0.932
+FAIL cross-label near duplicate 1278/1178: 0.920
+FAIL cross-label near duplicate 1279/1119: 0.784
+FAIL cross-label near duplicate 1279/1139: 0.726
+FAIL cross-label near duplicate 1279/1159: 0.704
+FAIL cross-label near duplicate 1279/1179: 0.937
+FAIL cross-label near duplicate 1279/1199: 0.778
+FAIL near duplicate same label 1279/1219: 0.837
+FAIL cross-label near duplicate 1280/1180: 0.870
+FAIL cross-label near duplicate 1281/1101: 0.845
+FAIL cross-label near duplicate 1281/1121: 0.845
+FAIL cross-label near duplicate 1281/1141: 0.787
+FAIL cross-label near duplicate 1281/1161: 0.769
+FAIL cross-label near duplicate 1281/1181: 0.928
+FAIL near duplicate same label 1281/1201: 0.914
+FAIL near duplicate same label 1281/1221: 0.914
+FAIL near duplicate same label 1281/1241: 0.849
+FAIL near duplicate same label 1281/1261: 0.830
+FAIL cross-label near duplicate 1282/1102: 0.704
+FAIL cross-label near duplicate 1282/1122: 0.704
+FAIL cross-label near duplicate 1282/1182: 0.937
+FAIL cross-label near duplicate 1283/1103: 0.776
+FAIL cross-label near duplicate 1283/1123: 0.776
+FAIL cross-label near duplicate 1283/1143: 0.738
+FAIL cross-label near duplicate 1283/1163: 0.750
+FAIL cross-label near duplicate 1283/1183: 0.953
+FAIL near duplicate same label 1283/1203: 0.817
+FAIL near duplicate same label 1283/1223: 0.817
+FAIL cross-label near duplicate 1284/1184: 0.946
+FAIL cross-label near duplicate 1285/1185: 0.938
+FAIL cross-label near duplicate 1286/1186: 0.936
+FAIL cross-label near duplicate 1287/1107: 0.763
+FAIL cross-label near duplicate 1287/1127: 0.769
+FAIL cross-label near duplicate 1287/1147: 0.805
+FAIL cross-label near duplicate 1287/1167: 0.709
+FAIL cross-label near duplicate 1287/1187: 0.952
+FAIL near duplicate same label 1287/1207: 0.805
+FAIL near duplicate same label 1287/1227: 0.811
+FAIL near duplicate same label 1287/1247: 0.846
+FAIL cross-label near duplicate 1288/1128: 0.708
+FAIL cross-label near duplicate 1288/1148: 0.725
+FAIL cross-label near duplicate 1288/1188: 0.926
+FAIL cross-label near duplicate 1289/1109: 0.758
+FAIL cross-label near duplicate 1289/1129: 0.802
+FAIL cross-label near duplicate 1289/1149: 0.791
+FAIL cross-label near duplicate 1289/1169: 0.778
+FAIL cross-label near duplicate 1289/1189: 0.953
+FAIL near duplicate same label 1289/1229: 0.842
+FAIL near duplicate same label 1289/1249: 0.832
+FAIL near duplicate same label 1289/1269: 0.817
+FAIL cross-label near duplicate 1290/1190: 0.927
+FAIL cross-label near duplicate 1291/1191: 0.912
+FAIL cross-label near duplicate 1292/1112: 0.758
+FAIL cross-label near duplicate 1292/1152: 0.750
+FAIL cross-label near duplicate 1292/1192: 0.931
+FAIL near duplicate same label 1292/1212: 0.815
+FAIL near duplicate same label 1292/1252: 0.806
+FAIL cross-label near duplicate 1293/1113: 0.753
+FAIL cross-label near duplicate 1293/1153: 0.745
+FAIL cross-label near duplicate 1293/1193: 0.929
+FAIL near duplicate same label 1293/1213: 0.811
+FAIL near duplicate same label 1293/1253: 0.802
+FAIL cross-label near duplicate 1294/1114: 0.702
+FAIL cross-label near duplicate 1294/1174: 0.742
+FAIL cross-label near duplicate 1294/1194: 0.929
+FAIL near duplicate same label 1294/1274: 0.802
+FAIL cross-label near duplicate 1295/1115: 0.740
+FAIL cross-label near duplicate 1295/1135: 0.706
+FAIL cross-label near duplicate 1295/1155: 0.706
+FAIL cross-label near duplicate 1295/1175: 0.778
+FAIL cross-label near duplicate 1295/1195: 0.937
+FAIL near duplicate same label 1295/1275: 0.833
+FAIL cross-label near duplicate 1296/1196: 0.929
+FAIL cross-label near duplicate 1297/1197: 0.932
+FAIL cross-label near duplicate 1298/1198: 0.915
+FAIL cross-label near duplicate 1299/1119: 0.726
+FAIL cross-label near duplicate 1299/1179: 0.778
+FAIL cross-label near duplicate 1299/1199: 0.942
+FAIL near duplicate same label 1299/1279: 0.830
+FAIL near duplicate same label 1343/1319: 0.842
+FAIL near duplicate same label 1349/1321: 0.811
+FAIL near duplicate same label 1360/1346: 0.808
+FAIL near duplicate same label 1386/1333: 0.837
+FAIL near duplicate same label 1393/1388: 0.810
+FAIL near duplicate same label 1394/1389: 0.812
+FAIL near duplicate same label 1395/1390: 0.824
+FAIL near duplicate same label 1396/1391: 0.889
+FAIL near duplicate same label 1397/1392: 0.852
+FAIL near duplicate same label 1415/1410: 0.860
+FAIL near duplicate same label 1451/1426: 0.816
+FAIL near duplicate same label 1465/1409: 0.812
+FAIL near duplicate same label 1493/1488: 1.000
+FAIL near duplicate same label 1494/1489: 0.846
+FAIL near duplicate same label 1495/1490: 0.867
+FAIL near duplicate same label 1496/1491: 0.857
+FAIL near duplicate same label 1497/1492: 0.871
+FAIL near duplicate same label 1522/1521: 0.800
+FAIL near duplicate same label 1570/1567: 0.810
+FAIL near duplicate same label 1573/1563: 0.817
+FAIL near duplicate same label 1580/1573: 0.842
+FAIL cross-label near duplicate 1587/1424: 0.711
+FAIL near duplicate same label 1589/1588: 0.900
+FAIL near duplicate same label 1590/1588: 0.800
+FAIL near duplicate same label 1591/1588: 0.824
+FAIL near duplicate same label 1593/1588: 0.867
+FAIL near duplicate same label 1593/1589: 0.900
+FAIL near duplicate same label 1594/1588: 0.900
+FAIL near duplicate same label 1594/1589: 1.000
+FAIL near duplicate same label 1594/1593: 0.900
+FAIL near duplicate same label 1595/1590: 0.892
+FAIL near duplicate same label 1595/1593: 0.800
+FAIL near duplicate same label 1596/1591: 0.889
+FAIL near duplicate same label 1596/1593: 0.824
+FAIL near duplicate same label 1597/1592: 0.897
+FAIL near duplicate same label 1599/1598: 0.800
+FAIL cross-label near duplicate 1618/1580: 0.708
+FAIL cross-label near duplicate 1641/1412: 0.704
+FAIL cross-label near duplicate 1655/1540: 0.711
+FAIL cross-label near duplicate 1666/1549: 0.789
+FAIL near duplicate same label 1668/1649: 0.836
+FAIL cross-label near duplicate 1687/1565: 0.794
+FAIL near duplicate same label 1689/1688: 0.909
+FAIL near duplicate same label 1690/1688: 0.838
+FAIL near duplicate same label 1691/1688: 0.939
+FAIL near duplicate same label 1691/1689: 0.857
+FAIL near duplicate same label 1692/1691: 0.825
+FAIL near duplicate same label 1693/1688: 0.879
+FAIL near duplicate same label 1693/1689: 0.909
+FAIL near duplicate same label 1693/1691: 0.829
+FAIL near duplicate same label 1694/1688: 0.909
+FAIL near duplicate same label 1694/1689: 1.000
+FAIL near duplicate same label 1694/1691: 0.857
+FAIL near duplicate same label 1694/1693: 0.909
+FAIL near duplicate same label 1695/1690: 0.897
+FAIL near duplicate same label 1695/1693: 0.838
+FAIL near duplicate same label 1696/1688: 0.829
+FAIL near duplicate same label 1696/1689: 0.857
+FAIL near duplicate same label 1696/1691: 0.886
+FAIL near duplicate same label 1696/1693: 0.939
+FAIL near duplicate same label 1696/1694: 0.857
+FAIL near duplicate same label 1697/1692: 0.905
+FAIL near duplicate same label 1697/1696: 0.825
+FAIL near duplicate same label 1699/1698: 0.814
+FAIL near duplicate same label 1746/1706: 0.818
+FAIL near duplicate same label 1755/1715: 0.820
+FAIL near duplicate same label 1764/1724: 0.828
+FAIL near duplicate same label 1787/1707: 0.950
+FAIL near duplicate same label 1788/1748: 0.800
+FAIL near duplicate same label 1791/1751: 0.803
+FAIL near duplicate same label 1792/1712: 0.909
+FAIL near duplicate same label 1793/1753: 0.804
+FAIL near duplicate same label 1819/1806: 0.818
+FAIL cross-label near duplicate 1904/1704: 0.712
+FAIL cross-label near duplicate 1936/1736: 0.741
+FAIL cross-label near duplicate 1944/1744: 0.708
+FAIL near duplicate same label 1946/1906: 0.866
+FAIL near duplicate same label 1951/1911: 0.809
+FAIL near duplicate same label 1955/1915: 0.909
+FAIL near duplicate same label 1963/1923: 0.815
+FAIL near duplicate same label 1964/1924: 0.851
+FAIL near duplicate same label 1965/1925: 0.831
+FAIL cross-label near duplicate 1976/1776: 0.714
+FAIL cross-label near duplicate 1984/1784: 0.703
+FAIL near duplicate same label 1987/1907: 0.963
+FAIL near duplicate same label 1987/1947: 0.800
+FAIL near duplicate same label 1988/1908: 0.800
+FAIL near duplicate same label 1988/1948: 0.825
+FAIL near duplicate same label 1989/1909: 0.809
+FAIL near duplicate same label 1989/1949: 0.833
+FAIL near duplicate same label 1991/1951: 0.852
+FAIL near duplicate same label 1992/1912: 0.849
+FAIL near duplicate same label 1993/1953: 0.897
+FAIL near duplicate same label 2043/2003: 0.800
+FAIL near duplicate same label 2046/2006: 0.823
+FAIL near duplicate same label 2051/2011: 0.811
+FAIL near duplicate same label 2055/2015: 0.889
+FAIL near duplicate same label 2062/2042: 0.809
+FAIL near duplicate same label 2063/2023: 0.800
+FAIL near duplicate same label 2064/2024: 0.841
+FAIL near duplicate same label 2065/2025: 0.826
+FAIL near duplicate same label 2087/2007: 0.958
+FAIL near duplicate same label 2089/2009: 0.819
+FAIL near duplicate same label 2089/2049: 0.842
+FAIL near duplicate same label 2091/2051: 0.854
+FAIL near duplicate same label 2092/2012: 0.846
+FAIL near duplicate same label 2093/2053: 0.962
+FAIL near duplicate same label 2146/2106: 0.850
+FAIL near duplicate same label 2148/2108: 0.823
+FAIL near duplicate same label 2155/2115: 0.889
+FAIL near duplicate same label 2162/2142: 0.839
+FAIL near duplicate same label 2164/2124: 0.853
+FAIL near duplicate same label 2165/2125: 0.826
+FAIL near duplicate same label 2178/2138: 0.827
+FAIL near duplicate same label 2187/2107: 0.956
+FAIL near duplicate same label 2188/2108: 0.863
+FAIL near duplicate same label 2188/2148: 0.863
+FAIL near duplicate same label 2189/2149: 0.853
+FAIL near duplicate same label 2191/2151: 0.855
+FAIL near duplicate same label 2192/2112: 0.864
+FAIL near duplicate same label 2193/2153: 0.882
+FAIL near duplicate same label 2198/2158: 0.813
+FAIL cross-label near duplicate 2200/2100: 0.714
+FAIL cross-label near duplicate 2201/2101: 0.729
+FAIL cross-label near duplicate 2202/2102: 0.833
+FAIL cross-label near duplicate 2203/2103: 0.741
+FAIL cross-label near duplicate 2204/2104: 0.818
+FAIL cross-label near duplicate 2205/2105: 0.819
+FAIL cross-label near duplicate 2206/2106: 0.886
+FAIL cross-label near duplicate 2206/2146: 0.753
+FAIL cross-label near duplicate 2207/2107: 0.813
+FAIL cross-label near duplicate 2207/2187: 0.800
+FAIL cross-label near duplicate 2208/2108: 0.835
+FAIL cross-label near duplicate 2208/2188: 0.734
+FAIL cross-label near duplicate 2209/2109: 0.863
+FAIL cross-label near duplicate 2209/2189: 0.700
+FAIL cross-label near duplicate 2210/2110: 0.868
+FAIL cross-label near duplicate 2211/2111: 0.841
+FAIL cross-label near duplicate 2212/2112: 0.770
+FAIL cross-label near duplicate 2213/2113: 0.766
+FAIL cross-label near duplicate 2214/2114: 0.841
+FAIL cross-label near duplicate 2215/2115: 0.776
+FAIL cross-label near duplicate 2216/2116: 0.817
+FAIL cross-label near duplicate 2217/2117: 0.833
+FAIL cross-label near duplicate 2218/2118: 0.885
+FAIL cross-label near duplicate 2219/2119: 0.774
+FAIL cross-label near duplicate 2220/2120: 0.714
+FAIL cross-label near duplicate 2221/2121: 0.717
+FAIL cross-label near duplicate 2222/2122: 0.845
+FAIL cross-label near duplicate 2224/2124: 0.806
+FAIL cross-label near duplicate 2224/2164: 0.707
+FAIL cross-label near duplicate 2225/2125: 0.829
+FAIL cross-label near duplicate 2226/2126: 0.886
+FAIL cross-label near duplicate 2227/2127: 0.823
+FAIL cross-label near duplicate 2228/2128: 0.816
+FAIL cross-label near duplicate 2229/2129: 0.851
+FAIL cross-label near duplicate 2230/2130: 0.873
+FAIL cross-label near duplicate 2231/2131: 0.817
+FAIL cross-label near duplicate 2232/2132: 0.794
+FAIL cross-label near duplicate 2233/2133: 0.780
+FAIL cross-label near duplicate 2234/2134: 0.870
+FAIL cross-label near duplicate 2235/2135: 0.824
+FAIL cross-label near duplicate 2236/2136: 0.835
+FAIL cross-label near duplicate 2237/2137: 0.822
+FAIL cross-label near duplicate 2238/2138: 0.885
+FAIL cross-label near duplicate 2238/2178: 0.733
+FAIL cross-label near duplicate 2239/2139: 0.811
+FAIL cross-label near duplicate 2240/2140: 0.731
+FAIL cross-label near duplicate 2241/2141: 0.745
+FAIL cross-label near duplicate 2242/2142: 0.815
+FAIL cross-label near duplicate 2243/2143: 0.725
+FAIL cross-label near duplicate 2244/2144: 0.816
+FAIL cross-label near duplicate 2245/2145: 0.836
+FAIL cross-label near duplicate 2246/2106: 0.753
+FAIL cross-label near duplicate 2246/2146: 0.886
+FAIL near duplicate same label 2246/2206: 0.852
+FAIL cross-label near duplicate 2247/2147: 0.818
+FAIL cross-label near duplicate 2248/2148: 0.835
+FAIL cross-label near duplicate 2248/2188: 0.734
+FAIL near duplicate same label 2248/2208: 0.825
+FAIL cross-label near duplicate 2249/2149: 0.861
+FAIL cross-label near duplicate 2249/2189: 0.753
+FAIL cross-label near duplicate 2250/2150: 0.882
+FAIL cross-label near duplicate 2251/2151: 0.843
+FAIL cross-label near duplicate 2251/2191: 0.742
+FAIL near duplicate same label 2251/2211: 0.800
+FAIL cross-label near duplicate 2252/2152: 0.791
+FAIL cross-label near duplicate 2253/2153: 0.764
+FAIL cross-label near duplicate 2253/2193: 0.702
+FAIL cross-label near duplicate 2254/2154: 0.863
+FAIL cross-label near duplicate 2255/2115: 0.705
+FAIL cross-label near duplicate 2255/2155: 0.767
+FAIL near duplicate same label 2255/2215: 0.877
+FAIL cross-label near duplicate 2256/2156: 0.781
+FAIL cross-label near duplicate 2257/2157: 0.831
+FAIL cross-label near duplicate 2258/2158: 0.877
+FAIL cross-label near duplicate 2258/2198: 0.713
+FAIL cross-label near duplicate 2259/2159: 0.781
+FAIL cross-label near duplicate 2261/2161: 0.745
+FAIL cross-label near duplicate 2262/2162: 0.831
+FAIL near duplicate same label 2262/2242: 0.839
+FAIL cross-label near duplicate 2264/2124: 0.707
+FAIL cross-label near duplicate 2264/2164: 0.800
+FAIL near duplicate same label 2264/2224: 0.857
+FAIL cross-label near duplicate 2265/2165: 0.829
+FAIL near duplicate same label 2265/2225: 0.831
+FAIL cross-label near duplicate 2266/2166: 0.899
+FAIL cross-label near duplicate 2267/2167: 0.823
+FAIL cross-label near duplicate 2268/2168: 0.823
+FAIL cross-label near duplicate 2269/2169: 0.847
+FAIL cross-label near duplicate 2270/2170: 0.871
+FAIL cross-label near duplicate 2271/2171: 0.816
+FAIL cross-label near duplicate 2272/2172: 0.818
+FAIL cross-label near duplicate 2273/2173: 0.772
+FAIL cross-label near duplicate 2274/2174: 0.863
+FAIL cross-label near duplicate 2275/2175: 0.791
+FAIL cross-label near duplicate 2276/2176: 0.825
+FAIL cross-label near duplicate 2277/2177: 0.829
+FAIL cross-label near duplicate 2278/2138: 0.767
+FAIL cross-label near duplicate 2278/2178: 0.925
+FAIL near duplicate same label 2278/2238: 0.800
+FAIL cross-label near duplicate 2279/2179: 0.823
+FAIL cross-label near duplicate 2280/2180: 0.725
+FAIL cross-label near duplicate 2282/2182: 0.827
+FAIL cross-label near duplicate 2284/2184: 0.818
+FAIL cross-label near duplicate 2285/2185: 0.835
+FAIL cross-label near duplicate 2286/2186: 0.901
+FAIL cross-label near duplicate 2287/2107: 0.800
+FAIL cross-label near duplicate 2287/2187: 0.811
+FAIL near duplicate same label 2287/2207: 0.957
+FAIL cross-label near duplicate 2288/2108: 0.725
+FAIL cross-label near duplicate 2288/2148: 0.725
+FAIL cross-label near duplicate 2288/2188: 0.831
+FAIL near duplicate same label 2288/2208: 0.853
+FAIL near duplicate same label 2288/2248: 0.853
+FAIL cross-label near duplicate 2289/2149: 0.753
+FAIL cross-label near duplicate 2289/2189: 0.851
+FAIL near duplicate same label 2289/2209: 0.805
+FAIL near duplicate same label 2289/2249: 0.859
+FAIL cross-label near duplicate 2290/2190: 0.883
+FAIL cross-label near duplicate 2291/2151: 0.733
+FAIL cross-label near duplicate 2291/2191: 0.859
+FAIL near duplicate same label 2291/2251: 0.847
+FAIL cross-label near duplicate 2292/2192: 0.785
+FAIL near duplicate same label 2292/2212: 0.869
+FAIL cross-label near duplicate 2293/2153: 0.702
+FAIL cross-label near duplicate 2293/2193: 0.764
+FAIL near duplicate same label 2293/2253: 0.885
+FAIL cross-label near duplicate 2294/2194: 0.855
+FAIL cross-label near duplicate 2295/2195: 0.787
+FAIL cross-label near duplicate 2296/2196: 0.781
+FAIL cross-label near duplicate 2297/2197: 0.800
+FAIL cross-label near duplicate 2298/2158: 0.713
+FAIL cross-label near duplicate 2298/2198: 0.877
+FAIL near duplicate same label 2298/2258: 0.816
+FAIL cross-label near duplicate 2299/2199: 0.800
+FAIL near duplicate same label 2346/2306: 0.812
+FAIL near duplicate same label 2351/2311: 0.824
+FAIL near duplicate same label 2355/2315: 0.905
+FAIL near duplicate same label 2364/2324: 0.844
+FAIL near duplicate same label 2365/2325: 0.800
+FAIL near duplicate same label 2373/2333: 0.803
+FAIL near duplicate same label 2387/2307: 0.954
+FAIL near duplicate same label 2388/2308: 0.818
+FAIL near duplicate same label 2388/2348: 0.844
+FAIL near duplicate same label 2389/2349: 0.921
+FAIL near duplicate same label 2391/2311: 0.803
+FAIL near duplicate same label 2391/2351: 0.842
+FAIL near duplicate same label 2392/2312: 0.875
+FAIL near duplicate same label 2393/2353: 0.898
+FAIL near duplicate same label 2463/2402: 1.000
+FAIL near duplicate same label 2486/2421: 1.000
+FAIL near duplicate same label 2495/2426: 1.000
+FAIL near duplicate same label 2497/2445: 0.889
+FAIL near duplicate same label 2498/2444: 1.000
+FAIL near duplicate same label 2516/2507: 1.000
+FAIL near duplicate same label 2518/2511: 0.853
+FAIL near duplicate same label 2538/2517: 1.000
+FAIL near duplicate same label 2564/2539: 1.000
+FAIL near duplicate same label 2572/2545: 1.000
+FAIL near duplicate same label 2584/2548: 1.000
+FAIL cross-label near duplicate 2632/2446: 0.711
+FAIL near duplicate same label 2670/2639: 1.000
+FAIL near duplicate same label 2680/2627: 1.000
+FAIL near duplicate same label 2688/2666: 0.844
+FAIL near duplicate same label 2714/2710: 0.862
+FAIL near duplicate same label 2730/2706: 0.898
+FAIL near duplicate same label 2755/2744: 0.830
+FAIL near duplicate same label 2765/2737: 0.840
+FAIL near duplicate same label 2772/2709: 1.000
+FAIL cross-label near duplicate 2782/2404: 0.707
+FAIL near duplicate same label 2783/2712: 0.810
+FAIL near duplicate same label 2791/2701: 0.814
+FAIL near duplicate same label 2794/2774: 0.826
+FAIL near duplicate same label 2795/2741: 1.000
+FAIL cross-label near duplicate 2796/2418: 0.740
+FAIL near duplicate same label 2798/2740: 0.833
+FAIL near duplicate same label 2829/2822: 1.000
+FAIL near duplicate same label 2837/2833: 1.000
+FAIL near duplicate same label 2963/2929: 0.829
+FAIL near duplicate same label 2998/2961: 0.806
+FAIL near duplicate same label 3063/3029: 0.829
+FAIL near duplicate same label 3263/3229: 0.812
+FAIL near duplicate same label 3363/3329: 0.846
+FAIL near duplicate same label 3463/3429: 0.854
+FAIL near duplicate same label 3582/3541: 0.833
+FAIL near duplicate same label 3583/3542: 0.800
+FAIL near duplicate same label 3584/3543: 0.875
+FAIL near duplicate same label 3585/3544: 0.882
+FAIL near duplicate same label 3586/3545: 0.840
+FAIL near duplicate same label 3587/3546: 0.862
+FAIL near duplicate same label 3588/3547: 0.882
+FAIL near duplicate same label 3589/3548: 0.879
+FAIL near duplicate same label 3590/3549: 0.871
+FAIL near duplicate same label 3591/3550: 0.892
+FAIL near duplicate same label 3592/3551: 0.857
+FAIL near duplicate same label 3596/3555: 0.879
+FAIL near duplicate same label 3597/3556: 0.852
+FAIL near duplicate same label 3598/3557: 0.818
+FAIL near duplicate same label 3599/3558: 0.879
+FAIL get_suit_pressure_co2: mean length outside ±2 words
+FAIL get_suit_pressure_other: mean length outside ±2 words
+FAIL get_suit_pressure_total: mean length outside ±2 words
+FAIL get_helmet_pressure_co2: mean length outside ±2 words
+FAIL get_scrubber_a_co2_storage: mean length outside ±2 words
+FAIL get_scrubber_b_co2_storage: mean length outside ±2 words
+FAIL get_eva_elapsed_time: mean length outside ±2 words
+FAIL open_menu_vitals: mean length outside ±2 words
+FAIL open_menu_navigation: mean length outside ±2 words
+FAIL open_menu_tasks: mean length outside ±2 words
+FAIL close_menu: mean length outside ±2 words
+FAIL Get_coordinates: mean length outside ±2 words
+FAIL Set_navigation_target: mean length outside ±2 words
+FAIL Add_waypoint: mean length outside ±2 words
+FAIL Delete_waypoint: mean length outside ±2 words
+FAIL Complete_task: mean length outside ±2 words
+FAIL unhandled: mean length outside ±2 words
+FAIL get_temperature: question rate differs by +0.164
+FAIL get_coolant_storage: question rate differs by +0.234
+FAIL get_coolant_liquid_pressure: question rate differs by +0.164
+FAIL Get_coordinates: question rate differs by -0.176
+FAIL Set_navigation_target: question rate differs by -0.176
+FAIL Add_waypoint: question rate differs by -0.176
+FAIL Delete_waypoint: question rate differs by -0.176
+FAIL Complete_task: question rate differs by -0.176
+FAIL unhandled: question rate differs by -0.176
+FAIL get_oxy_pri_pressure: filler rate differs by +0.161
+FAIL get_oxy_sec_pressure: filler rate differs by +0.161
+FAIL unhandled: lowercase rate differs by +0.670
+FAIL Get_coordinates: asr rate differs by +0.152
+FAIL Set_navigation_target: asr rate differs by +0.152
+FAIL Add_waypoint: asr rate differs by +0.152
+FAIL Delete_waypoint: asr rate differs by +0.152
+FAIL Complete_task: asr rate differs by +0.152

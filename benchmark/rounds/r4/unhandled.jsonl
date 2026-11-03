@@ -1,0 +1,25 @@
+{"text": "Did you hear the radio echo a second ago?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Could someone photograph that ridge for geology?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Is the rover still parked beside the lander?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Why is the sunlight so bright off that slope?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Did you pack the spare wrench in the tool bag?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Radio check from the far side of the ridge; do you hear me?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Can you hear the static on channel two?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Would the crew like a picture of these tracks?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Is that rock shaped like a turtle to you?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Did anybody see where my blue pencil went?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Can we talk about the sample notes after repress?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Is dinner still at the usual time back at base?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Would you repeat the last radio check?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Did the rover lights come on yet?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Radio static", "intents": ["unhandled"], "source": "llm"}
+{"text": "What time is dinner at the habitat?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Can you see the dust plume from your side?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Is my microphone crackling, or is that the channel?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Would somebody send a photo to the science team?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Please photograph the ridge crest before we depart.", "intents": ["unhandled"], "source": "llm"}
+{"text": "This is just a comm check, no request.", "intents": ["unhandled"], "source": "llm"}
+{"text": "my oxygen hose keeps tapping against the tool bag.", "intents": ["unhandled"], "source": "llm"}
+{"text": "I forgot to bring the spare marker pen.", "intents": ["unhandled"], "source": "llm"}
+{"text": "A small rock rolled down the slope after my step.", "intents": ["unhandled"], "source": "llm"}
+{"text": "Tell the crew the sample pouch is secured.", "intents": ["unhandled"], "source": "llm"}

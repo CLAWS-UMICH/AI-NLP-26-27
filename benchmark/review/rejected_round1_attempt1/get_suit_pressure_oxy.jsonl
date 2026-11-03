@@ -1,0 +1,25 @@
+{"text": "Suit O2 partial", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Suit pO2 value", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Inside the suit, oxygen partial pressure", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Partial suit O2", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "What is the suit atmosphere oxygen partial-pressure reading before I inspect the hatch?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "I need the suit-side oxygen partial pressure from that sensor, not the tank gauge.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Could you check the oxygen partial pressure from my suit sensor while I inspect the hatch?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Uh, how much partial pressure of oxygen is in the suit?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "My suit sensor's oxygen partial pressure.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Status on the suit oxygen partial pressure reading while I am outside the airlock?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Tell me the current oxygen partial pressure reading from the atmosphere inside my suit.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "I feel a little lightheaded; check the suit oxygen partial pressure now.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "For the log, report the partial pressure of O2 inside my suit.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Partial oxygen pressure inside my EVA suit.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "EVA suit partial pressure", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Telemetry: oxygen partial pressure in suit now", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Suit readout, give oxygen pO2.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Suit partial oxygen", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Quick, read the suit sensor value for oxygen partial pressure before I cross the ridge.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Could I get the suit oxygen partial pressure reading now?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Requesting the suit O2 partial pressure before I start the ascent.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Flight, report my suit's oxygen partial pressure.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Suit oxygen partial", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Read back the suit oxygen partial pressure in millimeters of mercury.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Please give the oxygen partial pressure in my EVA suit; I need that specific sensor value.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}

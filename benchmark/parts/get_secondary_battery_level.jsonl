@@ -1,0 +1,25 @@
+{"text": "Backup bus selected; give me the secondary battery state-of-charge figure.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How many divisions remain on the secondary battery indicator?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Flight, report the level shown by the secondary battery on the reserve circuit.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Uh, ask telemetry for the secondary battery percent remaining.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "For the next traverse, I need a charge estimate from the secondary battery.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Could the suit computer read out battery two, meaning the secondary battery level?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Level: secondary battery?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Is the secondary battery charge still sufficient for the return leg?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Please tell ground the percentage registered by my secondary battery gauge.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "The secondary battery display is dim; can you state its current level?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "At the airlock end of this rail, report the secondary battery charge.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "What usable capacity level is reported for the secondary battery pack?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How full is battery two, the secondary battery?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Would you fetch a numeric level for the secondary battery before I swap loads?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Need a fresh secondary battery charge reading, over.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Uh, read the reserve pack percentage; I mean the secondary battery.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "If the primary bus drops, what level is left in the secondary battery?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Can I get a spoken percent for the charge stored in the secondary battery?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "The power switch is on B; report the secondary battery level in percent.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "battery two remaining charge level please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Please check whether the secondary battery is under a quarter charge.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Could flight estimate the secondary battery state of charge for the log?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Before I disconnect this lead, say the secondary battery charge level.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "I cannot see the reserve gauge; what percent does the secondary battery have?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Secondary battery capacity indicator, read it aloud.", "intents": ["get_secondary_battery_level"], "source": "llm"}

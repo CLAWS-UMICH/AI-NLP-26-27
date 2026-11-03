@@ -1,0 +1,100 @@
+{"text": "quick check active eva warnings, read them?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Can you current suit alerts and read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could you warning summary and read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Please show active caution messages and read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Tell me active EVA warnings and give me the current list on this EVA", "intents": ["get_warnings"], "source": "llm"}
+{"text": "I need current suit alerts, give me the current list on this EVA?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Let me warning summary; give me the current list on this EVA", "intents": ["get_warnings"], "source": "llm"}
+{"text": "status on active caution messages, give me the current list on this eva", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Read back active EVA warnings, what alerts are active before I continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "How is current suit alerts what alerts are active before I continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "What is warning summary what alerts are active before I continue?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Give me active caution messages and what alerts are active before I continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Check my active EVA warnings and check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Uh can current suit alerts; check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "okay so warning summary; check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Need the active caution messages, check the alert panel please?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Confirm my active EVA warnings and report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Pull up current suit alerts and report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Display the warning summary and report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Report the active caution messages and report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Hey flight active EVA warnings; read them uh?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "ground do current suit alerts; read them uh", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Copy requesting warning summary, read them uh", "intents": ["get_warnings"], "source": "llm"}
+{"text": "I am active caution messages; read them uh", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Am I active EVA warnings give me the current list right away", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Do we current suit alerts give me the current list right away?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Any current warning summary give me the current list right away", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Requesting a active caution messages, give me the current list right away", "intents": ["get_warnings"], "source": "llm"}
+{"text": "one quick active eva warnings, what alerts are active for the log", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Before moving current suit alerts; what alerts are active for the log", "intents": ["get_warnings"], "source": "llm"}
+{"text": "While paused warning summary; what alerts are active for the log?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "On my active caution messages; what alerts are active for the log", "intents": ["get_warnings"], "source": "llm"}
+{"text": "For my active EVA warnings; check the alert panel no punctuation", "intents": ["get_warnings"], "source": "llm"}
+{"text": "At this current suit alerts; check the alert panel no punctuation", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Right now warning summary; check the alert panel no punctuation", "intents": ["get_warnings"], "source": "llm"}
+{"text": "please confirm active caution messages; check the alert panel no punctuation?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could flight active EVA warnings and report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Uh status current suit alerts, report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Okay what warning summary; report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Need a active caution messages, report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Just checking active EVA warnings, read them?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Can flight current suit alerts and read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "read my warning summary and read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Show the active caution messages and read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "What are active EVA warnings give me the current list on this EVA", "intents": ["get_warnings"], "source": "llm"}
+{"text": "How many current suit alerts give me the current list on this EVA?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Is my warning summary give me the current list on this EVA", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Checking the active caution messages, give me the current list on this EVA", "intents": ["get_warnings"], "source": "llm"}
+{"text": "A quick active EVA warnings, what alerts are active before I continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "need current current suit alerts, what alerts are active before i continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Quick check warning summary, what alerts are active before I continue?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Can you active caution messages and what alerts are active before I continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could you active EVA warnings and check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Please show current suit alerts and check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Tell me warning summary and check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "I need active caution messages, check the alert panel please?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "let me active eva warnings; report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Status on current suit alerts, report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Read back warning summary, report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "How is active caution messages report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "What is active EVA warnings read them uh?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Give me current suit alerts and read them uh", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Check my warning summary and read them uh", "intents": ["get_warnings"], "source": "llm"}
+{"text": "uh can active caution messages; read them uh", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Okay so active EVA warnings; give me the current list right away", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Need the current suit alerts, give me the current list right away?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Confirm my warning summary and give me the current list right away", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Pull up active caution messages and give me the current list right away", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Display the active EVA warnings and what alerts are active for the log", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Report the current suit alerts and what alerts are active for the log", "intents": ["get_warnings"], "source": "llm"}
+{"text": "hey flight warning summary; what alerts are active for the log?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Ground do active caution messages; what alerts are active for the log", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Copy requesting active EVA warnings, check the alert panel no punctuation", "intents": ["get_warnings"], "source": "llm"}
+{"text": "I am current suit alerts; check the alert panel no punctuation", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Am I warning summary check the alert panel no punctuation", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Do we active caution messages check the alert panel no punctuation?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Any current active EVA warnings report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "requesting a current suit alerts, report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "One quick warning summary, report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Before moving active caution messages; report any warnings during this traverse", "intents": ["get_warnings"], "source": "llm"}
+{"text": "While paused active EVA warnings; read them?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "On my current suit alerts; read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "For my warning summary; read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "At this active caution messages; read them", "intents": ["get_warnings"], "source": "llm"}
+{"text": "right now active eva warnings; give me the current list on this eva", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Please confirm current suit alerts; give me the current list on this EVA?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could flight warning summary and give me the current list on this EVA", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Uh status active caution messages, give me the current list on this EVA", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Okay what active EVA warnings; what alerts are active before I continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Need a current suit alerts, what alerts are active before I continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Just checking warning summary, what alerts are active before I continue?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "can flight active caution messages and what alerts are active before i continue", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Read my active EVA warnings and check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Show the current suit alerts and check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "What are warning summary check the alert panel please", "intents": ["get_warnings"], "source": "llm"}
+{"text": "How many active caution messages check the alert panel please?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Is my active EVA warnings report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Checking the current suit alerts, report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "a quick warning summary, report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Need current active caution messages, report any warnings over comms", "intents": ["get_warnings"], "source": "llm"}

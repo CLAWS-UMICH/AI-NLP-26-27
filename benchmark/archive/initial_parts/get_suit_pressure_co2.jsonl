@@ -1,0 +1,100 @@
+{"text": "Check suit CO2 partial pressure, at 18%?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Check suit CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Read suit carbon dioxide partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Read suit carbon dioxide partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Show me carbon-dioxide partial pressure in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Show me carbon-dioxide partial pressure in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "What's CO2 partial pressure in my suit; it's forty one percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "What's CO2 partial pressure in my suit, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Can you report the suit-loop CO2 partial pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Can you report the suit-loop CO2 partial pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Could you read suit CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Could you read suit CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I need suit carbon dioxide partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I need suit carbon dioxide partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Give me carbon-dioxide partial pressure in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Give me carbon-dioxide partial pressure in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Pull up CO2 partial pressure in my suit, forty one percent copy?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Pull up CO2 partial pressure in my suit, this check is 53 percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Tell me the suit-loop CO2 partial pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Tell me the suit-loop CO2 partial pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Uh, check suit CO2 partial pressure, at 18%?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Uh, check suit CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Okay, read suit carbon dioxide partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Okay, read suit carbon dioxide partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Hey, what's carbon-dioxide partial pressure in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Hey, what's carbon-dioxide partial pressure in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Quick check: CO2 partial pressure in my suit; it's forty one percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Quick check: CO2 partial pressure in my suit, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "For the log, read the suit-loop CO2 partial pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "For the log, read the suit-loop CO2 partial pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Before I move, check suit CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Before I move, check suit CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Flight, can you report suit carbon dioxide partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Flight, can you report suit carbon dioxide partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Houston, what's carbon-dioxide partial pressure in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Houston, what's carbon-dioxide partial pressure in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I'm seeing a change; read CO2 partial pressure in my suit, forty one percent copy?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I'm seeing a change; read CO2 partial pressure in my suit, this check is 53 percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Please give me the suit-loop CO2 partial pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Please give me the suit-loop CO2 partial pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "How's suit CO2 partial pressure, at 18%?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "How's suit CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Do we have suit carbon dioxide partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Do we have suit carbon dioxide partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Let's check carbon-dioxide partial pressure in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Let's check carbon-dioxide partial pressure in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I want to verify CO2 partial pressure in my suit; it's forty one percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I want to verify CO2 partial pressure in my suit, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Can I get the suit-loop CO2 partial pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Can I get the suit-loop CO2 partial pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Uh, what's suit CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Uh, what's suit CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Okay so, show suit carbon dioxide partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Okay so, show suit carbon dioxide partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "On my display, check carbon-dioxide partial pressure in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "On my display, check carbon-dioxide partial pressure in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Confirm CO2 partial pressure in my suit, forty one percent copy?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Confirm CO2 partial pressure in my suit, this check is 53 percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Need a reading for the suit-loop CO2 partial pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Need a reading for the suit-loop CO2 partial pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Status on suit CO2 partial pressure, at 18%?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Status on suit CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Could I get suit carbon dioxide partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Could I get suit carbon dioxide partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Let's verify carbon-dioxide partial pressure in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Let's verify carbon-dioxide partial pressure in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I'm concerned about CO2 partial pressure in my suit; it's forty one percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I'm concerned about CO2 partial pressure in my suit, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "One more check: read the suit-loop CO2 partial pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "One more check: read the suit-loop CO2 partial pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "When you can, report suit CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "When you can, report suit CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "During this traverse, check suit carbon dioxide partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "During this traverse, check suit carbon dioxide partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Is carbon-dioxide partial pressure in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Is carbon-dioxide partial pressure in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Are we tracking CO2 partial pressure in my suit, forty one percent copy?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Are we tracking CO2 partial pressure in my suit, this check is 53 percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "What's the current the suit-loop CO2 partial pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "What's the current the suit-loop CO2 partial pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Read back suit CO2 partial pressure, at 18%?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Read back suit CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I missed that; report suit carbon dioxide partial pressure, reading thirty four percent now.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I missed that; report suit carbon dioxide partial pressure, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "For situational awareness, give me carbon-dioxide partial pressure in the suit, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "For situational awareness, give me carbon-dioxide partial pressure in the suit; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Before the next step, verify CO2 partial pressure in my suit; it's forty one percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Before the next step, verify CO2 partial pressure in my suit, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I'm logging the suit-loop CO2 partial pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I'm logging the suit-loop CO2 partial pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Please confirm suit CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Please confirm suit CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Let's get suit carbon dioxide partial pressure, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Let's get suit carbon dioxide partial pressure, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Any update on carbon-dioxide partial pressure in the suit, at one point two kPa when ready.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Any update on carbon-dioxide partial pressure in the suit, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I need the current CO2 partial pressure in my suit, forty one percent copy?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I need the current CO2 partial pressure in my suit, this check is 53 percent.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Would you check the suit-loop CO2 partial pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Would you check the suit-loop CO2 partial pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_co2"], "source": "llm"}

@@ -1,0 +1,100 @@
+{"text": "Check CO2 storage in scrubber A, at 18%?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Check CO2 storage in scrubber A, reading 27 percent on the current suit check now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Read scrubber A carbon dioxide capacity remaining, reading thirty four percent now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Read scrubber A carbon dioxide capacity remaining, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Show me the remaining CO2 load in the A scrubber, value is one point two kPa for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Show me the remaining CO2 load in the A scrubber; it's 2.1 kilopascals.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "What's carbon-dioxide storage level for scrubber A; it's forty one percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "What's carbon-dioxide storage level for scrubber A, showing 53 percent on the current suit check before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Can you report scrubber A's CO2 storage percentage, showing sixty kPa before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Can you report scrubber A's CO2 storage percentage, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could you read CO2 storage in scrubber A, currently 18%—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could you read CO2 storage in scrubber A, uh, 27 percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I need scrubber A carbon dioxide capacity remaining, uh, thirty four percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I need scrubber A carbon dioxide capacity remaining, at 0.8 kilopascals when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Give me the remaining CO2 load in the A scrubber, at one point two kPa when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Give me the remaining CO2 load in the A scrubber, 2.1 kilopascals copy on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Pull up carbon-dioxide storage level for scrubber A, forty one percent copy?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Pull up carbon-dioxide storage level for scrubber A, this check is 53 percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Tell me scrubber A's CO2 storage percentage, this check is sixty kPa.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Tell me scrubber A's CO2 storage percentage, at 0.6 k p a on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Uh, check CO2 storage in scrubber A, at 18%?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Uh, check CO2 storage in scrubber A, reading 27 percent on the current suit check now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Okay, read scrubber A carbon dioxide capacity remaining, reading thirty four percent now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Okay, read scrubber A carbon dioxide capacity remaining, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Hey, what's the remaining CO2 load in the A scrubber, value is one point two kPa for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Hey, what's the remaining CO2 load in the A scrubber; it's 2.1 kilopascals.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Quick check: carbon-dioxide storage level for scrubber A; it's forty one percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Quick check: carbon-dioxide storage level for scrubber A, showing 53 percent on the current suit check before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "For the log, read scrubber A's CO2 storage percentage, showing sixty kPa before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "For the log, read scrubber A's CO2 storage percentage, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Before I move, check CO2 storage in scrubber A, currently 18%—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Before I move, check CO2 storage in scrubber A, uh, 27 percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Flight, can you report scrubber A carbon dioxide capacity remaining, uh, thirty four percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Flight, can you report scrubber A carbon dioxide capacity remaining, at 0.8 kilopascals when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Houston, what's the remaining CO2 load in the A scrubber, at one point two kPa when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Houston, what's the remaining CO2 load in the A scrubber, 2.1 kilopascals copy on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I'm seeing a change; read carbon-dioxide storage level for scrubber A, forty one percent copy?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I'm seeing a change; read carbon-dioxide storage level for scrubber A, this check is 53 percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Please give me scrubber A's CO2 storage percentage, this check is sixty kPa.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Please give me scrubber A's CO2 storage percentage, at 0.6 k p a on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "How's CO2 storage in scrubber A, at 18%?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "How's CO2 storage in scrubber A, reading 27 percent on the current suit check now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Do we have scrubber A carbon dioxide capacity remaining, reading thirty four percent now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Do we have scrubber A carbon dioxide capacity remaining, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Let's check the remaining CO2 load in the A scrubber, value is one point two kPa for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Let's check the remaining CO2 load in the A scrubber; it's 2.1 kilopascals.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I want to verify carbon-dioxide storage level for scrubber A; it's forty one percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I want to verify carbon-dioxide storage level for scrubber A, showing 53 percent on the current suit check before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Can I get scrubber A's CO2 storage percentage, showing sixty kPa before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Can I get scrubber A's CO2 storage percentage, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Uh, what's CO2 storage in scrubber A, currently 18%—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Uh, what's CO2 storage in scrubber A, uh, 27 percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Okay so, show scrubber A carbon dioxide capacity remaining, uh, thirty four percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Okay so, show scrubber A carbon dioxide capacity remaining, at 0.8 kilopascals when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "On my display, check the remaining CO2 load in the A scrubber, at one point two kPa when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "On my display, check the remaining CO2 load in the A scrubber, 2.1 kilopascals copy on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Confirm carbon-dioxide storage level for scrubber A, forty one percent copy?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Confirm carbon-dioxide storage level for scrubber A, this check is 53 percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Need a reading for scrubber A's CO2 storage percentage, this check is sixty kPa.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Need a reading for scrubber A's CO2 storage percentage, at 0.6 k p a on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Status on CO2 storage in scrubber A, at 18%?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Status on CO2 storage in scrubber A, reading 27 percent on the current suit check now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could I get scrubber A carbon dioxide capacity remaining, reading thirty four percent now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could I get scrubber A carbon dioxide capacity remaining, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Let's verify the remaining CO2 load in the A scrubber, value is one point two kPa for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Let's verify the remaining CO2 load in the A scrubber; it's 2.1 kilopascals.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I'm concerned about carbon-dioxide storage level for scrubber A; it's forty one percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I'm concerned about carbon-dioxide storage level for scrubber A, showing 53 percent on the current suit check before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "One more check: read scrubber A's CO2 storage percentage, showing sixty kPa before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "One more check: read scrubber A's CO2 storage percentage, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "When you can, report CO2 storage in scrubber A, currently 18%—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "When you can, report CO2 storage in scrubber A, uh, 27 percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "During this traverse, check scrubber A carbon dioxide capacity remaining, uh, thirty four percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "During this traverse, check scrubber A carbon dioxide capacity remaining, at 0.8 kilopascals when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Is the remaining CO2 load in the A scrubber, at one point two kPa when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Is the remaining CO2 load in the A scrubber, 2.1 kilopascals copy on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Are we tracking carbon-dioxide storage level for scrubber A, forty one percent copy?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Are we tracking carbon-dioxide storage level for scrubber A, this check is 53 percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "What's the current scrubber A's CO2 storage percentage, this check is sixty kPa.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "What's the current scrubber A's CO2 storage percentage, at 0.6 k p a on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Read back CO2 storage in scrubber A, at 18%?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Read back CO2 storage in scrubber A, reading 27 percent on the current suit check now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I missed that; report scrubber A carbon dioxide capacity remaining, reading thirty four percent now.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I missed that; report scrubber A carbon dioxide capacity remaining, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "For situational awareness, give me the remaining CO2 load in the A scrubber, value is one point two kPa for me, please.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "For situational awareness, give me the remaining CO2 load in the A scrubber; it's 2.1 kilopascals.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Before the next step, verify carbon-dioxide storage level for scrubber A; it's forty one percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Before the next step, verify carbon-dioxide storage level for scrubber A, showing 53 percent on the current suit check before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I'm logging scrubber A's CO2 storage percentage, showing sixty kPa before I continue.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I'm logging scrubber A's CO2 storage percentage, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Please confirm CO2 storage in scrubber A, currently 18%—I need the exact reading.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Please confirm CO2 storage in scrubber A, uh, 27 percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Let's get scrubber A carbon dioxide capacity remaining, uh, thirty four percent is the value.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Let's get scrubber A carbon dioxide capacity remaining, at 0.8 kilopascals when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Any update on the remaining CO2 load in the A scrubber, at one point two kPa when ready.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Any update on the remaining CO2 load in the A scrubber, 2.1 kilopascals copy on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I need the current carbon-dioxide storage level for scrubber A, forty one percent copy?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I need the current carbon-dioxide storage level for scrubber A, this check is 53 percent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Would you check scrubber A's CO2 storage percentage, this check is sixty kPa.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Would you check scrubber A's CO2 storage percentage, at 0.6 k p a on the current suit check?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}

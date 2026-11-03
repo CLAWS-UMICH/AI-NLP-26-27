@@ -1,0 +1,25 @@
+{"text": "Open navigation map.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you show the EVA route map before I move out?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Show the position panel with the surface map, please.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you open the navigation window for this traverse?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Uh, show the map panel so I can confirm my location.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please open the EVA cartography panel on my visor.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Flight, could you show the navigation map while I check the tether?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "open the EVA route map", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "show the nav panel on my visor", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "open the surface map window now", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "please show the EVA navigation panel", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "open map view for this traverse", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "show the wayfinding panel on helmet", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you open the route map for our current worksite?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Okay, show the EVA navigation screen with my position marker.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please open the mapping panel before I leave the ridge.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I need the surface map; show the navigation window on my HUD.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you open the EVA map panel so I can plot my next leg?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "uh show navigation map on the wrist screen", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "open the helmet navigation window for this task", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Show the map interface with the route line visible, please.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you open my EVA map and navigation controls on the visor?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Please show the map window so I can orient to the habitat.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Open the navigation map panel for my return traverse.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Houston, show the EVA mapping window while I hold at the marker.", "intents": ["open_menu_navigation"], "source": "llm"}

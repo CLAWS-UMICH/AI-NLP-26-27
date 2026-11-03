@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 16,
+    "label": "Add_waypoint",
+    "text": "Place South Ray among the route markers."
+  },
+  {
+    "id": 2,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 25,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "For the EVA notes, report the carbon dioxide storage utilization of scrubber B."
+  },
+  {
+    "id": 3,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 17,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Could I get the CO2 amount stored in scrubber B’s canister for the maintenance log?"
+  },
+  {
+    "id": 4,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 6,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Uh, tell me how full the scrubber A carbon bed is with captured CO2."
+  },
+  {
+    "id": 5,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 15,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Would you state the CO2 retention capacity left in scrubber B as a percentage?"
+  },
+  {
+    "id": 6,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 4,
+    "label": "Add_waypoint",
+    "text": "Place a nav marker called Lunar Gateway"
+  },
+  {
+    "id": 7,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 13,
+    "label": "Delete_waypoint",
+    "text": "Take that waypoint, Alpha Station, off my display."
+  },
+  {
+    "id": 8,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 9,
+    "label": "Delete_waypoint",
+    "text": "Can you clear Malapert Massif from my route points?"
+  },
+  {
+    "id": 9,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 6,
+    "label": "Delete_waypoint",
+    "text": "Please remove the map waypoint called Aitken Basin."
+  },
+  {
+    "id": 10,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 11,
+    "label": "Delete_waypoint",
+    "text": "Unmark Permanently Shadowed Site as a waypoint."
+  },
+  {
+    "id": 11,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 17,
+    "label": "Add_waypoint",
+    "text": "Save a waypoint at sample site 5 before we continue."
+  },
+  {
+    "id": 12,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 6,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Flight, query the stored carbon dioxide load on the B-side scrubber media."
+  },
+  {
+    "id": 13,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 11,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "scrubber b retained co2 level please"
+  },
+  {
+    "id": 14,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 7,
+    "label": "Delete_waypoint",
+    "text": "Drop Tycho Spur as a saved waypoint."
+  },
+  {
+    "id": 15,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 4,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Please report the fill percentage of scrubber A’s CO2 cartridge."
+  },
+  {
+    "id": 16,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 2,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "How much captured carbon dioxide is retained by the B scrubber?"
+  },
+  {
+    "id": 17,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 5,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "What percentage of scrubber B’s CO2 capacity is still available?"
+  },
+  {
+    "id": 18,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 24,
+    "label": "Add_waypoint",
+    "text": "Add a route marker at Armstrong Point while I hold here."
+  },
+  {
+    "id": 19,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 3,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "What capacity remains in scrubber A for stored CO2?"
+  },
+  {
+    "id": 20,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 24,
+    "label": "Delete_waypoint",
+    "text": "Delete the waypoint labeled Scott Station, please."
+  },
+  {
+    "id": 21,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 12,
+    "label": "Add_waypoint",
+    "text": "Insert a waypoint at Permanently Shadowed Site on my EVA map."
+  },
+  {
+    "id": 22,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 18,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Please call out the unused carbon dioxide holding capacity of scrubber B."
+  },
+  {
+    "id": 23,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 3,
+    "label": "Add_waypoint",
+    "text": "Save de Gerlache as a new waypoint."
+  },
+  {
+    "id": 24,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 4,
+    "label": "Delete_waypoint",
+    "text": "I no longer need waypoint site 12; erase it"
+  },
+  {
+    "id": 25,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 20,
+    "label": "Add_waypoint",
+    "text": "Put site delta into the waypoint queue."
+  },
+  {
+    "id": 26,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 22,
+    "label": "Delete_waypoint",
+    "text": "Take Conrad Crater out of my waypoint queue."
+  },
+  {
+    "id": 27,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 2,
+    "label": "Delete_waypoint",
+    "text": "Delete South Pole Station from my saved waypoints."
+  },
+  {
+    "id": 28,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 12,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "read back the scrubber B carbon dioxide storage level"
+  },
+  {
+    "id": 29,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 25,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "For the EVA log, report how saturated the A scrubber is with stored carbon dioxide."
+  },
+  {
+    "id": 30,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 9,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "check remaining co2 room in scrubber b"
+  },
+  {
+    "id": 31,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 20,
+    "label": "Delete_waypoint",
+    "text": "I am done with Polar Relay as a waypoint; remove it."
+  },
+  {
+    "id": 32,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 10,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "how much co2 is held in scrubber b"
+  },
+  {
+    "id": 33,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 23,
+    "label": "Delete_waypoint",
+    "text": "Clear Armstrong Point as a saved route waypoint now"
+  },
+  {
+    "id": 34,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 17,
+    "label": "Delete_waypoint",
+    "text": "Please wipe the waypoint at Davis Ridge."
+  },
+  {
+    "id": 35,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 19,
+    "label": "Delete_waypoint",
+    "text": "delete my route note for site delta from the waypoint list."
+  },
+  {
+    "id": 36,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 11,
+    "label": "Add_waypoint",
+    "text": "Let us keep sample cache 2 as a waypoint for later."
+  },
+  {
+    "id": 37,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 18,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Can I get the storage fraction occupied by CO2 in the A-side scrubber module?"
+  },
+  {
+    "id": 38,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 7,
+    "label": "Add_waypoint",
+    "text": "Put a waypoint at Luna 7, please."
+  },
+  {
+    "id": 39,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 8,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Can you query the A scrubber’s remaining storage headroom for carbon dioxide?"
+  },
+  {
+    "id": 40,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 23,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Flight, tell me how much room scrubber B has left to store carbon dioxide."
+  },
+  {
+    "id": 41,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 9,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "read co2 storage level in scrubber a"
+  },
+  {
+    "id": 42,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 20,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Can you verify the fill percentage of scrubber B’s carbon dioxide collection medium?"
+  },
+  {
+    "id": 43,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 5,
+    "label": "Add_waypoint",
+    "text": "I want Peary Point recorded in my waypoint list."
+  },
+  {
+    "id": 44,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 13,
+    "label": "Add_waypoint",
+    "text": "Set a waypoint marker for Leibnitz Plateau now."
+  },
+  {
+    "id": 45,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 14,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Houston, I need the B scrubber carbon dioxide storage measurement, not a pressure value."
+  },
+  {
+    "id": 46,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 12,
+    "label": "Delete_waypoint",
+    "text": "Remove the saved point for Kaguya Point."
+  },
+  {
+    "id": 47,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 3,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Check the unused storage volume in scrubber B for CO2."
+  },
+  {
+    "id": 48,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 14,
+    "label": "Add_waypoint",
+    "text": "Record Alpha Station as a stop on the map."
+  },
+  {
+    "id": 49,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 8,
+    "label": "Add_waypoint",
+    "text": "tag the route with a waypoint for Tycho Spur."
+  },
+  {
+    "id": 50,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 1,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Does scrubber A still have captured CO2 storage capacity?"
+  },
+  {
+    "id": 51,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 10,
+    "label": "Delete_waypoint",
+    "text": "Erase waypoint Delta 9 before I add another."
+  },
+  {
+    "id": 52,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 10,
+    "label": "Add_waypoint",
+    "text": "Add Malapert Massif to the saved route points."
+  },
+  {
+    "id": 53,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 18,
+    "label": "Delete_waypoint",
+    "text": "Cancel the stored waypoint called Borman Point."
+  },
+  {
+    "id": 54,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 16,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Would you say how much captured CO2 remains in scrubber A’s cartridge bed?"
+  },
+  {
+    "id": 55,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 23,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Flight, call out the captured carbon dioxide load in scrubber A as a capacity percentage."
+  },
+  {
+    "id": 56,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 16,
+    "label": "Delete_waypoint",
+    "text": "Remove Prospector 3 from the EVA map markers."
+  },
+  {
+    "id": 57,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 7,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Um, report how much carbon dioxide the cartridge in scrubber B has trapped."
+  },
+  {
+    "id": 58,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 5,
+    "label": "Delete_waypoint",
+    "text": "Take Kennedy Landing out of the waypoint list."
+  },
+  {
+    "id": 59,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 21,
+    "label": "Add_waypoint",
+    "text": "Could you add a waypoint for Shackleton Base?"
+  },
+  {
+    "id": 60,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 2,
+    "label": "Add_waypoint",
+    "text": "Drop a waypoint at Alpha 3 for the return leg."
+  },
+  {
+    "id": 61,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 7,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Before switching loops, read the unused CO2 storage capacity in scrubber A."
+  },
+  {
+    "id": 62,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 1,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "How much captured CO2 storage does scrubber B still have?"
+  },
+  {
+    "id": 63,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 2,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Check how much carbon dioxide scrubber A has collected so far."
+  },
+  {
+    "id": 64,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 4,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Please give me the fill fraction of the CO2 storage bed in scrubber B."
+  },
+  {
+    "id": 65,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 21,
+    "label": "Delete_waypoint",
+    "text": "Get rid of the map point Nobile Ridge."
+  },
+  {
+    "id": 66,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 25,
+    "label": "Add_waypoint",
+    "text": "Please store Henson Crater as one of my waypoints."
+  },
+  {
+    "id": 67,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 25,
+    "label": "Delete_waypoint",
+    "text": "Remove the waypoint at Delta Base while I check the map."
+  },
+  {
+    "id": 68,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 17,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "For maintenance, give me the carbon dioxide fill state of scrubber A."
+  },
+  {
+    "id": 69,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 3,
+    "label": "Delete_waypoint",
+    "text": "Clear the marker for Lunar Gateway off the route."
+  },
+  {
+    "id": 70,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 1,
+    "label": "Delete_waypoint",
+    "text": "Remove the waypoint Alpha 3 from the map."
+  },
+  {
+    "id": 71,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 15,
+    "label": "Delete_waypoint",
+    "text": "I placed South Ray by mistake; delete that waypoint"
+  },
+  {
+    "id": 72,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 18,
+    "label": "Add_waypoint",
+    "text": "I need a waypoint called Davis Ridge."
+  },
+  {
+    "id": 73,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 6,
+    "label": "Add_waypoint",
+    "text": "Can you mark Kennedy Landing as an intermediate point?"
+  },
+  {
+    "id": 74,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 19,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "The scrubber A canister is active; please read the amount of carbon dioxide stored there."
+  },
+  {
+    "id": 75,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 19,
+    "label": "Add_waypoint",
+    "text": "mark Artemis Waypoint on the map as a waypoint, not a destination."
+  },
+  {
+    "id": 76,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 22,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Would you check what portion of scrubber B’s CO2 storage chamber is already filled?"
+  },
+  {
+    "id": 77,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 10,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "check scrubber a carbon dioxide capacity"
+  },
+  {
+    "id": 78,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 24,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Can you retrieve the B scrubber’s retained CO2 quantity, in grams if available?"
+  },
+  {
+    "id": 79,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 13,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "show remaining co2 space in scrubber a"
+  },
+  {
+    "id": 80,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 9,
+    "label": "Add_waypoint",
+    "text": "Create a map waypoint named Conrad Station."
+  },
+  {
+    "id": 81,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 15,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Okay, log the percentage of its carbon dioxide holding capacity used by scrubber A."
+  },
+  {
+    "id": 82,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 12,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "query scrubber a's co2 storage"
+  },
+  {
+    "id": 83,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 23,
+    "label": "Add_waypoint",
+    "text": "Log Luna 4 as a map waypoint for the traverse"
+  },
+  {
+    "id": 84,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 5,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Would you retrieve the carbon dioxide load held by scrubber A?"
+  },
+  {
+    "id": 85,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 14,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Houston, I need scrubber A CO2 storage, not its pressure reading."
+  },
+  {
+    "id": 86,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 1,
+    "label": "Add_waypoint",
+    "text": "Add Artemis Ridge as a waypoint on the map."
+  },
+  {
+    "id": 87,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 21,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Um, pull the scrubber A storage reading for the carbon dioxide adsorbent."
+  },
+  {
+    "id": 88,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 22,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Please tell me what share of scrubber A’s storage volume is holding CO2."
+  },
+  {
+    "id": 89,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 20,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Could you verify the remaining CO2 capture capacity in scrubber A before I continue?"
+  },
+  {
+    "id": 90,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 19,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "The active module is scrubber B; query its storage level for captured CO2."
+  },
+  {
+    "id": 91,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 21,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Before I move away from the hatch, read the carbon dioxide load in the B scrubber."
+  },
+  {
+    "id": 92,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 22,
+    "label": "Add_waypoint",
+    "text": "Make a new nav waypoint at Nobile Ridge."
+  },
+  {
+    "id": 93,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 11,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "get scrubber a captured co2 amount"
+  },
+  {
+    "id": 94,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 16,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Okay, record how much carbon dioxide is occupying the B scrubber bed."
+  },
+  {
+    "id": 95,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 14,
+    "label": "Delete_waypoint",
+    "text": "Clear the waypoint entry named site 8."
+  },
+  {
+    "id": 96,
+    "pair": "waypoint_add_delete",
+    "source": "Add_waypoint.jsonl",
+    "line": 15,
+    "label": "Add_waypoint",
+    "text": "Add the location Ridge Charlie to my waypoint list"
+  },
+  {
+    "id": 97,
+    "pair": "waypoint_add_delete",
+    "source": "Delete_waypoint.jsonl",
+    "line": 8,
+    "label": "Delete_waypoint",
+    "text": "delete the nav marker at Nansen Crater, not the destination."
+  },
+  {
+    "id": 98,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_a_co2_storage.jsonl",
+    "line": 24,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Can you check whether scrubber A has much CO2 storage space left?"
+  },
+  {
+    "id": 99,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 13,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "check the fill fraction for captured co2 in the b scrubber"
+  },
+  {
+    "id": 100,
+    "pair": "scrubber_ab",
+    "source": "get_scrubber_b_co2_storage.jsonl",
+    "line": 8,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Before the next loop change, tell me the remaining CO2 capacity in scrubber B."
+  }
+]

@@ -1,0 +1,25 @@
+{"text": "Choose the EVA mission board as my visor view.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Is the job tracker selectable? Open the mission checklist.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Surface the work-items display for this spacewalk.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "helmet checklist view up", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Er, I need the EVA assignment menu on the screen.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Route my mission queue to the helmet HUD.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "During this pause, open my mission checklist board on the wrist display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Put the mission board in focus.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could the task tracker be made visible?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the assignment-status panel associated with this EVA.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please call the checklist into the visor view.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "activate the task tracker menu", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can I bring up the mission board from here?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Select the EVA work list for display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I would like to review assigned work; make the mission checklist active.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "um, show the job queue", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Give me the on-screen task board for this spacewalk.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Set the mission work-order screen to visible on my wrist unit.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Start the work-items screen so I can confirm my assignment.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "My next check is the work order; open the EVA task menu.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "put the mission board on visor", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please activate the task-status page in my helmet UI.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could you select the EVA assignment panel now?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I need the mission queue displayed before proceeding.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Bring the work-item list into my viewing area.", "intents": ["open_menu_tasks"], "source": "llm"}

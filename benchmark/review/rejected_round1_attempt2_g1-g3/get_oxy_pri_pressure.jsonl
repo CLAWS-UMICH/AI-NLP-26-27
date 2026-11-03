@@ -1,0 +1,25 @@
+{"text": "Primary tank pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary O2 pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Main cylinder pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary bottle psi?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary cylinder kPa?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary oxygen pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "please read primary tank pressure", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Report primary oxygen cylinder pressure.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Uh, check my primary tank pressure.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "main tank pressure reading please", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "confirm primary oh two pressure", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Tell me the primary tank pressure.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Uh, what pressure is inside the main oxygen cylinder right now?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Um, before I connect the regulator, report the primary tank gauge pressure.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Read the pressure value from the primary oxygen bottle sensor.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "The primary O2 bottle is under review; send its pressure in kilopascals.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Can you send the primary oxygen tank pressure reading to my wrist display?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Flight says my primary bottle gauge should show pressure; send its value.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Flight, check the pressure inside my primary oxygen cylinder before I start the ascent.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Urgent, the primary tank pressure indicator blinked; read its percentage before I resume the traverse.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "please report pressure in primary o2 vessel including unit shown on gauge", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "copy i am preparing to switch regulators so tell me the pressure in the primary oxygen tank", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Verify that the primary cylinder holds 210 kilopascals of pressure before I reconnect.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "the supply quantity is not needed read pressure from the primary oxygen tank gauge", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Urgent, send the primary oxygen tank pressure now so I can decide whether to abort the climb.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}

@@ -1,0 +1,122 @@
+[
+  {
+    "label": "get_suit_pressure_other",
+    "text": "Please report the pressure contribution from the minor gases in my suit atmosphere."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "whats the carbon dioxide pressure in helmet air"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "What partial pressure is carbon dioxide reaching inside the helmet?"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "Could you read the CO2 sensor mounted in the helmet space?"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "whats the suit atmosphere carbon dioxide pressure"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "all-gas pressure in suit"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Could you estimate the amount of CO2 already collected by canister A?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "The component readings can wait; pull the aggregate pressure for my entire suit volume."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "other-gas pressure inside suit"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "Could you give me the combined pressure for every gas in the suit?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "how full is the B collection bed"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "Please call out the pressure measured for carbon dioxide inside the helmet cavity."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "Before I move off this foothold, tell me the pressure contribution from CO2 in the suit."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "scrubber A cartridge storage level in percent"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Please read the fill status of the A-side carbon dioxide scrubber media."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "Would you pull the partial pressure reading for trace gases from the suit manifold?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Can you estimate how much of the B scrubber\u2019s carbon dioxide capacity remains unused?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Uh, would you check the current fill percentage of the A scrubber carbon cartridge?"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "text": "Uh, how much pressure is CO2 adding in the air around my head?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Please tell me what share of its holding volume scrubber A has used for collected CO2."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "whats the co2 storage headroom on the b side"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "I am logging the non-CO2 trace-gas pressure measured by the suit environmental sensor."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "c o two partial pressure from suit sensor"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Would you check the unused holding volume of the B carbon dioxide filter?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Um, is the carbon bed in scrubber branch B nearing its storage limit?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "Okay, I am checking the seal; report the combined suit interior pressure, please."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "text": "other gas pressure suit sensor"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "query the suit-loop CO2 channel"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "text": "suit side partial pressure please"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "text": "tell me total pressure for the suit atmosphere"
+  }
+]

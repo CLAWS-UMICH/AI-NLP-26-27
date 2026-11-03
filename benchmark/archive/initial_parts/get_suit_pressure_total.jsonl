@@ -1,0 +1,100 @@
+{"text": "Check total suit pressure, at 18%?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Check total suit pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Read overall pressure inside the suit, reading thirty four percent now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Read overall pressure inside the suit, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Show me the suit's combined gas pressure, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Show me the suit's combined gas pressure; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "What's total pressure across all suit gases; it's forty one percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "What's total pressure across all suit gases, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Can you report my suit interior pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Can you report my suit interior pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Could you read total suit pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Could you read total suit pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I need overall pressure inside the suit, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I need overall pressure inside the suit, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Give me the suit's combined gas pressure, at one point two kPa when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Give me the suit's combined gas pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Pull up total pressure across all suit gases, forty one percent copy?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Pull up total pressure across all suit gases, this check is 53 percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Tell me my suit interior pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Tell me my suit interior pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Uh, check total suit pressure, at 18%?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Uh, check total suit pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Okay, read overall pressure inside the suit, reading thirty four percent now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Okay, read overall pressure inside the suit, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Hey, what's the suit's combined gas pressure, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Hey, what's the suit's combined gas pressure; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Quick check: total pressure across all suit gases; it's forty one percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Quick check: total pressure across all suit gases, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "For the log, read my suit interior pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "For the log, read my suit interior pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Before I move, check total suit pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Before I move, check total suit pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Flight, can you report overall pressure inside the suit, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Flight, can you report overall pressure inside the suit, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Houston, what's the suit's combined gas pressure, at one point two kPa when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Houston, what's the suit's combined gas pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I'm seeing a change; read total pressure across all suit gases, forty one percent copy?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I'm seeing a change; read total pressure across all suit gases, this check is 53 percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Please give me my suit interior pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Please give me my suit interior pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "How's total suit pressure, at 18%?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "How's total suit pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Do we have overall pressure inside the suit, reading thirty four percent now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Do we have overall pressure inside the suit, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Let's check the suit's combined gas pressure, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Let's check the suit's combined gas pressure; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I want to verify total pressure across all suit gases; it's forty one percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I want to verify total pressure across all suit gases, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Can I get my suit interior pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Can I get my suit interior pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Uh, what's total suit pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Uh, what's total suit pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Okay so, show overall pressure inside the suit, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Okay so, show overall pressure inside the suit, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "On my display, check the suit's combined gas pressure, at one point two kPa when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "On my display, check the suit's combined gas pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Confirm total pressure across all suit gases, forty one percent copy?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Confirm total pressure across all suit gases, this check is 53 percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Need a reading for my suit interior pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Need a reading for my suit interior pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Status on total suit pressure, at 18%?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Status on total suit pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Could I get overall pressure inside the suit, reading thirty four percent now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Could I get overall pressure inside the suit, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Let's verify the suit's combined gas pressure, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Let's verify the suit's combined gas pressure; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I'm concerned about total pressure across all suit gases; it's forty one percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I'm concerned about total pressure across all suit gases, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "One more check: read my suit interior pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "One more check: read my suit interior pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "When you can, report total suit pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "When you can, report total suit pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "During this traverse, check overall pressure inside the suit, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "During this traverse, check overall pressure inside the suit, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Is the suit's combined gas pressure, at one point two kPa when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Is the suit's combined gas pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Are we tracking total pressure across all suit gases, forty one percent copy?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Are we tracking total pressure across all suit gases, this check is 53 percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "What's the current my suit interior pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "What's the current my suit interior pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Read back total suit pressure, at 18%?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Read back total suit pressure, reading 27 percent on the current suit check now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I missed that; report overall pressure inside the suit, reading thirty four percent now.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I missed that; report overall pressure inside the suit, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "For situational awareness, give me the suit's combined gas pressure, value is one point two kPa for me, please.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "For situational awareness, give me the suit's combined gas pressure; it's 2.1 kilopascals.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Before the next step, verify total pressure across all suit gases; it's forty one percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Before the next step, verify total pressure across all suit gases, showing 53 percent on the current suit check before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I'm logging my suit interior pressure, showing sixty kPa before I continue.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I'm logging my suit interior pressure, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Please confirm total suit pressure, currently 18%—I need the exact reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Please confirm total suit pressure, uh, 27 percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Let's get overall pressure inside the suit, uh, thirty four percent is the value.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Let's get overall pressure inside the suit, at 0.8 kilopascals when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Any update on the suit's combined gas pressure, at one point two kPa when ready.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Any update on the suit's combined gas pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I need the current total pressure across all suit gases, forty one percent copy?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I need the current total pressure across all suit gases, this check is 53 percent.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Would you check my suit interior pressure, this check is sixty kPa.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Would you check my suit interior pressure, at 0.6 k p a on the current suit check?", "intents": ["get_suit_pressure_total"], "source": "llm"}

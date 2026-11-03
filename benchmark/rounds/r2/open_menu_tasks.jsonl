@@ -1,0 +1,25 @@
+{"text": "Set my HUD to the mission checklist.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Which task comes next? Open the mission tasks panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Project the EVA work queue onto my visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "mission checklist on wrist", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Uh, switch to the mission checklist menu.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could you expose the task list in the interface?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Before I continue, make my EVA tasks panel visible.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Choose the mission work queue on my display.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Open the task checklist for this outing.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would the mission tasks window show on my helmet?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Bring the EVA checklist forward on the HUD.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "work queue please", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Please launch the mission task panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can the wrist screen show my EVA task list?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Queue the checklist window while I hold this position.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "uh display mission tasks", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Let me access the work queue from the visor.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Tap the EVA checklist option and open it.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could the task status view open as my mission checklist?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Put the mission tasks interface in view for me.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "open eva work list", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Use the helmet interface to show the mission checklist.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you call up the EVA tasks window now?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I can verify the next step when the task panel opens.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Activate my mission checklist panel, Houston.", "intents": ["open_menu_tasks"], "source": "llm"}

@@ -1,0 +1,25 @@
+{"text": "How much oxygen remains stored in the secondary bottle?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Please read the secondary tank's O2 fill quantity.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could you report the leftover oxygen mass in secondary cylinder two?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What's the current percentage full for the secondary oxygen tank?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Check how much oxygen is still available in the secondary vessel.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I need the remaining O2 amount in the secondary supply bottle.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Uh, how full is the secondary oxygen canister right now?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Tell me the secondary tank's oxygen contents by volume, please.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Would you provide the remaining level of the secondary O2 cylinder?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Secondary oxygen tank, how many liters are still inside?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "hey read the oxygen left in secondary tank please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Flight, give me the secondary cylinder's remaining oxygen percentage.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Can you check the fill amount of the secondary oxygen reservoir?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Please estimate the kilograms of oxygen left in the secondary tank.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What's the remaining supply in the secondary oxygen container?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could I get a reading for how much O2 is left in tank two?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Report secondary oxygen storage as the quantity still remaining.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Is the secondary O2 bottle more than thirty percent full?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Need to know the secondary tank oxygen level by remaining amount.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Would you tell me how much breathable gas remains in secondary storage?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "uh report remaining oxygen in the secondary cylinder", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much oxygen is left in the secondary tank, not its pressure?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Please send the leftover contents reading for secondary oxygen storage.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Read the current fill fraction of the secondary oxygen vessel.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Can you state the remaining mass inside the secondary O2 tank?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
