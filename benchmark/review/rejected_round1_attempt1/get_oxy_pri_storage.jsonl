@@ -1,0 +1,25 @@
+{"text": "Primary O2 storage", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Main tank level?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary oxygen reserve", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary tank level", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary tank oxygen left", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "The primary cylinder is dropping; what percentage of its oxygen capacity remains?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Before I reach the ridge, check the remaining percentage in my main oxygen tank.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Flight, the slope is steep; tell me the percent left in my primary oxygen tank now.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Main oxygen level", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Telemetry: primary oxygen tank remaining level.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "How many percent remain in primary storage?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "I keep taking short breaths; is there enough oxygen in my primary reserve for the climb?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Could you give the main oxygen tank fill level as a percentage before our next walk?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Gauge says primary tank contents in percent", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Main bottle level now", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "I need my primary tank remaining-oxygen percentage before committing to this open stretch.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "primary oh two reserve level", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Will the primary oxygen reservoir carry enough supply for this section?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "My primary bottle contents are low; read the remaining oxygen percentage before I continue.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "How full is the primary oxygen reservoir today?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Request the main tank oxygen reserve percentage before I leave.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "uh primary oxygen tank level", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Is the primary oxygen supply close to empty right now?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Read the main bottle remaining-oxygen capacity as a percentage before I leave the airlock for the long traverse.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Verify the primary tank oxygen level on the display, please.", "intents": ["get_oxy_pri_storage"], "source": "llm"}

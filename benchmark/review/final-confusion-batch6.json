@@ -1,0 +1,202 @@
+[
+  {
+    "id": 251,
+    "text": "Scrubber A is active; retrieve its CO2 storage percentage, not pressure."
+  },
+  {
+    "id": 252,
+    "text": "Keep Kaguya Ridge as a waypoint, separate from the destination."
+  },
+  {
+    "id": 253,
+    "text": "Could you read the stored carbon dioxide amount for scrubber A?"
+  },
+  {
+    "id": 254,
+    "text": "Can the navigation list include Nobile Ridge as a waypoint?"
+  },
+  {
+    "id": 255,
+    "text": "Check how much carbon dioxide scrubber A has collected so far."
+  },
+  {
+    "id": 256,
+    "text": "read how full scrubber B’s carbon medium is with collected CO2"
+  },
+  {
+    "id": 257,
+    "text": "For the service log, tell me how much of scrubber B’s CO2 capacity is used."
+  },
+  {
+    "id": 258,
+    "text": "Create a waypoint at Permanently Shadowed Site while I hold position"
+  },
+  {
+    "id": 259,
+    "text": "Could you state what share of scrubber B’s canister volume holds captured CO2?"
+  },
+  {
+    "id": 260,
+    "text": "Create a map waypoint named Conrad Station."
+  },
+  {
+    "id": 261,
+    "text": "Make a new nav waypoint at Nobile Ridge."
+  },
+  {
+    "id": 262,
+    "text": "Let us keep sample cache 2 as a waypoint for later."
+  },
+  {
+    "id": 263,
+    "text": "Okay, report how much of scrubber B’s storage volume is filled with captured CO2."
+  },
+  {
+    "id": 264,
+    "text": "get scrubber b carbon dioxide storage level"
+  },
+  {
+    "id": 265,
+    "text": "Okay, say how much carbon dioxide scrubber B has collected."
+  },
+  {
+    "id": 266,
+    "text": "Save Malapert Massif as a stop marker along my EVA path"
+  },
+  {
+    "id": 267,
+    "text": "While I hold the airlock rail, report scrubber A’s collected carbon dioxide mass."
+  },
+  {
+    "id": 268,
+    "text": "query scrubber a for stored co2 quantity"
+  },
+  {
+    "id": 269,
+    "text": "Please clear Peary Crater from the collection of map pins."
+  },
+  {
+    "id": 270,
+    "text": "Would you say how much captured CO2 remains in scrubber A’s cartridge bed?"
+  },
+  {
+    "id": 271,
+    "text": "delete my route note for site delta from the waypoint list."
+  },
+  {
+    "id": 272,
+    "text": "For the maintenance note, state how saturated scrubber A is with stored carbon dioxide."
+  },
+  {
+    "id": 273,
+    "text": "Put Luna 4 on my list of places to revisit."
+  },
+  {
+    "id": 274,
+    "text": "tag the route with a waypoint for Tycho Spur."
+  },
+  {
+    "id": 275,
+    "text": "query scrubber a's co2 storage"
+  },
+  {
+    "id": 276,
+    "text": "Can you put a waypoint pin on Delta Ridge?"
+  },
+  {
+    "id": 277,
+    "text": "How much captured carbon dioxide is retained by the B scrubber?"
+  },
+  {
+    "id": 278,
+    "text": "Capture Peary Point as a saved location marker."
+  },
+  {
+    "id": 279,
+    "text": "Check the unused storage volume in scrubber B for CO2."
+  },
+  {
+    "id": 280,
+    "text": "Could you read scrubber A’s carbon dioxide fill level?"
+  },
+  {
+    "id": 281,
+    "text": "Put a waypoint label for Lunar Gateway into the map."
+  },
+  {
+    "id": 282,
+    "text": "Please tell me what share of scrubber A’s storage volume is holding CO2."
+  },
+  {
+    "id": 283,
+    "text": "Please drop Aitken Basin from my navigation waypoints."
+  },
+  {
+    "id": 284,
+    "text": "I do not want waypoint Endurance Crater saved anymore; delete it."
+  },
+  {
+    "id": 285,
+    "text": "I need a waypoint called Davis Ridge."
+  },
+  {
+    "id": 286,
+    "text": "Okay, check how much carbon dioxide the scrubber A adsorbent has trapped."
+  },
+  {
+    "id": 287,
+    "text": "Would you verify the retained CO2 load in scrubber B’s collection bed?"
+  },
+  {
+    "id": 288,
+    "text": "Clear the map bookmark for Nansen Ridge"
+  },
+  {
+    "id": 289,
+    "text": "Flight, query the stored carbon dioxide load on the B-side scrubber media."
+  },
+  {
+    "id": 290,
+    "text": "I want the map to retain Conrad Station as a route point."
+  },
+  {
+    "id": 291,
+    "text": "save Peary Crater in my list of navigation markers."
+  },
+  {
+    "id": 292,
+    "text": "For the maintenance entry, state how saturated scrubber A is with stored CO2."
+  },
+  {
+    "id": 293,
+    "text": "At the hatch, retrieve the unused CO2 collection volume for scrubber B."
+  },
+  {
+    "id": 294,
+    "text": "Can you confirm what portion of scrubber A’s collection space is filled with CO2?"
+  },
+  {
+    "id": 295,
+    "text": "check storage utilization for carbon dioxide on scrubber B"
+  },
+  {
+    "id": 296,
+    "text": "Put a waypoint at Luna 7, please."
+  },
+  {
+    "id": 297,
+    "text": "Um, call out how saturated scrubber A is with stored carbon dioxide."
+  },
+  {
+    "id": 298,
+    "text": "Tag this point Luna 7 and store it as a waypoint."
+  },
+  {
+    "id": 299,
+    "text": "Would you add Leibnitz Plateau to my waypoint list for later?"
+  },
+  {
+    "id": 300,
+    "text": "Could you pin South Ray on the EVA chart as a waypoint?"
+  }
+]

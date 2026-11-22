@@ -1,0 +1,25 @@
+{"text": "Put the menu currently on my display into the background.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can the foreground menu be dismissed from this HUD?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Clear the interface menu that is presently selected.", "intents": ["close_menu"], "source": "llm"}
+{"text": "visor menu clear", "intents": ["close_menu"], "source": "llm"}
+{"text": "Er, make the displayed menu no longer visible.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please collapse the menu that is active on the helmet.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Before I resume, remove the menu in the foreground.", "intents": ["close_menu"], "source": "llm"}
+{"text": "End the current menu session on my display.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you suppress the menu that is open at present?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Take the active interface page off the visor.", "intents": ["close_menu"], "source": "llm"}
+{"text": "No need for this menu anymore; dismiss it.", "intents": ["close_menu"], "source": "llm"}
+{"text": "deactivate open menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you conceal the menu currently showing?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Make the active menu leave the screen, please.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Hide the interface menu that occupies my view.", "intents": ["close_menu"], "source": "llm"}
+{"text": "um, clear this menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please switch off the menu visible in my HUD.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I am finished here; dismiss the menu in front of me.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you take down the selected menu now?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Remove the menu that is currently displayed on my helmet.", "intents": ["close_menu"], "source": "llm"}
+{"text": "put menu away", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can my visor be cleared of the active menu?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Cancel the menu view that is presently open.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Stop rendering the current menu on my screen.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Drop the open menu layer so I can see the terrain.", "intents": ["close_menu"], "source": "llm"}

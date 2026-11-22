@@ -1,0 +1,25 @@
+{"text": "Dismiss the active HUD window.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you clear the current panel from my visor?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Close this menu.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Take the open overlay off my screen so I can see the handrail.", "intents": ["close_menu"], "source": "llm"}
+{"text": "uh hide the active window", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you clear whatever HUD page is open?", "intents": ["close_menu"], "source": "llm"}
+{"text": "I am finished with this display; dismiss the active panel.", "intents": ["close_menu"], "source": "llm"}
+{"text": "close menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please get the current window out of my view.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can you shut the open HUD panel?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Okay, remove the active screen from the visor.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Hide the menu that is up right now.", "intents": ["close_menu"], "source": "llm"}
+{"text": "clear the open panel please", "intents": ["close_menu"], "source": "llm"}
+{"text": "Close out the current display.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you dismiss the window I have open?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Active overlay, go away.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I need the visor clear; close the current HUD window.", "intents": ["close_menu"], "source": "llm"}
+{"text": "uh, dismiss this", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can I get the active menu off screen?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please exit the panel currently displayed.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Clear my HUD.", "intents": ["close_menu"], "source": "llm"}
+{"text": "close that window", "intents": ["close_menu"], "source": "llm"}
+{"text": "get this menu off my visor", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you remove the open interface from view?", "intents": ["close_menu"], "source": "llm"}
+{"text": "That is enough screen clutter; dismiss the active menu.", "intents": ["close_menu"], "source": "llm"}

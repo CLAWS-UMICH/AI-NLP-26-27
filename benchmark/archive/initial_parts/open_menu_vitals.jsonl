@@ -1,0 +1,100 @@
+{"text": "okay so bring up the suit vitals display", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Let me see the vital signs HUD.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "uh open the vitals panel", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Need the suit vitals display now.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I want the vitals panel in my visor.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Bring up the suit telemetry window.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please call up the vital systems page for this EVA.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Switch the display to the vital signs HUD.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "uh open the vital systems page", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Show me the life support readings panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "switch the display to the body and suit readings", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Switch the display to the life support readings panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can you display the body and suit readings?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I want the life support readings panel in my visor.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Need the vital systems page now.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Show me the my vitals.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I want the vital signs HUD in my visor.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Would you pull up the my vitals for me?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open up the vitals panel on the helmet display.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the my vitals.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "i need the vital signs hud on screen", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "uh open the status readout", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the suit vitals display.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need the suit telemetry window on screen.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can we get the life support readings panel up here?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can I have the my vitals in view?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the vital signs HUD.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Display the EVA status panel when you can.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can we get the vital systems page up here?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Let me see the vital systems page.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "put the life support readings panel in the hud, please", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Hey, show the vital signs HUD please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please call up the body and suit readings for this EVA.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can we get the suit telemetry window up here?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Put the body and suit readings in the HUD, please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Hey, show the status readout please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can we get the suit vitals display up here?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Could I get the suit telemetry window visible?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can we get the vitals panel up here?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Display the vitals panel when you can.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "open up the vital signs hud on the helmet display", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I want the status readout in my visor.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Switch the display to the status readout.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Hey, show the vital systems page please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the EVA status panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Bring up the life support readings panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need the EVA status panel on screen.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Let me see the suit telemetry window.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Put the suit vitals display in the HUD, please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Put the my vitals in the HUD, please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "okay so bring up the eva status panel", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please call up the vital signs HUD for this EVA.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open up the status readout on the helmet display.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can you display the vital systems page?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please call up the my vitals for this EVA.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I want the suit vitals display in my visor.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can we get the my vitals up here?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can you display the vitals panel?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Display the suit vitals display when you can.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Show me the suit vitals display.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "would you pull up the body and suit readings for me", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Would you pull up the suit telemetry window for me?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Let me see the vitals panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the vitals panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Put the vital signs HUD in the HUD, please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Would you pull up the vital systems page for me?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Hey, show the suit vitals display please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can I have the suit vitals display in view?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please call up the life support readings panel for this EVA.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Show me the status readout.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "bring up the vital systems page", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Show me the EVA status panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open up the vital systems page on the helmet display.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Bring up the status readout.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can I have the status readout in view?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Display the suit telemetry window when you can.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need the vitals panel on screen.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can you display the status readout?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need the suit vitals display on screen.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Could I get the my vitals visible?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "switch the display to the suit telemetry window", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Show me the vital systems page.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can you display the suit telemetry window?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can I have the life support readings panel in view?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Could I get the vitals panel visible?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Need the status readout now.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the status readout.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "okay so bring up the vital signs HUD", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "uh open the body and suit readings", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Display the body and suit readings when you can.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "open up the my vitals on the helmet display", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Display the life support readings panel when you can.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I want the my vitals in my visor.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Need the suit telemetry window now.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Display the vital systems page when you can.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "uh open the vital signs HUD", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Switch the display to the my vitals.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "okay so bring up the life support readings panel", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "uh open the EVA status panel", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need the life support readings panel on screen.", "intents": ["open_menu_vitals"], "source": "llm"}

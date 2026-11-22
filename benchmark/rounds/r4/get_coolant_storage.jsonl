@@ -1,0 +1,25 @@
+{"text": "How much coolant is still stored in the pack?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Please read the remaining volume from the coolant tank sensor.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Could the supply monitor return its coolant quantity as percent?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "What portion of the coolant reserve is left?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "coolant storage amount read please", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Have the suit controller retrieve the percentage of coolant still stored in the tank for the maintenance log.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Would you display how full the coolant bladder is?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Please query the reservoir sensor and report the remaining coolant volume before we finish this EVA task.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Can Houston tell me the amount of coolant still available?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "um coolant tank contents reading", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "For resupply planning, send the amount of coolant left in storage from the pack’s level monitor.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "How many liters remain in coolant storage according to the gauge?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Ask Houston to transmit how much coolant remains in the storage bladder to my wrist display.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Could the controller report what is left in the coolant reserve?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "I need the coolant supply tank’s stored quantity read aloud before opening the radiator connection.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Pull the current coolant storage percentage from the suit computer and relay it over the crew channel.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "whats left in coolant reservoir", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Would flight transmit the coolant tank fill percentage?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Read remaining coolant amount.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Can I have the remaining coolant fraction from the reservoir display?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Fetch stored coolant percentage, please.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Query the coolant reserve level.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "What does the supply bladder sensor say about coolant left?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Could you fetch the coolant inventory reading in my EVA unit?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Report coolant tank contents.", "intents": ["get_coolant_storage"], "source": "llm"}

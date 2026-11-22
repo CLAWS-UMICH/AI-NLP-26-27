@@ -1,0 +1,25 @@
+{"text": "Could you read the pressure in the coolant gas loop?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please report the coolant gas loop pressure from telemetry.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "The vapor side of the thermal-control coolant circuit is pressurized; what reading is coming back?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Uh, vent-side coolant pressure is what I need from the gas circuit before opening the regulator.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas psi?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas loop pressure", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "coolant gas pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gas-side coolant pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gaseous coolant pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Need gas loop psi", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gas circuit psi.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Read coolant gas pressure, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "A valve check is next; pull the vapor-phase coolant pressure from the suit diagnostics.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "vapor coolant circuit may be leaking can you call pressure", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Copy Houston, I need the measured pressure in the coolant gas return circuit.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Please verify gas-phase coolant pressure against the forty psi limit.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Telemetry, give me pressure in the coolant vapor return.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Uh, say that gas coolant pressure again; static broke up your call.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "gas loop pressure is forty psi", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Did gas coolant pressure drift since the last regulator check, or is it unchanged?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Send me a new pressure measurement from the coolant gas regulator.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Hey, could telemetry show pressure in the coolant's vapor chamber? My gauge is obscured.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "check gas coolant pressure", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "The suit display reset; query pressure for the coolant gas branch once more.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Before I cycle the valve, tell me the pressure in the coolant gas line.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}

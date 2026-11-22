@@ -1,0 +1,25 @@
+{"text": "CO2 output rate?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Check my carbon-dioxide production.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How fast am I generating carbon dioxide right now?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could telemetry report the CO2 I produce per hour?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Flight, read my carbon dioxide generation rate before I resume drilling.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Uh, what is my CO2 production in liters per minute?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Give me the rate of carbon dioxide leaving my lungs.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "co two production per minute", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Please query how much CO2 I am generating during this EVA.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Would you call out my current carbon dioxide output rate?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Need my CO2 generation rate.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "The scrubber is engaged; what is my personal CO2 production rate?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Can you report the liters of carbon dioxide I produce each hour?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Requesting carbon dioxide production rate over comms, please.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "CO2 generation, quick.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "As my workload rises, is my carbon dioxide output rate increasing?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Uh, read the rate at which I am producing CO2.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "For the life-support log, give my carbon dioxide generation per minute.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Check the production rate for my exhaled carbon dioxide, not the tank reading.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How much CO2 am I putting out each minute?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "hey what is my see oh two production rate", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could flight send my current CO2 output in standard liters per hour?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Please tell me the amount of carbon dioxide I generate over one minute.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "I need the CO2 production-rate number from suit telemetry.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "carbon dioxide generation rate now", "intents": ["get_co2_production"], "source": "llm"}

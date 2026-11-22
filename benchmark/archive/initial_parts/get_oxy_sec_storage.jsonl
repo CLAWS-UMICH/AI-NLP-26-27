@@ -1,0 +1,100 @@
+{"text": "secondary oxygen storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "check secondary oxygen storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "read secondary oxygen storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "what is secondary oxygen storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "how is secondary oxygen storage looking", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "secondary O2 storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "check secondary O2 storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "read secondary O2 storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "what is secondary O2 storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "how is secondary O2 storage looking", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "secondary oxygen reserve", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "check secondary oxygen reserve", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "read secondary oxygen reserve", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "what is secondary oxygen reserve", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "how is secondary oxygen reserve looking", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "backup tank contents", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Can you read the secondary oxygen storage?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Tell me the secondary O2 reserve level in percent.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I need secondary tank level status, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Check the remaining amount in the secondary O2 tank state", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Bring up the percentage for backup O2 reservoir level percentage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What is uh backup oxygen supply level reading", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much is um, secondary oxygen reserve capacity left", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much secondary oxygen quantity level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Give me oxygen remaining in the secondary tank remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Show me okay so backup tank contents amount", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Do we have the secondary oxygen storage level?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could you check the secondary O2 reserve level remaining.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I want secondary tank level amount, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Status on the remaining amount in the secondary O2 tank", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Let me see the percentage for backup O2 reservoir level in percent", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Hey, what is uh backup oxygen supply level status", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Uh, can I get um, secondary oxygen reserve state", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Okay, check secondary oxygen quantity percentage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Quick read on oxygen remaining in the secondary tank reading", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Confirm okay so backup tank contents capacity left", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Report the secondary oxygen storage percentage?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Pull the secondary O2 reserve level reading.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Read back secondary tank level capacity left, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I am checking the remaining amount in the secondary O2 tank level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Before I move, check the percentage for backup O2 reservoir level remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "For the log, give me uh backup oxygen supply level amount", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Mission control, what is um, secondary oxygen reserve", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Copy, request secondary oxygen quantity in percent", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Need a reading for oxygen remaining in the secondary tank status", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could I see okay so backup tank contents state", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Can you read the secondary O2 storage in percent?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Tell me the backup O2 reservoir level status.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I need backup oxygen supply level state, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Check the remaining amount in the secondary oxygen reserve percentage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Bring up the percentage for secondary oxygen quantity reading", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What is uh oxygen remaining in the secondary tank capacity left", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much is um, backup tank contents level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much secondary oxygen storage remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Give me secondary O two reserve level amount", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Show me okay so secondary tank level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Do we have the secondary O2 storage remaining?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could you check the backup O2 reservoir level amount.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I want backup oxygen supply level, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Status on the remaining amount in the secondary oxygen reserve in percent", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Let me see the percentage for secondary oxygen quantity status", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Hey, what is uh oxygen remaining in the secondary tank state", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Uh, can I get um, backup tank contents percentage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Okay, check secondary oxygen storage reading", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Quick read on secondary O two reserve level capacity left", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Confirm okay so secondary tank level level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Report the secondary O2 storage reading?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Pull the backup O2 reservoir level capacity left.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Read back backup oxygen supply level level, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I am checking the remaining amount in the secondary oxygen reserve remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Before I move, check the percentage for secondary oxygen quantity amount", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "For the log, give me uh oxygen remaining in the secondary tank", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Mission control, what is um, backup tank contents in percent", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Copy, request secondary oxygen storage status", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Need a reading for secondary O two reserve level state", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could I see okay so secondary tank level percentage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Can you read the secondary oxygen reserve status?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Tell me the secondary oxygen quantity state.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I need oxygen remaining in the secondary tank percentage, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Check the remaining amount in the backup tank contents reading", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Bring up the percentage for secondary oxygen storage capacity left", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What is uh secondary O2 reserve level level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much is um, secondary tank level remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much secondary oh two storage amount", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Give me backup O two reservoir level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Show me okay so backup oxygen supply level in percent", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Do we have the secondary oxygen reserve amount?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could you check the secondary oxygen quantity.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I want oxygen remaining in the secondary tank in percent, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Status on the remaining amount in the backup tank contents status", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Let me see the percentage for secondary oxygen storage state", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Hey, what is uh secondary O2 reserve level percentage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Uh, can I get um, secondary tank level reading", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Okay, check secondary oh two storage capacity left", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Quick read on backup O two reservoir level level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Confirm okay so backup oxygen supply level remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much oxygen is left in my secondary tank?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Secondary tank oxygen remaining, please", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What fraction of the backup oxygen bottle is still available?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Is the secondary O2 supply level available?", "intents": ["get_oxy_sec_storage"], "source": "llm"}

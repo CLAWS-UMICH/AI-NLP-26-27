@@ -1,0 +1,360 @@
+{"text": "If I need this ridge again, keep Artemis Ridge pinned in the route plan.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "I am planning a return leg; save Peary Point as a waypoint for me.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Point"}
+{"text": "Would you make de Gerlache one of the places marked for a later stop?", "intents": ["Add_waypoint"], "source": "llm", "slot": "de Gerlache"}
+{"text": "Could the map remember Henson Crater as a point along the traverse?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Henson Crater"}
+{"text": "I want to come back here after the survey. Add Peary Crater to my saved route points.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "Waypoint request for the next pass: Peary Point.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Point"}
+{"text": "Put a reusable navigation marker at Peary Crater, please.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "When you update the map, include Permanently Shadowed Site among my waypoints.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "I may need to retrace this route; pin Permanently Shadowed Site for that.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "Save Kennedy Landing on the map as a waypoint, not as the destination.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "All the work at South Pole Relay is behind me; move that item out of the pending queue.", "intents": ["Complete_task"], "source": "llm", "slot": "South Pole Relay"}
+{"text": "The task at South Pole Relay? All set on my side; please record the sign-off.", "intents": ["Complete_task"], "source": "llm", "slot": "South Pole Relay"}
+{"text": "Rover 1, copy: task complete. Log the sign-off.", "intents": ["Complete_task"], "source": "llm", "slot": "Rover 1"}
+{"text": "Is Tycho Station still listed as active? I have finished that objective; please close it.", "intents": ["Complete_task"], "source": "llm", "slot": "Tycho Station"}
+{"text": "No more work remains at Ridge 4; the checklist can show it as finished.", "intents": ["Complete_task"], "source": "llm", "slot": "Ridge 4"}
+{"text": "EVA board update, please: Delta 9 has been completed.", "intents": ["Complete_task"], "source": "llm", "slot": "Delta 9"}
+{"text": "Nansen Crater is done on my end. Could the mission log reflect that?", "intents": ["Complete_task"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "Before I head out, mark Aitken Station’s task as done.", "intents": ["Complete_task"], "source": "llm", "slot": "Aitken Station"}
+{"text": "Delta 9 should no longer be pending; I finished that task.", "intents": ["Complete_task"], "source": "llm", "slot": "Delta 9"}
+{"text": "Polar Relay, that step is taken care of; clear it from my open tasks.", "intents": ["Complete_task"], "source": "llm", "slot": "Polar Relay"}
+{"text": "Could you remove the old waypoint for Nansen Ridge now that it is no longer useful?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "Clear Rover 8 from the saved waypoint layer before I sync the route.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Rover 8"}
+{"text": "I do not want Nansen Crater marked as a waypoint anymore. Delete that entry.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "Waypoint cleanup: take Borman Point off the stored map.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Borman Point"}
+{"text": "The route marker at Delta 9 was entered by mistake; could you erase it?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Delta 9"}
+{"text": "Drop Cabeus pin.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Cabeus"}
+{"text": "Remove Peary Crater from my list of places to revisit.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "That waypoint at Endurance Crater can come off the map now.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "Please forget the waypoint for Kennedy Landing; leave the rest of the route alone.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "I have the wrong stop saved: delete Nansen Crater from the waypoint set.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "What grid reference should I radio for Endurance Ridge?", "intents": ["Get_coordinates"], "source": "llm", "slot": "Endurance Ridge"}
+{"text": "Send the northing and easting for Luna Outpost to my display.", "intents": ["Get_coordinates"], "source": "llm", "slot": "Luna Outpost"}
+{"text": "I have the name de Gerlache Ridge; give me its map coordinates.", "intents": ["Get_coordinates"], "source": "llm", "slot": "de Gerlache Ridge"}
+{"text": "Where does Ridge 4 fall on the local coordinate grid?", "intents": ["Get_coordinates"], "source": "llm", "slot": "Ridge 4"}
+{"text": "Can you read back the position fix attached to Ridge 11?", "intents": ["Get_coordinates"], "source": "llm", "slot": "Ridge 11"}
+{"text": "Need a location fix for Henson Ridge, including both coordinate values.", "intents": ["Get_coordinates"], "source": "llm", "slot": "Henson Ridge"}
+{"text": "Before I move, tell me the coordinates of Endurance Ridge.", "intents": ["Get_coordinates"], "source": "llm", "slot": "Endurance Ridge"}
+{"text": "Coordinates only for sample Alpha; I have the route set already.", "intents": ["Get_coordinates"], "source": "llm", "slot": "sample Alpha"}
+{"text": "What latitude and longitude are logged for Artemis Base?", "intents": ["Get_coordinates"], "source": "llm", "slot": "Artemis Base"}
+{"text": "Pull the grid location associated with Haworth Rim from the map.", "intents": ["Get_coordinates"], "source": "llm", "slot": "Haworth Rim"}
+{"text": "For the next leg, have route guidance take me to Shackleton Base.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "Make Mendeleev Crater the active destination on the nav display.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Mendeleev Crater"}
+{"text": "I am ready to travel to Peary Point; point the route there.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Peary Point"}
+{"text": "Could the suit guide me toward Clementine Crater from our current position?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Clementine Crater"}
+{"text": "Could you change the selected target to Echo Station before I start walking?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Echo Station"}
+{"text": "Echo 6: assign it as the destination on the navigation display.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Echo 6"}
+{"text": "Set course guidance for Kaguya Ridge; that is where I am heading.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "Have the map lead me all the way to Conrad Station.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Conrad Station"}
+{"text": "Ridge 11, could you make it the destination for this leg?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge 11"}
+{"text": "Target Cabeus now.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus"}
+{"text": "This overlay is blocking my view; dismiss the menu in front.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I need a clean view across the worksite; take down the interface overlay.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I need the unobstructed camera back; take down the open panel.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you hide the menu I am looking at?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Stop displaying this interface page for now.", "intents": ["close_menu"], "source": "llm"}
+{"text": "That menu can go away; return me to the clear HUD.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Close the current screen without opening a different one.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I have finished with the panel; dismiss it from the visor.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Menu off, so I can see the terrain again.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please clear the active interface overlay from my display.", "intents": ["close_menu"], "source": "llm"}
+{"text": "How quickly is my breathing adding carbon dioxide to the loop?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "I need the CO2 generation rate, not the scrubber fill reading.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Give me my current carbon-dioxide output per unit time.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "What rate of CO2 is the suit attributing to me right now?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Could telemetry report how much CO2 I produce each minute?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "For the log, call out my carbon dioxide production rate.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Is the metabolic CO2 output increasing? Read its current rate.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "CO2 produced per hour from my suit, please.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "How much carbon dioxide am I putting into the system over time?", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "Read the production-rate channel for carbon dioxide.", "intents": ["get_co2_production"], "source": "llm"}
+{"text": "The vapor circuit is acting up; what pressure does its gauge show?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Read the coolant pressure on the gas side of the loop.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "I need the pressure value for the coolant vapor line.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Can telemetry give me the gas-phase coolant circuit pressure?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "What is the pressure in the gaseous coolant branch right now?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Call out the coolant gas manifold pressure, please.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Check the pressure sensor serving the coolant gas path.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "How many kilopascals are in the coolant vapor circuit?", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "For troubleshooting, report gas-loop coolant pressure only.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "Is the coolant gas line pressure within range? Give me the reading.", "intents": ["get_coolant_gas_pressure"], "source": "llm"}
+{"text": "What pressure is the liquid coolant return carrying?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Instrument request: pressure of the coolant fluid branch at the return.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I need the liquid branch pressure, not the coolant inventory.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How many psi does the coolant liquid circuit register?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could you check pressure at the liquid coolant pump outlet?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Report the pressure in the coolant fluid line.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Telemetry request: pressure of the liquid-phase coolant.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Before the exchanger, what pressure is shown on the liquid loop?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Read the coolant liquid supply pressure back to me.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Is the liquid coolant line pressurized? Send its current value.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Inventory check: what quantity of coolant has not yet been used?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Give me the tank inventory, as an amount or fill fraction.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "I am checking supplies; read the coolant quantity still onboard.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "What does the coolant-level sensor say is left?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Can the suit report the remaining coolant volume?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Coolant reserve status: how much is stored?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Tell me the tank fill level for coolant, not line pressure.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Before resupply, call out the coolant available in storage.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "What fraction of the coolant supply is unused?", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "Retrieve the remaining coolant inventory from the tank monitor.", "intents": ["get_coolant_storage"], "source": "llm"}
+{"text": "How long have we been outside since the airlock opened?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Read the EVA clock’s elapsed time, not the time remaining.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "What duration has accumulated on this spacewalk so far?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Mission timer, report time since EVA began.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Could you tell me how many minutes I have been outside?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "I need the start-to-now duration for this EVA.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "How much time has passed since I exited the cabin?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Check the mission clock and call out the elapsed EVA interval.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Elapsed time outside, in hours and minutes?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Where is the EVA timer at from the start of this excursion?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Read the tachometer for the primary ventilation fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "What RPM is the main circulation fan holding?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could telemetry send the primary fan’s rotational speed?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I need a revolutions-per-minute reading from fan one.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Call out the primary blower speed from its RPM channel.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "How fast is the suit’s primary airflow fan turning?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Check the first fan motor and report its tach value.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Please query RPM on the primary environmental fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "What does the primary fan speed sensor report in revolutions per minute?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Primary circulation fan tach, current reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Backup blower: give me its tach value in revolutions per minute.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "How quickly is fan two rotating, according to telemetry?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Does the auxiliary ventilation motor speed sensor have a reading?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I am monitoring the reserve airflow loop; call out the fan rotational rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "RPM from the second ventilation assembly, please.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "The secondary impeller seems louder. What speed is its motor turning at?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Check the backup fan rev counter and send the number.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "For diagnostics, I need revolutions per minute on the secondary air mover.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "How many turns per minute is fan two making right now?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Send the tachometer value for the secondary circulation unit.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "How many beats per minute is the biomonitor picking up?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Read my pulse from the medical channel, please.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Is my heart rate still elevated? Give me the number.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Call out the current cardiac rate on my suit telemetry.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "What BPM should I enter in the EVA log?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Could you check how fast my heart is beating?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "The chest sensor is connected; what pulse rate does it show?", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Heart rate reading, in beats per minute.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Ask the biomonitor for my current pulse.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "Before I climb, tell me my measured heart rate.", "intents": ["get_heart_rate"], "source": "llm"}
+{"text": "What partial pressure does CO2 contribute inside the helmet?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Read the helmet atmosphere’s carbon-dioxide pressure channel.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Is the helmet CO2 partial pressure rising? Give me its value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Separate the helmet reading from the suit loop: CO2 pressure only.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "How much pressure is coming from carbon dioxide in my helmet volume?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Could telemetry return the helmet-only CO2 pressure?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I need the pressure contribution of CO2 in the breathing space.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "What value is the helmet sensor assigning to carbon-dioxide pressure in the breathing space?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Call out helmet CO2 pressure in the next status readback.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "What does the helmet sensor assign to carbon dioxide pressure?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "How fast is oxygen being used by my breathing system?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Read the O2 consumption rate; I am checking usage, not tank level.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "What quantity of oxygen am I consuming each minute?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Give me the suit’s current oxygen-use rate.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could the controller report oxygen burned per hour?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I need the rate at which my supply is being consumed.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much O2 is going through the breathing loop over time?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Call out the oxygen consumption channel in liters per minute.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Is my oxygen use rate steady? Read the present measurement.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Please report consumption of oxygen as a rate, not remaining storage.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "What pressure is left inside the primary oxygen cylinder?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Read the gauge on oxygen tank one; I need pressure.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "The primary supply pressure, in kPa, please.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Could telemetry report pressure within the first O2 vessel?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "How many bar does the primary oxygen bottle register?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Give me the pressure channel for the primary tank.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Is the primary oxygen vessel above its minimum pressure? Call out the reading.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Check the primary cylinder gauge, not its fill percentage.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "What does the primary oxygen regulator show for tank pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Read the pressure inside the main O2 reservoir.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "How much oxygen is still stored in the primary vessel?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Read the first tank’s remaining O2 quantity, not pressure.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "What fraction of the primary oxygen supply is available?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Can I get a fill estimate for the main oxygen reservoir?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Call out the amount remaining in primary O2 storage.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "The primary cylinder level is what I need for the resupply log.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "What portion of the main oxygen supply is still available in its vessel?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Check the primary tank inventory before I continue.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Is the main oxygen bottle close to empty? Report its remaining level.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Give me the stored oxygen quantity in the primary supply.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "How much pressure remains in the backup oxygen cylinder?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Read the secondary O2 gauge; I need its pressure value.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "What psi is shown inside tank two?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Could the suit report pressure in the reserve oxygen vessel?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "The secondary bottle pressure, please, before I switch regulators.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Check the pressure channel for the backup oxygen tank.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Is the secondary cylinder above 100 kPa? Call out the actual pressure.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Read the gauge on the second oxygen tank, not its contents.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "What does the secondary O2 regulator show for cylinder pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Report the pressure inside the reserve oxygen supply.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Reserve oxygen inventory: report the remaining mass in the backup bottle.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Before the switch, how much O2 is in cylinder two?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Could you estimate the fill state of oxygen tank number two?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I need the secondary supply’s usable oxygen amount in kilograms.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What level does the reserve O2 capacity indicator show?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "The spare cylinder is the one I mean; is it still mostly full?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Secondary tank remaining quantity, for the handover checklist.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Do not read pressure; tell me the contents of the backup oxygen vessel.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Any danger of running low on oxygen in tank two? Give me its level.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "O2 inventory in the alternate cylinder, please.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much charge is left on the primary battery?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Read the main battery state of charge as a percentage.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Is the primary power pack still above half? Give its level.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "I need the remaining capacity from battery channel one.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "What does telemetry show for the primary battery gauge?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Before I run the tool, call out the main battery percentage.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Report the primary battery’s available charge, not voltage.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Could you check the first battery’s level on the suit monitor?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "How depleted is the primary battery right now?", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "Give me a numeric reading for primary battery charge.", "intents": ["get_primary_battery_level"], "source": "llm"}
+{"text": "How much captured carbon dioxide is held in scrubber A?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Read the A-side canister’s CO2 load, not its pressure.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "What storage capacity remains in the first scrubber for CO2?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could you report how full scrubber A’s collection bed is?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "I need the stored CO2 quantity for scrubber A.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Is the A scrubber nearly saturated with carbon dioxide?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Call out scrubber A’s remaining capture headroom.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Check the mass of CO2 retained by the A cartridge.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "How much carbon dioxide has the primary scrubber collected?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "For the maintenance log, give the CO2 storage reading from scrubber A.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "What burden of CO2 has the B-side sorbent collected?", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "How much capacity has the secondary cartridge consumed capturing carbon dioxide?", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "Canister B: report the stored mass of CO2.", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "I need B filter-bed loading, expressed as captured CO2.", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "Is the backup scrubber approaching its carbon-dioxide limit?", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "For the B vessel, call out remaining room for carbon dioxide.", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "The suit is using scrubber B; how much CO2 is in its bed?", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "Retrieve the B cartridge’s adsorbed carbon dioxide amount from diagnostics.", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "What percent of its capacity is the B scrubber using for CO2?", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "Is B-side storage nearly full? Read the captured CO2 level.", "intents": ["get_scrubber_b_co2_storage"], "source": "llm"}
+{"text": "Reserve bus state of charge? Give it as a percent.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "The secondary pack is my concern now; report its charge remaining.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How much energy is left on battery two, in percentage terms?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Check the backup pack’s capacity indicator in telemetry.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Is the reserve battery low? Read the level shown by its gauge.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "I have switched to the secondary bus—what charge does that battery show?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Power reserve reading for battery channel two, please.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Percent still available in the auxiliary battery?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Before I activate the heater, verify the secondary pack’s state of charge.", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How depleted is battery two on the suit?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Within the suit atmosphere, how much pressure is attributable to carbon dioxide?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "How much pressure is attributable to CO2 inside the suit loop?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I need the suit’s CO2 pressure component, not helmet or scrubber data.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "What does the suit environmental sensor show for CO2 partial pressure?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Call out the in-suit carbon dioxide pressure value.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Could telemetry retrieve the suit-loop CO2 pressure channel?", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Check the partial pressure assigned to carbon dioxide within my suit.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Is suit CO2 pressure stable? Give the current measurement.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "Read the pressure contribution from carbon dioxide in the EVA suit.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "I need an atmospheric pressure readback for suit CO2 specifically.", "intents": ["get_suit_pressure_co2"], "source": "llm"}
+{"text": "What partial pressure comes from trace gases in the suit atmosphere?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Read the suit’s pressure contribution from gases other than oxygen and CO2.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I need the miscellaneous-gas pressure channel inside the suit.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Could telemetry report the trace-component pressure in my suit loop?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Call out the partial pressure of the remaining suit gases.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "How much pressure is attributed to non-major gases in the suit?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Check the trace-gas sensor; I am asking for pressure, not storage.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "What does the EVA controller measure for other-gas partial pressure?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Before the transfer, report pressure from the suit’s minor gas species.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Give me the in-suit pressure value for gases besides O2 and CO2.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "How much partial pressure is oxygen contributing inside my suit?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Read the suit atmosphere’s O2 pressure component.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "I need the oxygen partial-pressure channel from the EVA garment.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "What does the in-suit oxygen sensor report in kPa?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Call out oxygen pressure within the suit volume, not the tank.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Could telemetry retrieve the suit-loop O2 partial pressure?", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Check the pressure assigned to oxygen in my breathing environment.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Is suit oxygen partial pressure within limits? Give the value.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "Read the oxygen component of the suit’s atmospheric pressure.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "For the medical log, report the EVA suit O2 partial pressure.", "intents": ["get_suit_pressure_oxy"], "source": "llm"}
+{"text": "What is the pressure of the complete gas mixture inside my suit?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Read total suit pressure with every gas component combined.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "I need the overall atmosphere pressure, not an individual partial pressure.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Could telemetry report the aggregate pressure in the EVA garment?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Call out the suit’s full-volume pressure reading.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "How much pressure does the entire suit atmosphere register?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Check the total-pressure sensor for the suit environment.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "What does the controller show for combined in-suit gas pressure?", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Before I move, give me the pressure of all gases together.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "Report the overall pressure inside the suit, regardless of gas species.", "intents": ["get_suit_pressure_total"], "source": "llm"}
+{"text": "How warm is the air circulating inside my suit?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Read the interior temperature probe on the pressure garment.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "I need the suit’s internal thermal reading in Celsius.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could the controller report the temperature inside the EVA suit?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "What does the liner temperature sensor show right now?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Call out the temperature of my suit environment, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Is the inside of the suit getting warmer? Give me the measured value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Check the internal temperature channel, not the outside environment.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "How many degrees is the suit air registering?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Retrieve my current in-suit temperature from telemetry.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Has the suit raised anything that still needs attention?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Read out the active EVA warning list, including codes.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Are any system cautions currently unresolved?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Before I proceed, tell me what alerts remain open.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could you query the warning register on the suit controller?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "I heard a tone; identify any active warning behind it.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "What is still flagged for the crew to address?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Give me the current EVA alert summary.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Check whether any warnings are present, even if they are low priority.", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Which suit warnings have not cleared yet?", "intents": ["get_warnings"], "source": "llm"}
+{"text": "Could you bring up the terrain map and navigation display for me?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Would you switch the visor to the route display before I set off?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you make the EVA map visible on my HUD?", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Open the cartography screen for this traverse.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Put my position and route view on the helmet display.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Navigation page, please—the one with the terrain map.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "I am about to move; show the map interface.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Call up the route-planning window on screen.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Make the location display visible so I can orient myself.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Map panel, please; put the navigation view on my HUD.", "intents": ["open_menu_navigation"], "source": "llm"}
+{"text": "Could you bring the outstanding work queue onto my display?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I need to see which EVA items are still open; show the task panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Could you put the mission checklist on the visor?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Switch to the page that lists my assigned tasks.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Work-order screen, please; I need the current EVA list.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Is the task board available? Please bring it up so I can review the next item.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Would you make the EVA checklist visible on my HUD?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Show me the mission’s task queue, not the navigation map.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Can the wrist display bring up the current task list?", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "I am ready to review the checklist; expose that panel.", "intents": ["open_menu_tasks"], "source": "llm"}
+{"text": "Put the airlock interface controls on my visor.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "I need the UIA page that operates the suit-port assembly.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could you bring up the controls for the umbilical interface assembly?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Switch the display to the airlock’s UIA control screen.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Make the hatch and service-port interface visible under UIA.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Show the panel for operating the UIA, please.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "I am at the airlock; open its interface-control page.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Call up the UIA menu with the suit-port controls.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "The airlock control interface should be on screen; open UIA.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Display the umbilical assembly controls on the helmet HUD.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could you bring my life-support and health readings into view?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need the panel that shows my suit vitals; open it.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Could you display the EVA health monitor on the visor?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Would you switch to my biometrics and suit-status page?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Show the readings for my current physical condition.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Is the vitals console available? I want to review my status.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Make the life-signs screen visible before I continue.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the health dashboard for this spacewalk.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I want the suit condition readout, not the task panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Put the EVA vitals interface on my HUD.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Detour around debris.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please recalculate the traverse so it avoids the unstable slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The direct route crosses debris. Plot a safer alternative.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can guidance take me around the hazard zone instead?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Change the planned path to pass clear of the sinkhole.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I cannot use this segment; generate a detour around the obstruction.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Route planning needs a new line that skirts the boulder field.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find a different path to the destination that avoids the marked danger.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The shelf is fractured ahead—redirect my route around it.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Rework the traverse around the blocked area; keep the destination.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Does anyone else have dust getting into every seam of their glove?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Ground, I can hear a faint echo on this channel.", "intents": ["unhandled"], "source": "llm"}
+{"text": "Did that last climb take more out of anyone else than expected?", "intents": ["unhandled"], "source": "llm"}
+{"text": "Anyone at base know when the next meal break is?", "intents": ["unhandled"], "source": "llm"}
+{"text": "I can see Earth just above the ridge from here.", "intents": ["unhandled"], "source": "llm"}
+{"text": "Copy that, I will hold position for a moment.", "intents": ["unhandled"], "source": "llm"}
+{"text": "There is a loose strap tapping against my pack.", "intents": ["unhandled"], "source": "llm"}
+{"text": "Did anyone else see their visor fog for a moment? Mine cleared again.", "intents": ["unhandled"], "source": "llm"}
+{"text": "The radio is quiet now; just checking the link.", "intents": ["unhandled"], "source": "llm"}
+{"text": "Looks like my pencil is still near the rover somewhere.", "intents": ["unhandled"], "source": "llm"}

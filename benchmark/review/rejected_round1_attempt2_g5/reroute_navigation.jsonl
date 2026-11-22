@@ -1,0 +1,25 @@
+{"text": "Calculate an alternate route around the rockfall.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you recalculate my path to bypass the unstable slope?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Navigation, find a detour around this obstruction.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "need a new route around the hazard zone", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Uh, compute a route that avoids the blocked passage.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The ground ahead is unsafe; generate another route around it.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please reroute my course past the debris field.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find a way around the washed-out trail.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can you work out a safer path that avoids the crater rim?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Route calculation needed to bypass the damaged terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Recompute the traverse around the marked hazard.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "hey find another path around this blockage", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Would you plot a detour past the steep section?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "This corridor is blocked; calculate a different route.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Give me an alternate path around the unstable ground.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "uh, reroute around the obstacle", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can navigation build a route that avoids the exclusion area?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please calculate a bypass around the collapsed ridge track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I cannot use this stretch; find a new route around the obstruction.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Revise the path to go around the loose boulders.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "recalculate a route around the blocked trail", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could we get a detour around the hazard marker?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot another course that avoids the damaged section of terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Okay, work out a route past this obstacle instead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Navigation, recalculate my route around the unsafe slope.", "intents": ["reroute_navigation"], "source": "llm"}

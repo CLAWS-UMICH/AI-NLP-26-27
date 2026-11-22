@@ -1,0 +1,25 @@
+{"text": "Withdraw the menu layer from the helmet interface.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Active menu, disappear from my field of vision.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you put away the currently selected menu?", "intents": ["close_menu"], "source": "llm"}
+{"text": "visor menu off", "intents": ["close_menu"], "source": "llm"}
+{"text": "Um, take down the HUD menu I am looking at.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please make the menu presently displayed vanish.", "intents": ["close_menu"], "source": "llm"}
+{"text": "The worksite is obscured; dismiss the menu in front.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Cancel the visible menu overlay on my screen.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you retire the current menu from the wrist display?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Get the menu currently in view out of the way.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I have finished with the active menu; remove it from view.", "intents": ["close_menu"], "source": "llm"}
+{"text": "close current HUD menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please clear the menu occupying my helmet display.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can you put the open interface menu away?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Unshow the menu that is active right now.", "intents": ["close_menu"], "source": "llm"}
+{"text": "erm, hide menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Move the selected menu off my display, please.", "intents": ["close_menu"], "source": "llm"}
+{"text": "End the menu view that is currently up.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you dismiss the menu layer over my visor?", "intents": ["close_menu"], "source": "llm"}
+{"text": "No more menu on screen; close the one that is active.", "intents": ["close_menu"], "source": "llm"}
+{"text": "menu overlay gone please", "intents": ["close_menu"], "source": "llm"}
+{"text": "Stop displaying the open HUD menu.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please remove the active menu so my view is clear.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could the current interface menu be taken down?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Dismiss whatever menu is active on the helmet, thanks.", "intents": ["close_menu"], "source": "llm"}

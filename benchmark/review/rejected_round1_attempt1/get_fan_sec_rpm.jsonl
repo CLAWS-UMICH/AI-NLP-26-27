@@ -1,0 +1,25 @@
+{"text": "secondary fan tach.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Read the secondary fan speed.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Could you give me the secondary fan RPM before I leave this worksite.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Okay, check secondary fan tach data while the spare circulation assembly is still under load.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Flight, did the secondary fan speed fall after the power handoff?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan revolutions per minute", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan speed?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "fan RPM, secondary?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "sec fan tach?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Need secondary fan rpm", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "RPM secondary fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Secondary fan RPM, please.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I am crossing the ridge, so call out the secondary ventilation fan’s present RPM.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "For the backup unit, pull the secondary fan's tachometer count from suit telemetry.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Can you confirm the auxiliary secondary fan is holding twelve hundred RPM?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I am logging component health; what RPM does the secondary circulation impeller report?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I hear the backup circulation unit slowing; what RPM is the secondary fan reporting?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Flight, pull a tach value from the secondary ventilation unit and send it over.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Was the secondary circulation fan spinning at the same speed at the previous waypoint?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I need today’s RPM value for the secondary fan recorded beside the battery check.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Secondary fan tach data is missing from my visor; please transmit it to my display.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "check secondary fan rpm", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Flight, repeat the secondary fan RPM; I was repositioning the antenna.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "The secondary motor sounds smooth; still, I need its present revolutions per minute.", "intents": ["get_fan_sec_rpm"], "source": "llm"}

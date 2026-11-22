@@ -1,0 +1,902 @@
+[
+  {
+    "global_line": 2406,
+    "label": "get_suit_pressure_co2",
+    "text": "Check what pressure carbon dioxide adds to the suit gas mixture."
+  },
+  {
+    "global_line": 104,
+    "label": "Set_navigation_target",
+    "text": "Make de Gerlache the destination on my map"
+  },
+  {
+    "global_line": 781,
+    "label": "open_menu_tasks",
+    "text": "Uh, put the EVA task list on screen now."
+  },
+  {
+    "global_line": 3334,
+    "label": "get_suit_pressure_other",
+    "text": "give me the suit trace constituents pressure value"
+  },
+  {
+    "global_line": 2251,
+    "label": "get_oxy_sec_pressure",
+    "text": "What pressure is the secondary oxygen tank holding?"
+  },
+  {
+    "global_line": 524,
+    "label": "get_primary_battery_level",
+    "text": "I am parked at the ridge; what percent does the primary battery have left?"
+  },
+  {
+    "global_line": 2211,
+    "label": "get_oxy_pri_pressure",
+    "text": "hey read primary oxygen cylinder pressure in psi"
+  },
+  {
+    "global_line": 617,
+    "label": "get_suit_pressure_co2",
+    "text": "The suit loop is what I mean: could you give me its carbon-dioxide pressure value?"
+  },
+  {
+    "global_line": 2487,
+    "label": "get_suit_pressure_total",
+    "text": "check the full atmosphere pressure on my suit"
+  },
+  {
+    "global_line": 179,
+    "label": "get_coolant_gas_pressure",
+    "text": "At the regulator, read pressure from the coolant vapor loop."
+  },
+  {
+    "global_line": 3323,
+    "label": "get_suit_pressure_co2",
+    "text": "Could you query the suit CO2 channel and report its partial pressure?"
+  },
+  {
+    "global_line": 880,
+    "label": "unhandled",
+    "text": "Copy that, I am holding at the ridge."
+  },
+  {
+    "global_line": 2720,
+    "label": "Add_waypoint",
+    "text": "Store Endurance Crater as a waypoint before the signal drops"
+  },
+  {
+    "global_line": 196,
+    "label": "get_coolant_gas_pressure",
+    "text": "Can you look up the coolant gas pressure channel now?"
+  },
+  {
+    "global_line": 164,
+    "label": "get_co2_production",
+    "text": "Could you tell me the carbon dioxide rate I am exhaling?"
+  },
+  {
+    "global_line": 3528,
+    "label": "open_menu_vitals",
+    "text": "Surface the life-support status display for this spacewalk."
+  },
+  {
+    "global_line": 3190,
+    "label": "get_oxy_sec_storage",
+    "text": "What's the remaining supply in the secondary oxygen container?"
+  },
+  {
+    "global_line": 3467,
+    "label": "open_menu_navigation",
+    "text": "Use the visor to launch the EVA cartography panel for this traverse."
+  },
+  {
+    "global_line": 870,
+    "label": "reroute_navigation",
+    "text": "recompute the traverse around the shadowed crater rim"
+  },
+  {
+    "global_line": 87,
+    "label": "Get_coordinates",
+    "text": "Rover 1, what coordinate pair is stored there?"
+  },
+  {
+    "global_line": 1090,
+    "label": "get_coolant_gas_pressure",
+    "text": "What does the pressure sensor show on the coolant vapor line?"
+  },
+  {
+    "global_line": 3518,
+    "label": "open_menu_uia",
+    "text": "Would you place the UIA hatch display over the HUD?"
+  },
+  {
+    "global_line": 774,
+    "label": "open_menu_navigation",
+    "text": "Open the navigation map panel for my return traverse."
+  },
+  {
+    "global_line": 31,
+    "label": "Complete_task",
+    "text": "Ridge 4: would you record that task as finished?"
+  },
+  {
+    "global_line": 2625,
+    "label": "open_menu_uia",
+    "text": "Show the airlock command interface under UIA, please."
+  },
+  {
+    "global_line": 968,
+    "label": "Delete_waypoint",
+    "text": "Cancel my saved waypoint entry for Borman Point."
+  },
+  {
+    "global_line": 2254,
+    "label": "get_oxy_sec_pressure",
+    "text": "Would you check the secondary tank's oxygen pressure now?"
+  },
+  {
+    "global_line": 2838,
+    "label": "close_menu",
+    "text": "Could you conceal the menu currently showing?"
+  },
+  {
+    "global_line": 1858,
+    "label": "Delete_waypoint",
+    "text": "Delete my stored route point at Aitken Point."
+  },
+  {
+    "global_line": 1442,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Can you verify what share of scrubber A’s canister capacity is occupied by CO2?"
+  },
+  {
+    "global_line": 447,
+    "label": "get_oxy_pri_storage",
+    "text": "If the primary O2 tank is below a quarter, tell me its current stored oxygen quantity in percent."
+  },
+  {
+    "global_line": 1025,
+    "label": "Set_navigation_target",
+    "text": "Have the guidance lead me over to Cabeus Rim."
+  },
+  {
+    "global_line": 1913,
+    "label": "Set_navigation_target",
+    "text": "Switch guidance over to destination Armstrong Crater."
+  },
+  {
+    "global_line": 1500,
+    "label": "get_secondary_battery_level",
+    "text": "Channel B indication: please read the secondary battery's charge."
+  },
+  {
+    "global_line": 1939,
+    "label": "close_menu",
+    "text": "Can you put the open interface menu away?"
+  },
+  {
+    "global_line": 1644,
+    "label": "get_warnings",
+    "text": "Please speak the currently active EVA caution messages."
+  },
+  {
+    "global_line": 1496,
+    "label": "get_secondary_battery_level",
+    "text": "The display is washed out; read the secondary battery level aloud."
+  },
+  {
+    "global_line": 139,
+    "label": "close_menu",
+    "text": "Can you remove the current menu from view?"
+  },
+  {
+    "global_line": 3288,
+    "label": "get_secondary_battery_level",
+    "text": "Secondary pack capacity, numeric readout?"
+  },
+  {
+    "global_line": 961,
+    "label": "Delete_waypoint",
+    "text": "Unsave Permanently Shadowed Site as a route point, please."
+  },
+  {
+    "global_line": 2577,
+    "label": "open_menu_tasks",
+    "text": "Checklist console, make that visible."
+  },
+  {
+    "global_line": 2028,
+    "label": "get_coolant_storage",
+    "text": "Could the suit report its remaining coolant volume?"
+  },
+  {
+    "global_line": 2042,
+    "label": "get_coolant_storage",
+    "text": "What does telemetry say about coolant left in the storage bladder?"
+  },
+  {
+    "global_line": 1057,
+    "label": "get_co2_production",
+    "text": "co two generated rate"
+  },
+  {
+    "global_line": 2088,
+    "label": "get_fan_pri_rpm",
+    "text": "Please query how fast the primary fan is turning, measured in RPM."
+  },
+  {
+    "global_line": 741,
+    "label": "get_warnings",
+    "text": "Uh, tell me whether an EVA warning is active."
+  },
+  {
+    "global_line": 2659,
+    "label": "reroute_navigation",
+    "text": "Would navigation devise a new line around the damaged ground?"
+  },
+  {
+    "global_line": 430,
+    "label": "get_oxy_pri_storage",
+    "text": "O2 contents primary?"
+  },
+  {
+    "global_line": 3036,
+    "label": "get_heart_rate",
+    "text": "Get the current beat frequency from my suit medical pack."
+  },
+  {
+    "global_line": 1132,
+    "label": "get_coolant_storage",
+    "text": "Would you show the remaining supply in the coolant reservoir?"
+  },
+  {
+    "global_line": 2348,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Flight, report scrubber A’s stored CO2 amount in grams."
+  },
+  {
+    "global_line": 2442,
+    "label": "get_suit_pressure_other",
+    "text": "Would you confirm what pressure the minor atmospheric constituents exert inside the suit?"
+  },
+  {
+    "global_line": 3370,
+    "label": "get_suit_pressure_oxy",
+    "text": "What's the suit atmosphere reading for oxygen partial pressure now?"
+  },
+  {
+    "global_line": 1193,
+    "label": "get_fan_pri_rpm",
+    "text": "check primary fan tach rpm"
+  },
+  {
+    "global_line": 1613,
+    "label": "get_temperature",
+    "text": "Is the internal temperature channel for my suit available now?"
+  },
+  {
+    "global_line": 879,
+    "label": "unhandled",
+    "text": "My glove keeps catching on the sample pouch."
+  },
+  {
+    "global_line": 1897,
+    "label": "Get_coordinates",
+    "text": "Please return the latitude and longitude for site bravo."
+  },
+  {
+    "global_line": 1328,
+    "label": "get_oxy_pri_storage",
+    "text": "Primary oxygen cylinder, how much is left?"
+  },
+  {
+    "global_line": 2150,
+    "label": "get_heart_rate",
+    "text": "Pulse monitor value in BPM, now."
+  },
+  {
+    "global_line": 2536,
+    "label": "get_warnings",
+    "text": "Get me the active caution report from life support."
+  },
+  {
+    "global_line": 3017,
+    "label": "get_fan_sec_rpm",
+    "text": "Please call out how fast the secondary ventilation rotor is spinning."
+  },
+  {
+    "global_line": 2609,
+    "label": "open_menu_uia",
+    "text": "Would you launch the UIA hatch panel before I resume?"
+  },
+  {
+    "global_line": 527,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Check how much carbon dioxide scrubber A has collected so far."
+  },
+  {
+    "global_line": 1106,
+    "label": "get_coolant_liquid_pressure",
+    "text": "Ask telemetry for a pressure value on the liquid coolant circuit."
+  },
+  {
+    "global_line": 3404,
+    "label": "get_temperature",
+    "text": "Could I get the suit-interior temperature from the thermal sensor?"
+  },
+  {
+    "global_line": 3097,
+    "label": "get_oxy_consumption",
+    "text": "Check how quickly the oxygen supply is being used, per hour."
+  },
+  {
+    "global_line": 2952,
+    "label": "get_eva_elapsed_time",
+    "text": "Would you look up time accumulated since I passed through the hatch?"
+  },
+  {
+    "global_line": 365,
+    "label": "get_helmet_pressure_co2",
+    "text": "Okay, the suit value is visible; could you give me carbon dioxide pressure inside the helmet?"
+  },
+  {
+    "global_line": 3088,
+    "label": "get_oxy_consumption",
+    "text": "Can you send oxygen consumption rate in milliliters per minute?"
+  },
+  {
+    "global_line": 2467,
+    "label": "get_suit_pressure_oxy",
+    "text": "What's the measured pO2 inside the EVA garment?"
+  },
+  {
+    "global_line": 2356,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Flight, read the CO2 storage utilization for scrubber B’s media."
+  },
+  {
+    "global_line": 8,
+    "label": "Add_waypoint",
+    "text": "tag the route with a waypoint for Tycho Spur."
+  },
+  {
+    "global_line": 1635,
+    "label": "get_warnings",
+    "text": "I missed the last chime; what active alert did it announce?"
+  },
+  {
+    "global_line": 2146,
+    "label": "get_heart_rate",
+    "text": "Would you read my heart rate aloud so I can verify the monitor?"
+  },
+  {
+    "global_line": 572,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Would you check what portion of scrubber B’s CO2 storage chamber is already filled?"
+  },
+  {
+    "global_line": 1021,
+    "label": "Set_navigation_target",
+    "text": "I want the route screen centered on destination Rover Beta."
+  },
+  {
+    "global_line": 1445,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "Okay, read the stored CO2 quantity in scrubber A’s carbon collection medium."
+  },
+  {
+    "global_line": 671,
+    "label": "get_suit_pressure_oxy",
+    "text": "Uh, give me the suit sensor reading for oxygen partial pressure before I inspect the sample bag."
+  },
+  {
+    "global_line": 1414,
+    "label": "get_primary_battery_level",
+    "text": "Is the displayed charge level on my primary battery under thirty percent?"
+  },
+  {
+    "global_line": 2058,
+    "label": "get_eva_elapsed_time",
+    "text": "Would you check how long my current EVA has been active?"
+  },
+  {
+    "global_line": 1224,
+    "label": "get_fan_sec_rpm",
+    "text": "Ask for the secondary fan’s RPM directly from its control board."
+  },
+  {
+    "global_line": 2923,
+    "label": "get_coolant_liquid_pressure",
+    "text": "Pull coolant liquid pressure."
+  },
+  {
+    "global_line": 2003,
+    "label": "get_coolant_liquid_pressure",
+    "text": "Get the coolant loop’s liquid-branch pressure from telemetry."
+  },
+  {
+    "global_line": 126,
+    "label": "close_menu",
+    "text": "Dismiss the active HUD menu on my visor."
+  },
+  {
+    "global_line": 3451,
+    "label": "open_menu_navigation",
+    "text": "Choose the EVA terrain chart as my visor view."
+  },
+  {
+    "global_line": 423,
+    "label": "get_oxy_pri_pressure",
+    "text": "If primary O2 tank pressure falls below 190 kPa, warn me before the slope."
+  },
+  {
+    "global_line": 1888,
+    "label": "Get_coordinates",
+    "text": "I am trying to verify Conrad Point; read the coordinate marker."
+  },
+  {
+    "global_line": 3134,
+    "label": "get_oxy_pri_storage",
+    "text": "Can you send the fill status as an amount for the primary O2 cylinder?"
+  },
+  {
+    "global_line": 2663,
+    "label": "reroute_navigation",
+    "text": "Can the path planner route around the no-go zone?"
+  },
+  {
+    "global_line": 2440,
+    "label": "get_suit_pressure_other",
+    "text": "Uh, I need the suit trace-gas pressure in kilopascals, not a storage reading."
+  },
+  {
+    "global_line": 1470,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "Can you read the carbon bed saturation level for scrubber B’s collected CO2?"
+  },
+  {
+    "global_line": 2630,
+    "label": "open_menu_vitals",
+    "text": "Um, I want my life-support vitals screen opened."
+  },
+  {
+    "global_line": 2491,
+    "label": "get_suit_pressure_total",
+    "text": "Can you verify the overall pressure for the complete gas mixture surrounding me?"
+  },
+  {
+    "global_line": 2057,
+    "label": "get_eva_elapsed_time",
+    "text": "Elapsed clock since start, please."
+  },
+  {
+    "global_line": 3499,
+    "label": "open_menu_tasks",
+    "text": "I need the mission queue displayed before proceeding."
+  },
+  {
+    "global_line": 174,
+    "label": "get_co2_production",
+    "text": "Could I get a fresh reading of my carbon dioxide production per hour?"
+  },
+  {
+    "global_line": 640,
+    "label": "get_suit_pressure_other",
+    "text": "Can you give me the partial pressure of trace constituents circulating through the suit?"
+  },
+  {
+    "global_line": 1068,
+    "label": "get_co2_production",
+    "text": "How much carbon dioxide am I releasing into the loop each hour?"
+  },
+  {
+    "global_line": 3068,
+    "label": "get_helmet_pressure_co2",
+    "text": "Would you read back the helmet environmental value for CO2 in kPa?"
+  },
+  {
+    "global_line": 2243,
+    "label": "get_oxy_pri_storage",
+    "text": "Please estimate the oxygen remaining in tank one, the primary supply."
+  },
+  {
+    "global_line": 232,
+    "label": "get_coolant_storage",
+    "text": "What is the coolant storage level right now?"
+  },
+  {
+    "global_line": 483,
+    "label": "get_oxy_sec_storage",
+    "text": "Show secondary O2 amount remaining."
+  },
+  {
+    "global_line": 2984,
+    "label": "get_fan_pri_rpm",
+    "text": "Would you display the primary ventilation rotor’s RPM reading?"
+  },
+  {
+    "global_line": 1439,
+    "label": "get_scrubber_a_co2_storage",
+    "text": "For the maintenance note, state how saturated scrubber A is with stored carbon dioxide."
+  },
+  {
+    "global_line": 1476,
+    "label": "get_secondary_battery_level",
+    "text": "On channel B, report the secondary battery percentage reading."
+  },
+  {
+    "global_line": 2109,
+    "label": "get_fan_sec_rpm",
+    "text": "Get a live tach measurement for the backup circulation fan; report RPM."
+  },
+  {
+    "global_line": 1691,
+    "label": "open_menu_tasks",
+    "text": "uh display mission tasks"
+  },
+  {
+    "global_line": 1092,
+    "label": "get_coolant_gas_pressure",
+    "text": "Pull pressure for the coolant gas path at the controller."
+  },
+  {
+    "global_line": 2212,
+    "label": "get_oxy_pri_pressure",
+    "text": "Flight, give me the pressure value for the primary O2 bottle."
+  },
+  {
+    "global_line": 2666,
+    "label": "reroute_navigation",
+    "text": "erm, plot a detour around the debris"
+  },
+  {
+    "global_line": 1408,
+    "label": "get_primary_battery_level",
+    "text": "Would the suit computer report a percentage for the primary battery?"
+  },
+  {
+    "global_line": 319,
+    "label": "get_fan_sec_rpm",
+    "text": "Please query the revolutions-per-minute value on the secondary fan circuit."
+  },
+  {
+    "global_line": 101,
+    "label": "Set_navigation_target",
+    "text": "Set Shackleton Crater as my destination."
+  },
+  {
+    "global_line": 32,
+    "label": "Complete_task",
+    "text": "Set task Nansen Crater to complete."
+  },
+  {
+    "global_line": 3407,
+    "label": "get_temperature",
+    "text": "How many Celsius is the air inside my suit registering?"
+  },
+  {
+    "global_line": 1801,
+    "label": "Add_waypoint",
+    "text": "Add a waypoint called Delta Base so I can find it again."
+  },
+  {
+    "global_line": 3032,
+    "label": "get_heart_rate",
+    "text": "Would you check the heart monitor before I resume the climb?"
+  },
+  {
+    "global_line": 314,
+    "label": "get_fan_sec_rpm",
+    "text": "Can I get the secondary fan speed expressed as revolutions per minute?"
+  },
+  {
+    "global_line": 2089,
+    "label": "get_fan_pri_rpm",
+    "text": "Is the RPM counter for the primary fan available now?"
+  },
+  {
+    "global_line": 2361,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "please check remaining storage in scrubber b for carbon dioxide"
+  },
+  {
+    "global_line": 67,
+    "label": "Delete_waypoint",
+    "text": "Please wipe the waypoint at Davis Ridge."
+  },
+  {
+    "global_line": 395,
+    "label": "get_oxy_consumption",
+    "text": "My breathing is faster; measure the oxygen use rate per minute for this traverse."
+  },
+  {
+    "global_line": 2138,
+    "label": "get_heart_rate",
+    "text": "BPM for my pulse?"
+  },
+  {
+    "global_line": 555,
+    "label": "get_scrubber_b_co2_storage",
+    "text": "What percentage of scrubber B’s CO2 capacity is still available?"
+  },
+  {
+    "global_line": 2210,
+    "label": "get_oxy_pri_pressure",
+    "text": "Would you check the primary tank's oxygen pressure reading?"
+  },
+  {
+    "global_line": 351,
+    "label": "get_helmet_pressure_co2",
+    "text": "Helmet channel, please report its carbon dioxide pressure reading from inside the helmet."
+  },
+  {
+    "global_line": 3064,
+    "label": "get_helmet_pressure_co2",
+    "text": "Before I reach for the wrench, tell me the helmet atmosphere CO2 pressure."
+  },
+  {
+    "global_line": 3167,
+    "label": "get_oxy_sec_pressure",
+    "text": "Need a pressure measurement from the secondary O2 bottle right away."
+  },
+  {
+    "global_line": 686,
+    "label": "get_suit_pressure_total",
+    "text": "check pressure across the suit atmosphere"
+  },
+  {
+    "global_line": 1114,
+    "label": "get_coolant_liquid_pressure",
+    "text": "Have the suit controller query pressure in the coolant liquid branch."
+  },
+  {
+    "global_line": 709,
+    "label": "get_temperature",
+    "text": "Need the suit’s inside temperature, please."
+  },
+  {
+    "global_line": 2194,
+    "label": "get_oxy_consumption",
+    "text": "I need oxygen consumed per second, expressed as a rate."
+  },
+  {
+    "global_line": 1302,
+    "label": "get_oxy_pri_pressure",
+    "text": "Please give me the primary O2 cylinder pressure in kPa."
+  },
+  {
+    "global_line": 655,
+    "label": "get_suit_pressure_oxy",
+    "text": "Please report the partial pressure of oxygen inside my EVA suit."
+  },
+  {
+    "global_line": 894,
+    "label": "unhandled",
+    "text": "Say again, your last transmission cut out."
+  },
+  {
+    "global_line": 2441,
+    "label": "get_suit_pressure_other",
+    "text": "The total is already displayed; fetch the separate partial pressure for the suit trace gases."
+  },
+  {
+    "global_line": 722,
+    "label": "get_temperature",
+    "text": "whats the suit interior temp reading"
+  },
+  {
+    "global_line": 2739,
+    "label": "Complete_task",
+    "text": "Tycho Station, would you log that checklist task as complete?"
+  },
+  {
+    "global_line": 3215,
+    "label": "get_primary_battery_level",
+    "text": "Quick, what does the primary battery meter show?"
+  },
+  {
+    "global_line": 884,
+    "label": "unhandled",
+    "text": "the oxygen line is clipped to my left side."
+  },
+  {
+    "global_line": 2622,
+    "label": "open_menu_uia",
+    "text": "Let us see the UIA airlock controls on the wrist screen."
+  },
+  {
+    "global_line": 1734,
+    "label": "open_menu_vitals",
+    "text": "Open my suit health menu; I am checking readiness."
+  },
+  {
+    "global_line": 2548,
+    "label": "get_warnings",
+    "text": "Could you check for open warnings in my EVA status panel?"
+  },
+  {
+    "global_line": 1119,
+    "label": "get_coolant_liquid_pressure",
+    "text": "Would you call out the liquid coolant return’s pressure reading?"
+  },
+  {
+    "global_line": 2268,
+    "label": "get_oxy_sec_pressure",
+    "text": "Relay the gauge reading for pressure in the secondary tank carrying oxygen."
+  },
+  {
+    "global_line": 1394,
+    "label": "get_oxy_sec_storage",
+    "text": "Would you tell me how much breathable oxygen is left in the secondary cylinder?"
+  },
+  {
+    "global_line": 751,
+    "label": "open_menu_navigation",
+    "text": "Open navigation map."
+  },
+  {
+    "global_line": 69,
+    "label": "Delete_waypoint",
+    "text": "delete my route note for site delta from the waypoint list."
+  },
+  {
+    "global_line": 2660,
+    "label": "reroute_navigation",
+    "text": "Please derive a bypass around the shadowed crevasse."
+  },
+  {
+    "global_line": 3583,
+    "label": "unhandled",
+    "text": "Would the crew like a picture of these tracks?"
+  },
+  {
+    "global_line": 271,
+    "label": "get_eva_elapsed_time",
+    "text": "Please tell me how much of the EVA has elapsed since egress."
+  },
+  {
+    "global_line": 2034,
+    "label": "get_coolant_storage",
+    "text": "Can the controller show the coolant inventory as a percentage?"
+  },
+  {
+    "global_line": 15,
+    "label": "Add_waypoint",
+    "text": "Add the location Ridge Charlie to my waypoint list"
+  },
+  {
+    "global_line": 2407,
+    "label": "get_suit_pressure_co2",
+    "text": "Before I change handholds, retrieve the suit CO2 pressure component."
+  },
+  {
+    "global_line": 3454,
+    "label": "open_menu_navigation",
+    "text": "helmet map view up"
+  },
+  {
+    "global_line": 3076,
+    "label": "get_oxy_consumption",
+    "text": "Please report the rate of my oxygen use in liters per hour."
+  },
+  {
+    "global_line": 797,
+    "label": "open_menu_tasks",
+    "text": "Please put the EVA task panel in view before I start the repair."
+  },
+  {
+    "global_line": 2780,
+    "label": "Get_coordinates",
+    "text": "I need the coordinate lookup result for Luna Outpost."
+  },
+  {
+    "global_line": 299,
+    "label": "get_fan_pri_rpm",
+    "text": "At the next pause, query the primary fan speed in RPM for my log."
+  },
+  {
+    "global_line": 3183,
+    "label": "get_oxy_sec_storage",
+    "text": "Tell me the secondary tank's oxygen contents by volume, please."
+  },
+  {
+    "global_line": 149,
+    "label": "close_menu",
+    "text": "Can you close the menu I have open at the moment?"
+  },
+  {
+    "global_line": 3390,
+    "label": "get_suit_pressure_total",
+    "text": "Um, tell me what the complete suit pressure channel shows in kilopascals."
+  },
+  {
+    "global_line": 2856,
+    "label": "get_co2_production",
+    "text": "co2 produced hourly rate"
+  },
+  {
+    "global_line": 3066,
+    "label": "get_helmet_pressure_co2",
+    "text": "The suit circuit is not the target; pull the CO2 pressure around my head."
+  },
+  {
+    "global_line": 3540,
+    "label": "open_menu_vitals",
+    "text": "I would like to inspect the EVA vitals panel; make it active."
+  },
+  {
+    "global_line": 2616,
+    "label": "open_menu_uia",
+    "text": "erm, show UIA hatch controls"
+  },
+  {
+    "global_line": 1362,
+    "label": "get_oxy_sec_pressure",
+    "text": "Flight, read the secondary oxygen bottle's pressure in kilopascals."
+  },
+  {
+    "global_line": 3381,
+    "label": "get_suit_pressure_total",
+    "text": "Flight, report pressure from the entire gas mixture inside the suit."
+  },
+  {
+    "global_line": 2420,
+    "label": "get_suit_pressure_co2",
+    "text": "Could you verify the latest suit-loop pressure attributable to CO2?"
+  },
+  {
+    "global_line": 2638,
+    "label": "open_menu_vitals",
+    "text": "Please select the suit health view on the helmet UI."
+  },
+  {
+    "global_line": 2899,
+    "label": "get_coolant_gas_pressure",
+    "text": "How much pressure is in the coolant gas channel, per telemetry?"
+  },
+  {
+    "global_line": 93,
+    "label": "Get_coordinates",
+    "text": "I am looking for Aitken Station; read out its grid position."
+  },
+  {
+    "global_line": 3297,
+    "label": "get_secondary_battery_level",
+    "text": "On the backup feed, give a percent estimate for the secondary battery."
+  },
+  {
+    "global_line": 3362,
+    "label": "get_suit_pressure_oxy",
+    "text": "Flight, send the EVA garment's oxygen pO2 in kilopascals."
+  },
+  {
+    "global_line": 12,
+    "label": "Add_waypoint",
+    "text": "Insert a waypoint at Permanently Shadowed Site on my EVA map."
+  },
+  {
+    "global_line": 2734,
+    "label": "Complete_task",
+    "text": "Could the task Conrad Crater be signed off as finished?"
+  },
+  {
+    "global_line": 516,
+    "label": "get_primary_battery_level",
+    "text": "Uh, how full is the primary battery pack?"
+  },
+  {
+    "global_line": 929,
+    "label": "Complete_task",
+    "text": "Set the mission list status for Miller Ridge to complete."
+  },
+  {
+    "global_line": 258,
+    "label": "get_eva_elapsed_time",
+    "text": "How much time has passed since EVA began, not how much remains?"
+  },
+  {
+    "global_line": 3200,
+    "label": "get_oxy_sec_storage",
+    "text": "Can you state the remaining mass inside the secondary O2 tank?"
+  }
+]

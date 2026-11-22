@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "text": "check scrubber A capacity left for co2"
+  },
+  {
+    "id": 2,
+    "text": "Please read the retained CO2 percentage in scrubber B’s canister."
+  },
+  {
+    "id": 3,
+    "text": "Scrubber A is active; retrieve its CO2 storage percentage, not pressure."
+  },
+  {
+    "id": 4,
+    "text": "read scrubber a cartridge storage for carbon dioxide"
+  },
+  {
+    "id": 5,
+    "text": "For the service log, tell me how much of scrubber B’s CO2 capacity is used."
+  },
+  {
+    "id": 6,
+    "text": "What captured CO2 load is sitting in scrubber B?"
+  },
+  {
+    "id": 7,
+    "text": "Can you verify the carbon dioxide amount occupying scrubber B’s media?"
+  },
+  {
+    "id": 8,
+    "text": "Could you retrieve the carbon dioxide amount retained by scrubber B?"
+  },
+  {
+    "id": 9,
+    "text": "Flight, report scrubber A’s CO2 storage fraction."
+  },
+  {
+    "id": 10,
+    "text": "Could I get the carbon dioxide load held in the scrubber A bed in percent?"
+  },
+  {
+    "id": 11,
+    "text": "Uh, report the remaining storage space in the scrubber B canister for carbon dioxide."
+  },
+  {
+    "id": 12,
+    "text": "The scrubber B cartridge is active; pull its stored CO2 load, not a pressure reading."
+  },
+  {
+    "id": 13,
+    "text": "Before reconfiguring, tell me the remaining CO2 collection room in scrubber A."
+  },
+  {
+    "id": 14,
+    "text": "Is there much carbon dioxide storage left in scrubber B’s canister?"
+  },
+  {
+    "id": 15,
+    "text": "Would you call out the CO2 load held in the scrubber B cartridge?"
+  },
+  {
+    "id": 16,
+    "text": "Please report the remaining CO2 headroom inside scrubber A’s storage cartridge."
+  },
+  {
+    "id": 17,
+    "text": "fetch scrubber a carbon dioxide storage utilization"
+  },
+  {
+    "id": 18,
+    "text": "query scrubber a for stored co2 quantity"
+  },
+  {
+    "id": 19,
+    "text": "please query storage capacity of the scrubber B co2 cartridge"
+  },
+  {
+    "id": 20,
+    "text": "check scrubber b retained carbon dioxide mass"
+  },
+  {
+    "id": 21,
+    "text": "How much carbon dioxide is retained in scrubber A’s canister?"
+  },
+  {
+    "id": 22,
+    "text": "Flight, call out the CO2 storage utilization for scrubber B’s carbon media."
+  },
+  {
+    "id": 23,
+    "text": "Would you read the unused capacity in scrubber A for collecting CO2?"
+  },
+  {
+    "id": 24,
+    "text": "Check how much CO2 storage room remains in scrubber B’s carbon filter."
+  },
+  {
+    "id": 25,
+    "text": "Would you measure scrubber B’s CO2 fill percentage?"
+  },
+  {
+    "id": 26,
+    "text": "Could I get the remaining carbon dioxide holding capacity in scrubber B?"
+  },
+  {
+    "id": 27,
+    "text": "get the carbon dioxide headroom in scrubber b"
+  },
+  {
+    "id": 28,
+    "text": "fetch the CO2 fill fraction on scrubber B’s carbon collector"
+  },
+  {
+    "id": 29,
+    "text": "Is scrubber A’s carbon dioxide bed near its storage limit?"
+  },
+  {
+    "id": 30,
+    "text": "Flight, tell me the retained CO2 amount in scrubber A’s canister."
+  },
+  {
+    "id": 31,
+    "text": "Um, call out how saturated scrubber A is with stored carbon dioxide."
+  },
+  {
+    "id": 32,
+    "text": "read how full scrubber B is with captured co2"
+  },
+  {
+    "id": 33,
+    "text": "Flight, how much room does scrubber B have for more CO2? Read its storage capacity."
+  },
+  {
+    "id": 34,
+    "text": "Before I swap loops, read the stored CO2 quantity for scrubber B."
+  },
+  {
+    "id": 35,
+    "text": "Before the next EVA task, check the storage fraction filled in scrubber B by captured CO2."
+  },
+  {
+    "id": 36,
+    "text": "Please measure the unused CO2 capacity in scrubber A."
+  },
+  {
+    "id": 37,
+    "text": "Can you confirm what portion of scrubber A’s collection space is filled with CO2?"
+  },
+  {
+    "id": 38,
+    "text": "Before resuming the traverse, query storage space left in scrubber A for CO2."
+  },
+  {
+    "id": 39,
+    "text": "Would you state the unused CO2 collection volume in scrubber B?"
+  },
+  {
+    "id": 40,
+    "text": "Please give the unused CO2 holding capacity of the scrubber B bed."
+  },
+  {
+    "id": 41,
+    "text": "Okay, check how much carbon dioxide the scrubber A adsorbent has trapped."
+  },
+  {
+    "id": 42,
+    "text": "At the hatch, retrieve the CO2 storage utilization of scrubber B’s carbon bed."
+  },
+  {
+    "id": 43,
+    "text": "Can you read the carbon dioxide saturation level in scrubber A’s medium?"
+  },
+  {
+    "id": 44,
+    "text": "For maintenance, state the captured CO2 load against scrubber A’s full storage volume."
+  },
+  {
+    "id": 45,
+    "text": "Would you fetch the CO2 fill state for scrubber A’s carbon bed?"
+  },
+  {
+    "id": 46,
+    "text": "please get the co2 fill level in scrubber a carbon bed"
+  },
+  {
+    "id": 47,
+    "text": "Okay, say how much carbon dioxide scrubber B has collected."
+  },
+  {
+    "id": 48,
+    "text": "Run a storage check on scrubber A for captured CO2."
+  },
+  {
+    "id": 49,
+    "text": "While I wait by the airlock, give the carbon dioxide mass stored in scrubber A."
+  },
+  {
+    "id": 50,
+    "text": "Check the amount of CO2 held in scrubber A’s cartridge."
+  }
+]

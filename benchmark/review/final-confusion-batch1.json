@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "text": "Drop Malapert Massif into the waypoint queue, thanks."
+  },
+  {
+    "id": 2,
+    "text": "Before I leave the tether point, check scrubber B’s stored CO2 quantity."
+  },
+  {
+    "id": 3,
+    "text": "Clear Armstrong Point as a saved route waypoint now"
+  },
+  {
+    "id": 4,
+    "text": "Please give me the fill fraction of the CO2 storage bed in scrubber B."
+  },
+  {
+    "id": 5,
+    "text": "Delete my stored route point at Aitken Point."
+  },
+  {
+    "id": 6,
+    "text": "Please wipe the waypoint at Davis Ridge."
+  },
+  {
+    "id": 7,
+    "text": "Place South Ray among the route markers."
+  },
+  {
+    "id": 8,
+    "text": "Uh, report the remaining storage space in the scrubber B canister for carbon dioxide."
+  },
+  {
+    "id": 9,
+    "text": "Would you verify the carbon dioxide storage headroom in scrubber B’s module?"
+  },
+  {
+    "id": 10,
+    "text": "Can you clear Prospector 3 from my route markers?"
+  },
+  {
+    "id": 11,
+    "text": "Can you check whether scrubber A has much CO2 storage space left?"
+  },
+  {
+    "id": 12,
+    "text": "Tell me the CO2 load remaining in scrubber B’s absorber."
+  },
+  {
+    "id": 13,
+    "text": "Cancel the stored map pin for Permanently Shadowed Site"
+  },
+  {
+    "id": 14,
+    "text": "Would you state the CO2 retention capacity left in scrubber B as a percentage?"
+  },
+  {
+    "id": 15,
+    "text": "What fraction of scrubber B’s carbon dioxide capacity is still free?"
+  },
+  {
+    "id": 16,
+    "text": "Would you retrieve the carbon dioxide load held by scrubber A?"
+  },
+  {
+    "id": 17,
+    "text": "please query scrubber a co2 carbon media fill percentage"
+  },
+  {
+    "id": 18,
+    "text": "Could you unlist Kaguya Point as one of my waypoints?"
+  },
+  {
+    "id": 19,
+    "text": "Add Alpha 3?"
+  },
+  {
+    "id": 20,
+    "text": "Take Conrad Crater out of my waypoint queue."
+  },
+  {
+    "id": 21,
+    "text": "Please report the remaining CO2 headroom inside scrubber A’s storage cartridge."
+  },
+  {
+    "id": 22,
+    "text": "Record Alpha Station as a stop on the map."
+  },
+  {
+    "id": 23,
+    "text": "Save this route location, Alpha 3, as a waypoint."
+  },
+  {
+    "id": 24,
+    "text": "Would you unpin Polar Relay from my EVA map?"
+  },
+  {
+    "id": 25,
+    "text": "Would you say how much room remains in scrubber A’s CO2 collection bed?"
+  },
+  {
+    "id": 26,
+    "text": "Flight, report scrubber A’s CO2 storage fraction."
+  },
+  {
+    "id": 27,
+    "text": "Before switching loops, read the unused CO2 storage capacity in scrubber A."
+  },
+  {
+    "id": 28,
+    "text": "While I wait by the airlock, report scrubber A’s stored carbon dioxide mass."
+  },
+  {
+    "id": 29,
+    "text": "Before the mode change, call out the CO2 storage level in scrubber B."
+  },
+  {
+    "id": 30,
+    "text": "Can you verify the fill percentage of scrubber B’s carbon dioxide collection medium?"
+  },
+  {
+    "id": 31,
+    "text": "Flight, how much room remains in scrubber B for captured CO2? Read the capacity."
+  },
+  {
+    "id": 32,
+    "text": "Okay, read scrubber B’s carbon dioxide collection quantity in grams."
+  },
+  {
+    "id": 33,
+    "text": "Clear out the waypoint called Alpha 3, please."
+  },
+  {
+    "id": 34,
+    "text": "Um, report how much carbon dioxide the cartridge in scrubber B has trapped."
+  },
+  {
+    "id": 35,
+    "text": "Add a route marker at Armstrong Point while I hold here."
+  },
+  {
+    "id": 36,
+    "text": "Flight, give me the CO2 storage utilization for scrubber A’s cartridge as a percentage."
+  },
+  {
+    "id": 37,
+    "text": "Would you read the unused capacity in scrubber A for collecting CO2?"
+  },
+  {
+    "id": 38,
+    "text": "Clear the waypoint entry named site 8."
+  },
+  {
+    "id": 39,
+    "text": "Could the system forget Endurance Crater as a waypoint?"
+  },
+  {
+    "id": 40,
+    "text": "Can I get the storage fraction occupied by CO2 in the A-side scrubber module?"
+  },
+  {
+    "id": 41,
+    "text": "Unpin Artemis 5 from the EVA map waypoints."
+  },
+  {
+    "id": 42,
+    "text": "How much carbon dioxide is retained in scrubber A’s canister?"
+  },
+  {
+    "id": 43,
+    "text": "Could you estimate the captured CO2 load in the B-side scrubber bed?"
+  },
+  {
+    "id": 44,
+    "text": "read the amount of carbon dioxide held in scrubber a"
+  },
+  {
+    "id": 45,
+    "text": "Put site delta into the waypoint queue."
+  },
+  {
+    "id": 46,
+    "text": "Flight, how much room does scrubber B still have for CO2? Please read the capacity."
+  },
+  {
+    "id": 47,
+    "text": "Unlist the waypoint for Nansen Ridge from my HUD."
+  },
+  {
+    "id": 48,
+    "text": "fetch the CO2 fill fraction on scrubber B’s carbon collector"
+  },
+  {
+    "id": 49,
+    "text": "read co2 storage level in scrubber a"
+  },
+  {
+    "id": 50,
+    "text": "I am finished with that map pin; remove site delta."
+  }
+]

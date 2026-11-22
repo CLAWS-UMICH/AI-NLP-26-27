@@ -1,0 +1,100 @@
+{"text": "Check helmet CO2 partial pressure, at 18%?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Check helmet CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Read carbon dioxide partial pressure inside the helmet, reading thirty four percent now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Read carbon dioxide partial pressure inside the helmet, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Show me helmet carbon-dioxide pressure, value is one point two kPa for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Show me helmet carbon-dioxide pressure; it's 2.1 kilopascals.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "What's the helmet-only CO2 partial pressure; it's forty one percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "What's the helmet-only CO2 partial pressure, showing 53 percent on the current suit check before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Can you report CO2 partial pressure in my helmet, showing sixty kPa before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Can you report CO2 partial pressure in my helmet, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Could you read helmet CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Could you read helmet CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I need carbon dioxide partial pressure inside the helmet, uh, thirty four percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I need carbon dioxide partial pressure inside the helmet, at 0.8 kilopascals when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Give me helmet carbon-dioxide pressure, at one point two kPa when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Give me helmet carbon-dioxide pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Pull up the helmet-only CO2 partial pressure, forty one percent copy?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Pull up the helmet-only CO2 partial pressure, this check is 53 percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Tell me CO2 partial pressure in my helmet, this check is sixty kPa.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Tell me CO2 partial pressure in my helmet, at 0.6 k p a on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Uh, check helmet CO2 partial pressure, at 18%?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Uh, check helmet CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Okay, read carbon dioxide partial pressure inside the helmet, reading thirty four percent now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Okay, read carbon dioxide partial pressure inside the helmet, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Hey, what's helmet carbon-dioxide pressure, value is one point two kPa for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Hey, what's helmet carbon-dioxide pressure; it's 2.1 kilopascals.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Quick check: the helmet-only CO2 partial pressure; it's forty one percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Quick check: the helmet-only CO2 partial pressure, showing 53 percent on the current suit check before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "For the log, read CO2 partial pressure in my helmet, showing sixty kPa before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "For the log, read CO2 partial pressure in my helmet, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Before I move, check helmet CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Before I move, check helmet CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Flight, can you report carbon dioxide partial pressure inside the helmet, uh, thirty four percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Flight, can you report carbon dioxide partial pressure inside the helmet, at 0.8 kilopascals when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Houston, what's helmet carbon-dioxide pressure, at one point two kPa when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Houston, what's helmet carbon-dioxide pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I'm seeing a change; read the helmet-only CO2 partial pressure, forty one percent copy?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I'm seeing a change; read the helmet-only CO2 partial pressure, this check is 53 percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Please give me CO2 partial pressure in my helmet, this check is sixty kPa.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Please give me CO2 partial pressure in my helmet, at 0.6 k p a on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "How's helmet CO2 partial pressure, at 18%?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "How's helmet CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Do we have carbon dioxide partial pressure inside the helmet, reading thirty four percent now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Do we have carbon dioxide partial pressure inside the helmet, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Let's check helmet carbon-dioxide pressure, value is one point two kPa for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Let's check helmet carbon-dioxide pressure; it's 2.1 kilopascals.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I want to verify the helmet-only CO2 partial pressure; it's forty one percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I want to verify the helmet-only CO2 partial pressure, showing 53 percent on the current suit check before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Can I get CO2 partial pressure in my helmet, showing sixty kPa before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Can I get CO2 partial pressure in my helmet, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Uh, what's helmet CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Uh, what's helmet CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Okay so, show carbon dioxide partial pressure inside the helmet, uh, thirty four percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Okay so, show carbon dioxide partial pressure inside the helmet, at 0.8 kilopascals when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "On my display, check helmet carbon-dioxide pressure, at one point two kPa when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "On my display, check helmet carbon-dioxide pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Confirm the helmet-only CO2 partial pressure, forty one percent copy?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Confirm the helmet-only CO2 partial pressure, this check is 53 percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Need a reading for CO2 partial pressure in my helmet, this check is sixty kPa.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Need a reading for CO2 partial pressure in my helmet, at 0.6 k p a on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Status on helmet CO2 partial pressure, at 18%?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Status on helmet CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Could I get carbon dioxide partial pressure inside the helmet, reading thirty four percent now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Could I get carbon dioxide partial pressure inside the helmet, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Let's verify helmet carbon-dioxide pressure, value is one point two kPa for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Let's verify helmet carbon-dioxide pressure; it's 2.1 kilopascals.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I'm concerned about the helmet-only CO2 partial pressure; it's forty one percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I'm concerned about the helmet-only CO2 partial pressure, showing 53 percent on the current suit check before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "One more check: read CO2 partial pressure in my helmet, showing sixty kPa before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "One more check: read CO2 partial pressure in my helmet, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "When you can, report helmet CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "When you can, report helmet CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "During this traverse, check carbon dioxide partial pressure inside the helmet, uh, thirty four percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "During this traverse, check carbon dioxide partial pressure inside the helmet, at 0.8 kilopascals when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Is helmet carbon-dioxide pressure, at one point two kPa when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Is helmet carbon-dioxide pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Are we tracking the helmet-only CO2 partial pressure, forty one percent copy?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Are we tracking the helmet-only CO2 partial pressure, this check is 53 percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "What's the current CO2 partial pressure in my helmet, this check is sixty kPa.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "What's the current CO2 partial pressure in my helmet, at 0.6 k p a on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Read back helmet CO2 partial pressure, at 18%?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Read back helmet CO2 partial pressure, reading 27 percent on the current suit check now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I missed that; report carbon dioxide partial pressure inside the helmet, reading thirty four percent now.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I missed that; report carbon dioxide partial pressure inside the helmet, value is 0.8 kilopascals on the current suit check for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "For situational awareness, give me helmet carbon-dioxide pressure, value is one point two kPa for me, please.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "For situational awareness, give me helmet carbon-dioxide pressure; it's 2.1 kilopascals.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Before the next step, verify the helmet-only CO2 partial pressure; it's forty one percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Before the next step, verify the helmet-only CO2 partial pressure, showing 53 percent on the current suit check before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I'm logging CO2 partial pressure in my helmet, showing sixty kPa before I continue.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I'm logging CO2 partial pressure in my helmet, currently 0.6 k p a on the current suit check—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Please confirm helmet CO2 partial pressure, currently 18%—I need the exact reading.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Please confirm helmet CO2 partial pressure, uh, 27 percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Let's get carbon dioxide partial pressure inside the helmet, uh, thirty four percent is the value.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Let's get carbon dioxide partial pressure inside the helmet, at 0.8 kilopascals when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Any update on helmet carbon-dioxide pressure, at one point two kPa when ready.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Any update on helmet carbon-dioxide pressure, 2.1 kilopascals copy on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I need the current the helmet-only CO2 partial pressure, forty one percent copy?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I need the current the helmet-only CO2 partial pressure, this check is 53 percent.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Would you check CO2 partial pressure in my helmet, this check is sixty kPa.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Would you check CO2 partial pressure in my helmet, at 0.6 k p a on the current suit check?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}

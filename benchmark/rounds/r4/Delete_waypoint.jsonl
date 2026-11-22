@@ -1,0 +1,25 @@
+{"text": "Could you please remove the saved navigation waypoint named Alpha Station from my route list so it no longer appears on the display?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Alpha Station"}
+{"text": "Could you remove site 8 from my stored waypoint list?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "site 8"}
+{"text": "Would you delete the saved map pin called South Ray?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "South Ray"}
+{"text": "Can you clear Prospector 3 from my route markers?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Prospector 3"}
+{"text": "Could the waypoint for Davis Ridge be erased now?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Davis Ridge"}
+{"text": "Will you take Borman Point out of the navigation waypoint set?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Borman Point"}
+{"text": "Can you remove the route point labeled site delta?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "site delta"}
+{"text": "Would you unpin Polar Relay from my EVA map?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Polar Relay"}
+{"text": "Could you delete the waypoint entry for Nobile Ridge?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nobile Ridge"}
+{"text": "Can the saved marker at Conrad Crater be cleared?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Conrad Crater"}
+{"text": "Would you remove Armstrong Point from the list of revisit points?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Armstrong Point"}
+{"text": "Will you erase the waypoint named Scott Station from my display?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Scott Station"}
+{"text": "Can you drop the stored route pin for Delta Base?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Delta Base"}
+{"text": "Could you clear the waypoint Rover 8 before I save this route?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Rover 8"}
+{"text": "Would you take Rover 8 off my map waypoint list?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Rover 8"}
+{"text": "Can you remove the saved location marker called Endurance Crater?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "Could the system forget Endurance Crater as a waypoint?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "Will you delete the navigation pin at Nansen Ridge?", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "Unlist the waypoint for Nansen Ridge from my HUD.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "Cancel the saved waypoint with label Peary Crater", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "Please clear Peary Crater from the collection of map pins.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "Erase that revisit marker, Miller Outpost, from the chart.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Miller Outpost"}
+{"text": "remove the waypoint record that says Miller Outpost.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Miller Outpost"}
+{"text": "I am done with that waypoint; delete Kennedy Crater.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Kennedy Crater"}
+{"text": "Take Kennedy Crater out of the waypoint register on my display.", "intents": ["Delete_waypoint"], "source": "llm", "slot": "Kennedy Crater"}

@@ -1,0 +1,25 @@
+{"text": "Backup O2 pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Backup tank pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary cylinder pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Telemetry, backup oxygen tank pressure.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "What pressure is inside the secondary oxygen cylinder?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Report pressure in the secondary cylinder in percent so I can compare the bottles.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Before switching supplies, read the pressure in my backup oxygen cylinder.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Does the secondary oxygen tank still hold normal pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Backup bottle pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Check the backup cylinder gauge.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Can you read secondary tank pressure in psi from the wrist display?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "The reserve bottle gauge seems low; tell me its oxygen pressure reading right now.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "For my log, note pressure inside the secondary bottle in percent.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Pressure backup tank", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Telemetry, secondary O2 gauge", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary tank pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "backup oh two cylinder pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Would you send the gauge pressure from my backup oxygen cylinder to the display?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "The secondary oxygen vessel's dial is twitching; can you read its pressure in kilopascals?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Please send the backup cylinder pressure reading before we descend.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Request the secondary tank gauge value in kilopascals before I disconnect.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "um pressure in secondary oxygen tank", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Backup oxygen tank pressure, kPa?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Read the reserve cylinder pressure in percent and confirm it over radio.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "I want the actual pressure inside my secondary oxygen bottle before we move.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}

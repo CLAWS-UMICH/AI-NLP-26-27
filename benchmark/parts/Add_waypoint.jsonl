@@ -1,0 +1,25 @@
+{"text": "Add Artemis Ridge as a waypoint on the map.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "Add Alpha 3?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Alpha 3"}
+{"text": "Save de Gerlache as a new waypoint.", "intents": ["Add_waypoint"], "source": "llm", "slot": "de Gerlache"}
+{"text": "Place a nav marker called Lunar Gateway", "intents": ["Add_waypoint"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "I want Peary Point recorded in my waypoint list.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Point"}
+{"text": "Can you mark Kennedy Landing as an intermediate point?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "Put a waypoint at Luna 7, please.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Luna 7"}
+{"text": "tag the route with a waypoint for Tycho Spur.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "Create a map waypoint named Conrad Station.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Conrad Station"}
+{"text": "Add Malapert Massif to the saved route points.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Malapert Massif"}
+{"text": "Let us keep sample cache 2 as a waypoint for later.", "intents": ["Add_waypoint"], "source": "llm", "slot": "sample cache 2"}
+{"text": "Insert a waypoint at Permanently Shadowed Site on my EVA map.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "Set a waypoint marker for Leibnitz Plateau now.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Leibnitz Plateau"}
+{"text": "Record Alpha Station as a stop on the map.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Alpha Station"}
+{"text": "Add the location Ridge Charlie to my waypoint list", "intents": ["Add_waypoint"], "source": "llm", "slot": "Ridge Charlie"}
+{"text": "Place South Ray among the route markers.", "intents": ["Add_waypoint"], "source": "llm", "slot": "South Ray"}
+{"text": "Save a waypoint at sample site 5 before we continue.", "intents": ["Add_waypoint"], "source": "llm", "slot": "sample site 5"}
+{"text": "I need a waypoint called Davis Ridge.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Davis Ridge"}
+{"text": "mark Artemis Waypoint on the map as a waypoint, not a destination.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Artemis Waypoint"}
+{"text": "Put site delta into the waypoint queue.", "intents": ["Add_waypoint"], "source": "llm", "slot": "site delta"}
+{"text": "Could you add a waypoint for Shackleton Base?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "Make a new nav waypoint at Nobile Ridge.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Nobile Ridge"}
+{"text": "Log Luna 4 as a map waypoint for the traverse", "intents": ["Add_waypoint"], "source": "llm", "slot": "Luna 4"}
+{"text": "Add a route marker at Armstrong Point while I hold here.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Armstrong Point"}
+{"text": "Please store Henson Crater as one of my waypoints.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Henson Crater"}

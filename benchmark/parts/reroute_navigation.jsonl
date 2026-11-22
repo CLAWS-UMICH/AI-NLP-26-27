@@ -1,0 +1,25 @@
+{"text": "Replot around debris.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you reroute the traverse around the unstable ground?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a new path that avoids the loose boulders.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Flight, recompute my EVA route past the blocked passage.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Would you calculate a detour around the marked crater edge?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Uh, reroute me around the obstruction ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can navigation compute a detour around the flagged debris field?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "recalculate the route around the rockfall", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "reroute my path around the blocked area", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "compute a detour past the unstable slope", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "find a new route around this obstacle", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "revise my traverse to avoid the hazard field", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "calculate another path around the debris", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can you recompute the map route around the restricted zone?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Okay, plan a different EVA route that goes around the broken terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please reroute navigation to bypass the boulder field ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I cannot cross this washout; calculate a route around it.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Would you find a safer path around the marked danger area and recalculate?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Uh, update my route so it goes around the damaged handrail section.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "recompute the traverse around the shadowed crater rim", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you calculate a detour around the unstable ridge before I proceed?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please generate a new navigation route that avoids the no-go zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Recalculate the EVA path to bypass the equipment blocking the trail.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can you reroute navigation around the hazard marker on my map?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Flight, compute an alternate traverse that skirts the sinkhole.", "intents": ["reroute_navigation"], "source": "llm"}

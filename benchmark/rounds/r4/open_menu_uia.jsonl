@@ -1,0 +1,25 @@
+{"text": "Choose the UIA hatch-operation panel as my visor view.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Is the UIA lock-control page selectable? Open its airlock display.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Surface the UIA airlock command screen for this spacewalk.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "helmet UIA controls up", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Er, I need the UIA hatch interface on the screen.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Route the airlock operation panel under UIA to the helmet HUD.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "While I hold the rail, show the UIA panel for the airlock.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Put the UIA lock controls in focus.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could the airlock command interface in UIA be made visible?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Open the hatch-control panel inside the UIA menu.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Please call the UIA airlock display into the visor view.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "activate UIA lock menu", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Can I bring up the airlock UIA screen from here?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Select the UIA hatch-operation display for viewing.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "I need the airlock command page in UIA active for this check.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "um, show UIA hatch interface", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Give me the UIA airlock controls on screen.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Would you place the UIA hatch display over the HUD?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Start the airlock control screen in UIA so I can inspect it.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "My next check is at the lock; open the UIA airlock menu.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "put UIA airlock screen on visor", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Please activate the hatch-command page under UIA.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Could you select the airlock operations panel in UIA now?", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "I need the UIA interface for airlock controls displayed.", "intents": ["open_menu_uia"], "source": "llm"}
+{"text": "Bring the UIA hatch control window into my viewing area.", "intents": ["open_menu_uia"], "source": "llm"}

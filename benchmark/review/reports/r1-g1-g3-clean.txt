@@ -1,0 +1,43 @@
+rows=450 labels=18 mean_words=9.01
+COUNT get_oxy_pri_storage: 25
+COUNT get_oxy_sec_storage: 25
+COUNT get_oxy_pri_pressure: 25
+COUNT get_oxy_sec_pressure: 25
+COUNT get_suit_pressure_oxy: 25
+COUNT get_suit_pressure_co2: 25
+COUNT get_suit_pressure_other: 25
+COUNT get_suit_pressure_total: 25
+COUNT get_helmet_pressure_co2: 25
+COUNT get_fan_pri_rpm: 25
+COUNT get_fan_sec_rpm: 25
+COUNT get_scrubber_a_co2_storage: 25
+COUNT get_scrubber_b_co2_storage: 25
+COUNT get_temperature: 25
+COUNT get_coolant_storage: 25
+COUNT get_coolant_gas_pressure: 25
+COUNT get_coolant_liquid_pressure: 25
+COUNT get_heart_rate: 0
+COUNT get_oxy_consumption: 25
+COUNT get_co2_production: 0
+COUNT get_eva_elapsed_time: 0
+COUNT get_primary_battery_level: 0
+COUNT get_secondary_battery_level: 0
+COUNT get_warnings: 0
+COUNT open_menu_vitals: 0
+COUNT open_menu_navigation: 0
+COUNT open_menu_tasks: 0
+COUNT open_menu_uia: 0
+COUNT close_menu: 0
+COUNT Get_coordinates: 0
+COUNT Set_navigation_target: 0
+COUNT reroute_navigation: 0
+COUNT Add_waypoint: 0
+COUNT Delete_waypoint: 0
+COUNT Complete_task: 0
+COUNT unhandled: 0
+STYLE_RATES [["question", 0.2688888888888889, 0.2688888888888889], ["filler", 0.07333333333333333, 0.08666666666666667], ["no_punctuation", 0.2688888888888889, 0.2688888888888889], ["asr", 0.022222222222222223, 0.057777777777777775]]
+INTENT_STYLE {"get_oxy_pri_storage": {"question": 0.32, "filler": 0.04, "no_punctuation": 0.36, "asr": 0.04}, "get_oxy_sec_storage": {"question": 0.32, "filler": 0.0, "no_punctuation": 0.2, "asr": 0.04}, "get_oxy_pri_pressure": {"question": 0.2, "filler": 0.04, "no_punctuation": 0.32, "asr": 0.04}, "get_oxy_sec_pressure": {"question": 0.24, "filler": 0.04, "no_punctuation": 0.32, "asr": 0.04}, "get_suit_pressure_oxy": {"question": 0.2, "filler": 0.04, "no_punctuation": 0.24, "asr": 0.0}, "get_suit_pressure_co2": {"question": 0.24, "filler": 0.12, "no_punctuation": 0.36, "asr": 0.08}, "get_suit_pressure_other": {"question": 0.2, "filler": 0.08, "no_punctuation": 0.36, "asr": 0.0}, "get_suit_pressure_total": {"question": 0.2, "filler": 0.08, "no_punctuation": 0.44, "asr": 0.0}, "get_helmet_pressure_co2": {"question": 0.28, "filler": 0.12, "no_punctuation": 0.36, "asr": 0.08}, "get_fan_pri_rpm": {"question": 0.28, "filler": 0.08, "no_punctuation": 0.12, "asr": 0.0}, "get_fan_sec_rpm": {"question": 0.32, "filler": 0.04, "no_punctuation": 0.12, "asr": 0.0}, "get_scrubber_a_co2_storage": {"question": 0.24, "filler": 0.08, "no_punctuation": 0.4, "asr": 0.0}, "get_scrubber_b_co2_storage": {"question": 0.48, "filler": 0.08, "no_punctuation": 0.16, "asr": 0.0}, "get_temperature": {"question": 0.24, "filler": 0.16, "no_punctuation": 0.2, "asr": 0.04}, "get_coolant_storage": {"question": 0.24, "filler": 0.16, "no_punctuation": 0.2, "asr": 0.0}, "get_coolant_gas_pressure": {"question": 0.32, "filler": 0.08, "no_punctuation": 0.2, "asr": 0.0}, "get_coolant_liquid_pressure": {"question": 0.2, "filler": 0.0, "no_punctuation": 0.16, "asr": 0.0}, "get_oxy_consumption": {"question": 0.32, "filler": 0.08, "no_punctuation": 0.32, "asr": 0.04}}
+STYLE_PROBE accuracy=0.1000
+CONTENT_PROBE accuracy=0.8267
+TOP_CONFUSIONS [[["get_scrubber_a_co2_storage", "get_scrubber_b_co2_storage"], 13], [["get_scrubber_b_co2_storage", "get_scrubber_a_co2_storage"], 13], [["get_oxy_sec_pressure", "get_oxy_sec_storage"], 7], [["get_oxy_sec_storage", "get_oxy_sec_pressure"], 6], [["get_suit_pressure_total", "get_suit_pressure_other"], 6], [["get_oxy_pri_pressure", "get_oxy_pri_storage"], 5], [["get_oxy_pri_storage", "get_oxy_pri_pressure"], 5], [["get_suit_pressure_co2", "get_helmet_pressure_co2"], 4], [["get_oxy_pri_storage", "get_oxy_sec_storage"], 2], [["get_coolant_gas_pressure", "get_coolant_storage"], 1]]
+GATES: 0 issue(s)

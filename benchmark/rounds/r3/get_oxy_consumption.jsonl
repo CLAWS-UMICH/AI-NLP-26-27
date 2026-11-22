@@ -1,0 +1,25 @@
+{"text": "Please give the rate of oxygen I'm using per hour.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How many liters of O2 do I consume each minute?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Would you report my current oxygen consumption rate?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "My O2 use is climbing; what's the rate per minute?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Tell me the oxygen consumption speed in grams per hour.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could you check the rate at which the suit uses oxygen?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Uh, what's my oxygen consumption in liters per minute?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Need the oxygen burn rate for the current interval.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How fast is my body consuming O2 during this EVA?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Read the oxygen-use rate from my telemetry, please.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "hey send my oxygen consumption rate in grams per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Flight, report the per-hour rate of oxygen consumption.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Can I get the current O2 consumption rate in L/min?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Please tell me the amount of oxygen used per minute as a rate.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "What's the suit's oxygen consumption rate right now?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Estimate my oxygen use rate over the past five minutes.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "At what rate is the oxygen supply being consumed?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Would you relay my breathing oxygen rate in liters an hour?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "I need oxygen consumed per second, expressed as a rate.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Check whether my O2 consumption rate exceeds 0.8 liters per minute.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "uh what rate am i consuming oxygen at", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Give me oxygen use per minute, not the tank's leftover amount.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Please read the measured rate of O2 consumption from the suit computer.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "How much oxygen am I burning through per hour, rate-wise?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Could you state the current oxygen consumption rate in g/min?", "intents": ["get_oxy_consumption"], "source": "llm"}

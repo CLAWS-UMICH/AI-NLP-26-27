@@ -1,0 +1,100 @@
+{"text": "can we take a different path around the blocked ridge", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a detour around the hazard ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "We cannot use this path, go past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a detour to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "That way is closed, plot to avoid that crater edge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please update the route around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Navigation, revise the route away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I need navigation to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Navigation, revise the route past the new hazard marker.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I am requesting a route change around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "can you recalculate our path to avoid that crater edge", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The path is blocked; reroute past the new hazard marker.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Set up a detour to bypass the damaged section.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Give me another course past the new hazard marker.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I am requesting a route change to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "uh, route me to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can we take a different path away from the exclusion zone?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The path is blocked; reroute around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Recalculate navigation around the hazard ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Need a new course to avoid that crater edge, quickly.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "need a new course around the hazard ahead, quickly", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a detour past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Set up a detour around the blocked ridge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Reroute me around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I am requesting a route change past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I need navigation around this obstacle.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I need navigation to avoid that crater edge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Okay so reroute us to avoid that crater edge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Okay so reroute us to bypass the damaged section.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you change our route to bypass the damaged section?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "reroute me to avoid that crater edge", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can you recalculate our path to bypass the damaged section?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I am requesting a route change away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please update the route past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Need a new course to avoid the rover track, quickly.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find a new route around the blocked ridge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "The path is blocked; reroute away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Switch to a safer route past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Recalculate navigation away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you change our route past the new hazard marker?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "navigation, revise the route to bypass the damaged section", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you change our route to avoid that crater edge?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Need a new course around the blocked ridge, quickly.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can you recalculate our path to avoid the rover track?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "We cannot use this path, go around the hazard ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you change our route to avoid the rover track?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Need a new course away from the exclusion zone, quickly.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Recalculate navigation to bypass the damaged section.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a detour away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Reroute me to bypass the damaged section.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "could you change our route around the steep slope", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find a new route past the new hazard marker.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "We cannot use this path, go away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Recalculate navigation past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Set up a detour away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "uh, route me past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can we take a different path around this obstacle?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you change our route around the hazard ahead?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Give me another course away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a detour around this obstacle.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "switch to a safer route around the steep slope", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a detour to bypass the damaged section.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I am requesting a route change around this obstacle.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Give me another course around the hazard ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Set up a detour around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can we take a different path to avoid that crater edge?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Give me another course around this obstacle.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "That way is closed, plot to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Give me another course to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can you recalculate our path around the blocked ridge?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "navigation, revise the route past the rough terrain", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find a new route to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I need navigation around the blocked ridge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Could you change our route away from the exclusion zone?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Switch to a safer route to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can we take a different path around the hazard ahead?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I need navigation away from the exclusion zone.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "uh, route me around the hazard ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find a new route around this obstacle.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Switch to a safer route around this obstacle.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "reroute me away from the exclusion zone", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "That way is closed, plot past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Reroute me past the new hazard marker.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Okay so reroute us to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I need navigation past the new hazard marker.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Can you recalculate our path around this obstacle?", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please update the route around the hazard ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Set up a detour to avoid the rover track.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Find a new route around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Okay so reroute us around the hazard ahead.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "switch to a safer route around the hazard ahead", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I am requesting a route change to avoid that crater edge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Give me another course past the rough terrain.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Okay so reroute us around the blocked ridge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "We cannot use this path, go around this obstacle.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Need a new course to bypass the damaged section, quickly.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Please update the route to avoid that crater edge.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Plot a detour around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "I need navigation around the steep slope.", "intents": ["reroute_navigation"], "source": "llm"}
+{"text": "Set up a detour to avoid that crater edge.", "intents": ["reroute_navigation"], "source": "llm"}

@@ -1,0 +1,15 @@
+{
+  "base_model": "BAAI/bge-small-en-v1.5",
+  "objective": "symmetric in-batch anchor-positive contrastive loss",
+  "training_file": "../astronaut_primer.json",
+  "pairs": 1479,
+  "epochs": 3,
+  "batch_size": 32,
+  "learning_rate": 1e-05,
+  "temperature": 0.05,
+  "epoch_mean_losses": [
+    0.9784739588169341,
+    0.5982382227765753,
+    0.4295231716588457
+  ]
+}

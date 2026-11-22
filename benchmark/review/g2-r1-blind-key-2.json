@@ -1,0 +1,152 @@
+[
+  {
+    "label": "get_suit_pressure_total",
+    "line": 24,
+    "text": "The individual channels can wait; first report the total pressure inside the suit."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 22,
+    "text": "Houston, report the pressure contribution from the other gases circulating through the suit."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 13,
+    "text": "scrubber b bed co2 load percent"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 17,
+    "text": "how full is the second scrubber canister"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 11,
+    "text": "Uh, how much CO2 has the A canister collected?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 3,
+    "text": "Read the partial pressure of trace gases inside my suit."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 21,
+    "text": "I am seeing a fluctuation; please pull the suit CO2 partial pressure for this moment."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 10,
+    "text": "I need the storage level for scrubber A, not its pressure."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 13,
+    "text": "whats the total pressure in the suit"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 21,
+    "text": "I am not asking for total pressure; I need the separate trace gas pressure channel."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 15,
+    "text": "show overall suit pressure now"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 22,
+    "text": "I am checking the seal; give me the total pressure throughout the suit interior."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 4,
+    "text": "combined suit gas pressure"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 21,
+    "text": "Houston, report the current fill level of the carbon dioxide collection bed in scrubber A."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 5,
+    "text": "Would you query the suit-loop carbon dioxide partial pressure channel?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 4,
+    "text": "A-side carbon storage"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 16,
+    "text": "total gas pressure suit"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 21,
+    "text": "Is the carbon dioxide collection bed in scrubber module B approaching its full storage limit?"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 16,
+    "text": "suit atmosphere pressure for see oh two"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 12,
+    "text": "Please report helmet carbon dioxide partial pressure."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 23,
+    "text": "My display has the A unit; read the separate B scrubber storage fraction for carbon dioxide."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 9,
+    "text": "I need the partial pressure for suit trace gases."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 19,
+    "text": "Before I switch loops, check how much carbon dioxide storage remains in the A scrubber."
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 2,
+    "text": "suit carbon dioxide pressure"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 10,
+    "text": "How much gas has the B-side scrubber media retained?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 18,
+    "text": "Flight, tell me the stored CO2 load in scrubber A as a percentage of capacity."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 17,
+    "text": "read the combined suit pressure"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 24,
+    "text": "The B canister is not what I mean; give me scrubber A CO2 storage level."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 18,
+    "text": "Flight, report the carbon dioxide partial pressure inside my helmet, separate from the suit loop."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 14,
+    "text": "suit total pressure reading please"
+  }
+]

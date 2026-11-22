@@ -1,0 +1,122 @@
+[
+  {
+    "label": "reroute_navigation",
+    "text": "need a new route around the hazard zone"
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "need the mission work queue"
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "Map, open on my helmet."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "Bring my health display up on the helmet, please."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "Health panel, bring it up for this suit check."
+  },
+  {
+    "label": "close_menu",
+    "text": "Would you hide the current menu for a moment?"
+  },
+  {
+    "label": "close_menu",
+    "text": "Dismiss the menu that is active on my visor."
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Can you call up the UIA interface panel on my wrist display?"
+  },
+  {
+    "label": "close_menu",
+    "text": "uh, dismiss the menu"
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Could I get the UIA airlock display on screen?"
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "Bring up the mission task list so I can confirm the sequence."
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Give me an alternate path around the unstable ground."
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Can you show the airlock controls in the UIA menu?"
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "Okay, display the checklist menu."
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Revise the path to go around the loose boulders."
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "Put the mission checklist on my HUD."
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "Open the UIA controls so I can inspect the airlock status."
+  },
+  {
+    "label": "open_menu_uia",
+    "text": "I am at the hatch; put the UIA airlock controls in view."
+  },
+  {
+    "label": "close_menu",
+    "text": "Clear the active menu from my HUD."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "I am paused at the ladder; show the EVA vitals panel."
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Recompute the traverse around the marked hazard."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "hey show the health panel"
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "Please make the navigation and map window active."
+  },
+  {
+    "label": "close_menu",
+    "text": "Close my active menu so I can see the worksite."
+  },
+  {
+    "label": "open_menu_tasks",
+    "text": "Can I see the EVA task panel on my helmet?"
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "Let me see the EVA navigation map, please."
+  },
+  {
+    "label": "open_menu_vitals",
+    "text": "uh, EVA health panel"
+  },
+  {
+    "label": "reroute_navigation",
+    "text": "Navigation, find a detour around this obstruction."
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "Would you open the EVA mapping display?"
+  },
+  {
+    "label": "open_menu_navigation",
+    "text": "need the EVA map screen"
+  }
+]

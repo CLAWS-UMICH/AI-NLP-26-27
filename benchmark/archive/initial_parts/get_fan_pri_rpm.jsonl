@@ -1,0 +1,100 @@
+{"text": "Copy, how does the primary fan spin rate look right now?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Tell me primary fan RPM, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "We should check what is the primary fan RPM?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Are we seeing I missed that; repeat the primary fan fan speed.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Are we seeing check telemetry for the primary fan revolutions per minute.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Uh, send the primary fan rpm reading value to my display.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Just checking, I need the primary fan rpm reading on this pass.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "One more thing, can you read the primary fan RPM back?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I want to verify primary fan revolutions per minute, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Please report could you bring up the primary fan revolutions per minute reading?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Um, give me the primary fan rpm reading reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Okay, check the primary fan RPM before I continue.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could I get read the primary fan revolutions per minute aloud, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Please report let us look at the primary fan RPM again.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Confirm I want to compare the primary fan fan speed now.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Show me check telemetry for the primary fan fan speed.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I am checking check the primary fan spin rate before I continue.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Hey, give me the latest primary fan fan speed, over.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Um, where does the primary fan revolutions per minute stand?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I need I want to compare the primary fan revolutions per minute now.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Quick check: check the primary fan spin rate before I continue.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Status on what is the primary fan fan speed?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Give me please call out the primary fan RPM when ready.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Tell me can I get a current primary fan fan speed report?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "We should check check the primary fan revolutions per minute before I continue.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Uh, please call out the primary fan revolutions per minute when ready.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "All right, I need the primary fan RPM on this pass.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Just checking, I am trying to confirm the primary fan revolutions per minute.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Status on pull the primary fan fan speed for me.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Let me get I need the primary fan rpm reading on this pass.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could I get let us look at the primary fan fan speed again.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "How is can I get a current primary fan spin rate report?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Current check telemetry for the primary fan fan speed.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Give me verify the primary fan rpm reading from telemetry.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Read me need a fresh primary fan rpm reading value.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could I hear is the primary fan spin rate holding steady?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could I hear read the primary fan rpm reading aloud, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Status on is the primary fan fan speed holding steady?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Um, I missed that; repeat the primary fan RPM.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "All right, what is the primary fan rpm reading?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Show me pull the primary fan rpm reading for me.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Please report can you read the primary fan RPM back?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Copy, what is the primary fan rpm reading?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "We should check pull the primary fan rpm reading for me.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Please report please call out the primary fan revolutions per minute when ready.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "On my display, check telemetry for the primary fan revolutions per minute.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Current I am trying to confirm the primary fan spin rate.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I need pull the primary fan fan speed for me.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Before I move, what are we getting for primary fan spin rate?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I need let us look at the primary fan revolutions per minute again.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Tell me verify the primary fan spin rate from telemetry.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "What is I am trying to confirm the primary fan rpm reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "All right, give me the latest primary fan revolutions per minute, over.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Are we seeing could you bring up the primary fan fan speed reading?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "How is I want to compare the primary fan RPM now.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Uh, can you read the primary fan rpm reading back?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "How is give me the primary fan spin rate reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Do we have read the primary fan RPM aloud, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could I get please confirm the primary fan revolutions per minute on the suit.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Status on I am trying to confirm the primary fan rpm reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "One more thing, send the primary fan spin rate value to my display.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Give me please call out the primary fan rpm reading when ready.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "On my display, give me the primary fan RPM reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Show me primary fan rpm reading, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could I get need a fresh primary fan fan speed value.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Is the let us look at the primary fan fan speed again.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Before I move, read the primary fan spin rate aloud, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "One more thing, I missed that; repeat the primary fan RPM.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Can you tell me I want to compare the primary fan rpm reading now.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "On my display, please confirm the primary fan rpm reading on the suit.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Tell me please call out the primary fan fan speed when ready.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Are we seeing can I get a current primary fan RPM report?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Report I missed that; repeat the primary fan RPM.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I want to verify is the primary fan rpm reading holding steady?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Confirm need a fresh primary fan RPM value.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "How is let us look at the primary fan rpm reading again.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Show me can I get a current primary fan revolutions per minute report?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I am seeing give me the primary fan fan speed reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "All right, please call out the primary fan spin rate when ready.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "EVA check: check the primary fan fan speed before I continue.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Hey, is the primary fan RPM holding steady?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Read me could you bring up the primary fan fan speed reading?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Are we seeing I need the primary fan spin rate on this pass.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Okay, can I get a current primary fan spin rate report?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Show me please call out the primary fan fan speed when ready.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Let me get check telemetry for the primary fan rpm reading.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Report please confirm the primary fan RPM on the suit.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Is the what is the primary fan rpm reading?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan RPM?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan revolutions per minute?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan spin rate?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan fan speed?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan rpm reading?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "RPM, primary fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "revolutions per minute, primary fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "spin rate, primary fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "fan speed, primary fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "rpm reading, primary fan.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "uh primary fan RPM check 1", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "uh primary fan revolutions per minute check 2", "intents": ["get_fan_pri_rpm"], "source": "llm"}

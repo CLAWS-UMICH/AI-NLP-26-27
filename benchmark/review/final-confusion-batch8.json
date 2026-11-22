@@ -1,0 +1,202 @@
+[
+  {
+    "id": 351,
+    "text": "Before proceeding, report the percentage of scrubber B’s CO2 storage already occupied."
+  },
+  {
+    "id": 352,
+    "text": "check scrubber a carbon dioxide capacity"
+  },
+  {
+    "id": 353,
+    "text": "check remaining co2 room in scrubber b"
+  },
+  {
+    "id": 354,
+    "text": "Unmark Permanently Shadowed Site as a waypoint."
+  },
+  {
+    "id": 355,
+    "text": "Before the next EVA task, check the storage fraction filled in scrubber B by captured CO2."
+  },
+  {
+    "id": 356,
+    "text": "Add a waypoint called Delta Base so I can find it again."
+  },
+  {
+    "id": 357,
+    "text": "Insert a waypoint at Permanently Shadowed Site on my EVA map."
+  },
+  {
+    "id": 358,
+    "text": "Add the location Ridge Charlie to my waypoint list"
+  },
+  {
+    "id": 359,
+    "text": "Save a navigation waypoint under the name site delta."
+  },
+  {
+    "id": 360,
+    "text": "No need to keep Delta 9 in the waypoint queue; delete it."
+  },
+  {
+    "id": 361,
+    "text": "could you report scrubber B carbon dioxide storage fill in percent"
+  },
+  {
+    "id": 362,
+    "text": "Make sure Davis Ridge appears in my route waypoints."
+  },
+  {
+    "id": 363,
+    "text": "Please read how full scrubber B’s carbon dioxide filter is."
+  },
+  {
+    "id": 364,
+    "text": "Log Luna 4 as a map waypoint for the traverse"
+  },
+  {
+    "id": 365,
+    "text": "I added a duplicate; delete the waypoint Delta Ridge."
+  },
+  {
+    "id": 366,
+    "text": "fetch scrubber a carbon dioxide storage utilization"
+  },
+  {
+    "id": 367,
+    "text": "Delete South Pole Station from my saved waypoints."
+  },
+  {
+    "id": 368,
+    "text": "query the captured co2 load in the scrubber B canister"
+  },
+  {
+    "id": 369,
+    "text": "Can you verify what share of scrubber A’s canister capacity is occupied by CO2?"
+  },
+  {
+    "id": 370,
+    "text": "check scrubber b retained carbon dioxide mass"
+  },
+  {
+    "id": 371,
+    "text": "Uh, tell me how full the scrubber A carbon bed is with captured CO2."
+  },
+  {
+    "id": 372,
+    "text": "Take the saved location Polar Camp off my waypoint screen."
+  },
+  {
+    "id": 373,
+    "text": "Does scrubber A still have captured CO2 storage capacity?"
+  },
+  {
+    "id": 374,
+    "text": "While I wait by the airlock, give the carbon dioxide mass stored in scrubber A."
+  },
+  {
+    "id": 375,
+    "text": "Would you remove Armstrong Point from the list of revisit points?"
+  },
+  {
+    "id": 376,
+    "text": "The active filter is scrubber B; retrieve its CO2 load against full storage capacity."
+  },
+  {
+    "id": 377,
+    "text": "Create a route waypoint with the label Alpha 3."
+  },
+  {
+    "id": 378,
+    "text": "Let us drop Delta Base from the map markers."
+  },
+  {
+    "id": 379,
+    "text": "Check how much room scrubber A has left for CO2 collection."
+  },
+  {
+    "id": 380,
+    "text": "I added Alpha Station accidentally; clear that waypoint now."
+  },
+  {
+    "id": 381,
+    "text": "Please erase the waypoint entry named Kennedy Crater."
+  },
+  {
+    "id": 382,
+    "text": "Would you retrieve scrubber B’s retained CO2 load?"
+  },
+  {
+    "id": 383,
+    "text": "The active module is scrubber B; query its storage level for captured CO2."
+  },
+  {
+    "id": 384,
+    "text": "Check whether scrubber A has room left to collect more CO2."
+  },
+  {
+    "id": 385,
+    "text": "Can you verify the carbon dioxide amount occupying scrubber B’s media?"
+  },
+  {
+    "id": 386,
+    "text": "Please plant a route pin at Endurance Crater"
+  },
+  {
+    "id": 387,
+    "text": "Please retrieve scrubber A’s unused carbon dioxide storage capacity."
+  },
+  {
+    "id": 388,
+    "text": "At the hatch, retrieve the CO2 storage utilization of scrubber B’s carbon bed."
+  },
+  {
+    "id": 389,
+    "text": "delete the nav marker at Nansen Crater, not the destination."
+  },
+  {
+    "id": 390,
+    "text": "Take Peary Crater out of the waypoint register."
+  },
+  {
+    "id": 391,
+    "text": "Erase Conrad Crater from my set of waypoints before I proceed"
+  },
+  {
+    "id": 392,
+    "text": "Can you verify what fraction of scrubber A’s collection capacity contains CO2?"
+  },
+  {
+    "id": 393,
+    "text": "remove the waypoint record that says Miller Outpost."
+  },
+  {
+    "id": 394,
+    "text": "Will you erase the waypoint named Scott Station from my display?"
+  },
+  {
+    "id": 395,
+    "text": "Keep a waypoint named Artemis Ridge on the traverse map."
+  },
+  {
+    "id": 396,
+    "text": "Could you add a map waypoint named Armstrong Point?"
+  },
+  {
+    "id": 397,
+    "text": "For the service log, report scrubber B’s stored carbon dioxide against its limit."
+  },
+  {
+    "id": 398,
+    "text": "Would you store a waypoint named sample cache 2?"
+  },
+  {
+    "id": 399,
+    "text": "fetch remaining storage for carbon dioxide in scrubber A"
+  },
+  {
+    "id": 400,
+    "text": "Can you add a waypoint entry for Davis Ridge now?"
+  }
+]

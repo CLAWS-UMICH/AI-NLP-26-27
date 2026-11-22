@@ -1,0 +1,202 @@
+[
+  {
+    "id": 201,
+    "text": "Before I switch loops, tell me how much CO2 storage is left in scrubber A."
+  },
+  {
+    "id": 202,
+    "text": "Can you query the A scrubber’s remaining storage headroom for carbon dioxide?"
+  },
+  {
+    "id": 203,
+    "text": "Can you wipe Nobile Station from the saved map points?"
+  },
+  {
+    "id": 204,
+    "text": "get scrubber a co2 storage headroom"
+  },
+  {
+    "id": 205,
+    "text": "Erase waypoint Delta 9 before I add another."
+  },
+  {
+    "id": 206,
+    "text": "Delete the marker associated with site 8."
+  },
+  {
+    "id": 207,
+    "text": "please query storage capacity of the scrubber B co2 cartridge"
+  },
+  {
+    "id": 208,
+    "text": "Put a new marker at Prospector Ridge and label it as a waypoint."
+  },
+  {
+    "id": 209,
+    "text": "Flight, call out the captured carbon dioxide load in scrubber A as a capacity percentage."
+  },
+  {
+    "id": 210,
+    "text": "Before I swap loops, read the stored CO2 quantity for scrubber B."
+  },
+  {
+    "id": 211,
+    "text": "Add Malapert Massif to the saved route points."
+  },
+  {
+    "id": 212,
+    "text": "Would you delete the saved map pin called South Ray?"
+  },
+  {
+    "id": 213,
+    "text": "Please store Henson Crater as one of my waypoints."
+  },
+  {
+    "id": 214,
+    "text": "Create an extra waypoint entry for Nobile Ridge"
+  },
+  {
+    "id": 215,
+    "text": "Add the named point South Ray to the saved map pins."
+  },
+  {
+    "id": 216,
+    "text": "read the amount of co2 held by scrubber b’s medium"
+  },
+  {
+    "id": 217,
+    "text": "Take that waypoint, Alpha Station, off my display."
+  },
+  {
+    "id": 218,
+    "text": "Clear the route bookmark named Nobile Ridge."
+  },
+  {
+    "id": 219,
+    "text": "Can you read the carbon dioxide saturation level in scrubber A’s medium?"
+  },
+  {
+    "id": 220,
+    "text": "the waypoint for Davis Ridge can come off my hud."
+  },
+  {
+    "id": 221,
+    "text": "Add a new pin called Luna 7 to my waypoint set."
+  },
+  {
+    "id": 222,
+    "text": "Please read the stored CO2 amount from scrubber B’s filter bed."
+  },
+  {
+    "id": 223,
+    "text": "Keep Tycho Outpost on the route as a waypoint marker."
+  },
+  {
+    "id": 224,
+    "text": "Please read the percentage of scrubber A storage occupied by collected CO2."
+  },
+  {
+    "id": 225,
+    "text": "could you report the quantity of co2 held in scrubber a’s filter"
+  },
+  {
+    "id": 226,
+    "text": "Please check the fill fraction of the scrubber B storage bed for CO2."
+  },
+  {
+    "id": 227,
+    "text": "Add this named site, Delta Base, to the route waypoint list."
+  },
+  {
+    "id": 228,
+    "text": "Please read the retained CO2 percentage in scrubber B’s canister."
+  },
+  {
+    "id": 229,
+    "text": "Houston, I need the B scrubber carbon dioxide storage measurement, not a pressure value."
+  },
+  {
+    "id": 230,
+    "text": "Before the next EVA segment, check scrubber A’s remaining storage for CO2."
+  },
+  {
+    "id": 231,
+    "text": "Flight, tell me how much room scrubber B has left to store carbon dioxide."
+  },
+  {
+    "id": 232,
+    "text": "site 12, could you remove that waypoint from my map?"
+  },
+  {
+    "id": 233,
+    "text": "Is scrubber B’s CO2 bed filling up?"
+  },
+  {
+    "id": 234,
+    "text": "make a waypoint at Lunar Gateway before we press on."
+  },
+  {
+    "id": 235,
+    "text": "Please purge site 12 from the stored waypoint list."
+  },
+  {
+    "id": 236,
+    "text": "Could you delete the waypoint entry for Nobile Ridge?"
+  },
+  {
+    "id": 237,
+    "text": "The scrubber A channel is active; read its CO2 storage level, not pressure."
+  },
+  {
+    "id": 238,
+    "text": "I may return here; add de Gerlache to my waypoint markers."
+  },
+  {
+    "id": 239,
+    "text": "fetch the scrubber B carbon dioxide bed fill percentage"
+  },
+  {
+    "id": 240,
+    "text": "drop the marker for sample bag 4 from the navigation list."
+  },
+  {
+    "id": 241,
+    "text": "Would you add Armstrong Point as a new map waypoint?"
+  },
+  {
+    "id": 242,
+    "text": "Could we keep Artemis Waypoint marked as a waypoint?"
+  },
+  {
+    "id": 243,
+    "text": "Delete the old waypoint label for Armstrong Point."
+  },
+  {
+    "id": 244,
+    "text": "I am done with that waypoint; delete Kennedy Crater."
+  },
+  {
+    "id": 245,
+    "text": "Okay, retrieve the fill state of scrubber A’s carbon dioxide capture medium."
+  },
+  {
+    "id": 246,
+    "text": "read how full scrubber B is with captured co2"
+  },
+  {
+    "id": 247,
+    "text": "that marker is obsolete; delete Kennedy Landing as a waypoint."
+  },
+  {
+    "id": 248,
+    "text": "Before the next loop change, tell me the remaining CO2 capacity in scrubber B."
+  },
+  {
+    "id": 249,
+    "text": "May I have Ridge Charlie stored as an intermediate waypoint?"
+  },
+  {
+    "id": 250,
+    "text": "Add a stop marker for Artemis Waypoint to the map display."
+  }
+]

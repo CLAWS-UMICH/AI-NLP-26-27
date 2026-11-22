@@ -1,0 +1,152 @@
+[
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 23,
+    "text": "Okay, the suit reading is already on screen; now I need the helmet CO2 partial pressure."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 11,
+    "text": "Uh, how high is CO2 in the helmet space?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 10,
+    "text": "Check total pressure across the suit atmosphere before I move."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 18,
+    "text": "Flight, give me the partial pressure of trace gases in the suit atmosphere."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 24,
+    "text": "For this seal check, tell me the pressure from carbon dioxide inside the helmet volume."
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 23,
+    "text": "Okay so, what is the current all-gas pressure value for my suit atmosphere?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 17,
+    "text": "how full is the second scrubber canister"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 21,
+    "text": "Houston, read the combined pressure from the suit environment sensor in kilopascals."
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 21,
+    "text": "Is the carbon dioxide collection bed in scrubber module B approaching its full storage limit?"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 3,
+    "text": "CO2 partial pressure in suit"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 14,
+    "text": "suit total pressure reading please"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 5,
+    "text": "Would you query the suit-loop carbon dioxide partial pressure channel?"
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 13,
+    "text": "scrubber a co2 storage percent"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 15,
+    "text": "read trace gases in the suit please"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 14,
+    "text": "whats the suit other gas pressure"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 7,
+    "text": "What is the CO2 pressure in my helmet?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 22,
+    "text": "Could you call out how much CO2 scrubber B still has room to capture?"
+  },
+  {
+    "label": "get_suit_pressure_total",
+    "line": 16,
+    "text": "total gas pressure suit"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 16,
+    "text": "suit atmosphere pressure for see oh two"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 6,
+    "text": "read suit trace gas pressure"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 9,
+    "text": "I need the partial pressure of CO2 in my suit."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 11,
+    "text": "Uh, how much CO2 has the A canister collected?"
+  },
+  {
+    "label": "get_scrubber_b_co2_storage",
+    "line": 20,
+    "text": "Flight, I need the B scrubber media loading percentage; please give its storage reading only."
+  },
+  {
+    "label": "get_scrubber_a_co2_storage",
+    "line": 8,
+    "text": "What CO2 storage remains in the A scrubber?"
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 20,
+    "text": "Could you give me the current helmet-only carbon dioxide pressure in kilopascals?"
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 3,
+    "text": "suit trace gases"
+  },
+  {
+    "label": "get_suit_pressure_co2",
+    "line": 10,
+    "text": "Check the suit-side CO2 reading before I leave this ledge."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 18,
+    "text": "Flight, report the carbon dioxide partial pressure inside my helmet, separate from the suit loop."
+  },
+  {
+    "label": "get_suit_pressure_other",
+    "line": 22,
+    "text": "Houston, report the pressure contribution from the other gases circulating through the suit."
+  },
+  {
+    "label": "get_helmet_pressure_co2",
+    "line": 19,
+    "text": "Before I reach for the handrail, read the helmet sensor for CO2 pressure."
+  }
+]

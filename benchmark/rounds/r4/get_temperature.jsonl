@@ -1,0 +1,25 @@
+{"text": "What is the temperature inside the suit right now?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Please query the internal spacesuit thermometer for its current value.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Would telemetry relay the degrees measured within my pressure garment?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could I get the suit-interior temperature from the thermal sensor?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "temp inside spacesuit readback please", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Ask Houston to transmit my EVA suit’s internal temperature reading.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "How many Celsius is the air inside my suit registering?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Give me the temperature reading from the suit’s inner atmosphere.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Please display the thermal measurement taken inside the pressure suit.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "uh get suit temp from sensor", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Can the controller report the spacesuit’s interior temperature in degrees?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "For the health check, retrieve my suit’s internal temperature channel.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Would the flight loop call the reading from my suit temperature probe?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Please have the flight loop read the temperature inside my suit before I begin the next sample transfer.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "What degrees does my suit’s internal air sensor show?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit interior thermal value please", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Could you bring up temperature inside my garment on the console?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "During the pressure check, retrieve the temperature sensor value from inside my EVA suit and send it over comms.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "How warm is the air contained in my suit, according to telemetry?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Can I see the internal temperature measurement for my spacesuit?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "whats the temp in my suit cabin", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Would you pull the temperature reading from the suit lining sensor?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Ask the suit computer to report the inside temperature of my pressure garment before the next maneuver.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Please request a fresh internal temperature measurement from the spacesuit thermal probe for the log.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "For crew health records, pull the temperature reading from within the sealed suit enclosure now.", "intents": ["get_temperature"], "source": "llm"}

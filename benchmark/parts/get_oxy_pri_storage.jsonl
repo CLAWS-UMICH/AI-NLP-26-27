@@ -1,0 +1,25 @@
+{"text": "Primary O2 amount?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "O2 primary remainder?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Oxygen contents, primary?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary tank O2-fullness?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "O2 contents primary?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary oxygen left?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Request primary tank oxygen contents.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Show primary O2 amount remaining.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Enter the primary tank stored-oxygen percentage on my wrist display?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Check the primary O2 storage amount.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "read back primary o2 tank amount remaining", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Write down the oxygen remaining in primary O2 storage.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "After the tool pickup, what primary tank oxygen amount remains stored?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Before the walk, put the primary O2 tank storage percentage on my wrist screen.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "My primary bottle needs a contents check; report how much oxygen remains.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "I need the primary oxygen supply fill fraction before the climb.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Could you give the primary O2 tank stored amount before sample return?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Check primary oxygen tank capacity remaining in percent before I cross the berm.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Flight, the traverse is longer than expected; give me the primary oxygen tank remaining-contents percentage.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Send the primary oxygen cylinder's stored amount to the visor before disconnecting.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "The primary oxygen reservoir needs a fill reading; report its remaining amount.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "If the primary O2 tank is below a quarter, tell me its current stored oxygen quantity in percent.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "My tool bag is snagged on the tether; please check the oxygen left in my primary tank while I free it.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Copy, include the amount still held in the primary oxygen bottle, not its pressure gauge value.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Mission control, the route has extended; calculate the primary oxygen tank remaining-contents percentage.", "intents": ["get_oxy_pri_storage"], "source": "llm"}

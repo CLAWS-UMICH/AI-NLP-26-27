@@ -1,0 +1,25 @@
+{"text": "suit temp?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Read my suit temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Can you read my internal suit temperature before I start the sample transfer?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "We have a short pause; please call the suit temperature to the crew.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Flight, I feel warmer than before; what temperature does my suit telemetry report?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temp reading", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temperature?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "internal suit temp?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "okay so pull the internal thermal reading", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Need suit temperature", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Read suit temperature, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Check internal suit temp now.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Suit temperature on telemetry.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Uh, call out my suit temperature while I secure the sample case and check my tether.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "I need the internal temperature from suit telemetry before moving to the next handrail on this pass.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Is my suit interior temperature above twenty Celsius?", "intents": ["get_temperature"], "source": "llm"}
+{"text": "For my log, what is the latest internal suit temperature.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Uh, repeat the suit temperature for me; I missed the first call.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "suit temp at 21 degrees", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Can we compare my suit temperature with the previous check.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "I need a fresh reading of the temperature inside my spacesuit.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "Uh, hey, read my internal temperature back while I am at the tool bag.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "check suit temp", "intents": ["get_temperature"], "source": "llm"}
+{"text": "The display blinked out; say the internal suit temperature again, please.", "intents": ["get_temperature"], "source": "llm"}
+{"text": "My thermal indicator changed; what is the measured suit temperature.", "intents": ["get_temperature"], "source": "llm"}

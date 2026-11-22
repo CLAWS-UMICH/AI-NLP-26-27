@@ -1,0 +1,91 @@
+rows=3600 labels=36 mean_words=9.59
+COUNT get_oxy_pri_storage: 100
+COUNT get_oxy_sec_storage: 100
+COUNT get_oxy_pri_pressure: 100
+COUNT get_oxy_sec_pressure: 100
+COUNT get_suit_pressure_oxy: 100
+COUNT get_suit_pressure_co2: 100
+COUNT get_suit_pressure_other: 100
+COUNT get_suit_pressure_total: 100
+COUNT get_helmet_pressure_co2: 100
+COUNT get_fan_pri_rpm: 100
+COUNT get_fan_sec_rpm: 100
+COUNT get_scrubber_a_co2_storage: 100
+COUNT get_scrubber_b_co2_storage: 100
+COUNT get_temperature: 100
+COUNT get_coolant_storage: 100
+COUNT get_coolant_gas_pressure: 100
+COUNT get_coolant_liquid_pressure: 100
+COUNT get_heart_rate: 100
+COUNT get_oxy_consumption: 100
+COUNT get_co2_production: 100
+COUNT get_eva_elapsed_time: 100
+COUNT get_primary_battery_level: 100
+COUNT get_secondary_battery_level: 100
+COUNT get_warnings: 100
+COUNT open_menu_vitals: 100
+COUNT open_menu_navigation: 100
+COUNT open_menu_tasks: 100
+COUNT open_menu_uia: 100
+COUNT close_menu: 100
+COUNT Get_coordinates: 100
+COUNT Set_navigation_target: 100
+COUNT reroute_navigation: 100
+COUNT Add_waypoint: 100
+COUNT Delete_waypoint: 100
+COUNT Complete_task: 100
+COUNT unhandled: 100
+STYLE_RATES [["question", 0.33444444444444443, 0.29444444444444445], ["filler", 0.06416666666666666, 0.06416666666666666], ["no_punctuation_or_lowercase", 0.13055555555555556, 0.07944444444444443], ["asr", 0.03333333333333333, 0.26666666666666666]]
+INTENT_STYLE {"get_oxy_pri_storage": {"question": 0.48, "filler": 0.06, "no_punctuation_or_lowercase": 0.07, "asr": 0.0}, "get_oxy_sec_storage": {"question": 0.46, "filler": 0.06, "no_punctuation_or_lowercase": 0.07, "asr": 0.0}, "get_oxy_pri_pressure": {"question": 0.42, "filler": 0.08, "no_punctuation_or_lowercase": 0.09, "asr": 0.04}, "get_oxy_sec_pressure": {"question": 0.4, "filler": 0.07, "no_punctuation_or_lowercase": 0.08, "asr": 0.04}, "get_suit_pressure_oxy": {"question": 0.44, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.01}, "get_suit_pressure_co2": {"question": 0.33, "filler": 0.09, "no_punctuation_or_lowercase": 0.2, "asr": 0.03}, "get_suit_pressure_other": {"question": 0.33, "filler": 0.09, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_suit_pressure_total": {"question": 0.3, "filler": 0.09, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_helmet_pressure_co2": {"question": 0.31, "filler": 0.09, "no_punctuation_or_lowercase": 0.18, "asr": 0.04}, "get_fan_pri_rpm": {"question": 0.4, "filler": 0.05, "no_punctuation_or_lowercase": 0.13, "asr": 0.0}, "get_fan_sec_rpm": {"question": 0.43, "filler": 0.04, "no_punctuation_or_lowercase": 0.12, "asr": 0.0}, "get_scrubber_a_co2_storage": {"question": 0.31, "filler": 0.09, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_scrubber_b_co2_storage": {"question": 0.36, "filler": 0.08, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "get_temperature": {"question": 0.45, "filler": 0.04, "no_punctuation_or_lowercase": 0.13, "asr": 0.0}, "get_coolant_storage": {"question": 0.45, "filler": 0.04, "no_punctuation_or_lowercase": 0.12, "asr": 0.0}, "get_coolant_gas_pressure": {"question": 0.46, "filler": 0.04, "no_punctuation_or_lowercase": 0.12, "asr": 0.0}, "get_coolant_liquid_pressure": {"question": 0.47, "filler": 0.05, "no_punctuation_or_lowercase": 0.11, "asr": 0.0}, "get_heart_rate": {"question": 0.45, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_oxy_consumption": {"question": 0.43, "filler": 0.08, "no_punctuation_or_lowercase": 0.09, "asr": 0.02}, "get_co2_production": {"question": 0.48, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_eva_elapsed_time": {"question": 0.52, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_primary_battery_level": {"question": 0.47, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_secondary_battery_level": {"question": 0.49, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "get_warnings": {"question": 0.46, "filler": 0.08, "no_punctuation_or_lowercase": 0.08, "asr": 0.0}, "open_menu_vitals": {"question": 0.22, "filler": 0.09, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "open_menu_navigation": {"question": 0.22, "filler": 0.09, "no_punctuation_or_lowercase": 0.2, "asr": 0.0}, "open_menu_tasks": {"question": 0.22, "filler": 0.09, "no_punctuation_or_lowercase": 0.19, "asr": 0.0}, "open_menu_uia": {"question": 0.22, "filler": 0.09, "no_punctuation_or_lowercase": 0.17, "asr": 0.0}, "close_menu": {"question": 0.21, "filler": 0.09, "no_punctuation_or_lowercase": 0.19, "asr": 0.0}, "Get_coordinates": {"question": 0.37, "filler": 0.02, "no_punctuation_or_lowercase": 0.06, "asr": 0.19}, "Set_navigation_target": {"question": 0.06, "filler": 0.01, "no_punctuation_or_lowercase": 0.09, "asr": 0.2}, "reroute_navigation": {"question": 0.2, "filler": 0.09, "no_punctuation_or_lowercase": 0.19, "asr": 0.0}, "Add_waypoint": {"question": 0.07, "filler": 0.0, "no_punctuation_or_lowercase": 0.13, "asr": 0.15}, "Delete_waypoint": {"question": 0.04, "filler": 0.0, "no_punctuation_or_lowercase": 0.11, "asr": 0.18}, "Complete_task": {"question": 0.05, "filler": 0.01, "no_punctuation_or_lowercase": 0.09, "asr": 0.3}, "unhandled": {"question": 0.06, "filler": 0.03, "no_punctuation_or_lowercase": 0.21, "asr": 0.0}}
+STYLE_PROBE accuracy=0.0900
+CONTENT_PROBE accuracy=0.9303
+TOP_CONFUSIONS [[["get_scrubber_b_co2_storage", "get_scrubber_a_co2_storage"], 64], [["get_scrubber_a_co2_storage", "get_scrubber_b_co2_storage"], 58], [["Add_waypoint", "Delete_waypoint"], 14], [["Delete_waypoint", "Add_waypoint"], 9], [["get_oxy_pri_storage", "get_oxy_pri_pressure"], 8], [["get_oxy_pri_pressure", "get_oxy_pri_storage"], 5], [["get_oxy_sec_storage", "get_oxy_sec_pressure"], 5], [["get_suit_pressure_co2", "get_helmet_pressure_co2"], 4], [["unhandled", "get_helmet_pressure_co2"], 4], [["unhandled", "get_suit_pressure_total"], 3]]
+GATES: 48 issue(s)
+FAIL get_oxy_pri_pressure: missing length bucket
+FAIL get_oxy_sec_pressure: missing length bucket
+FAIL get_suit_pressure_oxy: missing length bucket
+FAIL get_suit_pressure_co2: missing length bucket
+FAIL get_suit_pressure_other: opening frequency >8
+FAIL get_suit_pressure_other: missing length bucket
+FAIL get_suit_pressure_total: missing length bucket
+FAIL get_helmet_pressure_co2: opening frequency >8
+FAIL get_helmet_pressure_co2: missing length bucket
+FAIL get_fan_pri_rpm: missing length bucket
+FAIL get_fan_sec_rpm: missing length bucket
+FAIL get_scrubber_a_co2_storage: missing length bucket
+FAIL get_scrubber_b_co2_storage: opening frequency >8
+FAIL get_scrubber_b_co2_storage: missing length bucket
+FAIL get_coolant_storage: missing length bucket
+FAIL get_coolant_gas_pressure: missing length bucket
+FAIL get_coolant_liquid_pressure: missing length bucket
+FAIL get_primary_battery_level: opening frequency >8
+FAIL get_secondary_battery_level: opening frequency >8
+FAIL get_secondary_battery_level: missing length bucket
+FAIL get_warnings: missing length bucket
+FAIL open_menu_tasks: opening frequency >8
+FAIL open_menu_uia: opening frequency >8
+FAIL close_menu: missing length bucket
+FAIL Get_coordinates: missing length bucket
+FAIL Set_navigation_target: missing length bucket
+FAIL reroute_navigation: missing length bucket
+FAIL Add_waypoint: missing length bucket
+FAIL Delete_waypoint: missing length bucket
+FAIL Complete_task: missing length bucket
+FAIL unhandled: missing length bucket
+FAIL near duplicate same label nlp-projects/benchmark/data/all.jsonl:501 <> nlp-projects/benchmark/data/all.jsonl:1420: 0.800
+FAIL near duplicate same label nlp-projects/benchmark/data/all.jsonl:1256 <> nlp-projects/benchmark/data/all.jsonl:2175: 0.807
+FAIL near duplicate same label nlp-projects/benchmark/data/all.jsonl:1314 <> nlp-projects/benchmark/data/all.jsonl:2207: 0.810
+FAIL near duplicate same label nlp-projects/benchmark/data/all.jsonl:1431 <> nlp-projects/benchmark/data/all.jsonl:2331: 0.871
+FAIL near duplicate same label nlp-projects/benchmark/data/all.jsonl:1452 <> nlp-projects/benchmark/data/all.jsonl:2352: 0.870
+FAIL cross-label near duplicate nlp-projects/benchmark/data/all.jsonl:1441 <> nlp-projects/benchmark/data/all.jsonl:2366: 0.779
+FAIL near duplicate same label nlp-projects/benchmark/data/all.jsonl:1471 <> nlp-projects/benchmark/data/all.jsonl:3272: 0.840
+FAIL get_eva_elapsed_time: question rate differs by +0.186
+FAIL get_secondary_battery_level: question rate differs by +0.156
+FAIL Set_navigation_target: question rate differs by -0.274
+FAIL Add_waypoint: question rate differs by -0.264
+FAIL Delete_waypoint: question rate differs by -0.294
+FAIL Complete_task: question rate differs by -0.284
+FAIL unhandled: question rate differs by -0.274
+FAIL Get_coordinates: asr rate differs by +0.157
+FAIL Set_navigation_target: asr rate differs by +0.167
+FAIL Complete_task: asr rate differs by +0.267

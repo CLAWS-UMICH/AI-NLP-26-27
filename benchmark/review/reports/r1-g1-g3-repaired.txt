@@ -1,0 +1,72 @@
+rows=450 labels=18 mean_words=8.80
+COUNT get_oxy_pri_storage: 25
+COUNT get_oxy_sec_storage: 25
+COUNT get_oxy_pri_pressure: 25
+COUNT get_oxy_sec_pressure: 25
+COUNT get_suit_pressure_oxy: 25
+COUNT get_suit_pressure_co2: 25
+COUNT get_suit_pressure_other: 25
+COUNT get_suit_pressure_total: 25
+COUNT get_helmet_pressure_co2: 25
+COUNT get_fan_pri_rpm: 25
+COUNT get_fan_sec_rpm: 25
+COUNT get_scrubber_a_co2_storage: 25
+COUNT get_scrubber_b_co2_storage: 25
+COUNT get_temperature: 25
+COUNT get_coolant_storage: 25
+COUNT get_coolant_gas_pressure: 25
+COUNT get_coolant_liquid_pressure: 25
+COUNT get_heart_rate: 0
+COUNT get_oxy_consumption: 25
+COUNT get_co2_production: 0
+COUNT get_eva_elapsed_time: 0
+COUNT get_primary_battery_level: 0
+COUNT get_secondary_battery_level: 0
+COUNT get_warnings: 0
+COUNT open_menu_vitals: 0
+COUNT open_menu_navigation: 0
+COUNT open_menu_tasks: 0
+COUNT open_menu_uia: 0
+COUNT close_menu: 0
+COUNT Get_coordinates: 0
+COUNT Set_navigation_target: 0
+COUNT reroute_navigation: 0
+COUNT Add_waypoint: 0
+COUNT Delete_waypoint: 0
+COUNT Complete_task: 0
+COUNT unhandled: 0
+STYLE_RATES [["question", 0.26222222222222225, 0.26222222222222225], ["filler", 0.1, 0.1], ["no_punctuation", 0.28, 0.28], ["asr", 0.022222222222222223, 0.057777777777777775]]
+STYLE_PROBE accuracy=0.0756
+CONTENT_PROBE accuracy=0.8156
+TOP_CONFUSIONS [[["get_scrubber_a_co2_storage", "get_scrubber_b_co2_storage"], 13], [["get_scrubber_b_co2_storage", "get_scrubber_a_co2_storage"], 13], [["get_suit_pressure_total", "get_suit_pressure_other"], 6], [["get_oxy_pri_storage", "get_oxy_pri_pressure"], 5], [["get_oxy_sec_storage", "get_oxy_sec_pressure"], 5], [["get_oxy_pri_pressure", "get_oxy_pri_storage"], 4], [["get_oxy_pri_pressure", "get_oxy_sec_pressure"], 4], [["get_oxy_sec_pressure", "get_oxy_sec_storage"], 4], [["get_oxy_sec_storage", "get_oxy_pri_storage"], 4], [["get_suit_pressure_co2", "get_helmet_pressure_co2"], 4]]
+GATES: 30 issue(s)
+FAIL duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:11 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:22
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:3 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:3: 0.829
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:4 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:4: 0.819
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:13 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:13: 0.856
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:14 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:14: 0.821
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:15 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:15: 0.794
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:16 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:16: 0.750
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:17 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:17: 0.800
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:18 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:18: 0.809
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:20 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:20: 0.794
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:21 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:21: 0.809
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:22 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:22: 0.797
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:24 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:24: 0.829
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_gas_pressure.jsonl:25 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_coolant_liquid_pressure.jsonl:25: 0.826
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:4 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:4: 0.817
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:5 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:5: 0.835
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:14 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:14: 0.876
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:15 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:15: 0.813
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:16 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:16: 0.817
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:17 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:17: 0.785
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:18 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:18: 0.785
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:19 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:19: 0.745
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:20 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:20: 0.767
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:21 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:21: 0.818
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:22 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:22: 0.806
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:24 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:24: 0.788
+FAIL cross-label near duplicate /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_pri_rpm.jsonl:25 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_fan_sec_rpm.jsonl:25: 0.791
+FAIL near duplicate same label /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:3 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:4: 0.808
+FAIL near duplicate same label /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:11 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_oxy_sec_storage.jsonl:22: 1.000
+FAIL near duplicate same label /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_oxy.jsonl:9 <> /Users/vivienli/claws/26-27/nlp-projects/benchmark/parts/get_suit_pressure_oxy.jsonl:14: 0.818

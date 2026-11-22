@@ -1,0 +1,25 @@
+{"text": "Put the EVA vitals panel on my visor.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Health panel, bring it up for this suit check.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can you open the EVA vitals display while I stay clipped in?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "need the suit health panel visible", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Uh, could I see my EVA health readout?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Activate the vitals menu on my helmet screen.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I am paused at the ladder; show the EVA vitals panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Vitals, open.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Would you make the suit health panel visible now?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please put the body readings in the EVA vitals panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open up my EVA vitals so I can review the life support status.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "hey show the health panel", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can we bring the EVA vitals page forward?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Pull up the suit health screen, please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Could you display my vitals panel before I resume work?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "uh, EVA health panel", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Send the EVA vitals panel to the wrist display.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need the health panel on screen for a quick check.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Would you open the suit vitals menu for me?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please switch this HUD to EVA health.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "open the eva vitals panel", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can I get the EVA vitals readout in view?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Bring my health display up on the helmet, please.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Okay, show the suit vitals panel now.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the EVA health menu; I am ready to continue.", "intents": ["open_menu_vitals"], "source": "llm"}

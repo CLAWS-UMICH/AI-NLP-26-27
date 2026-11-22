@@ -1,0 +1,25 @@
+{"text": "How much oxygen remains in the primary tank?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Could you give the remaining amount in primary O2 storage?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary oxygen cylinder, how much is left?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Please read the fill level of the primary oxygen bottle.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "What percentage of oxygen remains in tank one?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "I need the primary O2 tank's remaining quantity, please.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Uh, how full is the primary oxygen reservoir right now?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Check the primary oxygen supply and tell me its remaining amount.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary tank oxygen remaining, in kilos?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Can you estimate the oxygen left in the primary cylinder?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "hey how much o2 is left in primary tank", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Read out the remaining oxygen level for the primary storage tank.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Flight, report the primary oxygen tank fill percentage.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Would you check how much oxygen is still in primary tank one?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "I'm low on time; tell me the primary O2 reservoir's remaining amount.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary oxygen supply level, please—remaining quantity only.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "What's left in the primary tank for breathable oxygen?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Could I get the remaining contents of the primary O2 cylinder?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Need the primary oxygen tank's current fill level now.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "How many kilograms of oxygen remain in the primary tank?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Please confirm the amount of O2 remaining in the primary supply tank.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Primary oxygen storage: what fraction is still available?", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "uh read the primary o2 tank remaining amount", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Tell me the oxygen fill level remaining in cylinder one, the primary tank.", "intents": ["get_oxy_pri_storage"], "source": "llm"}
+{"text": "Would you check primary tank storage and report the oxygen left?", "intents": ["get_oxy_pri_storage"], "source": "llm"}

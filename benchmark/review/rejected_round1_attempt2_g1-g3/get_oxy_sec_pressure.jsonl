@@ -1,0 +1,25 @@
+{"text": "Backup tank pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary O2 pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Reserve cylinder pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Backup bottle psi?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary tank kPa?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary oxygen pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Uh, read the backup tank pressure.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "um tell me secondary cylinder pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Check pressure in the reserve oxygen bottle.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "backup oxygen cylinder pressure please", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "read secondary oh two pressure", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Copy, report pressure for my spare tank.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Read the pressure inside the secondary oxygen cylinder at this moment.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "At the next worksite, check the backup tank pressure before I switch supplies.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Send the pressure reading from my reserve oxygen bottle to the wrist unit.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Does the backup oxygen vessel show normal pressure in kilopascals?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Can mission control read pressure inside the secondary O2 tank for me?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "The backup bottle dial is hard to see; tell me its oxygen pressure value.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Check the reserve oxygen cylinder pressure before regulator opening.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Pressure indicator blinking on the secondary oxygen tank; read its gauge before I begin the descent.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "My main line is isolated, so the backup oxygen cylinder pressure must be read before I switch regulators.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Please read the reserve oxygen bottle's pressure gauge before I reconnect the life support feed.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "report the backup oxygen cylinder pressure not remaining fill", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Low-pressure alert on my backup oxygen tank; read its pressure now.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "For the switch-over log, record the secondary oxygen tank pressure shown on the gauge.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}

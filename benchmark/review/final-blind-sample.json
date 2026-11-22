@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "text": "Check what pressure carbon dioxide adds to the suit gas mixture."
+  },
+  {
+    "id": 2,
+    "text": "Make de Gerlache the destination on my map"
+  },
+  {
+    "id": 3,
+    "text": "Uh, put the EVA task list on screen now."
+  },
+  {
+    "id": 4,
+    "text": "give me the suit trace constituents pressure value"
+  },
+  {
+    "id": 5,
+    "text": "What pressure is the secondary oxygen tank holding?"
+  },
+  {
+    "id": 6,
+    "text": "I am parked at the ridge; what percent does the primary battery have left?"
+  },
+  {
+    "id": 7,
+    "text": "hey read primary oxygen cylinder pressure in psi"
+  },
+  {
+    "id": 8,
+    "text": "The suit loop is what I mean: could you give me its carbon-dioxide pressure value?"
+  },
+  {
+    "id": 9,
+    "text": "check the full atmosphere pressure on my suit"
+  },
+  {
+    "id": 10,
+    "text": "At the regulator, read pressure from the coolant vapor loop."
+  },
+  {
+    "id": 11,
+    "text": "Could you query the suit CO2 channel and report its partial pressure?"
+  },
+  {
+    "id": 12,
+    "text": "Copy that, I am holding at the ridge."
+  },
+  {
+    "id": 13,
+    "text": "Store Endurance Crater as a waypoint before the signal drops"
+  },
+  {
+    "id": 14,
+    "text": "Can you look up the coolant gas pressure channel now?"
+  },
+  {
+    "id": 15,
+    "text": "Could you tell me the carbon dioxide rate I am exhaling?"
+  },
+  {
+    "id": 16,
+    "text": "Surface the life-support status display for this spacewalk."
+  },
+  {
+    "id": 17,
+    "text": "What's the remaining supply in the secondary oxygen container?"
+  },
+  {
+    "id": 18,
+    "text": "Use the visor to launch the EVA cartography panel for this traverse."
+  },
+  {
+    "id": 19,
+    "text": "recompute the traverse around the shadowed crater rim"
+  },
+  {
+    "id": 20,
+    "text": "Rover 1, what coordinate pair is stored there?"
+  },
+  {
+    "id": 21,
+    "text": "What does the pressure sensor show on the coolant vapor line?"
+  },
+  {
+    "id": 22,
+    "text": "Would you place the UIA hatch display over the HUD?"
+  },
+  {
+    "id": 23,
+    "text": "Open the navigation map panel for my return traverse."
+  },
+  {
+    "id": 24,
+    "text": "Ridge 4: would you record that task as finished?"
+  },
+  {
+    "id": 25,
+    "text": "Show the airlock command interface under UIA, please."
+  },
+  {
+    "id": 26,
+    "text": "Cancel my saved waypoint entry for Borman Point."
+  },
+  {
+    "id": 27,
+    "text": "Would you check the secondary tank's oxygen pressure now?"
+  },
+  {
+    "id": 28,
+    "text": "Could you conceal the menu currently showing?"
+  },
+  {
+    "id": 29,
+    "text": "Delete my stored route point at Aitken Point."
+  },
+  {
+    "id": 30,
+    "text": "Can you verify what share of scrubber A’s canister capacity is occupied by CO2?"
+  },
+  {
+    "id": 31,
+    "text": "If the primary O2 tank is below a quarter, tell me its current stored oxygen quantity in percent."
+  },
+  {
+    "id": 32,
+    "text": "Have the guidance lead me over to Cabeus Rim."
+  },
+  {
+    "id": 33,
+    "text": "Switch guidance over to destination Armstrong Crater."
+  },
+  {
+    "id": 34,
+    "text": "Channel B indication: please read the secondary battery's charge."
+  },
+  {
+    "id": 35,
+    "text": "Can you put the open interface menu away?"
+  },
+  {
+    "id": 36,
+    "text": "Please speak the currently active EVA caution messages."
+  },
+  {
+    "id": 37,
+    "text": "The display is washed out; read the secondary battery level aloud."
+  },
+  {
+    "id": 38,
+    "text": "Can you remove the current menu from view?"
+  },
+  {
+    "id": 39,
+    "text": "Secondary pack capacity, numeric readout?"
+  },
+  {
+    "id": 40,
+    "text": "Unsave Permanently Shadowed Site as a route point, please."
+  },
+  {
+    "id": 41,
+    "text": "Checklist console, make that visible."
+  },
+  {
+    "id": 42,
+    "text": "Could the suit report its remaining coolant volume?"
+  },
+  {
+    "id": 43,
+    "text": "What does telemetry say about coolant left in the storage bladder?"
+  },
+  {
+    "id": 44,
+    "text": "co two generated rate"
+  },
+  {
+    "id": 45,
+    "text": "Please query how fast the primary fan is turning, measured in RPM."
+  },
+  {
+    "id": 46,
+    "text": "Uh, tell me whether an EVA warning is active."
+  },
+  {
+    "id": 47,
+    "text": "Would navigation devise a new line around the damaged ground?"
+  },
+  {
+    "id": 48,
+    "text": "O2 contents primary?"
+  },
+  {
+    "id": 49,
+    "text": "Get the current beat frequency from my suit medical pack."
+  },
+  {
+    "id": 50,
+    "text": "Would you show the remaining supply in the coolant reservoir?"
+  },
+  {
+    "id": 51,
+    "text": "Flight, report scrubber A’s stored CO2 amount in grams."
+  },
+  {
+    "id": 52,
+    "text": "Would you confirm what pressure the minor atmospheric constituents exert inside the suit?"
+  },
+  {
+    "id": 53,
+    "text": "What's the suit atmosphere reading for oxygen partial pressure now?"
+  },
+  {
+    "id": 54,
+    "text": "check primary fan tach rpm"
+  },
+  {
+    "id": 55,
+    "text": "Is the internal temperature channel for my suit available now?"
+  },
+  {
+    "id": 56,
+    "text": "My glove keeps catching on the sample pouch."
+  },
+  {
+    "id": 57,
+    "text": "Please return the latitude and longitude for site bravo."
+  },
+  {
+    "id": 58,
+    "text": "Primary oxygen cylinder, how much is left?"
+  },
+  {
+    "id": 59,
+    "text": "Pulse monitor value in BPM, now."
+  },
+  {
+    "id": 60,
+    "text": "Get me the active caution report from life support."
+  },
+  {
+    "id": 61,
+    "text": "Please call out how fast the secondary ventilation rotor is spinning."
+  },
+  {
+    "id": 62,
+    "text": "Would you launch the UIA hatch panel before I resume?"
+  },
+  {
+    "id": 63,
+    "text": "Check how much carbon dioxide scrubber A has collected so far."
+  },
+  {
+    "id": 64,
+    "text": "Ask telemetry for a pressure value on the liquid coolant circuit."
+  },
+  {
+    "id": 65,
+    "text": "Could I get the suit-interior temperature from the thermal sensor?"
+  },
+  {
+    "id": 66,
+    "text": "Check how quickly the oxygen supply is being used, per hour."
+  },
+  {
+    "id": 67,
+    "text": "Would you look up time accumulated since I passed through the hatch?"
+  },
+  {
+    "id": 68,
+    "text": "Okay, the suit value is visible; could you give me carbon dioxide pressure inside the helmet?"
+  },
+  {
+    "id": 69,
+    "text": "Can you send oxygen consumption rate in milliliters per minute?"
+  },
+  {
+    "id": 70,
+    "text": "What's the measured pO2 inside the EVA garment?"
+  },
+  {
+    "id": 71,
+    "text": "Flight, read the CO2 storage utilization for scrubber B’s media."
+  },
+  {
+    "id": 72,
+    "text": "tag the route with a waypoint for Tycho Spur."
+  },
+  {
+    "id": 73,
+    "text": "I missed the last chime; what active alert did it announce?"
+  },
+  {
+    "id": 74,
+    "text": "Would you read my heart rate aloud so I can verify the monitor?"
+  },
+  {
+    "id": 75,
+    "text": "Would you check what portion of scrubber B’s CO2 storage chamber is already filled?"
+  },
+  {
+    "id": 76,
+    "text": "I want the route screen centered on destination Rover Beta."
+  },
+  {
+    "id": 77,
+    "text": "Okay, read the stored CO2 quantity in scrubber A’s carbon collection medium."
+  },
+  {
+    "id": 78,
+    "text": "Uh, give me the suit sensor reading for oxygen partial pressure before I inspect the sample bag."
+  },
+  {
+    "id": 79,
+    "text": "Is the displayed charge level on my primary battery under thirty percent?"
+  },
+  {
+    "id": 80,
+    "text": "Would you check how long my current EVA has been active?"
+  },
+  {
+    "id": 81,
+    "text": "Ask for the secondary fan’s RPM directly from its control board."
+  },
+  {
+    "id": 82,
+    "text": "Pull coolant liquid pressure."
+  },
+  {
+    "id": 83,
+    "text": "Get the coolant loop’s liquid-branch pressure from telemetry."
+  },
+  {
+    "id": 84,
+    "text": "Dismiss the active HUD menu on my visor."
+  },
+  {
+    "id": 85,
+    "text": "Choose the EVA terrain chart as my visor view."
+  },
+  {
+    "id": 86,
+    "text": "If primary O2 tank pressure falls below 190 kPa, warn me before the slope."
+  },
+  {
+    "id": 87,
+    "text": "I am trying to verify Conrad Point; read the coordinate marker."
+  },
+  {
+    "id": 88,
+    "text": "Can you send the fill status as an amount for the primary O2 cylinder?"
+  },
+  {
+    "id": 89,
+    "text": "Can the path planner route around the no-go zone?"
+  },
+  {
+    "id": 90,
+    "text": "Uh, I need the suit trace-gas pressure in kilopascals, not a storage reading."
+  },
+  {
+    "id": 91,
+    "text": "Can you read the carbon bed saturation level for scrubber B’s collected CO2?"
+  },
+  {
+    "id": 92,
+    "text": "Um, I want my life-support vitals screen opened."
+  },
+  {
+    "id": 93,
+    "text": "Can you verify the overall pressure for the complete gas mixture surrounding me?"
+  },
+  {
+    "id": 94,
+    "text": "Elapsed clock since start, please."
+  },
+  {
+    "id": 95,
+    "text": "I need the mission queue displayed before proceeding."
+  },
+  {
+    "id": 96,
+    "text": "Could I get a fresh reading of my carbon dioxide production per hour?"
+  },
+  {
+    "id": 97,
+    "text": "Can you give me the partial pressure of trace constituents circulating through the suit?"
+  },
+  {
+    "id": 98,
+    "text": "How much carbon dioxide am I releasing into the loop each hour?"
+  },
+  {
+    "id": 99,
+    "text": "Would you read back the helmet environmental value for CO2 in kPa?"
+  },
+  {
+    "id": 100,
+    "text": "Please estimate the oxygen remaining in tank one, the primary supply."
+  },
+  {
+    "id": 101,
+    "text": "What is the coolant storage level right now?"
+  },
+  {
+    "id": 102,
+    "text": "Show secondary O2 amount remaining."
+  },
+  {
+    "id": 103,
+    "text": "Would you display the primary ventilation rotor’s RPM reading?"
+  },
+  {
+    "id": 104,
+    "text": "For the maintenance note, state how saturated scrubber A is with stored carbon dioxide."
+  },
+  {
+    "id": 105,
+    "text": "On channel B, report the secondary battery percentage reading."
+  },
+  {
+    "id": 106,
+    "text": "Get a live tach measurement for the backup circulation fan; report RPM."
+  },
+  {
+    "id": 107,
+    "text": "uh display mission tasks"
+  },
+  {
+    "id": 108,
+    "text": "Pull pressure for the coolant gas path at the controller."
+  },
+  {
+    "id": 109,
+    "text": "Flight, give me the pressure value for the primary O2 bottle."
+  },
+  {
+    "id": 110,
+    "text": "erm, plot a detour around the debris"
+  },
+  {
+    "id": 111,
+    "text": "Would the suit computer report a percentage for the primary battery?"
+  },
+  {
+    "id": 112,
+    "text": "Please query the revolutions-per-minute value on the secondary fan circuit."
+  },
+  {
+    "id": 113,
+    "text": "Set Shackleton Crater as my destination."
+  },
+  {
+    "id": 114,
+    "text": "Set task Nansen Crater to complete."
+  },
+  {
+    "id": 115,
+    "text": "How many Celsius is the air inside my suit registering?"
+  },
+  {
+    "id": 116,
+    "text": "Add a waypoint called Delta Base so I can find it again."
+  },
+  {
+    "id": 117,
+    "text": "Would you check the heart monitor before I resume the climb?"
+  },
+  {
+    "id": 118,
+    "text": "Can I get the secondary fan speed expressed as revolutions per minute?"
+  },
+  {
+    "id": 119,
+    "text": "Is the RPM counter for the primary fan available now?"
+  },
+  {
+    "id": 120,
+    "text": "please check remaining storage in scrubber b for carbon dioxide"
+  },
+  {
+    "id": 121,
+    "text": "Please wipe the waypoint at Davis Ridge."
+  },
+  {
+    "id": 122,
+    "text": "My breathing is faster; measure the oxygen use rate per minute for this traverse."
+  },
+  {
+    "id": 123,
+    "text": "BPM for my pulse?"
+  },
+  {
+    "id": 124,
+    "text": "What percentage of scrubber B’s CO2 capacity is still available?"
+  },
+  {
+    "id": 125,
+    "text": "Would you check the primary tank's oxygen pressure reading?"
+  },
+  {
+    "id": 126,
+    "text": "Helmet channel, please report its carbon dioxide pressure reading from inside the helmet."
+  },
+  {
+    "id": 127,
+    "text": "Before I reach for the wrench, tell me the helmet atmosphere CO2 pressure."
+  },
+  {
+    "id": 128,
+    "text": "Need a pressure measurement from the secondary O2 bottle right away."
+  },
+  {
+    "id": 129,
+    "text": "check pressure across the suit atmosphere"
+  },
+  {
+    "id": 130,
+    "text": "Have the suit controller query pressure in the coolant liquid branch."
+  },
+  {
+    "id": 131,
+    "text": "Need the suit’s inside temperature, please."
+  },
+  {
+    "id": 132,
+    "text": "I need oxygen consumed per second, expressed as a rate."
+  },
+  {
+    "id": 133,
+    "text": "Please give me the primary O2 cylinder pressure in kPa."
+  },
+  {
+    "id": 134,
+    "text": "Please report the partial pressure of oxygen inside my EVA suit."
+  },
+  {
+    "id": 135,
+    "text": "Say again, your last transmission cut out."
+  },
+  {
+    "id": 136,
+    "text": "The total is already displayed; fetch the separate partial pressure for the suit trace gases."
+  },
+  {
+    "id": 137,
+    "text": "whats the suit interior temp reading"
+  },
+  {
+    "id": 138,
+    "text": "Tycho Station, would you log that checklist task as complete?"
+  },
+  {
+    "id": 139,
+    "text": "Quick, what does the primary battery meter show?"
+  },
+  {
+    "id": 140,
+    "text": "the oxygen line is clipped to my left side."
+  },
+  {
+    "id": 141,
+    "text": "Let us see the UIA airlock controls on the wrist screen."
+  },
+  {
+    "id": 142,
+    "text": "Open my suit health menu; I am checking readiness."
+  },
+  {
+    "id": 143,
+    "text": "Could you check for open warnings in my EVA status panel?"
+  },
+  {
+    "id": 144,
+    "text": "Would you call out the liquid coolant return’s pressure reading?"
+  },
+  {
+    "id": 145,
+    "text": "Relay the gauge reading for pressure in the secondary tank carrying oxygen."
+  },
+  {
+    "id": 146,
+    "text": "Would you tell me how much breathable oxygen is left in the secondary cylinder?"
+  },
+  {
+    "id": 147,
+    "text": "Open navigation map."
+  },
+  {
+    "id": 148,
+    "text": "delete my route note for site delta from the waypoint list."
+  },
+  {
+    "id": 149,
+    "text": "Please derive a bypass around the shadowed crevasse."
+  },
+  {
+    "id": 150,
+    "text": "Would the crew like a picture of these tracks?"
+  },
+  {
+    "id": 151,
+    "text": "Please tell me how much of the EVA has elapsed since egress."
+  },
+  {
+    "id": 152,
+    "text": "Can the controller show the coolant inventory as a percentage?"
+  },
+  {
+    "id": 153,
+    "text": "Add the location Ridge Charlie to my waypoint list"
+  },
+  {
+    "id": 154,
+    "text": "Before I change handholds, retrieve the suit CO2 pressure component."
+  },
+  {
+    "id": 155,
+    "text": "helmet map view up"
+  },
+  {
+    "id": 156,
+    "text": "Please report the rate of my oxygen use in liters per hour."
+  },
+  {
+    "id": 157,
+    "text": "Please put the EVA task panel in view before I start the repair."
+  },
+  {
+    "id": 158,
+    "text": "I need the coordinate lookup result for Luna Outpost."
+  },
+  {
+    "id": 159,
+    "text": "At the next pause, query the primary fan speed in RPM for my log."
+  },
+  {
+    "id": 160,
+    "text": "Tell me the secondary tank's oxygen contents by volume, please."
+  },
+  {
+    "id": 161,
+    "text": "Can you close the menu I have open at the moment?"
+  },
+  {
+    "id": 162,
+    "text": "Um, tell me what the complete suit pressure channel shows in kilopascals."
+  },
+  {
+    "id": 163,
+    "text": "co2 produced hourly rate"
+  },
+  {
+    "id": 164,
+    "text": "The suit circuit is not the target; pull the CO2 pressure around my head."
+  },
+  {
+    "id": 165,
+    "text": "I would like to inspect the EVA vitals panel; make it active."
+  },
+  {
+    "id": 166,
+    "text": "erm, show UIA hatch controls"
+  },
+  {
+    "id": 167,
+    "text": "Flight, read the secondary oxygen bottle's pressure in kilopascals."
+  },
+  {
+    "id": 168,
+    "text": "Flight, report pressure from the entire gas mixture inside the suit."
+  },
+  {
+    "id": 169,
+    "text": "Could you verify the latest suit-loop pressure attributable to CO2?"
+  },
+  {
+    "id": 170,
+    "text": "Please select the suit health view on the helmet UI."
+  },
+  {
+    "id": 171,
+    "text": "How much pressure is in the coolant gas channel, per telemetry?"
+  },
+  {
+    "id": 172,
+    "text": "I am looking for Aitken Station; read out its grid position."
+  },
+  {
+    "id": 173,
+    "text": "On the backup feed, give a percent estimate for the secondary battery."
+  },
+  {
+    "id": 174,
+    "text": "Flight, send the EVA garment's oxygen pO2 in kilopascals."
+  },
+  {
+    "id": 175,
+    "text": "Insert a waypoint at Permanently Shadowed Site on my EVA map."
+  },
+  {
+    "id": 176,
+    "text": "Could the task Conrad Crater be signed off as finished?"
+  },
+  {
+    "id": 177,
+    "text": "Uh, how full is the primary battery pack?"
+  },
+  {
+    "id": 178,
+    "text": "Set the mission list status for Miller Ridge to complete."
+  },
+  {
+    "id": 179,
+    "text": "How much time has passed since EVA began, not how much remains?"
+  },
+  {
+    "id": 180,
+    "text": "Can you state the remaining mass inside the secondary O2 tank?"
+  }
+]

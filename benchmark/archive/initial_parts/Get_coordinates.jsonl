@@ -1,0 +1,100 @@
+{"text": "coordinates for Shackleton Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "I need the lat lon for Artemis Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "what grid point marks Alpha 3", "intents": ["Get_coordinates"], "source": "llm", "slot": "Alpha 3"}
+{"text": "where are the coordinates of South Pole Station", "intents": ["Get_coordinates"], "source": "llm", "slot": "South Pole Station"}
+{"text": "how far is Haworth Rim on the map coordinate grid", "intents": ["Get_coordinates"], "source": "llm", "slot": "Haworth Rim"}
+{"text": "show me the position coordinates for Nobile Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "give me the grid position for de Gerlache", "intents": ["Get_coordinates"], "source": "llm", "slot": "de Gerlache"}
+{"text": "copy the position of Lunar Gateway to my display", "intents": ["Get_coordinates"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "could I get a coordinate readout for site 12", "intents": ["Get_coordinates"], "source": "llm", "slot": "site 12"}
+{"text": "uh can you read out Miller Ridge coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Miller Ridge"}
+{"text": "hey mission control what grid reference is Cabeus", "intents": ["Get_coordinates"], "source": "llm", "slot": "Cabeus"}
+{"text": "check the map coordinates at Peary Point", "intents": ["Get_coordinates"], "source": "llm", "slot": "Peary Point"}
+{"text": "map location of Kennedy Landing please", "intents": ["Get_coordinates"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "tell me where Aitken Basin sits in coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Aitken Basin"}
+{"text": "where exactly is Ridge 4 located", "intents": ["Get_coordinates"], "source": "llm", "slot": "Ridge 4"}
+{"text": "what are the northing and easting at Falcon Outpost", "intents": ["Get_coordinates"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "need a location fix on Luna 7", "intents": ["Get_coordinates"], "source": "llm", "slot": "Luna 7"}
+{"text": "get me the coordinates of Tycho Spur now", "intents": ["Get_coordinates"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "pull the coordinate fix for Nansen Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "read the coordinates at site bravo back to me", "intents": ["Get_coordinates"], "source": "llm", "slot": "site bravo"}
+{"text": "where are the coordinates of Endurance Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Endurance Ridge"}
+{"text": "how far is Conrad Station on the map coordinate grid", "intents": ["Get_coordinates"], "source": "llm", "slot": "Conrad Station"}
+{"text": "show me the position coordinates for Malapert Massif", "intents": ["Get_coordinates"], "source": "llm", "slot": "Malapert Massif"}
+{"text": "give me the grid position for Delta 9", "intents": ["Get_coordinates"], "source": "llm", "slot": "Delta 9"}
+{"text": "copy the position of Scott Crater to my display", "intents": ["Get_coordinates"], "source": "llm", "slot": "Scott Crater"}
+{"text": "could I get a coordinate readout for Artemis Base", "intents": ["Get_coordinates"], "source": "llm", "slot": "Artemis Base"}
+{"text": "uh can you read out sample cache 2 coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "sample cache 2"}
+{"text": "hey mission control what grid reference is Permanently Shadowed Site", "intents": ["Get_coordinates"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "check the map coordinates at Kaguya Point", "intents": ["Get_coordinates"], "source": "llm", "slot": "Kaguya Point"}
+{"text": "map location of Rover 1 please", "intents": ["Get_coordinates"], "source": "llm", "slot": "Rover 1"}
+{"text": "tell me where Henson Ridge sits in coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Henson Ridge"}
+{"text": "where exactly is Leibnitz Plateau located", "intents": ["Get_coordinates"], "source": "llm", "slot": "Leibnitz Plateau"}
+{"text": "what are the northing and easting at Alpha Station", "intents": ["Get_coordinates"], "source": "llm", "slot": "Alpha Station"}
+{"text": "need a location fix on site 8", "intents": ["Get_coordinates"], "source": "llm", "slot": "site 8"}
+{"text": "get me the coordinates of Haworth Station now", "intents": ["Get_coordinates"], "source": "llm", "slot": "Haworth Station"}
+{"text": "pull the coordinate fix for Mendeleev Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Mendeleev Crater"}
+{"text": "read the coordinates at Ridge Charlie back to me", "intents": ["Get_coordinates"], "source": "llm", "slot": "Ridge Charlie"}
+{"text": "coordinates for South Ray", "intents": ["Get_coordinates"], "source": "llm", "slot": "South Ray"}
+{"text": "I need the lat lon for Prospector 3", "intents": ["Get_coordinates"], "source": "llm", "slot": "Prospector 3"}
+{"text": "what grid point marks Luna Outpost", "intents": ["Get_coordinates"], "source": "llm", "slot": "Luna Outpost"}
+{"text": "give me the grid position for Clementine Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Clementine Crater"}
+{"text": "copy the position of sample site 5 to my display", "intents": ["Get_coordinates"], "source": "llm", "slot": "sample site 5"}
+{"text": "could I get a coordinate readout for Davis Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Davis Ridge"}
+{"text": "uh can you read out Borman Point coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Borman Point"}
+{"text": "hey mission control what grid reference is Aitken Station", "intents": ["Get_coordinates"], "source": "llm", "slot": "Aitken Station"}
+{"text": "check the map coordinates at Echo 6", "intents": ["Get_coordinates"], "source": "llm", "slot": "Echo 6"}
+{"text": "map location of Artemis Waypoint please", "intents": ["Get_coordinates"], "source": "llm", "slot": "Artemis Waypoint"}
+{"text": "tell me where site delta sits in coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "site delta"}
+{"text": "where exactly is Polar Relay located", "intents": ["Get_coordinates"], "source": "llm", "slot": "Polar Relay"}
+{"text": "what are the northing and easting at Littrow Valley", "intents": ["Get_coordinates"], "source": "llm", "slot": "Littrow Valley"}
+{"text": "need a location fix on Rover Beta", "intents": ["Get_coordinates"], "source": "llm", "slot": "Rover Beta"}
+{"text": "get me the coordinates of Shackleton Base now", "intents": ["Get_coordinates"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "pull the coordinate fix for Nobile Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Nobile Ridge"}
+{"text": "read the coordinates at Conrad Crater back to me", "intents": ["Get_coordinates"], "source": "llm", "slot": "Conrad Crater"}
+{"text": "coordinates for Gateway Node 2", "intents": ["Get_coordinates"], "source": "llm", "slot": "Gateway Node 2"}
+{"text": "I need the lat lon for Ridge 11", "intents": ["Get_coordinates"], "source": "llm", "slot": "Ridge 11"}
+{"text": "what grid point marks Luna 4", "intents": ["Get_coordinates"], "source": "llm", "slot": "Luna 4"}
+{"text": "where are the coordinates of Armstrong Point", "intents": ["Get_coordinates"], "source": "llm", "slot": "Armstrong Point"}
+{"text": "how far is Scott Station on the map coordinate grid", "intents": ["Get_coordinates"], "source": "llm", "slot": "Scott Station"}
+{"text": "show me the position coordinates for sample Alpha", "intents": ["Get_coordinates"], "source": "llm", "slot": "sample Alpha"}
+{"text": "uh can you read out Cabeus Rim coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Cabeus Rim"}
+{"text": "hey mission control what grid reference is Henson Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Henson Crater"}
+{"text": "check the map coordinates at Delta Base", "intents": ["Get_coordinates"], "source": "llm", "slot": "Delta Base"}
+{"text": "map location of Rover 8 please", "intents": ["Get_coordinates"], "source": "llm", "slot": "Rover 8"}
+{"text": "tell me where Tycho Station sits in coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Tycho Station"}
+{"text": "where exactly is de Gerlache Ridge located", "intents": ["Get_coordinates"], "source": "llm", "slot": "de Gerlache Ridge"}
+{"text": "what are the northing and easting at site foxtrot", "intents": ["Get_coordinates"], "source": "llm", "slot": "site foxtrot"}
+{"text": "need a location fix on Endurance Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "get me the coordinates of Nansen Ridge now", "intents": ["Get_coordinates"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "pull the coordinate fix for Falcon 2", "intents": ["Get_coordinates"], "source": "llm", "slot": "Falcon 2"}
+{"text": "read the coordinates at Malapert Station back to me", "intents": ["Get_coordinates"], "source": "llm", "slot": "Malapert Station"}
+{"text": "coordinates for Kaguya Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "I need the lat lon for Peary Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Peary Crater"}
+{"text": "what grid point marks Miller Outpost", "intents": ["Get_coordinates"], "source": "llm", "slot": "Miller Outpost"}
+{"text": "where are the coordinates of South Pole Relay", "intents": ["Get_coordinates"], "source": "llm", "slot": "South Pole Relay"}
+{"text": "how far is Echo Station on the map coordinate grid", "intents": ["Get_coordinates"], "source": "llm", "slot": "Echo Station"}
+{"text": "show me the position coordinates for Prospector Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Prospector Ridge"}
+{"text": "give me the grid position for Kennedy Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Kennedy Crater"}
+{"text": "copy the position of sample bag 4 to my display", "intents": ["Get_coordinates"], "source": "llm", "slot": "sample bag 4"}
+{"text": "could I get a coordinate readout for Leibnitz Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Leibnitz Ridge"}
+{"text": "map location of Shackleton Crater please", "intents": ["Get_coordinates"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "tell me where Artemis Ridge sits in coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "where exactly is Alpha 3 located", "intents": ["Get_coordinates"], "source": "llm", "slot": "Alpha 3"}
+{"text": "what are the northing and easting at South Pole Station", "intents": ["Get_coordinates"], "source": "llm", "slot": "South Pole Station"}
+{"text": "need a location fix on Haworth Rim", "intents": ["Get_coordinates"], "source": "llm", "slot": "Haworth Rim"}
+{"text": "get me the coordinates of Nobile Crater now", "intents": ["Get_coordinates"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "pull the coordinate fix for de Gerlache", "intents": ["Get_coordinates"], "source": "llm", "slot": "de Gerlache"}
+{"text": "read the coordinates at Lunar Gateway back to me", "intents": ["Get_coordinates"], "source": "llm", "slot": "Lunar Gateway"}
+{"text": "coordinates for site 12", "intents": ["Get_coordinates"], "source": "llm", "slot": "site 12"}
+{"text": "I need the lat lon for Miller Ridge", "intents": ["Get_coordinates"], "source": "llm", "slot": "Miller Ridge"}
+{"text": "what grid point marks Cabeus", "intents": ["Get_coordinates"], "source": "llm", "slot": "Cabeus"}
+{"text": "where are the coordinates of Peary Point", "intents": ["Get_coordinates"], "source": "llm", "slot": "Peary Point"}
+{"text": "how far is Kennedy Landing on the map coordinate grid", "intents": ["Get_coordinates"], "source": "llm", "slot": "Kennedy Landing"}
+{"text": "show me the position coordinates for Aitken Basin", "intents": ["Get_coordinates"], "source": "llm", "slot": "Aitken Basin"}
+{"text": "give me the grid position for Ridge 4", "intents": ["Get_coordinates"], "source": "llm", "slot": "Ridge 4"}
+{"text": "copy the position of Falcon Outpost to my display", "intents": ["Get_coordinates"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "could I get a coordinate readout for Luna 7", "intents": ["Get_coordinates"], "source": "llm", "slot": "Luna 7"}
+{"text": "uh can you read out Tycho Spur coordinates", "intents": ["Get_coordinates"], "source": "llm", "slot": "Tycho Spur"}
+{"text": "hey mission control what grid reference is Nansen Crater", "intents": ["Get_coordinates"], "source": "llm", "slot": "Nansen Crater"}
+{"text": "check the map coordinates at site bravo", "intents": ["Get_coordinates"], "source": "llm", "slot": "site bravo"}

@@ -1,0 +1,25 @@
+{"text": "Choose the EVA vital-signs panel as my visor view.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Is the suit-condition page selectable? Open the EVA health panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Surface the life-support status display for this spacewalk.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "helmet health view up", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Er, I need the EVA vitals menu on the screen.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Route my body-status dashboard to the helmet HUD.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "While I hold the rail, show the suit telemetry panel for EVA.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Put the astronaut health readout in focus.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Could the EVA life signs interface be made visible?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Open the health monitor panel associated with this EVA.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please call the suit vital readout into the visor view.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "activate my vital signs menu", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Can I bring up the EVA health interface from here?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Select the life-support monitoring panel for display.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I would like to inspect the EVA vitals panel; make it active.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "um, show suit health", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Put the EVA life-support vitals display in my helmet view.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Would you place the EVA condition panel over the HUD?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Start the suit health screen so I can review my status.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "My next check is vitals; open the EVA health panel.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "put the health monitor on visor", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Please activate the astronaut vitals page in my helmet UI.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Could you select the EVA body-status panel now?", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "I need life-support telemetry displayed for this check.", "intents": ["open_menu_vitals"], "source": "llm"}
+{"text": "Bring the suit vital-signs screen into my viewing area.", "intents": ["open_menu_vitals"], "source": "llm"}

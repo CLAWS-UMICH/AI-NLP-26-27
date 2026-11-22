@@ -1,0 +1,25 @@
+{"text": "Primary O2 pressure", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Main tank pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary cylinder pressure", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary tank psi", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Read the oxygen pressure inside my primary cylinder.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "The primary oxygen cylinder pressure percentage is what I need, not its remaining contents.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Before the climb starts, read the gauge mounted on my main oxygen cylinder.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Is my main oxygen vessel still holding adequate pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary bottle pressure", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Read me the primary cylinder gauge.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "What does the primary tank gauge read in kPa now?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "I am seeing a pressure warning; report the gauge reading for the primary oxygen bottle right away.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "For this check, I only need primary cylinder pressure in percent.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Pressure primary tank", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary oxygen tank pressure reading", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Copy, pressure in primary tank now", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "primary oh two cylinder pressure", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Could the pressure reading from my main oxygen tank be sent to my wrist display now?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Houston, give me the primary bottle's gauge pressure; I am checking the high ridge anchor.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary oxygen tank pressure, please.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Request a kPa reading from the primary oxygen cylinder before I leave.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "uh pressure in primary oxygen tank", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Main cylinder pressure, 200 kPa?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Please verify pressure in the primary oxygen tank gauge before I power the tool.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "I need the actual pressure inside the main oxygen cylinder before departure.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}

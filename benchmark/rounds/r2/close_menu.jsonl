@@ -1,0 +1,25 @@
+{"text": "Put away the menu that currently occupies my HUD.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Is there a way to dismiss the displayed menu now?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Remove the active interface menu from the visor.", "intents": ["close_menu"], "source": "llm"}
+{"text": "get rid of current menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Uh, make the selected menu disappear from view.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Take down the menu currently in focus, please.", "intents": ["close_menu"], "source": "llm"}
+{"text": "My visor is cluttered; close its active menu.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Exit whichever menu is open on my screen.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could the current menu be taken off the wrist display?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Clear the menu layer over my view.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Turn off the open HUD menu before I proceed.", "intents": ["close_menu"], "source": "llm"}
+{"text": "menu off please", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please withdraw the active menu from the display.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you dismiss the menu in focus?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Get the selected menu out of my field of vision.", "intents": ["close_menu"], "source": "llm"}
+{"text": "uh close current menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "I have what I need; put away the open menu.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Dismiss the menu occupying the visor right now.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can we remove the currently active menu?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Stop showing the menu that is open.", "intents": ["close_menu"], "source": "llm"}
+{"text": "hide active menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please deactivate the menu currently on my HUD.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you get the active menu layer out of view?", "intents": ["close_menu"], "source": "llm"}
+{"text": "End this display by closing the menu in focus.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Clear the open menu from the helmet screen, Houston.", "intents": ["close_menu"], "source": "llm"}

@@ -1,0 +1,25 @@
+{"text": "Secondary O2 storage", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Backup tank level?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "What oxygen reserve remains in my secondary tank?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Check how much oxygen remains in the backup bottle.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Backup reserve level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Spare cylinder is my fallback, and I need its remaining oxygen reserve percentage before moving out.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "At the next stop, I need a remaining-capacity check on the secondary bottle in percent.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Warning, I may need the backup bottle soon; read its oxygen reserve level immediately.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Backup oxygen tank remaining", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Backup oxygen tank remaining level?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How much oxygen is left in the reserve bottle?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I am asking what remains in storage, not cylinder pressure; read the backup oxygen fill percentage.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Would you check the remaining oxygen percentage in the secondary supply before I cross the field?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Over, backup tank contents in percent", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Current secondary oxygen level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Reserve gauge needs a contents check; report oxygen left in that tank.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "secondary oh two reserve level", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Can we see the reserve bottle oxygen fill level before I move?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "I worry the backup supply is nearly spent; report its oxygen storage percent before I descend.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "How full is the secondary bottle at present?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Flight, check remaining oxygen in the backup reservoir before work resumes.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Backup supply contents, report remaining oxygen percentage.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Is the secondary oxygen tank almost empty of stored oxygen?", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Show the secondary supply remaining oxygen as a percentage.", "intents": ["get_oxy_sec_storage"], "source": "llm"}
+{"text": "Please compare the secondary tank contents against its full capacity before we proceed.", "intents": ["get_oxy_sec_storage"], "source": "llm"}

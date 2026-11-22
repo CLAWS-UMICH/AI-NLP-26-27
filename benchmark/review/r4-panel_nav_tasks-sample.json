@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "text": "Select the EVA work list for display."
+  },
+  {
+    "id": 2,
+    "text": "Give me the on-screen task board for this spacewalk."
+  },
+  {
+    "id": 3,
+    "text": "put the terrain chart on visor"
+  },
+  {
+    "id": 4,
+    "text": "Bring the EVA cartography screen into my viewing area."
+  },
+  {
+    "id": 5,
+    "text": "I would like to check bearings; make the EVA navigation map active."
+  },
+  {
+    "id": 6,
+    "text": "Could you select the EVA assignment panel now?"
+  },
+  {
+    "id": 7,
+    "text": "helmet checklist view up"
+  },
+  {
+    "id": 8,
+    "text": "Project the EVA terrain chart panel onto my wrist unit."
+  },
+  {
+    "id": 9,
+    "text": "Select the location map for display."
+  },
+  {
+    "id": 10,
+    "text": "My next check is location; open the navigation map."
+  },
+  {
+    "id": 11,
+    "text": "Put the traverse chart in focus."
+  },
+  {
+    "id": 12,
+    "text": "um, show the terrain map"
+  },
+  {
+    "id": 13,
+    "text": "helmet map view up"
+  },
+  {
+    "id": 14,
+    "text": "Choose the EVA terrain chart as my visor view."
+  },
+  {
+    "id": 15,
+    "text": "Can I bring up the mission board from here?"
+  },
+  {
+    "id": 16,
+    "text": "I am clipped in; activate the EVA navigation map window."
+  },
+  {
+    "id": 17,
+    "text": "activate the task tracker menu"
+  },
+  {
+    "id": 18,
+    "text": "Please call the navigation chart into the visor view."
+  },
+  {
+    "id": 19,
+    "text": "I would like to review assigned work; make the mission checklist active."
+  },
+  {
+    "id": 20,
+    "text": "Is the excursion map selectable? Open the navigation display."
+  },
+  {
+    "id": 21,
+    "text": "Start the mapping screen so I can review our position."
+  },
+  {
+    "id": 22,
+    "text": "Please activate the EVA wayfinding page in my helmet UI."
+  },
+  {
+    "id": 23,
+    "text": "Put the mission board in focus."
+  },
+  {
+    "id": 24,
+    "text": "Surface the location-tracking map for this spacewalk."
+  },
+  {
+    "id": 25,
+    "text": "Please call the checklist into the visor view."
+  },
+  {
+    "id": 26,
+    "text": "Can I bring up the excursion map from here?"
+  },
+  {
+    "id": 27,
+    "text": "Could you select the position map panel now?"
+  },
+  {
+    "id": 28,
+    "text": "um, show the job queue"
+  },
+  {
+    "id": 29,
+    "text": "put the mission board on visor"
+  },
+  {
+    "id": 30,
+    "text": "I need the route and terrain display for orientation."
+  },
+  {
+    "id": 31,
+    "text": "Could the wayfinding map be made visible?"
+  },
+  {
+    "id": 32,
+    "text": "Surface the work-items display for this spacewalk."
+  },
+  {
+    "id": 33,
+    "text": "activate the EVA map menu"
+  },
+  {
+    "id": 34,
+    "text": "Use the visor to launch the EVA cartography panel for this traverse."
+  },
+  {
+    "id": 35,
+    "text": "Please activate the task-status page in my helmet UI."
+  },
+  {
+    "id": 36,
+    "text": "Bring the work-item list into my viewing area."
+  },
+  {
+    "id": 37,
+    "text": "During this pause, open my mission checklist board on the wrist display."
+  },
+  {
+    "id": 38,
+    "text": "Open the position-and-terrain panel associated with this EVA."
+  },
+  {
+    "id": 39,
+    "text": "Start the work-items screen so I can confirm my assignment."
+  },
+  {
+    "id": 40,
+    "text": "I need the mission queue displayed before proceeding."
+  },
+  {
+    "id": 41,
+    "text": "Open the assignment-status panel associated with this EVA."
+  },
+  {
+    "id": 42,
+    "text": "Route the topographic display to the helmet HUD."
+  },
+  {
+    "id": 43,
+    "text": "Route my mission queue to the helmet HUD."
+  },
+  {
+    "id": 44,
+    "text": "Er, I need the EVA assignment menu on the screen."
+  },
+  {
+    "id": 45,
+    "text": "Choose the EVA mission board as my visor view."
+  },
+  {
+    "id": 46,
+    "text": "Is the job tracker selectable? Open the mission checklist."
+  },
+  {
+    "id": 47,
+    "text": "Er, I need the EVA cartography menu on the screen."
+  },
+  {
+    "id": 48,
+    "text": "Could the task tracker be made visible?"
+  },
+  {
+    "id": 49,
+    "text": "Set the mission work-order screen to visible on my wrist unit."
+  },
+  {
+    "id": 50,
+    "text": "My next check is the work order; open the EVA task menu."
+  }
+]

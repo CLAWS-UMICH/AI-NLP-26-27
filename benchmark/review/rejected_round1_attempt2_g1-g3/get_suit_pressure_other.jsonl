@@ -1,0 +1,25 @@
+{"text": "Trace-gas pressure in suit?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Please read the pressure from trace gases within the suit atmosphere.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "What partial pressure do the minor gases show on the suit sensor?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Could you retrieve the suit trace-constituent pressure channel?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Give me the pressure contribution from suit gases other than oxygen and carbon dioxide.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "How high is the non-O2, non-CO2 gas pressure in my suit?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Flight, report the partial pressure for trace gases circulating through the suit.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Check the suit environmental reading for miscellaneous gas pressure.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Uh, which pressure value is listed for the trace-gas fraction inside my suit?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Before I move, could you call out the suit sensor’s other-gases pressure?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "whats the pressure from minor gases in the suit", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "read trace constituent pressure in my suit please", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "get suit nonmajor gas partial pressure", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "check the suit trace-gas channel for pressure", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "other than o2 and co2 what pressure do the suit gases have", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Houston, I need a pressure measurement for the suit’s trace-gas component, not the combined atmosphere.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Would you say the partial pressure of the residual gases in the suit in kilopascals?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "The oxygen and CO2 values are visible; pull the separate suit reading for trace gases.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Can you confirm the pressure due to the small-concentration gases inside my EVA suit?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Okay, log the suit atmosphere pressure attributable to the gas species outside the main channels.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Please query the pressure from the suit gas mixture’s trace constituents while I hold position.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "I need the suit trace-gas partial pressure, with oxygen and carbon dioxide excluded.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Could you read back the pressure for the other gases measured in the suit volume?", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "For my checklist, state the pressure value for trace gases inside the suit.", "intents": ["get_suit_pressure_other"], "source": "llm"}
+{"text": "Um, find the suit pressure channel for minor atmospheric components and read it aloud.", "intents": ["get_suit_pressure_other"], "source": "llm"}

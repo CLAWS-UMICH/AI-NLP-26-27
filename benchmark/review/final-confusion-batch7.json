@@ -1,0 +1,202 @@
+[
+  {
+    "id": 301,
+    "text": "Will you store site delta as a revisit marker on the map?"
+  },
+  {
+    "id": 302,
+    "text": "Please give the fill fraction for scrubber A’s carbon dioxide adsorbent."
+  },
+  {
+    "id": 303,
+    "text": "Before I resume the traverse, check scrubber A’s unused CO2 storage space."
+  },
+  {
+    "id": 304,
+    "text": "please query scrubber a for its carbon dioxide fill level"
+  },
+  {
+    "id": 305,
+    "text": "What CO2 load is being held in scrubber A?"
+  },
+  {
+    "id": 306,
+    "text": "Store sample cache 2 as one of my intermediate markers."
+  },
+  {
+    "id": 307,
+    "text": "Would you report the retained CO2 quantity in scrubber A’s canister?"
+  },
+  {
+    "id": 308,
+    "text": "Take the stored waypoint Polar Relay out of navigation."
+  },
+  {
+    "id": 309,
+    "text": "Erase the bookmark at Malapert Massif from the map."
+  },
+  {
+    "id": 310,
+    "text": "Could you verify the remaining CO2 capture capacity in scrubber A before I continue?"
+  },
+  {
+    "id": 311,
+    "text": "bookmark Kennedy Crater on the eva map as a waypoint."
+  },
+  {
+    "id": 312,
+    "text": "Could I get the remaining carbon dioxide capture capacity in scrubber B?"
+  },
+  {
+    "id": 313,
+    "text": "Would you say how much CO2 holding space remains in scrubber A’s cartridge?"
+  },
+  {
+    "id": 314,
+    "text": "What percentage of scrubber B’s carbon dioxide capacity remains unused?"
+  },
+  {
+    "id": 315,
+    "text": "Get rid of the map point Nobile Ridge."
+  },
+  {
+    "id": 316,
+    "text": "Add the waypoint label Kaguya Ridge to the route record."
+  },
+  {
+    "id": 317,
+    "text": "How much captured CO2 storage does scrubber B still have?"
+  },
+  {
+    "id": 318,
+    "text": "Can you preserve Shackleton Base in my waypoint collection?"
+  },
+  {
+    "id": 319,
+    "text": "Would you drop a waypoint at Delta Base before I move?"
+  },
+  {
+    "id": 320,
+    "text": "Set a waypoint marker for Leibnitz Plateau now."
+  },
+  {
+    "id": 321,
+    "text": "check scrubber A storage headroom for captured carbon dioxide"
+  },
+  {
+    "id": 322,
+    "text": "Is the scrubber A adsorbent nearly full of stored CO2?"
+  },
+  {
+    "id": 323,
+    "text": "Would you fetch the CO2 fill state for scrubber A’s carbon bed?"
+  },
+  {
+    "id": 324,
+    "text": "i am finished with that route pin; erase Kennedy Landing."
+  },
+  {
+    "id": 325,
+    "text": "ScrubberA CO2 storage?"
+  },
+  {
+    "id": 326,
+    "text": "Cancel the stored waypoint called Borman Point."
+  },
+  {
+    "id": 327,
+    "text": "Get the waypoint called Kaguya Point off the list"
+  },
+  {
+    "id": 328,
+    "text": "Drop Tycho Spur as a saved waypoint."
+  },
+  {
+    "id": 329,
+    "text": "please get the carbon dioxide capacity left in scrubber b"
+  },
+  {
+    "id": 330,
+    "text": "Cancel the saved waypoint with label Peary Crater"
+  },
+  {
+    "id": 331,
+    "text": "Remove the saved point for Kaguya Point."
+  },
+  {
+    "id": 332,
+    "text": "Add the named map point site 21 to my waypoints."
+  },
+  {
+    "id": 333,
+    "text": "That saved point is no longer useful; remove Miller Outpost."
+  },
+  {
+    "id": 334,
+    "text": "Insert a new waypoint at the location Peary Crater."
+  },
+  {
+    "id": 335,
+    "text": "Would you call out the CO2 load held in the scrubber B cartridge?"
+  },
+  {
+    "id": 336,
+    "text": "Place a nav marker called Lunar Gateway"
+  },
+  {
+    "id": 337,
+    "text": "Before I move away from the hatch, read the carbon dioxide load in the B scrubber."
+  },
+  {
+    "id": 338,
+    "text": "I want a waypoint entry for Peary Crater in the list."
+  },
+  {
+    "id": 339,
+    "text": "Save the map location site foxtrot among my waypoints."
+  },
+  {
+    "id": 340,
+    "text": "Before reconfiguring, tell me the remaining CO2 collection room in scrubber A."
+  },
+  {
+    "id": 341,
+    "text": "Flight, retrieve scrubber B’s remaining room for CO2 collection."
+  },
+  {
+    "id": 342,
+    "text": "Check the CO2 fill in scrubber B."
+  },
+  {
+    "id": 343,
+    "text": "Before resuming the traverse, query storage space left in scrubber A for CO2."
+  },
+  {
+    "id": 344,
+    "text": "For the EVA notes, report the carbon dioxide storage utilization of scrubber B."
+  },
+  {
+    "id": 345,
+    "text": "Can you remove the saved waypoint at Scott Station?"
+  },
+  {
+    "id": 346,
+    "text": "Could you add a waypoint for Shackleton Base?"
+  },
+  {
+    "id": 347,
+    "text": "Flight, report scrubber A’s stored CO2 amount in grams."
+  },
+  {
+    "id": 348,
+    "text": "For maintenance, state the captured CO2 load against scrubber A’s full storage volume."
+  },
+  {
+    "id": 349,
+    "text": "Mark this place for the return path: Alpha Station."
+  },
+  {
+    "id": 350,
+    "text": "Can we bookmark Tycho Spur as a waypoint?"
+  }
+]

@@ -1,0 +1,25 @@
+{"text": "Set Shackleton Crater as my destination.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Crater"}
+{"text": "I want to head to Artemis Ridge; make it the nav target.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Ridge"}
+{"text": "Point my route toward Nobile Crater.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Nobile Crater"}
+{"text": "Make de Gerlache the destination on my map", "intents": ["Set_navigation_target"], "source": "llm", "slot": "de Gerlache"}
+{"text": "Set target Cabeus", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus"}
+{"text": "Route guidance to Peary Point, please.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Peary Point"}
+{"text": "Select Falcon Outpost as the place I am navigating to.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Falcon Outpost"}
+{"text": "Luna 7, could you set that as my navigation destination?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna 7"}
+{"text": "Lock the nav marker onto Endurance Ridge.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Endurance Ridge"}
+{"text": "I am leaving the hatch; set my target for Conrad Station.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Conrad Station"}
+{"text": "Take me to Artemis Base on the navigation display.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Base"}
+{"text": "Set a course with sample cache 2 as the endpoint.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample cache 2"}
+{"text": "Use Henson Ridge for my next destination.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Henson Ridge"}
+{"text": "Update the destination field to Leibnitz Plateau.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Leibnitz Plateau"}
+{"text": "Let us make Mendeleev Crater the target I am walking toward", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Mendeleev Crater"}
+{"text": "Enter Ridge Charlie as my navigation target.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge Charlie"}
+{"text": "Guide me over to Clementine Crater.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Clementine Crater"}
+{"text": "Change the active destination marker to sample site 5.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "sample site 5"}
+{"text": "Echo 6: will you make that my selected travel target?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Echo 6"}
+{"text": "Please set my EVA destination to Artemis Waypoint.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Artemis Waypoint"}
+{"text": "Mark Rover Beta as my destination, not just a map note.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Rover Beta"}
+{"text": "Send the route to Shackleton Base to my HUD.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "Set the destination to Ridge 11 before I move off", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Ridge 11"}
+{"text": "Could you direct me to Luna 4?", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Luna 4"}
+{"text": "My target should be Cabeus Rim; update navigation.", "intents": ["Set_navigation_target"], "source": "llm", "slot": "Cabeus Rim"}

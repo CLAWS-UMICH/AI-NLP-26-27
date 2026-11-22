@@ -1,0 +1,25 @@
+{"text": "EVA time elapsed?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Time outside so far?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "How long since I began this spacewalk?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Please read the elapsed EVA clock from my suit.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Flight, give me the time since airlock egress.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Uh, how many minutes have passed since EVA start?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Could you report the duration already spent outside?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "elapsed eva time please", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Before the next sample, tell me how long this EVA has been underway.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Request the mission-clock value for elapsed time since we started the EVA.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Need time since ingress.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Can you check the timer and say how long I have been outside the airlock?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "The wrist clock froze; please call out elapsed time since EVA began.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Would flight confirm the hours and minutes since the start of my spacewalk?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "EVA timer, elapsed.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Okay, how much time has passed since we opened the hatch?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Give me the EVA duration so far, not the time remaining.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Could I get the elapsed minutes for this excursion?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "how long since eva began", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Please query the mission timer for the time accumulated since EVA kickoff.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "At the ridge, can you tell me how long we have been outside?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Flight, read back the start-to-now duration of this EVA.", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Uh, time since hatch opening?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "Would you state my elapsed spacewalk time for the activity log?", "intents": ["get_eva_elapsed_time"], "source": "llm"}
+{"text": "EVA clock since start, please.", "intents": ["get_eva_elapsed_time"], "source": "llm"}

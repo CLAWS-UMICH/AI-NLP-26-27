@@ -1,0 +1,100 @@
+{"text": "Flight, I missed that; repeat the secondary fan spin rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Okay, give me the latest secondary fan spin rate, over.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Could I hear secondary fan fan speed, please.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Quick check: where does the secondary fan RPM stand?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Are we seeing need a fresh secondary fan fan speed value.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Do we have give me the secondary fan RPM reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Can you tell me give me the latest secondary fan fan speed, over.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Um, what is the secondary fan RPM?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Need verify the secondary fan revolutions per minute from telemetry.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Just checking, give me the secondary fan rpm reading reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "For the log, what are we getting for secondary fan revolutions per minute?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Could I get I need the secondary fan fan speed on this pass.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Um, pull the secondary fan rpm reading for me.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Read me please call out the secondary fan revolutions per minute when ready.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Copy, send the secondary fan fan speed value to my display.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "For the log, is the secondary fan revolutions per minute holding steady?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Hey, could you bring up the secondary fan RPM reading?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Quick check: need a fresh secondary fan RPM value.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Are we seeing where does the secondary fan RPM stand?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Tell me check the secondary fan revolutions per minute before I continue.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Hey, verify the secondary fan fan speed from telemetry.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Hey, check telemetry for the secondary fan spin rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Is the send the secondary fan revolutions per minute value to my display.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Houston, could you bring up the secondary fan RPM reading?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Confirm I missed that; repeat the secondary fan spin rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Can you tell me is the secondary fan RPM holding steady?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Status on I missed that; repeat the secondary fan RPM.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Before I move, what are we getting for secondary fan spin rate?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Current pull the secondary fan revolutions per minute for me.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Current where does the secondary fan RPM stand?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Please report could you bring up the secondary fan revolutions per minute reading?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I am checking check telemetry for the secondary fan rpm reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Do we have where does the secondary fan rpm reading stand?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "All right, need a fresh secondary fan rpm reading value.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "All right, what is the secondary fan rpm reading?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Could you check I missed that; repeat the secondary fan spin rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "All right, I am trying to confirm the secondary fan RPM.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I need send the secondary fan revolutions per minute value to my display.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "What is need a fresh secondary fan rpm reading value.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I am seeing give me the secondary fan rpm reading reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Read me pull the secondary fan spin rate for me.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "For the log, check telemetry for the secondary fan fan speed.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Any update on let us look at the secondary fan RPM again.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Do we have give me the secondary fan revolutions per minute reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "What is give me the latest secondary fan fan speed, over.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Read me I missed that; repeat the secondary fan spin rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Give me secondary fan spin rate, please.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Could you check let us look at the secondary fan fan speed again.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Current can I get a current secondary fan spin rate report?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Um, I need the secondary fan revolutions per minute on this pass.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Is the I want to compare the secondary fan revolutions per minute now.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Are we seeing pull the secondary fan spin rate for me.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "On my display, pull the secondary fan RPM for me.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I am seeing I missed that; repeat the secondary fan revolutions per minute.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Give me I want to compare the secondary fan RPM now.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "All right, check telemetry for the secondary fan RPM.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Quick check: send the secondary fan fan speed value to my display.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Can you tell me can I get a current secondary fan spin rate report?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Give me where does the secondary fan rpm reading stand?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "All right, can I get a current secondary fan rpm reading report?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Flight, check telemetry for the secondary fan spin rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I want to verify give me the latest secondary fan RPM, over.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Show me send the secondary fan fan speed value to my display.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "We should check is the secondary fan spin rate holding steady?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I am checking give me the secondary fan rpm reading reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Any update on could you bring up the secondary fan fan speed reading?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Okay, check telemetry for the secondary fan spin rate.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "On my display, give me the latest secondary fan fan speed, over.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Current pull the secondary fan rpm reading for me.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "What is give me the secondary fan RPM reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Need is the secondary fan fan speed holding steady?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Status on read the secondary fan revolutions per minute aloud, please.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "EVA check: where does the secondary fan spin rate stand?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Just checking, what are we getting for secondary fan RPM?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Flight, give me the secondary fan spin rate reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Confirm can you read the secondary fan RPM back?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Show me give me the secondary fan revolutions per minute reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "What is pull the secondary fan rpm reading for me.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "For the log, please call out the secondary fan rpm reading when ready.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Are we seeing please call out the secondary fan spin rate when ready.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Um, what are we getting for secondary fan revolutions per minute?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Read me verify the secondary fan rpm reading from telemetry.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Need I need the secondary fan RPM on this pass.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Can you tell me I want to compare the secondary fan fan speed now.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "I want to verify read the secondary fan revolutions per minute aloud, please.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "One more thing, I am trying to confirm the secondary fan rpm reading.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Okay, give me the latest secondary fan fan speed, over.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "Can you tell me check telemetry for the secondary fan fan speed.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan RPM?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan revolutions per minute?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan spin rate?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan fan speed?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "secondary fan rpm reading?", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "RPM, secondary fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "revolutions per minute, secondary fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "spin rate, secondary fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "fan speed, secondary fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "rpm reading, secondary fan.", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "uh secondary fan RPM check 1", "intents": ["get_fan_sec_rpm"], "source": "llm"}
+{"text": "uh secondary fan revolutions per minute check 2", "intents": ["get_fan_sec_rpm"], "source": "llm"}

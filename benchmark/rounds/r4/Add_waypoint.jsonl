@@ -1,0 +1,25 @@
+{"text": "Could you save Permanently Shadowed Site as a waypoint on the map?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Permanently Shadowed Site"}
+{"text": "Would you add Leibnitz Plateau to my waypoint list for later?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Leibnitz Plateau"}
+{"text": "Can you place a route marker at Alpha Station?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Alpha Station"}
+{"text": "May I have Ridge Charlie stored as an intermediate waypoint?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Ridge Charlie"}
+{"text": "Could you pin South Ray on the EVA chart as a waypoint?", "intents": ["Add_waypoint"], "source": "llm", "slot": "South Ray"}
+{"text": "Would you record sample site 5 among my saved route points?", "intents": ["Add_waypoint"], "source": "llm", "slot": "sample site 5"}
+{"text": "Can you add a waypoint entry for Davis Ridge now?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Davis Ridge"}
+{"text": "Could we keep Artemis Waypoint marked as a waypoint?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Artemis Waypoint"}
+{"text": "Will you store site delta as a revisit marker on the map?", "intents": ["Add_waypoint"], "source": "llm", "slot": "site delta"}
+{"text": "Can you preserve Shackleton Base in my waypoint collection?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Shackleton Base"}
+{"text": "Can the navigation list include Nobile Ridge as a waypoint?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Nobile Ridge"}
+{"text": "Would you make Luna 4 a saved stop along my route?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Luna 4"}
+{"text": "Could you add a map waypoint named Armstrong Point?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Armstrong Point"}
+{"text": "Can you preserve Henson Crater as a point to revisit?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Henson Crater"}
+{"text": "Would you drop a waypoint at Delta Base before I move?", "intents": ["Add_waypoint"], "source": "llm", "slot": "Delta Base"}
+{"text": "Add this named site, Delta Base, to the route waypoint list.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Delta Base"}
+{"text": "Set a waypoint at site foxtrot on the current map.", "intents": ["Add_waypoint"], "source": "llm", "slot": "site foxtrot"}
+{"text": "I want the chart to remember site foxtrot as a waypoint.", "intents": ["Add_waypoint"], "source": "llm", "slot": "site foxtrot"}
+{"text": "Place a revisit marker for Endurance Crater in navigation.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "Store Endurance Crater as a waypoint before the signal drops", "intents": ["Add_waypoint"], "source": "llm", "slot": "Endurance Crater"}
+{"text": "Add the waypoint label Kaguya Ridge to the route record.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "Keep Kaguya Ridge as a waypoint, separate from the destination.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Kaguya Ridge"}
+{"text": "save Peary Crater in my list of navigation markers.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "Insert a new waypoint at the location Peary Crater.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Peary Crater"}
+{"text": "Add Prospector Ridge as a point to retrace on the way home.", "intents": ["Add_waypoint"], "source": "llm", "slot": "Prospector Ridge"}

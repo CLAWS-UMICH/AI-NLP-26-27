@@ -1,0 +1,100 @@
+{"text": "Status on can I get a current liquid-side pressure report?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Copy, read the liquid circuit pressure aloud, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Report read the coolant liquid pressure aloud, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "EVA check: I missed that; repeat the liquid-side pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "All right, liquid-side pressure, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Status on can I get a current liquid circuit pressure report?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "On my display, can you read the liquid coolant pressure back?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How is please call out the liquid coolant pressure when ready.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Current read the liquid circuit pressure aloud, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could you check let us look at the liquid coolant pressure again.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "On my display, give me the latest liquid-side pressure, over.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Please report give me the liquid coolant pressure reading.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Tell me send the liquid coolant pressure value to my display.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Give me verify the liquid circuit pressure from telemetry.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Are we seeing send the liquid circuit pressure value to my display.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Report verify the liquid coolant pressure from telemetry.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Read me let us look at the liquid loop pressure again.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could I hear check telemetry for the liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Read me I missed that; repeat the coolant liquid pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Current please confirm the coolant liquid pressure on the suit.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Confirm could you bring up the liquid-side pressure reading?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Do we have how does the liquid loop pressure look right now?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "All right, check the liquid-side pressure before I continue.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Uh, how does the liquid-side pressure look right now?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Status on can you read the liquid circuit pressure back?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I am checking please call out the liquid loop pressure when ready.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Need give me the latest liquid circuit pressure, over.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Confirm how does the coolant liquid pressure look right now?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "We should check is the liquid circuit pressure holding steady?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Quick check: need a fresh liquid circuit pressure value.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I need please call out the coolant liquid pressure when ready.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Need check the liquid loop pressure before I continue.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Let me get what are we getting for liquid-side pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Before I move, need a fresh coolant liquid pressure value.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Houston, how does the coolant liquid pressure look right now?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I am checking send the liquid-side pressure value to my display.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Houston, coolant liquid pressure, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Give me I want to compare the coolant liquid pressure now.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Do we have give me the liquid loop pressure reading.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Before I move, I need the liquid-side pressure on this pass.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Do we have please confirm the liquid circuit pressure on the suit.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Quick check: send the coolant liquid pressure value to my display.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Just checking, send the liquid circuit pressure value to my display.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I am seeing give me the liquid coolant pressure reading.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Any update on can I get a current liquid coolant pressure report?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could I hear let us look at the liquid coolant pressure again.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "On my display, let us look at the liquid circuit pressure again.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How is where does the liquid-side pressure stand?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Do we have can you read the coolant liquid pressure back?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Current I want to compare the liquid loop pressure now.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Give me could you bring up the liquid loop pressure reading?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Status on is the liquid circuit pressure holding steady?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "One more thing, verify the liquid loop pressure from telemetry.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could you check what are we getting for coolant liquid pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could you check give me the coolant liquid pressure reading.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "What is liquid circuit pressure, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Houston, give me the liquid-side pressure reading.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Is the what is the liquid coolant pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "What is let us look at the liquid circuit pressure again.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Give me read the liquid circuit pressure aloud, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How is read the liquid-side pressure aloud, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Show me give me the liquid coolant pressure reading.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could you check read the liquid circuit pressure aloud, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Hey, where does the coolant liquid pressure stand?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Let me get can you read the coolant liquid pressure back?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "How is check telemetry for the liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Quick check: where does the liquid loop pressure stand?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Okay, I am trying to confirm the coolant liquid pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Uh, I want to compare the liquid loop pressure now.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Is the pull the liquid-side pressure for me.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Are we seeing please confirm the liquid coolant pressure on the suit.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could I get where does the liquid-side pressure stand?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Is the liquid-side pressure, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Confirm give me the latest liquid-side pressure, over.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Do we have read the liquid circuit pressure aloud, please.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Show me where does the liquid coolant pressure stand?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Can you tell me let us look at the liquid-side pressure again.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Hey, can I get a current liquid circuit pressure report?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Could I hear I missed that; repeat the liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Copy, can I get a current liquid coolant pressure report?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Before I move, what are we getting for liquid coolant pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I am checking verify the liquid loop pressure from telemetry.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Need let us look at the liquid-side pressure again.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Status on please call out the liquid-side pressure when ready.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "Report can you read the coolant liquid pressure back?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I am checking could you bring up the coolant liquid pressure reading?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "EVA check: can you read the coolant liquid pressure back?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "I am checking I need the liquid-side pressure on this pass.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "coolant liquid loop pressure liquid loop pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "coolant liquid loop pressure coolant liquid pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "coolant liquid loop pressure liquid-side pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "coolant liquid loop pressure liquid coolant pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "coolant liquid loop pressure liquid circuit pressure?", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "liquid loop pressure, coolant liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "coolant liquid pressure, coolant liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "liquid-side pressure, coolant liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "liquid coolant pressure, coolant liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "liquid circuit pressure, coolant liquid loop pressure.", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "uh coolant liquid loop pressure liquid loop pressure check 1", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}
+{"text": "uh coolant liquid loop pressure coolant liquid pressure check 2", "intents": ["get_coolant_liquid_pressure"], "source": "llm"}

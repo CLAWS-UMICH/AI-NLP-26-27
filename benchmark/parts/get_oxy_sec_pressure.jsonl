@@ -1,0 +1,25 @@
+{"text": "Secondary O2-tank pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "O2 secondary-cylinder pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Secondary oxygen-bottle pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Oxygen-cylinder secondary pressure?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Check if the secondary oxygen bottle pressure reads 210 kPa.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "On the secondary oxygen cylinder, what pressure does the digital dial show?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Valve display, read secondary O2 tank pressure in psi.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Report the secondary tank gauge's O2 pressure with units.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "For my switch checklist, record psi pressure inside the secondary oxygen tank.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "read back secondary oxygen tank pressure in kpa", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Read the secondary oxygen cylinder pressure aloud.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "I'm at the regulator changeover; read the pressure inside the secondary O2 tank in kPa.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Request pressure in the secondary oxygen cylinder.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "At next worksite, check secondary oxygen tank pressure before switch-over.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Send the pressure from my secondary oxygen bottle to the wrist unit.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Gauge display: what pressure does the secondary oxygen cylinder show?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Um, check pressure in the secondary oxygen tank before I climb.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "For the switch checklist, note the secondary oxygen-cylinder gauge pressure in psi.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "At the next stop, verify the pressure reading inside the secondary oxygen tank before I proceed.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "My secondary oxygen cylinder needs a pressure check; state the gauge value and unit.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Would you read the pressure from the secondary O2 bottle while I switch to that supply?", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Copy, report secondary oxygen tank pressure before isolating its line from the suit.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "When I reach the traverse, warn me if pressure in the secondary oxygen cylinder is under 190 kPa.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "flight confirm pressure inside secondary oxygen cylinder now prior to opening its valve", "intents": ["get_oxy_sec_pressure"], "source": "llm"}
+{"text": "Before I release the secondary oxygen tank latch, I need its internal pressure reading.", "intents": ["get_oxy_sec_pressure"], "source": "llm"}

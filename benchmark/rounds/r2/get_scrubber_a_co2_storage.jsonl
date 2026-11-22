@@ -1,0 +1,25 @@
+{"text": "What CO2 load is being held in scrubber A?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Please retrieve scrubber A’s unused carbon dioxide storage capacity.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "How full is scrubber A’s carbon media with captured CO2?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could you read the stored carbon dioxide amount for scrubber A?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Check whether scrubber A has room left to collect more CO2.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Flight, give me the CO2 storage utilization for scrubber A’s cartridge as a percentage.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Would you report the captured CO2 load retained by scrubber A’s canister?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Before I switch loops, tell me how much CO2 storage is left in scrubber A.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "please query scrubber a for its carbon dioxide fill level", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "read remaining co2 holding capacity in scrubber a", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "check scrubber A storage headroom for captured carbon dioxide", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "get scrubber a co2 media loading percentage", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "could you report the quantity of co2 held in scrubber a’s filter", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "For the maintenance note, state how saturated scrubber A is with stored carbon dioxide.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Uh, pull the remaining CO2 capture space in the scrubber A cartridge.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Scrubber A is active; retrieve its carbon dioxide storage reading, not pressure.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Can you verify what share of scrubber A’s canister capacity is occupied by CO2?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "While I hold the airlock rail, report scrubber A’s collected carbon dioxide mass.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Would you say how much room remains in scrubber A’s CO2 collection bed?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Okay, read the stored CO2 quantity in scrubber A’s carbon collection medium.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Please give the fill fraction for scrubber A’s carbon dioxide adsorbent.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could I get the percentage of CO2 capacity already used in scrubber A?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Flight, call out scrubber A’s retained carbon dioxide amount in grams.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Before the next EVA segment, check scrubber A’s remaining storage for CO2.", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}
+{"text": "Could you report the stored CO2 capacity in the scrubber A canister?", "intents": ["get_scrubber_a_co2_storage"], "source": "llm"}

@@ -1,0 +1,122 @@
+[
+  {
+    "label": "get_secondary_battery_level",
+    "text": "Okay, give me the remaining charge on the backup pack."
+  },
+  {
+    "label": "get_primary_battery_level",
+    "text": "Report primary battery level, not voltage."
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "text": "Time since EVA start, please."
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "text": "Secondary battery level?"
+  },
+  {
+    "label": "get_warnings",
+    "text": "Flight, report any active suit warnings before I proceed."
+  },
+  {
+    "label": "get_co2_production",
+    "text": "What is my carbon dioxide production per minute?"
+  },
+  {
+    "label": "get_warnings",
+    "text": "Okay, check for active EVA warnings on my display."
+  },
+  {
+    "label": "get_heart_rate",
+    "text": "Requesting my pulse in beats per minute, please."
+  },
+  {
+    "label": "get_warnings",
+    "text": "My alert banner disappeared; what warnings are still active?"
+  },
+  {
+    "label": "get_warnings",
+    "text": "Requesting a status report of active EVA alarms."
+  },
+  {
+    "label": "get_heart_rate",
+    "text": "Uh, what is my heart rate?"
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "text": "Could you report the time already spent outside?"
+  },
+  {
+    "label": "get_co2_production",
+    "text": "CO2 production rate?"
+  },
+  {
+    "label": "get_heart_rate",
+    "text": "Give me the current beats per minute reading."
+  },
+  {
+    "label": "get_heart_rate",
+    "text": "My display is dim; read the pulse value aloud."
+  },
+  {
+    "label": "get_primary_battery_level",
+    "text": "Can you confirm the main battery is at what percentage?"
+  },
+  {
+    "label": "get_primary_battery_level",
+    "text": "Okay, give me the charge remaining in the main battery."
+  },
+  {
+    "label": "get_co2_production",
+    "text": "CO2 output rate, quick."
+  },
+  {
+    "label": "get_co2_production",
+    "text": "How fast am I generating CO2?"
+  },
+  {
+    "label": "get_primary_battery_level",
+    "text": "I am checking reserves; what level is the primary battery showing?"
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "text": "EVA duration elapsed, now."
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "text": "Read the charge level on battery two."
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "text": "I have been out here a while; how much time has elapsed?"
+  },
+  {
+    "label": "get_primary_battery_level",
+    "text": "Primary battery state of charge, now."
+  },
+  {
+    "label": "get_heart_rate",
+    "text": "What is my pulse right now?"
+  },
+  {
+    "label": "get_eva_elapsed_time",
+    "text": "Okay, check how long since I exited the airlock."
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "text": "Uh, how much charge is left in the reserve battery?"
+  },
+  {
+    "label": "get_warnings",
+    "text": "Uh, do I have any active alerts?"
+  },
+  {
+    "label": "get_secondary_battery_level",
+    "text": "Flight, report the secondary battery percentage."
+  },
+  {
+    "label": "get_co2_production",
+    "text": "hey co two production rate now"
+  }
+]

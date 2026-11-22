@@ -1,0 +1,25 @@
+{"text": "Dismiss the active HUD menu on my visor.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you close the current display panel?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Hide the open window so I can see the worksite.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Flight, clear the active menu from my helmet screen.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you dismiss whichever HUD panel is open right now?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Uh, close the menu currently covering my display.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please shut the active interface window before I move.", "intents": ["close_menu"], "source": "llm"}
+{"text": "close the active hud menu", "intents": ["close_menu"], "source": "llm"}
+{"text": "dismiss the current panel on my visor", "intents": ["close_menu"], "source": "llm"}
+{"text": "hide the open display window please", "intents": ["close_menu"], "source": "llm"}
+{"text": "close whatever menu is active", "intents": ["close_menu"], "source": "llm"}
+{"text": "clear the hud screen of its open panel", "intents": ["close_menu"], "source": "llm"}
+{"text": "dismiss that menu from the helmet display", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can you remove the current menu from view?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Okay, close the panel that is open on my wrist screen.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please dismiss the active HUD window so I can see the tether.", "intents": ["close_menu"], "source": "llm"}
+{"text": "I am done with this display; close the current menu for me.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Would you clear the open interface from my visor before I continue?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Uh, remove the menu that is covering my helmet view.", "intents": ["close_menu"], "source": "llm"}
+{"text": "close my currently active display panel now", "intents": ["close_menu"], "source": "llm"}
+{"text": "Could you hide the active menu without changing anything else?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Please exit the open HUD window so the worksite is visible.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Dismiss the panel currently displayed on my suit screen.", "intents": ["close_menu"], "source": "llm"}
+{"text": "Can you close the menu I have open at the moment?", "intents": ["close_menu"], "source": "llm"}
+{"text": "Houston, please dismiss the active HUD menu so I can see the handrail and continue the tethered transfer.", "intents": ["close_menu"], "source": "llm"}

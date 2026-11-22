@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "text": "Telemetry, please return the coolant gas circuit pressure reading."
+  },
+  {
+    "id": 2,
+    "text": "uh fetch coolant vapor line psi"
+  },
+  {
+    "id": 3,
+    "text": "Could Houston retrieve a pressure value at the coolant liquid pump outlet?"
+  },
+  {
+    "id": 4,
+    "text": "Can you pull the coolant liquid pressure sensor reading for me now?"
+  },
+  {
+    "id": 5,
+    "text": "Could I get the coolant reserve volume?"
+  },
+  {
+    "id": 6,
+    "text": "Could telemetry return revolutions per minute from the primary fan tachometer?"
+  },
+  {
+    "id": 7,
+    "text": "query the tachometer for primary fan rotation rpm"
+  },
+  {
+    "id": 8,
+    "text": "Can telemetry report the primary fan motor RPM value?"
+  },
+  {
+    "id": 9,
+    "text": "primary airflow fan rpm reading please"
+  },
+  {
+    "id": 10,
+    "text": "For the log, retrieve revolutions per minute from the secondary ventilation fan."
+  },
+  {
+    "id": 11,
+    "text": "Query helmet CO2 pressure via its sensor."
+  },
+  {
+    "id": 12,
+    "text": "Fetch helmet CO2 pressure telemetry."
+  },
+  {
+    "id": 13,
+    "text": "Mission log needs a reading from the primary oxygen cylinder pressure gauge."
+  },
+  {
+    "id": 14,
+    "text": "Primary oxygen tank psi?"
+  },
+  {
+    "id": 15,
+    "text": "How much tank pressure is indicated for secondary oxygen right now?"
+  },
+  {
+    "id": 16,
+    "text": "uh secondary oxygen tank gauge show pressure in bar"
+  },
+  {
+    "id": 17,
+    "text": "At the hatch, query the mass of CO2 retained in scrubber A's cartridge."
+  },
+  {
+    "id": 18,
+    "text": "Report remaining CO2 storage inside scrubber A."
+  },
+  {
+    "id": 19,
+    "text": "check the eva suit telemetry for oxygen partial pressure value now"
+  },
+  {
+    "id": 20,
+    "text": "What is oxygen's partial pressure within my EVA suit?"
+  },
+  {
+    "id": 21,
+    "text": "Suit oxygen pO2 value?"
+  },
+  {
+    "id": 22,
+    "text": "Retrieve the spacesuit O2 partial pressure from the cabin breathing monitor."
+  },
+  {
+    "id": 23,
+    "text": "How does the suit console report oxygen partial pressure in mmHg?"
+  },
+  {
+    "id": 24,
+    "text": "Request the suit's carbon-dioxide component pressure from telemetry."
+  },
+  {
+    "id": 25,
+    "text": "read suit total pressure across all gases"
+  },
+  {
+    "id": 26,
+    "text": "show me coolant liquid circuit pressure"
+  },
+  {
+    "id": 27,
+    "text": "Delete waypoint Cabeus"
+  }
+]

@@ -1,0 +1,25 @@
+{"text": "Mission log needs a reading from the primary oxygen cylinder pressure gauge.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "What does the primary O2 cylinder's pressure gauge show?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary oxygen tank pressure check, can you send the value?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Could you measure pressure in the primary oxygen vessel?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Tell me the primary cylinder pressure for the O2 supply.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "I need tank pressure from the primary oxygen bottle.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Pressure in primary oxygen tank one, in kPa?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Please report pressure, not contents, from the primary O2 tank.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "What's the gauge pressure of the primary oxygen reservoir right now?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Would you check the primary tank's oxygen pressure reading?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "hey read primary oxygen cylinder pressure in psi", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Flight, give me the pressure value for the primary O2 bottle.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Can you state the current pressure inside the primary oxygen tank?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Need a quick pressure measurement for primary tank oxygen.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "What's the primary oxygen supply cylinder registering for pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Read the pressure gauge on the primary O2 storage vessel, please.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Is pressure in the primary oxygen tank holding at 210 bar?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Could I get the primary cylinder's oxygen pressure in kPa?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Report the measured pressure of oxygen in the primary tank.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Check the primary O2 tank pressure sensor and relay its reading.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "uh what's the pressure in my primary oxygen tank", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Please give the tank-pressure reading for primary oxygen now.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "How much pressure is inside the primary O2 supply cylinder?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "The primary oxygen bottle pressure, can you read it aloud?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Would you retrieve the current gauge value for pressure in the primary tank?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}

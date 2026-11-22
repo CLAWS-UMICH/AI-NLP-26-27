@@ -1,0 +1,25 @@
+{"text": "CO2 helmet pressure?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Could you sample the helmet space for CO2 partial pressure?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "What carbon-dioxide pressure is the helmet sensor detecting?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Please fetch CO2 pressure from the breathing volume inside my helmet.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Check the helmet-only partial pressure channel for carbon dioxide.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Flight, report the pressure contribution of CO2 inside the helmet.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Would you give me the carbon dioxide reading around my faceplate?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "How high is CO2 partial pressure in the helmet enclosure?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "get my helmet co2 pressure value", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "read carbon dioxide pressure from helmet telemetry", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "please sample c o two pressure inside the helmet", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "query helmet air carbon dioxide partial pressure", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "check the helmet sensor for co2 pressure please", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Before I reach for the wrench, tell me the helmet atmosphere CO2 pressure.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Uh, I need the partial pressure of carbon dioxide from the helmet cavity.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "The suit circuit is not the target; pull the CO2 pressure around my head.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Can you verify what pressure carbon dioxide adds to the helmet air mixture?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Would you read back the helmet environmental value for CO2 in kPa?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "For the face seal check, report carbon dioxide pressure measured inside the helmet.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Okay, retrieve the helmet sensor’s partial-pressure number for carbon dioxide.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "I missed the reading; repeat CO2 pressure from inside the helmet space.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Please state the helmet-only pressure value for the carbon dioxide component.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "Could Flight call out the partial pressure CO2 has in my helmet atmosphere?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "At the hatch, query the carbon dioxide pressure channel in the helmet.", "intents": ["get_helmet_pressure_co2"], "source": "llm"}
+{"text": "On this sample, can you retrieve CO2 pressure from the helmet breathing space?", "intents": ["get_helmet_pressure_co2"], "source": "llm"}

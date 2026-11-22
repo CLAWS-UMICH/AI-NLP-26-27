@@ -1,0 +1,25 @@
+{"text": "Primary fan RPM?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "please query the primary fan tachometer and send the rpm reading", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could telemetry show the primary fan rotation speed in RPM?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Flight, verify the primary ventilation rotor RPM before I cross the strut.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "primary fan rpm reading please", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Uh, I lost the number; could you resend the primary fan RPM?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "call out the primary circulation fan rpm while i climb", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Confirm the primary fan motor RPM on my suit display.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "I need the primary fan tachometer count now, stated in RPM.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Primary fan revolutions-per-minute value, please.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Check how fast my primary suit fan is spinning and report its RPM.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Okay, pull the primary fan RPM before I continue the EVA.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "The main feed is stable; request the primary fan’s current RPM from telemetry.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "What revolutions per minute is the primary airflow fan showing?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Please pull primary fan RPM; my visor is lagging again.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "send the primary fan rpm over the radio", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Compare the primary fan tach to the RPM readout on my display.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "read primary fan are pee em", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Would mission control send the RPM for my primary fan as I start the climb?", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "During handrail transfer, call out the primary fan’s measured revolutions per minute.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Verify that the primary ventilation fan RPM matches the last report.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Well, I hear a pitch shift in the primary fan; check its exact RPM now.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Um, for my log, fetch the latest RPM from the primary ventilation fan tach sensor.", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "read the primary fan motor rpm after telemetry refreshes", "intents": ["get_fan_pri_rpm"], "source": "llm"}
+{"text": "Could you put primary fan RPM on the EVA status channel, thanks?", "intents": ["get_fan_pri_rpm"], "source": "llm"}

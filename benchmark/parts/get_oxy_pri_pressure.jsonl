@@ -1,0 +1,25 @@
+{"text": "Primary O2-tank pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "O2 primary-cylinder pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Primary oxygen tank psi?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Oxygen-cylinder primary pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Pressure from the primary O2 tank, please.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "My regulator needs primary-tank pressure from the O2 gauge.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Gauge readout: pressure inside my primary oxygen tank.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Before attaching the hose, read pressure in the primary oxygen tank.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "The primary O2 bottle gauge pressure reading, could you send it?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "read back pressure in primary o2 tank in kpa", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "state primary oxygen cylinder pressure aloud", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Use the primary oxygen cylinder's gauge; report pressure in kilopascals.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "My primary oxygen tank pressure?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Report pressure inside the primary oxygen tank.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Telemetry, give primary oxygen tank pressure in kPa, not stored contents.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Mission control, send primary oxygen bottle pressure to my wrist unit.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Uh, check the pressure in the primary oxygen tank before I start climbing.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "For the EVA log, record the primary O2 cylinder pressure in kilopascals.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "At the ridge approach, verify the pressure reading inside the primary oxygen tank before I proceed.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Cylinder pressure is the concern; read pressure inside the primary oxygen tank and state its unit.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Would you read the pressure from the primary O2 bottle while I change the sampling bit?", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "Okay, report primary oxygen tank pressure before I isolate its line from the suit.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "If primary O2 tank pressure falls below 190 kPa, warn me before the slope.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "copy confirm pressure in primary oxygen cylinder now before the regulator swap", "intents": ["get_oxy_pri_pressure"], "source": "llm"}
+{"text": "My request is for primary oxygen tank pressure; do not send the contents percentage.", "intents": ["get_oxy_pri_pressure"], "source": "llm"}

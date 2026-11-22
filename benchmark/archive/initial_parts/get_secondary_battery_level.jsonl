@@ -1,0 +1,100 @@
+{"text": "quick check secondary battery level, read it?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Can you backup battery charge and read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Could you battery two remaining percentage and read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Please show secondary power reserve and read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Tell me secondary battery level and give me the current value on this EVA", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "I need backup battery charge, give me the current value on this EVA?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Let me battery two remaining percentage; give me the current value on this EVA", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "status on secondary power reserve, give me the current value on this eva", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Read back secondary battery level, what percentage remains before I continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How is backup battery charge what percentage remains before I continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "What is battery two remaining percentage what percentage remains before I continue?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Give me secondary power reserve and what percentage remains before I continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Check my secondary battery level and check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Uh can backup battery charge; check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "okay so battery two remaining percentage; check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Need the secondary power reserve, check the charge please?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Confirm my secondary battery level and report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Pull up backup battery charge and report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Display the battery two remaining percentage and report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Report the secondary power reserve and report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Hey flight secondary battery level; read it uh?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "ground do backup battery charge; read it uh", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Copy requesting battery two remaining percentage, read it uh", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "I am secondary power reserve; read it uh", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Am I secondary battery level give me the current value right away", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Do we backup battery charge give me the current value right away?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Any current battery two remaining percentage give me the current value right away", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Requesting a secondary power reserve, give me the current value right away", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "one quick secondary battery level, what percentage remains for the log", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Before moving backup battery charge; what percentage remains for the log", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "While paused battery two remaining percentage; what percentage remains for the log?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "On my secondary power reserve; what percentage remains for the log", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "For my secondary battery level; check the charge no punctuation", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "At this backup battery charge; check the charge no punctuation", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Right now battery two remaining percentage; check the charge no punctuation", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "please confirm secondary power reserve; check the charge no punctuation?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Could flight secondary battery level and report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Uh status backup battery charge, report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Okay what battery two remaining percentage; report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Need a secondary power reserve, report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Just checking secondary battery level, read it?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Can flight backup battery charge and read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "read my battery two remaining percentage and read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Show the secondary power reserve and read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "What are secondary battery level give me the current value on this EVA", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How many backup battery charge give me the current value on this EVA?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Is my battery two remaining percentage give me the current value on this EVA", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Checking the secondary power reserve, give me the current value on this EVA", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "A quick secondary battery level, what percentage remains before I continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "need current backup battery charge, what percentage remains before i continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Quick check battery two remaining percentage, what percentage remains before I continue?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Can you secondary power reserve and what percentage remains before I continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Could you secondary battery level and check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Please show backup battery charge and check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Tell me battery two remaining percentage and check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "I need secondary power reserve, check the charge please?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "let me secondary battery level; report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Status on backup battery charge, report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Read back battery two remaining percentage, report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How is secondary power reserve report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "What is secondary battery level read it uh?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Give me backup battery charge and read it uh", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Check my battery two remaining percentage and read it uh", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "uh can secondary power reserve; read it uh", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Okay so secondary battery level; give me the current value right away", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Need the backup battery charge, give me the current value right away?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Confirm my battery two remaining percentage and give me the current value right away", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Pull up secondary power reserve and give me the current value right away", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Display the secondary battery level and what percentage remains for the log", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Report the backup battery charge and what percentage remains for the log", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "hey flight battery two remaining percentage; what percentage remains for the log?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Ground do secondary power reserve; what percentage remains for the log", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Copy requesting secondary battery level, check the charge no punctuation", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "I am backup battery charge; check the charge no punctuation", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Am I battery two remaining percentage check the charge no punctuation", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Do we secondary power reserve check the charge no punctuation?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Any current secondary battery level report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "requesting a backup battery charge, report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "One quick battery two remaining percentage, report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Before moving secondary power reserve; report the number during this traverse", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "While paused secondary battery level; read it?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "On my backup battery charge; read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "For my battery two remaining percentage; read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "At this secondary power reserve; read it", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "right now secondary battery level; give me the current value on this eva", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Please confirm backup battery charge; give me the current value on this EVA?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Could flight battery two remaining percentage and give me the current value on this EVA", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Uh status secondary power reserve, give me the current value on this EVA", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Okay what secondary battery level; what percentage remains before I continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Need a backup battery charge, what percentage remains before I continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Just checking battery two remaining percentage, what percentage remains before I continue?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "can flight secondary power reserve and what percentage remains before i continue", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Read my secondary battery level and check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Show the backup battery charge and check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "What are battery two remaining percentage check the charge please", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "How many secondary power reserve check the charge please?", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Is my secondary battery level report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Checking the backup battery charge, report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "a quick battery two remaining percentage, report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}
+{"text": "Need current secondary power reserve, report the number over comms", "intents": ["get_secondary_battery_level"], "source": "llm"}

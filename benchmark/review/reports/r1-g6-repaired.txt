@@ -1,0 +1,43 @@
+rows=150 labels=6 mean_words=8.44
+COUNT get_oxy_pri_storage: 0
+COUNT get_oxy_sec_storage: 0
+COUNT get_oxy_pri_pressure: 0
+COUNT get_oxy_sec_pressure: 0
+COUNT get_suit_pressure_oxy: 0
+COUNT get_suit_pressure_co2: 0
+COUNT get_suit_pressure_other: 0
+COUNT get_suit_pressure_total: 0
+COUNT get_helmet_pressure_co2: 0
+COUNT get_fan_pri_rpm: 0
+COUNT get_fan_sec_rpm: 0
+COUNT get_scrubber_a_co2_storage: 0
+COUNT get_scrubber_b_co2_storage: 0
+COUNT get_temperature: 0
+COUNT get_coolant_storage: 0
+COUNT get_coolant_gas_pressure: 0
+COUNT get_coolant_liquid_pressure: 0
+COUNT get_heart_rate: 0
+COUNT get_oxy_consumption: 0
+COUNT get_co2_production: 0
+COUNT get_eva_elapsed_time: 0
+COUNT get_primary_battery_level: 0
+COUNT get_secondary_battery_level: 0
+COUNT get_warnings: 0
+COUNT open_menu_vitals: 0
+COUNT open_menu_navigation: 0
+COUNT open_menu_tasks: 0
+COUNT open_menu_uia: 0
+COUNT close_menu: 0
+COUNT Get_coordinates: 25
+COUNT Set_navigation_target: 25
+COUNT reroute_navigation: 0
+COUNT Add_waypoint: 25
+COUNT Delete_waypoint: 25
+COUNT Complete_task: 25
+COUNT unhandled: 25
+STYLE_RATES [["question", 0.12, 0.24], ["filler", 0.02666666666666667, 0.02666666666666667], ["no_punctuation_or_lowercase", 0.11333333333333333, 0.11333333333333333], ["asr", 0.19333333333333333, 0.19333333333333333]]
+INTENT_STYLE {"Get_coordinates": {"question": 0.36, "filler": 0.04, "no_punctuation_or_lowercase": 0.12, "asr": 0.2}, "Set_navigation_target": {"question": 0.08, "filler": 0.04, "no_punctuation_or_lowercase": 0.12, "asr": 0.24}, "Add_waypoint": {"question": 0.08, "filler": 0.0, "no_punctuation_or_lowercase": 0.12, "asr": 0.2}, "Delete_waypoint": {"question": 0.04, "filler": 0.0, "no_punctuation_or_lowercase": 0.08, "asr": 0.2}, "Complete_task": {"question": 0.08, "filler": 0.04, "no_punctuation_or_lowercase": 0.08, "asr": 0.32}, "unhandled": {"question": 0.08, "filler": 0.04, "no_punctuation_or_lowercase": 0.16, "asr": 0.0}}
+STYLE_PROBE accuracy=0.2533
+CONTENT_PROBE accuracy=0.6267
+TOP_CONFUSIONS [[["Add_waypoint", "Delete_waypoint"], 10], [["Delete_waypoint", "Add_waypoint"], 8], [["unhandled", "Set_navigation_target"], 6], [["unhandled", "Get_coordinates"], 5], [["Set_navigation_target", "Add_waypoint"], 4], [["Add_waypoint", "Set_navigation_target"], 4], [["unhandled", "Delete_waypoint"], 4], [["Get_coordinates", "Add_waypoint"], 2], [["Set_navigation_target", "Get_coordinates"], 2], [["Delete_waypoint", "Complete_task"], 2]]
+GATES: 0 issue(s)

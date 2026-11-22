@@ -1,0 +1,25 @@
+{"text": "Oxygen use speed?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "O2 draw rate?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Oxygen draw pace?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Suit O2 flow-rate?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "O2 use/minute?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Oxygen hourly draw?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Report oxygen use rate.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Report O2 consumption per minute.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Check my suit oxygen draw rate.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "read oxygen use rate liters per hour", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "uh tell me oxygen draw per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Telemetry keeps fluctuating; before I continue the traverse, report my suit oxygen consumption rate in liters per hour.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Tell me how rapidly the suit consumes oxygen during this climb.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Give oxygen consumption rate per hour.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Okay, the suit is working hard; report my oxygen consumption rate now.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "read the o2 draw from telemetry as liters per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Read my oxygen burn rate in liters per hour.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Can you compare my oxygen flow rate against the normal suit consumption?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Before I cross the ridge, tell me how many liters of oxygen the suit uses each hour.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Um, I am breathing harder than usual; measure the oxygen consumption rate per minute.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Would you send the suit oxygen usage rate to the wrist display in liters per hour?", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "the remaining tank amount is not the question calculate oxygen consumed per minute", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Okay, read the oxygen consumption rate from suit telemetry and say the unit aloud.", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "mission control compare current oxygen use with normal liters per hour", "intents": ["get_oxy_consumption"], "source": "llm"}
+{"text": "Urgent, report the current rate of oxygen consumption before I continue the long traverse.", "intents": ["get_oxy_consumption"], "source": "llm"}

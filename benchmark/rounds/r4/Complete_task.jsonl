@@ -1,0 +1,25 @@
+{"text": "Would you mark the checklist task site 8 as complete in my EVA task panel before I continue across the work area?", "intents": ["Complete_task"], "source": "llm", "slot": "site 8"}
+{"text": "Would you set Haworth Station as completed on my EVA checklist?", "intents": ["Complete_task"], "source": "llm", "slot": "Haworth Station"}
+{"text": "Could you mark Prospector 3 complete in the EVA task panel?", "intents": ["Complete_task"], "source": "llm", "slot": "Prospector 3"}
+{"text": "Can you check Luna Outpost off the EVA list as done?", "intents": ["Complete_task"], "source": "llm", "slot": "Luna Outpost"}
+{"text": "Could you set the task named Borman Point to complete?", "intents": ["Complete_task"], "source": "llm", "slot": "Borman Point"}
+{"text": "Will you log Aitken Station as accomplished on the checklist?", "intents": ["Complete_task"], "source": "llm", "slot": "Aitken Station"}
+{"text": "Would you close out the mission task Polar Relay?", "intents": ["Complete_task"], "source": "llm", "slot": "Polar Relay"}
+{"text": "Can you mark Littrow Valley completed before I move to the next step?", "intents": ["Complete_task"], "source": "llm", "slot": "Littrow Valley"}
+{"text": "Could the task Conrad Crater be signed off as finished?", "intents": ["Complete_task"], "source": "llm", "slot": "Conrad Crater"}
+{"text": "Please mark task Gateway Node 2 off the pending queue.", "intents": ["Complete_task"], "source": "llm", "slot": "Gateway Node 2"}
+{"text": "The item named Scott Station is accomplished; log it.", "intents": ["Complete_task"], "source": "llm", "slot": "Scott Station"}
+{"text": "Check the sample Alpha task as complete so the list advances", "intents": ["Complete_task"], "source": "llm", "slot": "sample Alpha"}
+{"text": "Change Rover 8 to done in my EVA checklist.", "intents": ["Complete_task"], "source": "llm", "slot": "Rover 8"}
+{"text": "Tycho Station, would you log that checklist task as complete?", "intents": ["Complete_task"], "source": "llm", "slot": "Tycho Station"}
+{"text": "close out the objective called Tycho Station.", "intents": ["Complete_task"], "source": "llm", "slot": "Tycho Station"}
+{"text": "Mission control, mark Nansen Ridge as completed on the list.", "intents": ["Complete_task"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "Confirm the Nansen Ridge entry is now finished.", "intents": ["Complete_task"], "source": "llm", "slot": "Nansen Ridge"}
+{"text": "I have wrapped up task Falcon 2; mark it complete.", "intents": ["Complete_task"], "source": "llm", "slot": "Falcon 2"}
+{"text": "Update the checklist to show Falcon 2 done.", "intents": ["Complete_task"], "source": "llm", "slot": "Falcon 2"}
+{"text": "Please put a completion check beside Miller Outpost", "intents": ["Complete_task"], "source": "llm", "slot": "Miller Outpost"}
+{"text": "Task Miller Outpost is finished on my end; log that status.", "intents": ["Complete_task"], "source": "llm", "slot": "Miller Outpost"}
+{"text": "Set the task record South Pole Relay to complete now.", "intents": ["Complete_task"], "source": "llm", "slot": "South Pole Relay"}
+{"text": "mark South Pole Relay as accomplished in the mission panel.", "intents": ["Complete_task"], "source": "llm", "slot": "South Pole Relay"}
+{"text": "I am all done with sample bag 4; check off the task.", "intents": ["Complete_task"], "source": "llm", "slot": "sample bag 4"}
+{"text": "Record completion for the named checklist item sample bag 4.", "intents": ["Complete_task"], "source": "llm", "slot": "sample bag 4"}
