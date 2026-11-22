@@ -1,0 +1,482 @@
+{"text": "what's my primary oxygen storage", "intent": "get_oxy_pri_storage"}
+{"text": "okay houston, primary o2 storage level?", "intent": "get_oxy_pri_storage"}
+{"text": "how much oxygen is left in the primary tank", "intent": "get_oxy_pri_storage"}
+{"text": "uh check primary oxy storage for me", "intent": "get_oxy_pri_storage"}
+{"text": "roger. and what's the primary tank at, storage wise", "intent": "get_oxy_pri_storage"}
+{"text": "primary oxygen percent remaining", "intent": "get_oxy_pri_storage"}
+{"text": "give me the pri o2 storage reading", "intent": "get_oxy_pri_storage"}
+{"text": "how full is my primary oxygen", "intent": "get_oxy_pri_storage"}
+{"text": "okay, i need primary o2 storage", "intent": "get_oxy_pri_storage"}
+{"text": "read out primary oxygen storage please", "intent": "get_oxy_pri_storage"}
+{"text": "what percent is the primary o2 tank holding", "intent": "get_oxy_pri_storage"}
+{"text": "primary storage, oxygen, where are we at", "intent": "get_oxy_pri_storage"}
+{"text": "secondary oxygen storage?", "intent": "get_oxy_sec_storage"}
+{"text": "okay, how much o2 is left in secondary", "intent": "get_oxy_sec_storage"}
+{"text": "what's the secondary tank storage at", "intent": "get_oxy_sec_storage"}
+{"text": "roger, um, sec o2 storage level", "intent": "get_oxy_sec_storage"}
+{"text": "check secondary oxygen remaining", "intent": "get_oxy_sec_storage"}
+{"text": "how full is the secondary oxygen tank", "intent": "get_oxy_sec_storage"}
+{"text": "houston, need secondary o2 storage percentage", "intent": "get_oxy_sec_storage"}
+{"text": "tell me secondary oxygen storage", "intent": "get_oxy_sec_storage"}
+{"text": "what do i have in the secondary o2, storage", "intent": "get_oxy_sec_storage"}
+{"text": "okay and the secondary oxygen, how much is left", "intent": "get_oxy_sec_storage"}
+{"text": "secondary o2 percent", "intent": "get_oxy_sec_storage"}
+{"text": "give me the - the secondary oxygen storage", "intent": "get_oxy_sec_storage"}
+{"text": "primary oxygen pressure", "intent": "get_oxy_pri_pressure"}
+{"text": "okay what's the primary o2 tank pressure", "intent": "get_oxy_pri_pressure"}
+{"text": "check pressure on the primary oxygen tank", "intent": "get_oxy_pri_pressure"}
+{"text": "roger. primary o2 pressure reading?", "intent": "get_oxy_pri_pressure"}
+{"text": "how's primary tank pressure looking", "intent": "get_oxy_pri_pressure"}
+{"text": "give me pri oxy pressure", "intent": "get_oxy_pri_pressure"}
+{"text": "uh, what pressure is the primary oxygen at", "intent": "get_oxy_pri_pressure"}
+{"text": "houston, primary o2 pressure please", "intent": "get_oxy_pri_pressure"}
+{"text": "read primary oxygen tank pressure", "intent": "get_oxy_pri_pressure"}
+{"text": "is the primary o2 holding pressure", "intent": "get_oxy_pri_pressure"}
+{"text": "primary tank pressure, oxygen, what's it say", "intent": "get_oxy_pri_pressure"}
+{"text": "okay i need the - the primary oxygen pressure number", "intent": "get_oxy_pri_pressure"}
+{"text": "secondary oxygen pressure", "intent": "get_oxy_sec_pressure"}
+{"text": "okay what's the secondary o2 tank pressure", "intent": "get_oxy_sec_pressure"}
+{"text": "check pressure on secondary oxygen", "intent": "get_oxy_sec_pressure"}
+{"text": "roger. sec o2 pressure?", "intent": "get_oxy_sec_pressure"}
+{"text": "how's the secondary tank pressure doing", "intent": "get_oxy_sec_pressure"}
+{"text": "give me secondary oxy pressure", "intent": "get_oxy_sec_pressure"}
+{"text": "uh, what's secondary oxygen pressurized to", "intent": "get_oxy_sec_pressure"}
+{"text": "houston, secondary o2 pressure please", "intent": "get_oxy_sec_pressure"}
+{"text": "read secondary oxygen tank pressure", "intent": "get_oxy_sec_pressure"}
+{"text": "is the secondary o2 tank holding pressure", "intent": "get_oxy_sec_pressure"}
+{"text": "pressure on the secondary, oxygen", "intent": "get_oxy_sec_pressure"}
+{"text": "okay i need the - the secondary o2 pressure", "intent": "get_oxy_sec_pressure"}
+{"text": "suit oxygen pressure", "intent": "get_suit_pressure_oxy"}
+{"text": "what's the o2 partial pressure in the suit", "intent": "get_suit_pressure_oxy"}
+{"text": "okay, suit o2 pressure reading", "intent": "get_suit_pressure_oxy"}
+{"text": "check oxygen partial pressure inside my suit", "intent": "get_suit_pressure_oxy"}
+{"text": "roger, and suit ppo2?", "intent": "get_suit_pressure_oxy"}
+{"text": "how much oxygen pressure is in the suit right now", "intent": "get_suit_pressure_oxy"}
+{"text": "give me suit pressure for oxygen", "intent": "get_suit_pressure_oxy"}
+{"text": "uh what's my suit o2 partial", "intent": "get_suit_pressure_oxy"}
+{"text": "houston, read suit oxygen pressure", "intent": "get_suit_pressure_oxy"}
+{"text": "suit pressure, o2 only", "intent": "get_suit_pressure_oxy"}
+{"text": "what is the oxygen partial pressure in the suit", "intent": "get_suit_pressure_oxy"}
+{"text": "okay need suit oxy pressure", "intent": "get_suit_pressure_oxy"}
+{"text": "suit co2 pressure", "intent": "get_suit_pressure_co2"}
+{"text": "what's the carbon dioxide partial pressure in my suit", "intent": "get_suit_pressure_co2"}
+{"text": "okay, check suit co2", "intent": "get_suit_pressure_co2"}
+{"text": "roger. suit pressure co2?", "intent": "get_suit_pressure_co2"}
+{"text": "how much co2 pressure is in the suit", "intent": "get_suit_pressure_co2"}
+{"text": "give me suit carbon dioxide reading", "intent": "get_suit_pressure_co2"}
+{"text": "uh, ppco2 in the suit", "intent": "get_suit_pressure_co2"}
+{"text": "houston, read me suit co2 partial pressure", "intent": "get_suit_pressure_co2"}
+{"text": "is co2 building up in the suit", "intent": "get_suit_pressure_co2"}
+{"text": "suit pressure for carbon dioxide please", "intent": "get_suit_pressure_co2"}
+{"text": "what's my suit co two at", "intent": "get_suit_pressure_co2"}
+{"text": "okay need the suit co2 number", "intent": "get_suit_pressure_co2"}
+{"text": "suit trace gas pressure", "intent": "get_suit_pressure_other"}
+{"text": "what's the other gas pressure in the suit", "intent": "get_suit_pressure_other"}
+{"text": "okay check suit pressure other", "intent": "get_suit_pressure_other"}
+{"text": "trace gases in the suit, what's the reading", "intent": "get_suit_pressure_other"}
+{"text": "roger. suit other pressure?", "intent": "get_suit_pressure_other"}
+{"text": "give me the non oxygen non co2 pressure in my suit", "intent": "get_suit_pressure_other"}
+{"text": "uh how much trace gas is in the suit", "intent": "get_suit_pressure_other"}
+{"text": "houston, suit other gas partial pressure", "intent": "get_suit_pressure_other"}
+{"text": "read the suit pressure other value", "intent": "get_suit_pressure_other"}
+{"text": "any trace gas pressure in the suit", "intent": "get_suit_pressure_other"}
+{"text": "what's suit pressure other at", "intent": "get_suit_pressure_other"}
+{"text": "okay need the suit trace gas number", "intent": "get_suit_pressure_other"}
+{"text": "total suit pressure", "intent": "get_suit_pressure_total"}
+{"text": "what's my overall suit pressure", "intent": "get_suit_pressure_total"}
+{"text": "okay, suit pressure total?", "intent": "get_suit_pressure_total"}
+{"text": "roger, check total pressure in the suit", "intent": "get_suit_pressure_total"}
+{"text": "how's the suit holding pressure overall", "intent": "get_suit_pressure_total"}
+{"text": "give me total suit psi", "intent": "get_suit_pressure_total"}
+{"text": "uh, suit total pressure reading", "intent": "get_suit_pressure_total"}
+{"text": "houston, read total suit pressure", "intent": "get_suit_pressure_total"}
+{"text": "is my total suit pressure good", "intent": "get_suit_pressure_total"}
+{"text": "what's the suit pressurized to, total", "intent": "get_suit_pressure_total"}
+{"text": "total pressure in the suit please", "intent": "get_suit_pressure_total"}
+{"text": "okay need the - the total suit pressure", "intent": "get_suit_pressure_total"}
+{"text": "helmet co2", "intent": "get_helmet_pressure_co2"}
+{"text": "what's the carbon dioxide pressure in my helmet", "intent": "get_helmet_pressure_co2"}
+{"text": "okay check helmet co2 pressure", "intent": "get_helmet_pressure_co2"}
+{"text": "roger. helmet co2 reading?", "intent": "get_helmet_pressure_co2"}
+{"text": "how much co2 is in the helmet", "intent": "get_helmet_pressure_co2"}
+{"text": "give me helmet carbon dioxide", "intent": "get_helmet_pressure_co2"}
+{"text": "uh, is co2 high in my helmet", "intent": "get_helmet_pressure_co2"}
+{"text": "houston, helmet co2 partial pressure please", "intent": "get_helmet_pressure_co2"}
+{"text": "read helmet pressure co2", "intent": "get_helmet_pressure_co2"}
+{"text": "what's co2 at inside the helmet", "intent": "get_helmet_pressure_co2"}
+{"text": "helmet co two level", "intent": "get_helmet_pressure_co2"}
+{"text": "okay need the helmet co2 number", "intent": "get_helmet_pressure_co2"}
+{"text": "primary fan rpm", "intent": "get_fan_pri_rpm"}
+{"text": "how fast is the primary fan spinning", "intent": "get_fan_pri_rpm"}
+{"text": "okay check primary fan speed", "intent": "get_fan_pri_rpm"}
+{"text": "roger, pri fan rpm?", "intent": "get_fan_pri_rpm"}
+{"text": "what's the primary circulation fan at", "intent": "get_fan_pri_rpm"}
+{"text": "give me primary fan speed", "intent": "get_fan_pri_rpm"}
+{"text": "uh is the primary fan running okay", "intent": "get_fan_pri_rpm"}
+{"text": "houston, read primary fan rpm", "intent": "get_fan_pri_rpm"}
+{"text": "primary fan, what's it reading", "intent": "get_fan_pri_rpm"}
+{"text": "what rpm is the primary vent fan doing", "intent": "get_fan_pri_rpm"}
+{"text": "primary fan revs", "intent": "get_fan_pri_rpm"}
+{"text": "okay need the - the primary fan number", "intent": "get_fan_pri_rpm"}
+{"text": "secondary fan rpm", "intent": "get_fan_sec_rpm"}
+{"text": "how fast is the secondary fan going", "intent": "get_fan_sec_rpm"}
+{"text": "okay check secondary fan speed", "intent": "get_fan_sec_rpm"}
+{"text": "roger. sec fan rpm?", "intent": "get_fan_sec_rpm"}
+{"text": "what's the secondary circulation fan at", "intent": "get_fan_sec_rpm"}
+{"text": "give me secondary fan speed", "intent": "get_fan_sec_rpm"}
+{"text": "uh is the secondary fan spinning", "intent": "get_fan_sec_rpm"}
+{"text": "houston, read secondary fan rpm", "intent": "get_fan_sec_rpm"}
+{"text": "secondary fan, what's it say", "intent": "get_fan_sec_rpm"}
+{"text": "what rpm is the backup fan, the secondary", "intent": "get_fan_sec_rpm"}
+{"text": "secondary fan revs", "intent": "get_fan_sec_rpm"}
+{"text": "okay need the - the secondary fan number", "intent": "get_fan_sec_rpm"}
+{"text": "scrubber a co2", "intent": "get_scrubber_a_co2_storage"}
+{"text": "how full is scrubber a", "intent": "get_scrubber_a_co2_storage"}
+{"text": "okay check scrubber a storage", "intent": "get_scrubber_a_co2_storage"}
+{"text": "roger. scrubber a co2 storage?", "intent": "get_scrubber_a_co2_storage"}
+{"text": "what's co2 storage on scrubber a", "intent": "get_scrubber_a_co2_storage"}
+{"text": "give me scrubber a level", "intent": "get_scrubber_a_co2_storage"}
+{"text": "uh how much co2 has scrubber a soaked up", "intent": "get_scrubber_a_co2_storage"}
+{"text": "houston, read scrubber a carbon dioxide storage", "intent": "get_scrubber_a_co2_storage"}
+{"text": "is scrubber a getting full", "intent": "get_scrubber_a_co2_storage"}
+{"text": "scrubber a percent", "intent": "get_scrubber_a_co2_storage"}
+{"text": "what percent is scrubber a at", "intent": "get_scrubber_a_co2_storage"}
+{"text": "okay need the - the scrubber a number", "intent": "get_scrubber_a_co2_storage"}
+{"text": "scrubber b co2", "intent": "get_scrubber_b_co2_storage"}
+{"text": "how full is scrubber b", "intent": "get_scrubber_b_co2_storage"}
+{"text": "okay check scrubber b storage", "intent": "get_scrubber_b_co2_storage"}
+{"text": "roger. scrubber b co2 storage?", "intent": "get_scrubber_b_co2_storage"}
+{"text": "what's the co2 storage in scrubber b", "intent": "get_scrubber_b_co2_storage"}
+{"text": "give me scrubber b level", "intent": "get_scrubber_b_co2_storage"}
+{"text": "uh how much co2 is in scrubber b", "intent": "get_scrubber_b_co2_storage"}
+{"text": "houston, read scrubber b carbon dioxide storage", "intent": "get_scrubber_b_co2_storage"}
+{"text": "is scrubber b close to full", "intent": "get_scrubber_b_co2_storage"}
+{"text": "scrubber b percent", "intent": "get_scrubber_b_co2_storage"}
+{"text": "what percent is scrubber b holding", "intent": "get_scrubber_b_co2_storage"}
+{"text": "okay need the - the scrubber b number", "intent": "get_scrubber_b_co2_storage"}
+{"text": "suit temperature", "intent": "get_temperature"}
+{"text": "how hot is it in my suit", "intent": "get_temperature"}
+{"text": "okay check temp", "intent": "get_temperature"}
+{"text": "roger. what's the internal temperature", "intent": "get_temperature"}
+{"text": "what's the suit temp reading", "intent": "get_temperature"}
+{"text": "give me temperature", "intent": "get_temperature"}
+{"text": "uh i'm feeling warm, what's the temp in here", "intent": "get_temperature"}
+{"text": "houston, read suit temperature", "intent": "get_temperature"}
+{"text": "how cold is it inside the suit", "intent": "get_temperature"}
+{"text": "temperature check", "intent": "get_temperature"}
+{"text": "what's my suit at temperature wise", "intent": "get_temperature"}
+{"text": "okay need the temp number", "intent": "get_temperature"}
+{"text": "coolant storage", "intent": "get_coolant_storage"}
+{"text": "how much coolant is left", "intent": "get_coolant_storage"}
+{"text": "okay check coolant level", "intent": "get_coolant_storage"}
+{"text": "roger. coolant storage percent?", "intent": "get_coolant_storage"}
+{"text": "what's the coolant tank at", "intent": "get_coolant_storage"}
+{"text": "give me coolant remaining", "intent": "get_coolant_storage"}
+{"text": "uh how full is the coolant", "intent": "get_coolant_storage"}
+{"text": "houston, read coolant storage", "intent": "get_coolant_storage"}
+{"text": "am i running low on coolant", "intent": "get_coolant_storage"}
+{"text": "coolant percentage", "intent": "get_coolant_storage"}
+{"text": "what's left in the coolant reservoir", "intent": "get_coolant_storage"}
+{"text": "okay need the coolant storage number", "intent": "get_coolant_storage"}
+{"text": "coolant gas pressure", "intent": "get_coolant_gas_pressure"}
+{"text": "what's the pressure on the coolant gas side", "intent": "get_coolant_gas_pressure"}
+{"text": "okay check coolant gas loop pressure", "intent": "get_coolant_gas_pressure"}
+{"text": "roger. gas coolant pressure?", "intent": "get_coolant_gas_pressure"}
+{"text": "how's the coolant gas loop pressure", "intent": "get_coolant_gas_pressure"}
+{"text": "give me coolant gas", "intent": "get_coolant_gas_pressure"}
+{"text": "uh, gas side coolant pressure reading", "intent": "get_coolant_gas_pressure"}
+{"text": "houston, read coolant gas pressure", "intent": "get_coolant_gas_pressure"}
+{"text": "is the coolant gas loop holding pressure", "intent": "get_coolant_gas_pressure"}
+{"text": "coolant pressure, gas", "intent": "get_coolant_gas_pressure"}
+{"text": "what's the gas coolant line at", "intent": "get_coolant_gas_pressure"}
+{"text": "okay need the coolant gas pressure number", "intent": "get_coolant_gas_pressure"}
+{"text": "coolant liquid pressure", "intent": "get_coolant_liquid_pressure"}
+{"text": "what's the pressure on the coolant liquid side", "intent": "get_coolant_liquid_pressure"}
+{"text": "okay check coolant liquid loop pressure", "intent": "get_coolant_liquid_pressure"}
+{"text": "roger. liquid coolant pressure?", "intent": "get_coolant_liquid_pressure"}
+{"text": "how's the coolant liquid loop pressure", "intent": "get_coolant_liquid_pressure"}
+{"text": "give me coolant liquid", "intent": "get_coolant_liquid_pressure"}
+{"text": "uh, liquid side coolant pressure reading", "intent": "get_coolant_liquid_pressure"}
+{"text": "houston, read coolant liquid pressure", "intent": "get_coolant_liquid_pressure"}
+{"text": "is the liquid cooling loop holding pressure", "intent": "get_coolant_liquid_pressure"}
+{"text": "coolant pressure, liquid", "intent": "get_coolant_liquid_pressure"}
+{"text": "what's the liquid coolant line at", "intent": "get_coolant_liquid_pressure"}
+{"text": "okay need the coolant liquid pressure number", "intent": "get_coolant_liquid_pressure"}
+{"text": "heart rate", "intent": "get_heart_rate"}
+{"text": "what's my heart rate", "intent": "get_heart_rate"}
+{"text": "okay check my pulse", "intent": "get_heart_rate"}
+{"text": "roger. how's my heart rate looking", "intent": "get_heart_rate"}
+{"text": "what's my bpm", "intent": "get_heart_rate"}
+{"text": "give me heart rate", "intent": "get_heart_rate"}
+{"text": "uh my heart's pounding, what's it at", "intent": "get_heart_rate"}
+{"text": "houston, read my heart rate", "intent": "get_heart_rate"}
+{"text": "how fast is my heart going", "intent": "get_heart_rate"}
+{"text": "pulse check", "intent": "get_heart_rate"}
+{"text": "what are my beats per minute", "intent": "get_heart_rate"}
+{"text": "okay need my heart rate", "intent": "get_heart_rate"}
+{"text": "oxygen consumption", "intent": "get_oxy_consumption"}
+{"text": "how fast am i using oxygen", "intent": "get_oxy_consumption"}
+{"text": "okay check o2 consumption rate", "intent": "get_oxy_consumption"}
+{"text": "roger. what's my oxygen usage rate", "intent": "get_oxy_consumption"}
+{"text": "what's my o2 burn rate", "intent": "get_oxy_consumption"}
+{"text": "give me oxygen consumption", "intent": "get_oxy_consumption"}
+{"text": "uh am i using a lot of o2 right now", "intent": "get_oxy_consumption"}
+{"text": "houston, read o2 consumption", "intent": "get_oxy_consumption"}
+{"text": "how much oxygen am i consuming", "intent": "get_oxy_consumption"}
+{"text": "o2 use rate", "intent": "get_oxy_consumption"}
+{"text": "what's the oxygen consumption at", "intent": "get_oxy_consumption"}
+{"text": "okay need my o2 consumption number", "intent": "get_oxy_consumption"}
+{"text": "co2 production", "intent": "get_co2_production"}
+{"text": "how much carbon dioxide am i producing", "intent": "get_co2_production"}
+{"text": "okay check co2 production rate", "intent": "get_co2_production"}
+{"text": "roger. what's my co2 output", "intent": "get_co2_production"}
+{"text": "what rate am i putting out co2", "intent": "get_co2_production"}
+{"text": "give me carbon dioxide production", "intent": "get_co2_production"}
+{"text": "uh how much co2 am i breathing out", "intent": "get_co2_production"}
+{"text": "houston, read co2 production", "intent": "get_co2_production"}
+{"text": "what's my co2 generation rate", "intent": "get_co2_production"}
+{"text": "co two production", "intent": "get_co2_production"}
+{"text": "how fast am i making co2", "intent": "get_co2_production"}
+{"text": "okay need my co2 production number", "intent": "get_co2_production"}
+{"text": "eva time", "intent": "get_eva_elapsed_time"}
+{"text": "how long have we been out", "intent": "get_eva_elapsed_time"}
+{"text": "okay what's the elapsed time", "intent": "get_eva_elapsed_time"}
+{"text": "roger. mission clock?", "intent": "get_eva_elapsed_time"}
+{"text": "how long has this eva been going", "intent": "get_eva_elapsed_time"}
+{"text": "give me elapsed time", "intent": "get_eva_elapsed_time"}
+{"text": "uh what's the eva timer at", "intent": "get_eva_elapsed_time"}
+{"text": "houston, read me the elapsed eva time", "intent": "get_eva_elapsed_time"}
+{"text": "how much time has passed since egress", "intent": "get_eva_elapsed_time"}
+{"text": "time check", "intent": "get_eva_elapsed_time"}
+{"text": "what's the mission elapsed time", "intent": "get_eva_elapsed_time"}
+{"text": "okay how long have i been outside", "intent": "get_eva_elapsed_time"}
+{"text": "primary battery", "intent": "get_primary_battery_level"}
+{"text": "what's my primary battery at", "intent": "get_primary_battery_level"}
+{"text": "okay check primary battery level", "intent": "get_primary_battery_level"}
+{"text": "roger. pri batt percent?", "intent": "get_primary_battery_level"}
+{"text": "how much charge is in the primary battery", "intent": "get_primary_battery_level"}
+{"text": "give me primary battery", "intent": "get_primary_battery_level"}
+{"text": "uh is the primary battery getting low", "intent": "get_primary_battery_level"}
+{"text": "houston, read primary battery level", "intent": "get_primary_battery_level"}
+{"text": "primary power remaining", "intent": "get_primary_battery_level"}
+{"text": "primary battery percentage", "intent": "get_primary_battery_level"}
+{"text": "what percent is the primary battery", "intent": "get_primary_battery_level"}
+{"text": "okay need the - the primary battery number", "intent": "get_primary_battery_level"}
+{"text": "secondary battery", "intent": "get_secondary_battery_level"}
+{"text": "what's my secondary battery at", "intent": "get_secondary_battery_level"}
+{"text": "okay check secondary battery level", "intent": "get_secondary_battery_level"}
+{"text": "roger. sec batt percent?", "intent": "get_secondary_battery_level"}
+{"text": "how much charge is left in the secondary battery", "intent": "get_secondary_battery_level"}
+{"text": "give me secondary battery", "intent": "get_secondary_battery_level"}
+{"text": "uh is the secondary battery okay", "intent": "get_secondary_battery_level"}
+{"text": "houston, read secondary battery level", "intent": "get_secondary_battery_level"}
+{"text": "secondary power remaining", "intent": "get_secondary_battery_level"}
+{"text": "secondary battery percentage", "intent": "get_secondary_battery_level"}
+{"text": "what percent is the backup battery, secondary", "intent": "get_secondary_battery_level"}
+{"text": "okay need the - the secondary battery number", "intent": "get_secondary_battery_level"}
+{"text": "any warnings", "intent": "get_warnings"}
+{"text": "what alerts do i have", "intent": "get_warnings"}
+{"text": "okay check for warnings", "intent": "get_warnings"}
+{"text": "roger. anything flagged?", "intent": "get_warnings"}
+{"text": "are there any active alarms", "intent": "get_warnings"}
+{"text": "give me the warning summary", "intent": "get_warnings"}
+{"text": "uh something just beeped, what's the alert", "intent": "get_warnings"}
+{"text": "houston, read me any cautions and warnings", "intent": "get_warnings"}
+{"text": "is anything off nominal", "intent": "get_warnings"}
+{"text": "list current warnings", "intent": "get_warnings"}
+{"text": "what's that caution light", "intent": "get_warnings"}
+{"text": "okay are all my flags clear", "intent": "get_warnings"}
+{"text": "open vitals", "intent": "open_menu_vitals"}
+{"text": "pull up my vitals", "intent": "open_menu_vitals"}
+{"text": "okay show the vitals panel", "intent": "open_menu_vitals"}
+{"text": "roger. bring up biomed", "intent": "open_menu_vitals"}
+{"text": "open the vitals menu", "intent": "open_menu_vitals"}
+{"text": "show me my vitals screen", "intent": "open_menu_vitals"}
+{"text": "uh can you put vitals on the hud", "intent": "open_menu_vitals"}
+{"text": "display vitals", "intent": "open_menu_vitals"}
+{"text": "switch to vitals", "intent": "open_menu_vitals"}
+{"text": "vitals page please", "intent": "open_menu_vitals"}
+{"text": "let me see the vitals display", "intent": "open_menu_vitals"}
+{"text": "okay go to vitals", "intent": "open_menu_vitals"}
+{"text": "open navigation", "intent": "open_menu_navigation"}
+{"text": "pull up the map", "intent": "open_menu_navigation"}
+{"text": "okay show nav", "intent": "open_menu_navigation"}
+{"text": "roger. bring up the nav panel", "intent": "open_menu_navigation"}
+{"text": "open the navigation menu", "intent": "open_menu_navigation"}
+{"text": "show me the map screen", "intent": "open_menu_navigation"}
+{"text": "uh can you put the map on the hud", "intent": "open_menu_navigation"}
+{"text": "display navigation", "intent": "open_menu_navigation"}
+{"text": "switch to map", "intent": "open_menu_navigation"}
+{"text": "nav page please", "intent": "open_menu_navigation"}
+{"text": "let me see where i am on the map", "intent": "open_menu_navigation"}
+{"text": "okay go to navigation", "intent": "open_menu_navigation"}
+{"text": "open tasks", "intent": "open_menu_tasks"}
+{"text": "pull up the checklist", "intent": "open_menu_tasks"}
+{"text": "okay show me the task list", "intent": "open_menu_tasks"}
+{"text": "roger. bring up procedures", "intent": "open_menu_tasks"}
+{"text": "open the tasks menu", "intent": "open_menu_tasks"}
+{"text": "what's next on the checklist, show it", "intent": "open_menu_tasks"}
+{"text": "uh put the task list on the hud", "intent": "open_menu_tasks"}
+{"text": "display mission tasks", "intent": "open_menu_tasks"}
+{"text": "switch to checklist", "intent": "open_menu_tasks"}
+{"text": "task page please", "intent": "open_menu_tasks"}
+{"text": "let me see my tasks", "intent": "open_menu_tasks"}
+{"text": "okay go to tasks", "intent": "open_menu_tasks"}
+{"text": "open uia", "intent": "open_menu_uia"}
+{"text": "pull up the uia panel", "intent": "open_menu_uia"}
+{"text": "okay show umbilical interface", "intent": "open_menu_uia"}
+{"text": "roger. bring up the airlock panel", "intent": "open_menu_uia"}
+{"text": "open the uia menu", "intent": "open_menu_uia"}
+{"text": "show me the uia screen", "intent": "open_menu_uia"}
+{"text": "uh put uia on the hud", "intent": "open_menu_uia"}
+{"text": "display the umbilical interface assembly", "intent": "open_menu_uia"}
+{"text": "switch to uia", "intent": "open_menu_uia"}
+{"text": "uia page please", "intent": "open_menu_uia"}
+{"text": "let me see the airlock controls", "intent": "open_menu_uia"}
+{"text": "okay go to uia", "intent": "open_menu_uia"}
+{"text": "close that", "intent": "close_menu"}
+{"text": "close menu", "intent": "close_menu"}
+{"text": "okay dismiss", "intent": "close_menu"}
+{"text": "roger. clear the screen", "intent": "close_menu"}
+{"text": "get that off my visor", "intent": "close_menu"}
+{"text": "hide the panel", "intent": "close_menu"}
+{"text": "uh close it, i can't see", "intent": "close_menu"}
+{"text": "exit this window", "intent": "close_menu"}
+{"text": "go back", "intent": "close_menu"}
+{"text": "close the hud window", "intent": "close_menu"}
+{"text": "clear display please", "intent": "close_menu"}
+{"text": "okay that's enough, close it", "intent": "close_menu"}
+{"text": "coordinates of poi a", "intent": "Get_coordinates", "slot": "poi a"}
+{"text": "where is the lunar lander", "intent": "Get_coordinates", "slot": "lunar lander"}
+{"text": "okay what are the coordinates for station two", "intent": "Get_coordinates", "slot": "station two"}
+{"text": "roger. give me the location of the crater rim", "intent": "Get_coordinates", "slot": "crater rim"}
+{"text": "position of sample site", "intent": "Get_coordinates", "slot": "sample site"}
+{"text": "uh where's the comm tower", "intent": "Get_coordinates", "slot": "comm tower"}
+{"text": "houston, coordinates for poi 3", "intent": "Get_coordinates", "slot": "poi 3"}
+{"text": "what's the grid location of the boulder field", "intent": "Get_coordinates", "slot": "boulder field"}
+{"text": "locate the airlock", "intent": "Get_coordinates", "slot": "airlock"}
+{"text": "where exactly is rock outcrop seven", "intent": "Get_coordinates", "slot": "rock outcrop seven"}
+{"text": "give me coords for the rover", "intent": "Get_coordinates", "slot": "rover"}
+{"text": "okay i need the - the position of north ridge", "intent": "Get_coordinates", "slot": "north ridge"}
+{"text": "navigate to poi b", "intent": "Set_navigation_target", "slot": "poi b"}
+{"text": "take me to the lander", "intent": "Set_navigation_target", "slot": "lander"}
+{"text": "okay set destination station one", "intent": "Set_navigation_target", "slot": "station one"}
+{"text": "roger. head to the dark crater", "intent": "Set_navigation_target", "slot": "dark crater"}
+{"text": "set nav target to sample collection site", "intent": "Set_navigation_target", "slot": "sample collection site"}
+{"text": "uh guide me back to the habitat", "intent": "Set_navigation_target", "slot": "habitat"}
+{"text": "houston, route me to poi 1", "intent": "Set_navigation_target", "slot": "poi 1"}
+{"text": "i want to go to the ridge overlook", "intent": "Set_navigation_target", "slot": "ridge overlook"}
+{"text": "set course for camera site", "intent": "Set_navigation_target", "slot": "camera site"}
+{"text": "lead me to boulder twelve", "intent": "Set_navigation_target", "slot": "boulder twelve"}
+{"text": "make the pressurized rover my destination", "intent": "Set_navigation_target", "slot": "pressurized rover"}
+{"text": "okay navigate - navigate to geology stop alpha", "intent": "Set_navigation_target", "slot": "geology stop alpha"}
+{"text": "reroute", "intent": "reroute_navigation"}
+{"text": "find me another way", "intent": "reroute_navigation"}
+{"text": "okay that path is blocked, recalculate", "intent": "reroute_navigation"}
+{"text": "roger. give me a new route", "intent": "reroute_navigation"}
+{"text": "route around this crater", "intent": "reroute_navigation"}
+{"text": "uh there's a boulder in the way, reroute", "intent": "reroute_navigation"}
+{"text": "houston, recompute the path", "intent": "reroute_navigation"}
+{"text": "pick a different path", "intent": "reroute_navigation"}
+{"text": "this slope's too steep, find another route", "intent": "reroute_navigation"}
+{"text": "recalculate navigation", "intent": "reroute_navigation"}
+{"text": "i'm off course, update the route", "intent": "reroute_navigation"}
+{"text": "okay need a detour", "intent": "reroute_navigation"}
+{"text": "add waypoint poi d", "intent": "Add_waypoint", "slot": "poi d"}
+{"text": "drop a pin here called pin one", "intent": "Add_waypoint", "slot": "pin one"}
+{"text": "okay mark this spot as breadcrumb", "intent": "Add_waypoint", "slot": "breadcrumb"}
+{"text": "roger. add a waypoint named regolith patch", "intent": "Add_waypoint", "slot": "regolith patch"}
+{"text": "save this location as station three", "intent": "Add_waypoint", "slot": "station three"}
+{"text": "uh put a marker here, call it shiny rock", "intent": "Add_waypoint", "slot": "shiny rock"}
+{"text": "houston, add poi 4 to the map", "intent": "Add_waypoint", "slot": "poi 4"}
+{"text": "new waypoint, east crater", "intent": "Add_waypoint", "slot": "east crater"}
+{"text": "tag this as sample site two", "intent": "Add_waypoint", "slot": "sample site two"}
+{"text": "create a waypoint for drill site", "intent": "Add_waypoint", "slot": "drill site"}
+{"text": "mark here, name it lava tube entrance", "intent": "Add_waypoint", "slot": "lava tube entrance"}
+{"text": "okay add - add a waypoint called rest stop", "intent": "Add_waypoint", "slot": "rest stop"}
+{"text": "delete waypoint poi c", "intent": "Delete_waypoint", "slot": "poi c"}
+{"text": "remove pin two", "intent": "Delete_waypoint", "slot": "pin two"}
+{"text": "okay get rid of breadcrumb", "intent": "Delete_waypoint", "slot": "breadcrumb"}
+{"text": "roger. clear the waypoint glass bead site", "intent": "Delete_waypoint", "slot": "glass bead site"}
+{"text": "delete next poi", "intent": "Delete_waypoint", "slot": "next poi"}
+{"text": "uh take old rover track off the map", "intent": "Delete_waypoint", "slot": "old rover track"}
+{"text": "houston, remove the point of interest one waypoint", "intent": "Delete_waypoint", "slot": "point of interest one"}
+{"text": "erase waypoint west rim", "intent": "Delete_waypoint", "slot": "west rim"}
+{"text": "drop the marker at camera site", "intent": "Delete_waypoint", "slot": "camera site"}
+{"text": "delete the pin for crater floor", "intent": "Delete_waypoint", "slot": "crater floor"}
+{"text": "i don't need station two anymore, remove it", "intent": "Delete_waypoint", "slot": "station two"}
+{"text": "okay scrap - scrap waypoint poi 2", "intent": "Delete_waypoint", "slot": "poi 2"}
+{"text": "mark egress complete", "intent": "Complete_task", "slot": "egress"}
+{"text": "done with prep o2 tanks", "intent": "Complete_task", "slot": "prep o2 tanks"}
+{"text": "okay xrf scan is finished", "intent": "Complete_task", "slot": "xrf scan"}
+{"text": "roger. check off camera deployment", "intent": "Complete_task", "slot": "camera deployment"}
+{"text": "complete task sample collection", "intent": "Complete_task", "slot": "sample collection"}
+{"text": "uh seismometer deployment's done", "intent": "Complete_task", "slot": "seismometer deployment"}
+{"text": "houston, drill core sample complete", "intent": "Complete_task", "slot": "drill core sample"}
+{"text": "finished antenna setup", "intent": "Complete_task", "slot": "antenna setup"}
+{"text": "mark terrain photos done", "intent": "Complete_task", "slot": "terrain photos"}
+{"text": "dust cleaning is complete", "intent": "Complete_task", "slot": "dust cleaning"}
+{"text": "tick off rover inspection", "intent": "Complete_task", "slot": "rover inspection"}
+{"text": "okay that's - that's the solar panel check done", "intent": "Complete_task", "slot": "solar panel check"}
+{"text": "okay", "intent": "unhandled"}
+{"text": "roger", "intent": "unhandled"}
+{"text": "copy that", "intent": "unhandled"}
+{"text": "say again?", "intent": "unhandled"}
+{"text": "stand by", "intent": "unhandled"}
+{"text": "go ahead houston", "intent": "unhandled"}
+{"text": "verified", "intent": "unhandled"}
+{"text": "affirmative", "intent": "unhandled"}
+{"text": "negative", "intent": "unhandled"}
+{"text": "roger, copy, out", "intent": "unhandled"}
+{"text": "i'll stand by for your suggestions", "intent": "unhandled"}
+{"text": "say again the last part", "intent": "unhandled"}
+{"text": "you're breaking up", "intent": "unhandled"}
+{"text": "hey can you hear me", "intent": "unhandled"}
+{"text": "testing testing one two", "intent": "unhandled"}
+{"text": "my pressure flags are clear", "intent": "unhandled"}
+{"text": "i'm reading forty percent and three eighty five", "intent": "unhandled"}
+{"text": "oxygen's fine, no worries", "intent": "unhandled"}
+{"text": "i'm a little warm but okay", "intent": "unhandled"}
+{"text": "heart's racing on this hill", "intent": "unhandled"}
+{"text": "we're about three clicks out", "intent": "unhandled"}
+{"text": "the map's a little off here but i'm fine", "intent": "unhandled"}
+{"text": "the camera's a little crooked but it's fine", "intent": "unhandled"}
+{"text": "i think the battery on the hammer is dead", "intent": "unhandled"}
+{"text": "okay i'm back at the rover", "intent": "unhandled"}
+{"text": "press on with the comprehensive sample", "intent": "unhandled"}
+{"text": "bag number seven is full", "intent": "unhandled"}
+{"text": "this rock has some nice vesicles in it", "intent": "unhandled"}
+{"text": "the soil is real fine here, kind of powdery", "intent": "unhandled"}
+{"text": "looks like basalt with some olivine", "intent": "unhandled"}
+{"text": "there's a lot of glass in this sample", "intent": "unhandled"}
+{"text": "that's a big crater off to the left", "intent": "unhandled"}
+{"text": "i can see our tracks from here", "intent": "unhandled"}
+{"text": "there goes another one, rolling downhill", "intent": "unhandled"}
+{"text": "the flag's still standing", "intent": "unhandled"}
+{"text": "this dust gets everywhere", "intent": "unhandled"}
+{"text": "i'm gonna brush the dust off the visor", "intent": "unhandled"}
+{"text": "hold on let me get my footing", "intent": "unhandled"}
+{"text": "okay i'm going up the slope now", "intent": "unhandled"}
+{"text": "okay we're moving on", "intent": "unhandled"}
+{"text": "i'm just catching my breath", "intent": "unhandled"}
+{"text": "my hands are getting tired", "intent": "unhandled"}
+{"text": "i dropped the tongs", "intent": "unhandled"}
+{"text": "let me think about that for a second", "intent": "unhandled"}
+{"text": "man what a view", "intent": "unhandled"}
+{"text": "wow look at the earth", "intent": "unhandled"}
+{"text": "this is incredible", "intent": "unhandled"}
+{"text": "yeah that sounds good", "intent": "unhandled"}
+{"text": "good job team", "intent": "unhandled"}
+{"text": "thanks houston", "intent": "unhandled"}
+{"text": "what's for dinner back at the hab", "intent": "unhandled"}
+{"text": "did you guys see the game last night", "intent": "unhandled"}
+{"text": "how's the weather in houston", "intent": "unhandled"}
+{"text": "tell me a joke", "intent": "unhandled"}
+{"text": "what time is it in michigan", "intent": "unhandled"}
+{"text": "music would be nice right now", "intent": "unhandled"}
+{"text": "remind me to call my mom later", "intent": "unhandled"}
+{"text": "nope", "intent": "unhandled"}
+{"text": "uh", "intent": "unhandled"}
+{"text": "um, never mind", "intent": "unhandled"}
+{"text": "thank you.", "intent": "unhandled"}
+{"text": "you", "intent": "unhandled"}ß

@@ -178,14 +178,6 @@ This is the step that fixes "add" → "at".
 - Only for intents below ~0.95 F1 on val. Never pick intents by looking at test.
 - Tag rows `"source": "llm"`, read every row, and drop any the leakage audit flags against test, dev or val.
 
-### Training settings
-
-- **Epochs:** keep `TRAIN` in `config.py` (max 10, patience 3, best val-loss epoch kept). At ~6.1k rows and batch 32, that's ~190 steps per epoch, and we expect the best epoch around 3–6.
-  - Best epoch 1–2 means val is too easy (generated rows are probably leaking between pools).
-  - Best epoch 10 means raise the max to 15.
-- **Seeds:** run 3 seeds for every data change and report the mean and range. With ~4 seed rows per intent in test plus recordings, a one-seed difference of 1% is noise.
-- **Priming:** unchanged (3 epochs on the primer).
-
 ### Checks before every training run
 
 `validate.py` checks the basics: labels, slots, exact duplicates, exact-text test leakage, per-intent minimum, the 1.5× balance ratio, and the source mix printed next to the targets above.
@@ -252,11 +244,135 @@ Only three new pip packages: `rapidfuzz`, `sentencepiece` (MarianMT's tokenizer)
 | sentence-transformers (`paraphrase_mining`, `cos_sim`) | semantic leakage, group merging, paraphrase filters |
 | CheckList paper (Ribeiro et al., 2020) | MFT / INV / DIR test types for `robustness.py` |
 
+## Model
+
+The data section decides what the model learns from. This section decides what the model is, how its answer becomes a command, and how it's judged. It draws on two sources: the 2026–27 Mission Description (`docs/nasa-suits-mission-description.pdf`), which says what the HUD must do, and the Siri deep dive (`docs/siri-deep-dive.pdf`), which shows how a production assistant does it.
+
+What the Mission Description asks of the voice assistant:
+
+- **Natural language** (4a.3.b), with short answers: "Primary O2 47%, Secondary 99%" (2b).
+- **Guardrails on mission-critical data** (2b). The model picks a command and a name from known lists, and the HUD reads every value from the TSS. Nothing the model outputs is made up.
+- **Drop a pin at any point** (4a.5). `Add_waypoint` must accept names that aren't on any list.
+- **Live assets on the map** (4a.2.b) and a **breadcrumb back to the lander** (4a.4.a). Other crew members and the lander have to be names the slot can resolve to.
+
+### From speech to command
+
+```
+mic + VAD → faster-whisper: top 3 transcripts + scores
+          → normalize each → MiniLM (intent head + slot head), the 3 as one batch
+          → combine the 3, weighted by transcript score
+          → reject gate: intent confidence + Whisper avg_logprob + no_speech_prob
+          → slot resolver: closed catalog, spelling + sound
+          → follow-up carry-over → HUD
+```
+
+After Whisper, each stage is one batched MiniLM pass or a few lines of arithmetic. The bigger models below run only during training.
+
+### 1. Train big, ship MiniLM (ensemble → distillation)
+
+Siri's domain chooser combines 7 separately trained models with a geometric mean. Models trained differently make different mistakes, so combining them cancels most of them out. We get the same accuracy without running seven models at prediction time by distilling the ensemble into one MiniLM.
+
+- **Teachers:** MPNet-base, BGE-small and BGE-base, each primed and unprimed, 2 seeds each. Varied teachers matter more than many teachers.
+- **Ensemble:** combine the teachers' calibrated probabilities with a geometric mean, so one teacher's strong "no" pulls the class down. This is our accuracy ceiling, and we report it every milestone.
+- **Student:** primed MiniLM-L6, trained on cross-entropy against the true label plus KL divergence to the ensemble's softened distribution (start at temperature 2, α 0.5, and tune both on val). The soft labels carry the teachers' sense of which classes look alike ("this looks a bit like secondary"), which hard labels don't.
+- **Report three numbers:** ensemble, distilled MiniLM and plain MiniLM. The goal is distilled MiniLM within ~1 point of the ensemble on val and `dev_audio`.
+- **Epochs:** keep `TRAIN` in `config.py` (max 10, patience 3, best val-loss epoch kept). At ~6.1k rows and batch 32, that's ~190 steps per epoch, and we expect the best epoch around 3–6.
+  - Best epoch 1–2 means val is too easy (generated rows are probably leaking between pools).
+  - Best epoch 10 means raise the max to 15.
+- **Seeds:** run 3 seeds for every change and report the mean and range. With ~4 seed rows per intent in test plus recordings, a one-seed difference of 1% is noise.
+- **Priming:** unchanged (3 epochs on the primer) and applied to teachers and student alike.
+
+### 2. One encoder, two heads (intent + slot)
+
+- Add a token-tagging head (`B-SLOT`, `I-SLOT`, `O`) on the same encoder as the intent head. It costs no extra encoder pass.
+- **The labels already exist.** Every slot row stores its slot string, so tag the span where it appears in the text. Rows without a slot are all `O`.
+- Loss = intent loss + λ × tagging loss (λ ≈ 0.5, tuned on val). Distillation applies to the intent head only.
+- **It replaces `extract_slot` in `predict.py`.** That function peels command words off the ends of the sentence, which breaks on real names: "take me to point of interest one" → "interest one", "drop pin two" → "two", "complete geology task" → "geology".
+- **It finds names no list has seen**, which `Add_waypoint` needs (4a.5).
+
+### 3. Slot resolver: never invent a name
+
+Tagging finds the words; resolving decides which known thing they mean. These are two separate jobs.
+
+- **Catalog:** `slot_names.txt`, plus pins added during this EVA, plus live assets (EV2, the rover) and the current procedure's task names once NASA provides them.
+- **Matching:** spelling with rapidfuzz plus sound with Double Metaphone (`metaphone` package), because Whisper misspells names. Keep the top 2–3 matches with their scores.
+- **Use every transcript.** The resolver scores the spans tagged in all 3 transcripts and doesn't trust the first one.
+- **Decision:**
+
+| Result | `Add_waypoint` | Other slot intents |
+|---|---|---|
+| Clear winner | it's a duplicate: HUD says the pin exists | the winner is the slot |
+| Close call | ask: "POI B or POI D?" | ask: "POI B or POI D?" |
+| No match | the tagged span becomes the new pin's name | "no waypoint called X", nothing runs |
+
+### 4. N-best: don't bet everything on Whisper's first guess
+
+The right transcript is often Whisper's second guess. Using only the top transcript throws that guess away.
+
+- Combine the classifier's answers across transcripts: P(intent | audio) = Σ P(intent | transcript) × P(transcript | audio), over the top 3 transcripts.
+- `voice.py` gets only the best transcript from `transcribe`. Call the CTranslate2 model that faster-whisper already loads (`generate` with `num_hypotheses=3, return_scores=True`) to get the top 3.
+- Weight each transcript by a softmax over its length-normalized log score, with the temperature tuned on `dev_audio`.
+- **Training and decoding attack the same errors from both sides.** The Whisper round-trip (data step 6) teaches the model what Whisper's mistakes look like, and n-best still shows it the right transcript when that transcript is ranked lower.
+- Measure 1-best against 3-best on `dev_audio`.
+
+### 5. Reject gate, judged at an operating point
+
+- **Calibrate first.** Fit a temperature to the intent logits on val, so confidences mean what they say. The n-best combination and the geometric mean both need honest probabilities.
+- Replace the single `MIN_CONF` with a logistic regression over 4 numbers:
+  - combined intent confidence
+  - the gap between the top two intents
+  - Whisper's `avg_logprob` (how sure the decoder was)
+  - Whisper's `no_speech_prob` (whether anyone was speaking)
+
+  Fit it on `dev_audio` with k-fold and report out-of-fold results.
+- **Operating point:** set the threshold so 98% of real commands on `dev_audio` get through, then report how much chatter still passes. Never report accuracy alone.
+- **Destructive intents:** use a stricter threshold for `Delete_waypoint` and `Complete_task`, on top of the HUD's confirmation.
+- **Only if false accepts are still a problem:** transcribe once with `HINT` and once without, and reject when the two disagree. Siri calls this a second, unbiased listener. It costs a second decode, so it's off by default.
+
+### 6. Follow-ups (context carry-over)
+
+- Keep the last intent and slot for ~10 seconds.
+- **Qualifier only:** "what about secondary?" right after `get_oxy_pri_storage` → `get_oxy_sec_storage`.
+  - The variant families come from `intents.json` names: pri/sec, a/b, gas/liquid, suit/helmet.
+  - Carry over only when the qualifier turns the last intent into a sibling that exists.
+- **New name only:** "actually POI B" right after `Set_navigation_target` → the same intent with the new slot.
+- Clear the state after ~10 seconds or after any `unhandled` turn. Stale context must never fire a command.
+- It runs as a rule after the model and needs no training. Short exchanges are what 2b asks for.
+
+### 7. Evaluation
+
+- **End to end:** audio → command on `dev_audio`, not only text → intent.
+- **Operating point:** the share of commands that get through, and the share of chatter that passes (section 5).
+- **Slices every run:** jargon rows, Whisper round-trip, keyword traps, which-one pairs, rows with filler, rows with a slot, plus the per-source tags we already have. A slice can get worse while overall accuracy goes up.
+- **Confusion matrix sorted into blocks:** oxygen, suit pressure, fans, scrubbers, coolant, battery, body (heart rate, temperature, O2 consumption, CO2 production, elapsed time), warnings, menus, navigation, tasks, `unhandled`. Confusions inside a block show which seed rows to write next, and confusions across blocks should be rare. Blocks are only for reading errors. 36 labels is small enough for one softmax, so the model has no hierarchy.
+- **Slots:** exact match of the resolved slot and how often the resolver asks.
+- **Timing:** p50 and p95 for each stage on the demo device, next to the accuracy numbers.
+
+### 8. Shipping
+
+- **Export:** the student (both heads) to ONNX with dynamic int8 quantization, run with onnxruntime. Keep int8 only if val drops less than 0.5 points.
+- **Choose Whisper on recorded audio:** Whisper is the slowest stage, so its size is the biggest runtime choice. Compare `base.en`, `small.en` and `distil-small.en` on session A WER, with timing next to each.
+- **Startup:** load and warm up both models (one dummy pass) when the app starts, not on the first command.
+
+### Model dependencies
+
+`metaphone` (Double Metaphone) and `onnxruntime`. The n-best path uses `ctranslate2`, which faster-whisper already installs.
+
+### Model code to write
+
+- `train.py`: `--teacher` runs for the bigger encoders, `--distill <runs...>` for the student, tagging head, temperature scaling.
+- `model.py`: second head (token tagging) on the shared encoder.
+- `resolve.py`: catalog, rapidfuzz + Double Metaphone, top-k with scores, the decision table above.
+- `voice.py`: top-3 transcripts with scores, `avg_logprob` and `no_speech_prob` passed along.
+- `predict.py`: n-best combination, reject gate, resolver, carry-over. Same output contract.
+- `export.py`: ONNX + int8, accuracy check against the torch model, timing per stage.
+
 ## Next
 
-1. Build the data in the order under Generating data, then `train.py`.
-2. Compare primed vs base encoder over 2–3 seeds.
-3. Plan `evaluate/`: overfitting checks, calibrating the unhandled threshold, and folding `audit.py` and the robustness suites into it.
+1. Build the data in the order under Generating data.
+2. Train teachers and plain MiniLM, primed vs base, 2–3 seeds each. Build the ensemble.
+3. Distill into MiniLM with the tagging head, then add calibration, n-best, the reject gate and the resolver, measured end to end on `dev_audio`.
+4. Export, time it, and score test once.
 
 ## Status
 
@@ -298,3 +414,19 @@ Items marked 👤 need a person; everything else is code.
 - [ ] `robustness.py`
 - [ ] 👤 Write new prompt lines and record session B → `test.jsonl`
 - [ ] Score test once, run the robustness suites
+
+**To do (model)**
+
+- [ ] Teachers (MPNet-base, BGE-small, BGE-base; primed and unprimed; 2 seeds) and the geometric-mean ensemble
+- [ ] Tagging head in `model.py`, span labels from the stored slot, replaces `extract_slot`
+- [ ] Distill the ensemble into MiniLM; report ensemble vs distilled vs plain MiniLM
+- [ ] Temperature scaling on val
+- [ ] `voice.py`: top-3 transcripts with scores, `avg_logprob`, `no_speech_prob`
+- [ ] N-best combination in `predict.py`; compare 1-best vs 3-best on `dev_audio`
+- [ ] Reject gate (logistic regression), threshold at 98% command recall on `dev_audio`, chatter pass-through reported
+- [ ] `resolve.py`: catalog, rapidfuzz + Double Metaphone, ask on close calls
+- [ ] 👤 Add live assets and procedure task names to the catalog once NASA provides them
+- [ ] Follow-up carry-over with the 10-second and `unhandled` guardrails
+- [ ] Slice F1 and block-sorted confusion matrix in every training report
+- [ ] `export.py`: ONNX + int8, timing per stage on the demo device
+- [ ] Compare Whisper `base.en` / `small.en` / `distil-small.en` on session A
