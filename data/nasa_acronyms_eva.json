@@ -1,0 +1,2007 @@
+[
+ {
+  "abbreviation": "A/L",
+  "expansion": "Airlock",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AAP",
+  "expansion": "Airlock Adapter Plate",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ACDU",
+  "expansion": "Airlock Control and Display Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ACL",
+  "expansion": "Ammonia Coolant Loop",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ACU",
+  "expansion": "Avionics Cooling Unit",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ACUO",
+  "expansion": "Avionics Cooling Unit Operator",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ADPA",
+  "expansion": "Airlock Depressurization Pump Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AEMU",
+  "expansion": "Advanced Extravehicular Mobility Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AEP",
+  "expansion": "Airlock Electronics Package",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AERCam",
+  "expansion": "Autonomous EVA Robotic Camera",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AET",
+  "expansion": "Adjustable Equipment Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AEVA",
+  "expansion": "Advanced Extravehicular Activity",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AFCU",
+  "expansion": "Active Fluid Cooling Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AIK",
+  "expansion": "Airlock Interface Kit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "Airlk",
+  "expansion": "Airlock",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AIS",
+  "expansion": "Airlock Illumination Subassembly",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "AL",
+  "expansion": "Airlock",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALCLR",
+  "expansion": "Airlock Cooling Loop Recovery Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALO",
+  "expansion": "Airlock Outfitting",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALOD",
+  "expansion": "Airlock Outfitting Design",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALS",
+  "expansion": "Advanced Life Support",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALS",
+  "expansion": "Airlock System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ALSA",
+  "expansion": "Astronaut Life Support Assembly",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ALSEP",
+  "expansion": "Apollo Lunar Surface Experiments Package",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALSM",
+  "expansion": "Advanced Life Support Module",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALSP",
+  "expansion": "Advanced Life Support Pack",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALSS",
+  "expansion": "Advanced Life Support System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ALSS",
+  "expansion": "Airlock Support System (Subsystem)",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ALSS",
+  "expansion": "Aviation Life Support System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALSYS",
+  "expansion": "Airlock System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALT",
+  "expansion": "Adjustable Length Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ALT",
+  "expansion": "Adjustable Length Tether Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AM",
+  "expansion": "Airlock Module",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "AMDU",
+  "expansion": "Airlock Monitor and Drive Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AMPEV",
+  "expansion": "Airlock Manual Pressure Equalization Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AO",
+  "expansion": "Airlock Outfitting",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AO",
+  "expansion": "Atomic Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AOM",
+  "expansion": "Atomic Oxygen Monitor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ARADS",
+  "expansion": "Atacama Rover Astrobiology Drilling Studies",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ASB",
+  "expansion": "Airlock Stowage Bag",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ASC",
+  "expansion": "Airlock Support Component",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ASCE",
+  "expansion": "Airlock Signal Conditioning Electronics",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ASCENDS",
+  "expansion": "Active Sensing of CO2 Emissions Over Nights, Days, and Seasons",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ASEM",
+  "expansion": "Assembly of Station by EVA Methods",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AVR",
+  "expansion": "Air Ventilation and Revitalization",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "AW",
+  "expansion": "Airlock Wall",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "AWS",
+  "expansion": "Airlock Workstation",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "BDT",
+  "expansion": "Button Depress Tool",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "BLS",
+  "expansion": "Basic Life Support",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "BOCS",
+  "expansion": "Back-Up Oxygen Candle System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "BRT",
+  "expansion": "Body Restraint Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "C/W",
+  "expansion": "Caution and Warning",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CAL",
+  "expansion": "Canister Airlock",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CAMRAS",
+  "expansion": "Carbon Dioxide and Moisture Removal Amino Swing-Bed",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CAMRAS",
+  "expansion": "CEV Carbon Dioxide and Moisture Removal Amino Swing Bed",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CASEO",
+  "expansion": "Cabin Air Separator for EVA Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CBELL",
+  "expansion": "CB EVA Lessons Learned",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CCE",
+  "expansion": "Critical Contingency EVA",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CCECLS",
+  "expansion": "Crew, Cockpit Environmental Control, and Life Support",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CCL",
+  "expansion": "Cargo Cooling Loop",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CCU",
+  "expansion": "Communications Carrier Umbilical",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CCU",
+  "expansion": "Crew Communications Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CCU",
+  "expansion": "Crew Compartment Umbilical",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CCU",
+  "expansion": "Crewman Communications Umbilical",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CDA",
+  "expansion": "Cabin Depressurization Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CDM",
+  "expansion": "Carbon Dioxide Monitor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CDMA",
+  "expansion": "Carbon Dioxide Management Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CDMK",
+  "expansion": "Carbon Dioxide Monitoring Kit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CDRA",
+  "expansion": "Carbon Dioxide Removal Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CDV",
+  "expansion": "Cabin Depress Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CELSS",
+  "expansion": "Closed Environmental Life Support System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CELSS",
+  "expansion": "Controlled Ecological Life Support System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CF",
+  "expansion": "Crewmember Flying",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CLRPS",
+  "expansion": "Carbothermal Lunar Regolith Processing System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CM",
+  "expansion": "Crewmember Monitoring",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CMO",
+  "expansion": "Caution and Warning System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "COIL",
+  "expansion": "Chemical Oxygen-Iodine Laser",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "Cool",
+  "expansion": "Coolant",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "COOL",
+  "expansion": "Cooling",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "COS",
+  "expansion": "Carry-on Oxygen System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CQMK",
+  "expansion": "Coolant Quality Monitoring Kit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CRK",
+  "expansion": "CO2 Removal Kit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CSA-O2",
+  "expansion": "Compound Specific Analyzer-Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CSD",
+  "expansion": "Cooling Stowage Drawer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CSSS",
+  "expansion": "Constellation Space Suit System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CSTA",
+  "expansion": "Common Safety Tether Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CSV",
+  "expansion": "CO2 Selector Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CVV",
+  "expansion": "CO2 Vent Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CW",
+  "expansion": "Caution and Warning",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CWA",
+  "expansion": "Caution and Warning Advisory",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CWA",
+  "expansion": "Caution and Warning Annunciator",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CWAID",
+  "expansion": "Caution and Warning Additional Information Display",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CWE",
+  "expansion": "Caution and Warning Electronics",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CWEA",
+  "expansion": "Caution and Warning Electronic Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CWEU",
+  "expansion": "Caution and Warning Electronics Unit",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CWLM",
+  "expansion": "Caution and Warning Limit Module",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "CWPG",
+  "expansion": "Cold Warm Pressure Glove",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "CWS",
+  "expansion": "Caution and Warning System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "D&C",
+  "expansion": "Display and Control",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DA",
+  "expansion": "Depress Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DAP",
+  "expansion": "Depress Air Pump",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DASA",
+  "expansion": "Depress Air Sensor Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DASA",
+  "expansion": "Depressurization Air Sensor Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DC",
+  "expansion": "Display and Control",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "DCC",
+  "expansion": "Depressurized Conduction Cooldown",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DCM",
+  "expansion": "Display and Control Module",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DCS",
+  "expansion": "Display and Control System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "DD&CS",
+  "expansion": "Dedicated Display and Control Subsystem",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "DEP/REP",
+  "expansion": "Depress/Repress",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DP",
+  "expansion": "Depress Pump",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DPT",
+  "expansion": "Drop-Proof Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DPTA",
+  "expansion": "Drop Proof Tether Adapter",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "DUSS",
+  "expansion": "Docking Umbilical Separation System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EAL",
+  "expansion": "Equipment Airlock",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EATR",
+  "expansion": "Extravehicular Assist Teleoperator Robot",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EATS",
+  "expansion": "EVA Activity Tracking System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EBOT",
+  "expansion": "EVA Battery Operations Terminal",
+  "source": "buffer"
+ },
+ {
+  "abbreviation": "ECLS",
+  "expansion": "Environmental Control and Life Support",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ECOK",
+  "expansion": "EVA Crew Options Kit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ECOK",
+  "expansion": "Extravehicular Crew Options Kit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ECOM",
+  "expansion": "EVA Changeout Mechanism",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ECWS",
+  "expansion": "Enhanced Caution and Warning System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EDAR",
+  "expansion": "EMU Data Recorder",
+  "source": "buffer"
+ },
+ {
+  "abbreviation": "EDDA",
+  "expansion": "EMU Don/Doff Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EDV",
+  "expansion": "Electric Depressurization Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EDV",
+  "expansion": "Electro-Depressurization Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EDV",
+  "expansion": "Electronic Depressurizing Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EDVT",
+  "expansion": "EVA Development and Verification Testing",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EEGS",
+  "expansion": "Emergency Egress Guidance System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EEH",
+  "expansion": "EMU Electrical Harness",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EEL",
+  "expansion": "Emergency Egress Lighting",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EELS",
+  "expansion": "Emergency Egress Lights",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EEP",
+  "expansion": "Emergency Egress Path",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EES",
+  "expansion": "Emergency Egress Subsystem",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EES",
+  "expansion": "Emergency Egress System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EESS",
+  "expansion": "Emergency Egress Severance System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EESS",
+  "expansion": "Emergency Egress Slide Show",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EESS",
+  "expansion": "Emergency Egress Slide System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EEU",
+  "expansion": "Extravehicular Excursion Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EEWS",
+  "expansion": "Emergency Egress Window System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EHIP",
+  "expansion": "EVA Helmet Interchangeable Portable",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EHIP",
+  "expansion": "EVA Helmet Interchangeable Portable Light",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EHIP",
+  "expansion": "Extra Vehicular Activity Helmet Interchangeable Portable Light",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ELDV",
+  "expansion": "Electrically Operated Depressurization Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EMUPH",
+  "expansion": "EMU Power Harness",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EOP",
+  "expansion": "Emergency Oxygen Pack",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EOS",
+  "expansion": "Emergency Oxygen System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EOSS",
+  "expansion": "Extravehicular Activity Operational Slide-Wire System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ERCA",
+  "expansion": "Emu Rf Camera Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ERCAR",
+  "expansion": "Electrochemically Regenerable CO2 Absorber And",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ERCM",
+  "expansion": "Extended Range Crewmember Safety Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ERS",
+  "expansion": "EVA Systems Reference",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ES",
+  "expansion": "EVA Systems",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ESVS",
+  "expansion": "Escape Suit Ventilation System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ESVS",
+  "expansion": "Escape System Ventilation System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ETE",
+  "expansion": "EVA Translation Evaluation",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ETSD",
+  "expansion": "EVA Tool Stowage Device",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ETUD",
+  "expansion": "External Tank Umbilical Disconnect",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EV-CPDS",
+  "expansion": "Extravehicular - Charged Particle Directional Spectrometer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVAR",
+  "expansion": "EVA Retriever",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVARM",
+  "expansion": "EVA Radiation Monitoring",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVAS",
+  "expansion": "Extravehicular Activity System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVATA",
+  "expansion": "Extravehicular Activity Translational Aid",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVC",
+  "expansion": "Extravehicular Communication",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVC",
+  "expansion": "Extravehicular Communications",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVCPDS",
+  "expansion": "Extravehicular Charged Particle Directional Spectrometer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVCS",
+  "expansion": "Extravehicular Communications System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVCU",
+  "expansion": "Extravehicular Communications Umbilical",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVES",
+  "expansion": "Extravehicular Life Support System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVLSS",
+  "expansion": "Extravehicular Life Support System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVMPEV",
+  "expansion": "Extravehicular Manual Pressure Equalization Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVMPEV",
+  "expansion": "Extravehicular MPEV",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVMU",
+  "expansion": "Extravehicular Mobility Unit",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVR",
+  "expansion": "EVA Robotics",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "EVS",
+  "expansion": "Extravehicular Suit",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVSC",
+  "expansion": "Extravehicular Suit Communications",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVSS",
+  "expansion": "Extravehicular Space Suit",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVSTC",
+  "expansion": "Extravehicular Suit Telecommunications",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVSU",
+  "expansion": "Extravehicular Space Unit",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVT",
+  "expansion": "Extravehicular Transfer",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "EVVA",
+  "expansion": "Extravehicular Visor Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "FCL",
+  "expansion": "Fluid Coolant Loop",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "FCL",
+  "expansion": "Freon Coolant Line",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "FCL",
+  "expansion": "Freon Coolant Loop",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "FECO2",
+  "expansion": "Fractional Expiratory Volume for Carbon Dioxide",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "FEO2",
+  "expansion": "Fractional Expiratory Volume for Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "FICO2",
+  "expansion": "Fractional Inspiratory Volume for Carbon Dioxide",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "FIO2",
+  "expansion": "Fractional Inspiratory Volume for Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "FLT",
+  "expansion": "Fixed Length Tether Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "FMOFEV",
+  "expansion": "First Manned Orbital Flight With EVA",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "FPD",
+  "expansion": "Freezing Point Depressant",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "GASMAP",
+  "expansion": "Gas Analysis System for Metabolic Analysis of Physiology",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "GMRO",
+  "expansion": "Granular Mechanics and Regolith Operations",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "GSV",
+  "expansion": "Glove Stop Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "GTEC",
+  "expansion": "Generic Thermal EVA Cover",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HAP",
+  "expansion": "Helmet Absorptoin Pad",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HIP",
+  "expansion": "Helmet Interchangeable Portable Light",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HL",
+  "expansion": "Helmet Light",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HMPAC",
+  "expansion": "Helmet-Mounted Multipurpose Applications Control",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "HPORS",
+  "expansion": "High Pressure Oxygen Recharge Subsystems",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HPV",
+  "expansion": "Helmet Purge Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HRA",
+  "expansion": "Helmet Retention Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HRM",
+  "expansion": "Heart Rate Monitor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HRV",
+  "expansion": "Heart Rate Variability",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "HUS",
+  "expansion": "Hypergolic Umbilical System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "I/E",
+  "expansion": "Ingress/Egress",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ICMA",
+  "expansion": "ITCS Coolant Maintenance Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ICU",
+  "expansion": "Individual Cooling Units",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IEEP",
+  "expansion": "Incapacitated Emergency Egress Practice",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "IEU",
+  "expansion": "ISS EMU Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IEVA",
+  "expansion": "Integrated Extravehicular Activity",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IGS",
+  "expansion": "Inter-Module Ventilation Grill and Silencer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IMV",
+  "expansion": "Inter-Module Ventilation",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IMV",
+  "expansion": "Intermodular Ventilation",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IMV",
+  "expansion": "Intra-Module Ventilation",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "Ingrs",
+  "expansion": "Ingress",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IPOM",
+  "expansion": "ISS Portable Oxygen Monitor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ISS",
+  "expansion": "ISS Crewmember",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IUA",
+  "expansion": "Interface Umbilical Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IV/EV",
+  "expansion": "Intravehicular/Extravehicular",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "IVC",
+  "expansion": "Intermodule Ventilation Control",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "JET",
+  "expansion": "Joint EVA Testing",
+  "source": "buffer"
+ },
+ {
+  "abbreviation": "LCG",
+  "expansion": "Liquid Cooling Garment",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LCUG",
+  "expansion": "Liquid Cooling Undergarment",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "LDAC",
+  "expansion": "Lander Design Analysis Cycle",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LDST",
+  "expansion": "Long Duration Stowage Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LDTDT",
+  "expansion": "Long Duration Tie-Down Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LFO",
+  "expansion": "Lander Flight Operations",
+  "source": "buffer"
+ },
+ {
+  "abbreviation": "LOC",
+  "expansion": "Lander Operations Concept",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LPOX",
+  "expansion": "Low-Pressure Oxygen",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "LREBA",
+  "expansion": "Lithium-Ion Rechargeable Extravehicular Battery Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LRL",
+  "expansion": "Lunar Robotic Lander",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LS",
+  "expansion": "Life Support",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSAM",
+  "expansion": "Lunar Surface Access Module",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSH",
+  "expansion": "Life Support and Habitation",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSII",
+  "expansion": "Lunar Surface Innovation Initiative",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSITP",
+  "expansion": "Lunar Surface Instrument and Technology Payloads",
+  "source": "buffer"
+ },
+ {
+  "abbreviation": "LSM",
+  "expansion": "Life Support Module",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSM",
+  "expansion": "Lunar Surface Magnetometer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSM2",
+  "expansion": "Life Support Module Two",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSMS",
+  "expansion": "Lunar Surface Manipulator System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSS",
+  "expansion": "Life Support System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSS",
+  "expansion": "Life Support System (Subsystem)",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "LSS",
+  "expansion": "Lunar Surface Scenarios",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSS",
+  "expansion": "Lunar Surface Systems",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LSU",
+  "expansion": "Life Support Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LUD",
+  "expansion": "Latch/Umbilical Drive",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "LVS",
+  "expansion": "Lander Vision System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MA",
+  "expansion": "Metabolic Analyzer",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "MAL",
+  "expansion": "Mobile Airlock",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "MARES",
+  "expansion": "Moon Age and Regolith Explorer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MC",
+  "expansion": "Metabolic Cost",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MC&W",
+  "expansion": "Master Caution and Warning",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "MCL",
+  "expansion": "Mass Cargo Lander",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "MCM",
+  "expansion": "MAR Cooling Module",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MDCS",
+  "expansion": "Malfunction Display and Control System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "METOX",
+  "expansion": "Medical Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MGAS",
+  "expansion": "Metabolic Gas Analyzer System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MGM",
+  "expansion": "Metabolic Gas Monitor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MGM/PFT",
+  "expansion": "Metabolic Gas Monitor/Pulmonary Function Tester",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MOC",
+  "expansion": "Maximum Oxygen Concentration",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MOCV",
+  "expansion": "Manual Oxygen Control Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "MT",
+  "expansion": "Metabolic Tracking",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MTCS",
+  "expansion": "Moderate Temperature Cooling System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MUCU",
+  "expansion": "Multiple User Cooling Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MUT",
+  "expansion": "Multi-Use Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "MUT",
+  "expansion": "Multiple Use Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "NCT",
+  "expansion": "Nosetip Cooling Technology",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "NORS",
+  "expansion": "Nitrogen Oxygen Recharge System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "O/R",
+  "expansion": "Oxygen Relief",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OD",
+  "expansion": "Oxygen Drain",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OF",
+  "expansion": "Oxygen Fill",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OFDS",
+  "expansion": "Oxygen Fluid Distribution System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OG",
+  "expansion": "Oxygen Gage",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OGA",
+  "expansion": "Oxygen Generation Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OGS",
+  "expansion": "Oxygen Generation System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OGS",
+  "expansion": "Oxygen Generator System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OGV",
+  "expansion": "Oxygen Gage Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OIV",
+  "expansion": "Oxygen Inlet Valve",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OMV",
+  "expansion": "Oxygen Manual Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ONTO",
+  "expansion": "Oxygen/Nitorgen Tank - Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OP",
+  "expansion": "Oxygen Purge",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OPF",
+  "expansion": "Oxygen Processing Function",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OPR",
+  "expansion": "Oxygen Pressure Regulator",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OPRV",
+  "expansion": "Oxygen Pressure Relief Valve",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OPS",
+  "expansion": "Oxygen Purge System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OR",
+  "expansion": "Oxygen Release",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OR",
+  "expansion": "Oxygen Relief",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ORCA",
+  "expansion": "Oxygen Recharge Compressor Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ORLAN",
+  "expansion": "Russian Space Suit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OSIRIS-Rex",
+  "expansion": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OTA",
+  "expansion": "Orlan Tether Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OTP",
+  "expansion": "Oxygen Turbo Pump",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OUM",
+  "expansion": "Oxygen Uptake Measurement",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "OV",
+  "expansion": "Oxygen Vent",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "OVEN",
+  "expansion": "Oxygen and Volatile Extraction Node",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PAAMHR",
+  "expansion": "Predicted Age Adjusted Maximum Heart Rate",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PABSI",
+  "expansion": "Profiling Oxygen a-Band Spectrometer/Visible Integer",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PACK",
+  "expansion": "Payload Active Cooling Kit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PAG",
+  "expansion": "Posture Acquisition Glove",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PCL",
+  "expansion": "Primary Coolant Line",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "PCL",
+  "expansion": "Primary Coolant Loop",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "PCS",
+  "expansion": "Primary Coolant System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "PDU",
+  "expansion": "Pinch/Force Dynamometer/Hand Grip Dynamometer Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PDU",
+  "expansion": "Power Data Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PEAP",
+  "expansion": "Personal Egress Air Pack",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "PGB",
+  "expansion": "Portable Glove Box",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PLV",
+  "expansion": "Postlanding Ventilation",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "POM",
+  "expansion": "Portable Oxygen Monitor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "POR",
+  "expansion": "Primary Oxygen Regulator",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "POS",
+  "expansion": "Portable Oxygen System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PPCS",
+  "expansion": "Partial Pressure CO2 Sensor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PPOS",
+  "expansion": "Partial Pressure of Oxygen Sensor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PRISM",
+  "expansion": "Phobos/Deimos Regolith Ion Sample Mission",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "PSIF",
+  "expansion": "Portable Scrubber Interference Filter",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "QNC",
+  "expansion": "Qualified Non-Crewmember",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RAC",
+  "expansion": "Regolith Adherence Characterization",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RAOBS",
+  "expansion": "RAdar Oxygen Barometric Sensor",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RASSOR",
+  "expansion": "Regolith Advanced Surface Systems Operations Robot",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RCRS",
+  "expansion": "Regenerable Carbon Dioxide Removal System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RCRS",
+  "expansion": "Regenerative Carbon Dioxide Removal System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "REBA",
+  "expansion": "Rechargeable EVA Battery Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RECLSS",
+  "expansion": "Regenerative Environmental Control and Life Support System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "REMS",
+  "expansion": "Rover Environmental Monitoring Station",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RET",
+  "expansion": "Retractable Equipment Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RET",
+  "expansion": "Retractable Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RLT",
+  "expansion": "Return Line Tether",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "ROEU",
+  "expansion": "Remote Operational Electrical Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ROEU",
+  "expansion": "Remotely Operable Electrical Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ROEU",
+  "expansion": "Remotely Operated Electrical Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ROFU",
+  "expansion": "Remote Operated Fluid Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ROFU",
+  "expansion": "Remotely Operated Fluid Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ROOBA",
+  "expansion": "Recharge Oxygen Orifice Bypass Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ROS",
+  "expansion": "Reactive Oxygen Species",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "ROS",
+  "expansion": "Regulated Oxygen Supply",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "RU",
+  "expansion": "Rigid Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SAFER",
+  "expansion": "Simplified Aid for EVA Rescue",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SAL",
+  "expansion": "Scientific Airlock",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SAM",
+  "expansion": "SFA Airlock Attachment Mechanism",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SCL",
+  "expansion": "Secondary Coolant Line",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SCL",
+  "expansion": "Secondary Coolant Loop",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SCO",
+  "expansion": "Supercritical Oxygen",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SCOF",
+  "expansion": "Secondary Oxygen Package Checkout Fixture",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "Scrub",
+  "expansion": "Scrubber",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SCS",
+  "expansion": "Secondary Coolant System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SCU",
+  "expansion": "Service and Cooling Umbilical",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SEMU",
+  "expansion": "Short Extravehicular Mobility Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SKC",
+  "expansion": "Spacesuit Knowledge Capture",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SMUM",
+  "expansion": "SM Umbilical Mechanism",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SO2",
+  "expansion": "Solid Oxygen",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SO2",
+  "expansion": "Supercritical Oxygen",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SOP",
+  "expansion": "Secondary Oxygen Pack",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SOP",
+  "expansion": "Secondary Oxygen Package",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SOR",
+  "expansion": "Secondary Oxygen Regulator",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SpO2",
+  "expansion": "Saturation of Peripheral Oxygen",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SPOC",
+  "expansion": "Station Power and on-Orbit Cooling",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SPR",
+  "expansion": "Small Pressurized Rover",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SQRLi",
+  "expansion": "Space Qualified Rover Lidar",
+  "source": "buffer"
+ },
+ {
+  "abbreviation": "SRL",
+  "expansion": "Sample Retrieval Lander",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SSA",
+  "expansion": "Space Suit Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SSEMU",
+  "expansion": "Space Station Extravehicular Mobility Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SSER",
+  "expansion": "Space-to-Space EMU Radio",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "STA",
+  "expansion": "Safety Tether Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "STP",
+  "expansion": "Safety Tether Pack",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SUBLM",
+  "expansion": "Sublimator",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SUF",
+  "expansion": "Stages Umbilical Forum",
+  "source": "buffer"
+ },
+ {
+  "abbreviation": "SUIFT",
+  "expansion": "SDGF-to-Umbilical Interface Fitcheck Tool",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "SVS",
+  "expansion": "Suit Ventilation System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "SWME",
+  "expansion": "Spacesuit Water Membrane Evaporator",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TCH",
+  "expansion": "Tactical Communications Helmet",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TECU",
+  "expansion": "Thermoelectric Cooling Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TLCU",
+  "expansion": "Thermoelectric Liquid Cooling Unit",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TOP",
+  "expansion": "Tether Optical Phenomena",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TTHR",
+  "expansion": "Tether",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TUS",
+  "expansion": "Trailing Umbilical System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TUSRA",
+  "expansion": "Trailing Umbilical System Reel Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "TUST",
+  "expansion": "Trailing Umbilical System Transceiver",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UCB",
+  "expansion": "Umbilical Connector Block",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UCM",
+  "expansion": "Umbilical Connect Mechanism",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UCM",
+  "expansion": "Umbilical Connector Manifold",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UCM-E",
+  "expansion": "Umbilical Connect Mechanism-ELM Side",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UCM-P",
+  "expansion": "Umbilical Connect Mechanism-Payload Side",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UHT",
+  "expansion": "Umbilical Handling Technician",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "UMA",
+  "expansion": "Umbilical Mating Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UMA",
+  "expansion": "Umbilical Mechanism Assembly",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UMA1",
+  "expansion": "Umbilical Mating Assembly One",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UMC",
+  "expansion": "Umbilical Multiple Connector",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "UPR",
+  "expansion": "UnPressurized Rover",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "USC",
+  "expansion": "Umbilical Switch Card",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "USS",
+  "expansion": "Umbilical Separation System",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "VC",
+  "expansion": "Ventilation Control",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "VIPER",
+  "expansion": "Volatiles Investigating Polar Exploration Rover",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "VOR",
+  "expansion": "Variable Oxygen Regulator",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "VOS",
+  "expansion": "Variable Oxygen System",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "WCL",
+  "expansion": "Water Coolant Line",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "WCL",
+  "expansion": "Water Coolant Loop",
+  "source": "HSF"
+ },
+ {
+  "abbreviation": "WCL",
+  "expansion": "Water Cooling Loop",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "WEST",
+  "expansion": "Water Egress and Survival Training",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "WPE",
+  "expansion": "Weight, Power, EVA",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "WUC",
+  "expansion": "Wrist Electronic Box Umbilical Cable",
+  "source": "LaRC"
+ },
+ {
+  "abbreviation": "xPLSS",
+  "expansion": "Exploration Portable Life Support System",
+  "source": "AES"
+ }
+]

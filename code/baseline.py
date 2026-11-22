@@ -1,126 +1,63 @@
 """
-DIRECTIONS -------------------------------------------------------
+Step 0: baseline, no fine-tuning. The number train.py has to beat.
 
-Step 0: baseline. No fine-tuning. Write your own version in your folder.
+- Same train/val split as train.py (data.split), fits on the train part only
+- Same glossary normalization as train.py, then frozen encoder embeddings + logistic regression,
+  scored on data/test.jsonl
+- Writes runs/baseline-<time>[-tag]/: report.txt, metrics.json
 
-Outline (do it however you like):
-- Load data/train.jsonl, hold out ~15% (stratified, fixed seed).
-- Embed sentences with a frozen encoder (sentence-transformers is installed).
-- Fit a simple classifier (e.g. sklearn logistic regression) on the embeddings.
-- Print a per-intent report and save it to baseline.txt (include the model name).
-
-STEPS -----------------------------------------------------------
-
-1. Frozen encoder embeddings + logistic regression, no fine-tuning
-2. Embeds every sentence once with the pretrained encoder, fits linear classifier on those vectors
-3. Fits on the same 85% of train.jsonl that train.py trains on (the other 15% is train.py's validation split)
-4. Scores it on data/test.jsonl, a separate handwritten file that never comes from train.jsonl,
-   writes report to baseline.txt. That number train.py has to beat
-5. Encoder is MPNet (all-mpnet-base-v2) this time, so the fine-tune in train.py is compared like with like
+Usage:
+    python code/baseline.py
+    python code/baseline.py --encoder runs/prime-.../encoder --tag primed    (did priming help the raw embeddings?)
 """
 
-# LIBRARIES ------------------------------------------------------
-
-import json
-import os
-import sys
-from pathlib import Path
+import argparse
 
 from sentence_transformers import SentenceTransformer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, f1_score
-from sklearn.model_selection import train_test_split
 
-# PATH RESOLVING -------------------------------------------------
+from config import BASE_MODEL, SEED
+from data import load_test, load_train, split
+from normalize import Normalizer
+from rundir import new_run, write_json
 
-ROOT = Path(__file__).resolve().parent.parent  # NLP/
-DATA = ROOT / "data" / "train.jsonl"
-TEST_DATA = ROOT / "data" / "test.jsonl" # handwritten, never split from train.jsonl, and used for final score because accuracy was coming up WAY too high and me need to check
-OUT = ROOT / "baseline.txt"
-
-MODEL_NAME = os.environ.get("INTENT_MODEL", "sentence-transformers/all-mpnet-base-v2") # default is MPNet (768-dim, 110M params)
-VAL_SIZE = 0.15 # validation split carved from train.jsonl (train.py watches it each epoch)
-SEED = 56 # makes the random split reproducible
-
-# Note: train.py must use same VAL_SIZE and SEED so both train on the same 85%, then both get scored on test.jsonl
-
-# HELPER FUNCTIONS ------------------------------------------------
-
-# Returns (texts, labels) from a JSON file
-# One {"text", "intents": [label]} per line
-def load_rows(path):
-    texts, labels = [], []
-    with open(path, encoding="utf-8") as f: # utf-8 also default used by VS Code
-        for line in f:
-            # removes all whitespace and returns result as string, this being true = more data exists
-            if line.strip():
-                row = json.loads(line)
-                texts.append(row["text"])
-                # intents is a list with one element (i.e. the intent)
-                labels.append(row["intents"][0])
-    return texts, labels
-
-# Returns (texts, labels) from test.jsonl, quits if it's missing or shares sentences with train.jsonl
-def load_test(train_texts):
-    if not TEST_DATA.exists():
-        sys.exit(f"No {TEST_DATA.relative_to(ROOT)} yet. Write it by hand, same format as train.jsonl.")
-    texts, labels = load_rows(TEST_DATA)
-
-    # a test sentence that's also in train.jsonl should be flagged
-    seen = {t.strip().lower() for t in train_texts}
-    overlap = [t for t in texts if t.strip().lower() in seen]
-    if overlap:
-        sys.exit("These test.jsonl sentences are also in train.jsonl, remove one copy:\n  " + "\n  ".join(overlap))
-    return texts, labels
-
-# MAIN LOOP ---------------------------------------------------------
 
 def main():
-    texts, labels = load_rows(DATA)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--encoder", default=BASE_MODEL)
+    parser.add_argument("--tag")
+    args = parser.parse_args()
 
-    # only the 85% train part is used here and ze 15% val part is for train.py's per-epoch checks
-    train_x, _, train_y, _ = train_test_split(
-        texts, labels, test_size=VAL_SIZE, stratify=labels, random_state=SEED
-    )
-    test_x, test_y = load_test(texts)
-    print(f"{MODEL_NAME}: {len(train_x)} train / {len(test_x)} test sentences (test from {TEST_DATA.name})")
+    rows = load_train()
+    train_rows, _ = split(rows)
+    test_rows = load_test(rows)
+    normalize = Normalizer()
+    train_x, train_y = [normalize(r["text"]) for r in train_rows], [r["intent"] for r in train_rows]
+    test_x, test_y = [normalize(r["text"]) for r in test_rows], [r["intent"] for r in test_rows]
+    print(f"{args.encoder}: {len(train_x)} train / {len(test_x)} test")
 
-    # Loads (downloads weights of) pre-trained model from Hugging Face and sets it up so you can call .encode() on sentences (which outputs vectors)
-    encoder = SentenceTransformer(MODEL_NAME)
+    encoder = SentenceTransformer(args.encoder)
+    train_vecs = encoder.encode(train_x, batch_size=128, normalize_embeddings=True)
+    test_vecs = encoder.encode(test_x, batch_size=128, normalize_embeddings=True)
 
-    # turn sentences into vectors
-    # train_vecs encodes 1060 training sentences (return shape: (1060, 768)) and test_vecs encodes 186 test sentences (return shape: (186, 768))
-        # 768 = hidden size of MPNet (i.e. it is how many numbers each sentence gets encoded into), MiniLM was 384
-    # batch_size = 64 means it processes 64 sentences at one time (faster)
-    train_vecs = encoder.encode(train_x, batch_size=64, show_progress_bar=False)
-    test_vecs = encoder.encode(test_x, batch_size=64, show_progress_bar=False)
-
-    # creates the classifier, max_iter = 2000 is how many gradient descent steps it is allowed to take while learning
-    clf = LogisticRegression(max_iter=2000)
-
-    # Trains the model - it learns which directions in the 768-dimensional space point toward each intent
+    clf = LogisticRegression(max_iter=3000, C=10, random_state=SEED)  # normalized vectors are small, so weaker regularization
     clf.fit(train_vecs, train_y)
-
-    # Runs trained classifier on 186 test vectors and gets back 186 predicted intent labels stored in pred
     pred = clf.predict(test_vecs)
 
-    # Compares pred (predicted labels) and test_y (ground truth labels) to compute accuracy, f1-score, etc.
-    # average="macro" means it computes F1 for each intent separately, then averages them equally
-        # Used because if one intent has way more test examples (is a "common intent"), that intent would be predicted way more often so it's right more often and simple average would show higher result for accuracy than it should be
-            # would not flag the issue that we're just predicting same, COMMON label for 90% intents so we're getting 90% accuracy
-        # Ex: 100% on 30 common intents but 0% on 6 rare ones would get this F1 to drop
-    acc = accuracy_score(test_y, pred)
-    macro_f1 = f1_score(test_y, pred, average="macro")
-
-    # Prints out report
+    acc, macro_f1 = accuracy_score(test_y, pred), f1_score(test_y, pred, average="macro")
     report = (
-        f"model: {MODEL_NAME}\n"
-        f"accuracy: {acc:.3f}  macro-F1: {macro_f1:.3f}  "
-        f"(train {len(train_x)}, test {len(test_x)} from {TEST_DATA.name})\n\n"
+        f"encoder: {args.encoder}\n"
+        f"accuracy: {acc:.4f}  macro-F1: {macro_f1:.4f}  (train {len(train_x)}, test {len(test_x)})\n\n"
         + classification_report(test_y, pred, zero_division=0)
     )
     print(report)
-    OUT.write_text(report, encoding="utf-8")
+
+    run = new_run("baseline", args.tag)
+    (run / "report.txt").write_text(report, encoding="utf-8")
+    write_json(run / "metrics.json", {"encoder": args.encoder, "accuracy": acc, "macro_f1": macro_f1,
+                                      "train_rows": len(train_x), "test_rows": len(test_x)})
+    print(f"saved {run}")
 
 
 if __name__ == "__main__":

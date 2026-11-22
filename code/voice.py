@@ -1,37 +1,39 @@
 """
-DIRECTIONS -------------------------------------------------------
-
-Stretch goal: microphone -> speech-to-text -> your intent model -> spoken reply.
-Write your own version in your folder.
-
-Outline (do it however you like):
-- Record a few seconds of audio (e.g. sounddevice).
-- Transcribe it (e.g. faster-whisper; a prompt with domain words like
-  "EVA, UIA, CO2, scrubber, waypoint" helps spelling).
-- Run your predict function on the text.
-- Speak a reply (macOS `say`, or pyttsx3 on Windows/Linux).
-
-STEPS -----------------------------------------------------------
+Optional: microphone -> Whisper -> intent model -> spoken reply.
 
 1. Push-to-talk: Enter starts recording, Enter again stops (capped at MAX_SECONDS)
-2. Whisper (faster-whisper, runs on CPU) turns the audio into text
-   - initial_prompt with domain words so it writes "CO2", "UIA", "scrubber" the way our data does
-   - vad_filter skips silence, so an empty recording gives no text instead of un made-up sentence hehe
-3. predict() from predict.py picks the intent (+ slot for the five name intents)
-4. Speak a short reply from REPLIES (no telemetry here, so it says what it would show, not the value)
-5. Usage (pip install faster-whisper sounddevice, plus pyttsx3 on Windows/Linux):
-     python code/voice.py                  - talk into the mic, Ctrl+C quits
-     python code/voice.py clip.wav ...     - transcribe 16-bit .wav files instead (no mic needed)
+2. faster-whisper on CPU, with a domain-word prompt so it writes "CO2", "UIA", "scrubber" like our data
+   and a VAD filter so silence gives no text instead of a made-up sentence
+3. predict() picks the intent (+ slot for the five name intents)
+4. Speaks a short reply (no telemetry here, so it says what it would show, not the value)
+
+Record mode (--record) runs a recording session instead: it shows each prompt line, records it, saves the
+wav to data/audio/<session>/<speaker>/, transcribes it with exactly the settings above and appends
+{text: transcript, intent, slot, prompt, audio, speaker, source: "rec:<session>"} to dev_audio.jsonl
+(session a) or test.jsonl (session b). The slot is stored as Whisper spelled it (found with rapidfuzz).
+Prompts are a JSONL of {"text", "intent", "slot"}; ones this speaker already recorded are skipped, so an
+interrupted session picks up where it stopped.
+
+Usage (pip install faster-whisper sounddevice, plus pyttsx3 on Windows/Linux, plus rapidfuzz for --record):
+    python code/voice.py                  talk into the mic, Ctrl+C quits
+    python code/voice.py clip.wav ...     transcribe 16-bit .wav files instead
+    python code/voice.py --record data/prompts_a.jsonl --speaker raiana --session a
 """
 
+import argparse
+import json
+import random
+import re
 import subprocess
 import sys
 import threading
+import wave
 
 import numpy as np
 from faster_whisper import WhisperModel
 
-from predict import predict
+from config import AUDIO_DIR, DEV_AUDIO_FILE, ROOT, TEST_FILE
+from data import read_jsonl
 
 RATE = 16000 # Whisper expects 16 kHz mono
 MAX_SECONDS = 10
@@ -118,8 +120,6 @@ def record():
 
 # Read a .wav into float32 mono samples at RATE (stdlib only, avoids faster-whisper's own decoder)
 def load_wav(path):
-    import wave
-
     with wave.open(str(path), "rb") as w:
         rate, channels, width = w.getframerate(), w.getnchannels(), w.getsampwidth()
         raw = w.readframes(w.getnframes())
@@ -132,14 +132,26 @@ def load_wav(path):
     return audio.astype(np.float32)
 
 
-# Speech -> text. audio is a float32 array at RATE hehe
+# Write float32 samples at RATE as a 16-bit mono .wav
+def save_wav(path, audio):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with wave.open(str(path), "wb") as w:
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(RATE)
+        w.writeframes((np.clip(audio, -1, 1) * 32767).astype(np.int16).tobytes())
+
+
+# Speech -> text. audio is a float32 array at RATE
 def transcribe(stt, audio):
     segments, _ = stt.transcribe(audio, language="en", initial_prompt=HINT, vad_filter=True)
     return " ".join(s.text for s in segments).strip()
 
 
-# Transcribe, classify, print and speak un utterance
+# Transcribe, classify, print and speak one utterance
 def handle(stt, audio):
+    from predict import predict
+
     text = transcribe(stt, audio)
     if not text:
         print("(heard nothing)")
@@ -151,12 +163,85 @@ def handle(stt, audio):
     speak(reply)
 
 
+# The slot as Whisper spelled it: the transcript span that best matches the prompt's slot, or None
+def find_slot(transcript, slot):
+    from rapidfuzz import fuzz
+
+    match = fuzz.partial_ratio_alignment(slot.lower(), transcript.lower())
+    if match is None or match.score < 70:
+        return None
+    start, end = match.dest_start, match.dest_end
+    while start > 0 and transcript[start - 1].isalnum():  # widen to whole words
+        start -= 1
+    while end < len(transcript) and transcript[end].isalnum():
+        end += 1
+    return re.sub(r"^\W+|\W+$", "", transcript[start:end]) or None
+
+
+# Recording session: prompt, record, transcribe, keep / redo / skip, append one row per kept clip
+def record_session(stt, prompts_path, speaker, session):
+    out_file = DEV_AUDIO_FILE if session == "a" else TEST_FILE
+    prompts = read_jsonl(prompts_path)
+    done = {r.get("prompt") for r in read_jsonl(out_file) if r.get("speaker") == speaker} if out_file.exists() else set()
+    todo = [p for p in prompts if p["text"] not in done]
+    random.Random(speaker).shuffle(todo)  # every speaker gets their own order
+    folder = AUDIO_DIR / session / speaker
+    print(f"{len(prompts) - len(todo)} of {len(prompts)} prompts already recorded, {len(todo)} to go -> {out_file}")
+
+    try:
+        for n, prompt in enumerate(todo, 1):
+            while True:
+                print(f"\n[{n}/{len(todo)}]  say:  {prompt['text']}")
+                input("Enter to start, Enter again to stop...")
+                print("listening...")
+                audio = record()
+                text = transcribe(stt, audio)
+                print(f"heard: {text or '(nothing)'}")
+                choice = input("Enter keeps it, r redoes, s skips: ").strip().lower()
+                if choice != "r":
+                    break
+            if choice == "s" or not text:
+                print("skipped")
+                continue
+            path = folder / f"{len(list(folder.glob('*.wav'))) + 1:03d}.wav"
+            save_wav(path, audio)
+            row = {"text": text, "intent": prompt["intent"], "prompt": prompt["text"], "audio": str(path.relative_to(ROOT) if path.is_relative_to(ROOT) else path),
+                   "speaker": speaker, "source": f"rec:{session}"}
+            if prompt.get("slot"):
+                heard = find_slot(text, prompt["slot"])
+                row["slot"] = heard or prompt["slot"]
+                if heard is None:
+                    row["slot_not_heard"] = True
+                    print(f"(slot {prompt['slot']!r} not found in the transcript, flagged for review)")
+            with open(out_file, "a", encoding="utf-8") as f:
+                f.write(json.dumps(row, ensure_ascii=False) + "\n")
+    except (KeyboardInterrupt, EOFError):
+        print("\nstopped, run the same command again to pick up where you left off")
+
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("wavs", nargs="*", help="transcribe these 16-bit .wav files instead of the mic")
+    parser.add_argument("--record", metavar="PROMPTS", help="recording session: JSONL of prompt lines")
+    parser.add_argument("--speaker", help="who is recording (--record)")
+    parser.add_argument("--session", choices=["a", "b"], help="a -> dev_audio.jsonl, b -> test.jsonl (--record)")
+    args = parser.parse_args()
+    if args.record and not (args.speaker and args.session):
+        parser.error("--record needs --speaker and --session")
+
     print(f"loading Whisper {WHISPER_SIZE}...")
     stt = WhisperModel(WHISPER_SIZE, device="cpu", compute_type="int8")
 
-    if len(sys.argv) > 1: # file mode
-        for path in sys.argv[1:]:
+    if args.record:
+        record_session(stt, args.record, args.speaker.lower(), args.session)
+        return
+
+    from predict import predict
+
+    predict("warm up") # load the intent model now, not on the first command
+
+    if args.wavs: # file mode
+        for path in args.wavs:
             print(f"\n{path}")
             handle(stt, load_wav(path))
         return
@@ -167,7 +252,7 @@ def main():
             print("listening...")
             handle(stt, record())
     except (KeyboardInterrupt, EOFError):
-        print("\nbye-bye")
+        print("\nbye")
 
 
 if __name__ == "__main__":

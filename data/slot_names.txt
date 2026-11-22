@@ -1,0 +1,46 @@
+lander
+lunar lander
+pr lander
+airlock
+uia
+starting point
+poi a
+poi b
+poi c
+poi d
+poi 1
+poi 2
+poi 3
+poi 4
+point of interest one
+point of interest two
+next poi
+station one
+station two
+sample collection site
+sample site
+camera site
+pin one
+pin two
+breadcrumb
+egress
+ingress
+depress
+prep o2 tanks
+plcd
+camera deployment
+portable lunar camera deployment
+plct
+camera teardown
+portable lunar camera teardown
+geology task
+terrain photos
+sample collection
+psmd
+sample marker
+xrf scan
+spectrometer reading
+seismometer deployment
+regolith charge sensor
+retroreflector alignment
+sensor canister deployment

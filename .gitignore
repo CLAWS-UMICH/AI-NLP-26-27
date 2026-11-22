@@ -1,2 +1,12 @@
 *.pt
+*.safetensors
+runs/*/
+!runs/.gitkeep
+.venv/
 __pycache__/
+.DS_Store
+data/audio/
+
+# Files that are too big
+docs/siri-deep-dive.pdf
+docs/nasa-suits-mission-description.pdf
