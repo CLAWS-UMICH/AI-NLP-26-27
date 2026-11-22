@@ -5,7 +5,8 @@ Split the handwritten seed into test and the two training pools, once, before an
 2. Skeleton: the text with its slot masked as <SLOT> and glossary terms masked by their expansion
    ("what's my pri o2" -> "what's my <PRIMARY> <OXYGEN>"). Rows of one intent with the same skeleton are one group
 3. Groups of one intent whose skeletons are close (MiniLM cosine >= GROUP_SIM) are joined, so
-   "take me to <SLOT>" and "bring me to <SLOT>" can't land on opposite sides
+   "take me to <SLOT>" and "bring me to <SLOT>" can't land on opposite sides. The comparison is on phrasing
+   only: the slot, glossary terms and the words that name the intent are masked to one neutral word first
 4. Per intent, by group: ~TEST_SHARE of the rows -> data/test.jsonl, the rest is the train side.
    ~VAL_POOL_SHARE of the train side -> data/pools/val/seed.jsonl, the rest -> data/pools/train/seed.jsonl
 
@@ -32,7 +33,7 @@ from sentence_transformers import SentenceTransformer, util
 from config import (BASE_MODEL, GROUP_SIM, POOLS, SEED, SEED_FILE, SLOT_INTENTS, TEST_FILE, TEST_SHARE,
                     VAL_POOL_SHARE)
 from data import load_labels, norm, read_jsonl, write_jsonl
-from normalize import term_forms
+from normalize import intent_words, term_forms
 
 
 def row_id(text):
@@ -48,12 +49,19 @@ def skeleton(row, forms, pattern):
     return text
 
 
-def readable(skel):
-    """Skeleton for embedding: the bare <SLOT> token makes every short slot command look alike to MiniLM
-    (~0.85 for "navigate to <SLOT>" vs "point me toward the <SLOT>"), so it becomes a neutral word, and
-    glossary placeholders become their plain expansion."""
-    skel = skel.replace("<SLOT>", "somewhere")
-    return re.sub(r"<([A-Z_]+)>", lambda m: m.group(1).lower().replace("_", " "), skel)
+def readable(skel, intent):
+    """Skeleton for embedding, so similarity measures how a command is asked, not what it's about.
+    Skeletons are only compared within one intent, where every row names the same subject ("helmet co2"),
+    and those shared words pushed short rows over GROUP_SIM whatever their phrasing. So the subject becomes
+    one neutral word: glossary placeholders and the words that name the intent -> "something", runs of it
+    collapsed ("suit <OXYGEN> pressure" -> "something"). The bare <SLOT> token makes every short slot command
+    look alike to MiniLM (~0.85 for "navigate to <SLOT>" vs "point me toward the <SLOT>"), so it becomes
+    "somewhere"."""
+    text = re.sub(r"<(?!SLOT>)[A-Z_]+>", "something", skel).replace("<SLOT>", "somewhere")
+    own = intent_words(intent)
+    if own:
+        text = own.sub("something", text)
+    return re.sub(r"\bsomething(?: something)+\b", "something", text)
 
 
 def components(n, pairs):
@@ -124,7 +132,7 @@ def main():
     # 2-3: one node per (intent, skeleton), joined by embedding similarity within an intent
     nodes = sorted({(r["intent"], r["skeleton"]) for r in rows})
     model = SentenceTransformer(BASE_MODEL)
-    emb = model.encode([readable(s) for _, s in nodes], normalize_embeddings=True, convert_to_tensor=True)
+    emb = model.encode([readable(s, intent) for intent, s in nodes], normalize_embeddings=True, convert_to_tensor=True)
     sim = util.cos_sim(emb, emb)
     pairs = [(i, j) for i, j in (sim >= GROUP_SIM).nonzero().tolist()
              if i < j and nodes[i][0] == nodes[j][0]]

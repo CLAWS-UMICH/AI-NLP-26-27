@@ -60,5 +60,15 @@ def term_forms(glossary_path=GLOSSARY_FILE):
     return forms, pattern
 
 
+VERBS = {"get", "set", "open", "close", "add", "delete", "complete", "reroute"}  # free to vary, so not masked
+
+
+def intent_words(intent):
+    """Regex for the words in an intent's name that say what it's about: get_coolant_gas_pressure ->
+    coolant, gas, pressure (plural allowed). split_seed.py and paraphrase.py mask these."""
+    words = [w for w in intent.lower().split("_") if len(w) > 2 and w not in VERBS]
+    return re.compile(r"(?<!\w)(" + "|".join(rf"{re.escape(w)}s?" for w in words) + r")(?!\w)", re.I) if words else None
+
+
 if __name__ == "__main__":
     print(Normalizer()(" ".join(sys.argv[1:])))

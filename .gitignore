@@ -7,6 +7,9 @@ __pycache__/
 .DS_Store
 data/audio/
 
+# Cloned reference repos (see PLAN.md → Making the data harder)
+external/
+
 # Files that are too big
 docs/siri-deep-dive.pdf
 docs/nasa-suits-mission-description.pdf

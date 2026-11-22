@@ -38,7 +38,7 @@ from transformers import MarianMTModel, MarianTokenizer
 from config import BASE_MODEL, POOLS, RUNS, SEED, TEST_FILE, UNHANDLED
 from data import norm, read_jsonl, write_jsonl
 from model import pick_device
-from normalize import Normalizer, term_forms
+from normalize import Normalizer, intent_words, term_forms
 
 PIVOTS = ("de", "fr")
 SAMPLES = 2           # forward translations per pivot language, so up to 4 candidates per source row
@@ -46,7 +46,6 @@ BATCH = 32
 DUP_RATIO = 90        # near-duplicate inside the pool (same threshold as audit.py)
 LEAK_RATIO = 85       # too close to a row of another split
 ADEQUACY = 0.80       # min cosine to the source row; below it the meaning drifted ("pull up the vital umbrella")
-VERBS = {"get", "set", "open", "close", "add", "delete", "complete", "reroute"}  # free to vary, so not masked
 PLACEHOLDER = re.compile(r"(?<!\w)x(\d+)(?!\w)", re.I)
 
 
@@ -59,13 +58,6 @@ def load_pool(pool):
         elif name == "seed":
             sys.exit(f"No {path}. Run python code/split_seed.py first.")
     return rows
-
-
-def intent_words(intent):
-    """Regex for the words in an intent's name that say what it's about: get_coolant_gas_pressure ->
-    coolant, gas, pressure (plural allowed)."""
-    words = [w for w in intent.lower().split("_") if len(w) > 2 and w not in VERBS]
-    return re.compile(r"(?<!\w)(" + "|".join(rf"{re.escape(w)}s?" for w in words) + r")(?!\w)", re.I) if words else None
 
 
 def mask(row, patterns):

@@ -1,0 +1,43 @@
+{"text": "houston, add poi 4 to the map", "intent": "Add_waypoint", "slot": "poi 4", "id": "s5e6315", "source": "seed", "skeleton": "houston add <SLOT> to the map", "group": "g5e6315"}
+{"text": "okay xrf scan is finished", "intent": "Complete_task", "slot": "xrf scan", "id": "s73b486", "source": "seed", "skeleton": "okay <SLOT> is finished", "group": "g73b486"}
+{"text": "delete the pin for crater floor", "intent": "Delete_waypoint", "slot": "crater floor", "id": "s028db0", "source": "seed", "skeleton": "delete the pin for <SLOT>", "group": "g028db0"}
+{"text": "uh where's the comm tower", "intent": "Get_coordinates", "slot": "comm tower", "id": "s1f321c", "source": "seed", "skeleton": "uh where's the <SLOT>", "group": "g1f321c"}
+{"text": "set course for camera site", "intent": "Set_navigation_target", "slot": "camera site", "id": "s27eaf6", "source": "seed", "skeleton": "set course for <SLOT>", "group": "g27eaf6"}
+{"text": "get that off my visor", "intent": "close_menu", "id": "s272bb9", "source": "seed", "skeleton": "get that off my visor", "group": "g272bb9"}
+{"text": "uh how much co2 am i breathing out", "intent": "get_co2_production", "id": "se1a2a8", "source": "seed", "skeleton": "uh how much <CARBON_DIOXIDE> am i breathing out", "group": "ge1a2a8"}
+{"text": "roger. gas coolant pressure?", "intent": "get_coolant_gas_pressure", "id": "sb4a7b6", "source": "seed", "skeleton": "roger gas <COOLANT> pressure", "group": "gb4a7b6"}
+{"text": "coolant liquid pressure", "intent": "get_coolant_liquid_pressure", "id": "s8a977f", "source": "seed", "skeleton": "<COOLANT_LIQUID_PRESSURE>", "group": "g8a977f"}
+{"text": "coolant pressure, liquid", "intent": "get_coolant_liquid_pressure", "id": "sb5b3ad", "source": "seed", "skeleton": "<COOLANT> pressure liquid", "group": "g8a977f"}
+{"text": "coolant storage", "intent": "get_coolant_storage", "id": "sc5bacf", "source": "seed", "skeleton": "<COOLANT> storage", "group": "gc5bacf"}
+{"text": "okay how long have i been outside", "intent": "get_eva_elapsed_time", "id": "s615652", "source": "seed", "skeleton": "okay how long have i been outside", "group": "g615652"}
+{"text": "uh is the primary fan running okay", "intent": "get_fan_pri_rpm", "id": "s78628d", "source": "seed", "skeleton": "uh is the <PRIMARY> fan running okay", "group": "g78628d"}
+{"text": "okay need the - the secondary fan number", "intent": "get_fan_sec_rpm", "id": "s1bdeab", "source": "seed", "skeleton": "okay need the the <SECONDARY> fan number", "group": "g1bdeab"}
+{"text": "how fast is my heart going", "intent": "get_heart_rate", "id": "sd010f4", "source": "seed", "skeleton": "how fast is my heart going", "group": "gd010f4"}
+{"text": "okay need the helmet co2 number", "intent": "get_helmet_pressure_co2", "id": "sf7d515", "source": "seed", "skeleton": "okay need the helmet <CARBON_DIOXIDE> number", "group": "gf7d515"}
+{"text": "what's my o2 burn rate", "intent": "get_oxy_consumption", "id": "s2d9b33", "source": "seed", "skeleton": "what's my <OXYGEN> burn rate", "group": "g2d9b33"}
+{"text": "is the primary o2 holding pressure", "intent": "get_oxy_pri_pressure", "id": "sbb0e85", "source": "seed", "skeleton": "is the <PRIMARY> <OXYGEN> holding pressure", "group": "gbb0e85"}
+{"text": "give me the pri o2 storage reading", "intent": "get_oxy_pri_storage", "id": "s0e1309", "source": "seed", "skeleton": "give me the <PRIMARY> <OXYGEN> storage reading", "group": "g0e1309"}
+{"text": "how's the secondary tank pressure doing", "intent": "get_oxy_sec_pressure", "id": "s79562c", "source": "seed", "skeleton": "how's the <SECONDARY> tank pressure doing", "group": "g79562c"}
+{"text": "what's the secondary tank storage at", "intent": "get_oxy_sec_storage", "id": "s3bd07a", "source": "seed", "skeleton": "what's the <SECONDARY> tank storage at", "group": "g3bd07a"}
+{"text": "what's my primary battery at", "intent": "get_primary_battery_level", "id": "s8fb5cd", "source": "seed", "skeleton": "what's my <PRIMARY> <BATTERY> at", "group": "g8fb5cd"}
+{"text": "what's co2 storage on scrubber a", "intent": "get_scrubber_a_co2_storage", "id": "s034e06", "source": "seed", "skeleton": "what's <CARBON_DIOXIDE> storage on <SCRUBBER_A>", "group": "g034e06"}
+{"text": "is scrubber b close to full", "intent": "get_scrubber_b_co2_storage", "id": "s8c22fa", "source": "seed", "skeleton": "is <SCRUBBER_B> close to full", "group": "g8c22fa"}
+{"text": "secondary battery percentage", "intent": "get_secondary_battery_level", "id": "s15d413", "source": "seed", "skeleton": "<SECONDARY> <BATTERY> percentage", "group": "g15d413"}
+{"text": "okay, check suit co2", "intent": "get_suit_pressure_co2", "id": "s276350", "source": "seed", "skeleton": "okay check suit <CARBON_DIOXIDE>", "group": "g276350"}
+{"text": "trace gases in the suit, what's the reading", "intent": "get_suit_pressure_other", "id": "s1b0f94", "source": "seed", "skeleton": "trace gases in the suit what's the reading", "group": "g1b0f94"}
+{"text": "okay, suit o2 pressure reading", "intent": "get_suit_pressure_oxy", "id": "s8de27e", "source": "seed", "skeleton": "okay suit <OXYGEN> pressure reading", "group": "g8de27e"}
+{"text": "total suit pressure", "intent": "get_suit_pressure_total", "id": "s90ed05", "source": "seed", "skeleton": "<TOTAL_SUIT_PRESSURE>", "group": "g90ed05"}
+{"text": "suit temperature", "intent": "get_temperature", "id": "s042a1a", "source": "seed", "skeleton": "suit <TEMPERATURE>", "group": "g042a1a"}
+{"text": "list current warnings", "intent": "get_warnings", "id": "sa51688", "source": "seed", "skeleton": "list current warnings", "group": "ga51688"}
+{"text": "switch to map", "intent": "open_menu_navigation", "id": "s2e91b5", "source": "seed", "skeleton": "switch to map", "group": "g2e91b5"}
+{"text": "open tasks", "intent": "open_menu_tasks", "id": "s596752", "source": "seed", "skeleton": "open tasks", "group": "g596752"}
+{"text": "open the tasks menu", "intent": "open_menu_tasks", "id": "se82335", "source": "seed", "skeleton": "open the tasks menu", "group": "g596752"}
+{"text": "uia page please", "intent": "open_menu_uia", "id": "s1301b2", "source": "seed", "skeleton": "<UMBILICAL_INTERFACE_ASSEMBLY> page please", "group": "g1301b2"}
+{"text": "roger. bring up biomed", "intent": "open_menu_vitals", "id": "sc5bcb6", "source": "seed", "skeleton": "roger bring up biomed", "group": "gc5bcb6"}
+{"text": "reroute", "intent": "reroute_navigation", "id": "s19401b", "source": "seed", "skeleton": "reroute", "group": "g19401b"}
+{"text": "this dust gets everywhere", "intent": "unhandled", "id": "sa2cccb", "source": "seed", "skeleton": "this dust gets everywhere", "group": "ga2cccb"}
+{"text": "verified", "intent": "unhandled", "id": "sec734b", "source": "seed", "skeleton": "verified", "group": "gec734b"}
+{"text": "what's for dinner back at the hab", "intent": "unhandled", "id": "s4c6b81", "source": "seed", "skeleton": "what's for dinner back at the hab", "group": "g4c6b81"}
+{"text": "remind me to call my mom later", "intent": "unhandled", "id": "s281f18", "source": "seed", "skeleton": "remind me to call my mom later", "group": "g281f18"}
+{"text": "oxygen's fine, no worries", "intent": "unhandled", "id": "s3df939", "source": "seed", "skeleton": "<OXYGEN>'s fine no worries", "group": "g3df939"}
+{"text": "the soil is real fine here, kind of powdery", "intent": "unhandled", "id": "sb43b12", "source": "seed", "skeleton": "the soil is real fine here kind of powdery", "group": "gb43b12"}

@@ -1,0 +1,162 @@
+{"text": "create a waypoint for drill site", "intent": "Add_waypoint", "slot": "drill site", "id": "s73fccb", "source": "seed", "skeleton": "create a <WAYPOINT> for <SLOT>", "group": "g73fccb"}
+{"text": "drop a pin here called pin one", "intent": "Add_waypoint", "slot": "pin one", "id": "s0f93f7", "source": "seed", "skeleton": "drop a pin here called <SLOT>", "group": "g0f93f7"}
+{"text": "mark here, name it lava tube entrance", "intent": "Add_waypoint", "slot": "lava tube entrance", "id": "s73c4b5", "source": "seed", "skeleton": "mark here name it <SLOT>", "group": "g73c4b5"}
+{"text": "tag this as sample site two", "intent": "Add_waypoint", "slot": "sample site two", "id": "sc666e9", "source": "seed", "skeleton": "tag this as <SLOT>", "group": "gc666e9"}
+{"text": "uh seismometer deployment's done", "intent": "Complete_task", "slot": "seismometer deployment", "id": "se954f7", "source": "seed", "skeleton": "uh <SLOT>'s done", "group": "ge954f7"}
+{"text": "tick off rover inspection", "intent": "Complete_task", "slot": "rover inspection", "id": "se83685", "source": "seed", "skeleton": "tick off <SLOT>", "group": "ge83685"}
+{"text": "complete task sample collection", "intent": "Complete_task", "slot": "sample collection", "id": "s46cf3f", "source": "seed", "skeleton": "complete task <SLOT>", "group": "g46cf3f"}
+{"text": "okay that's - that's the solar panel check done", "intent": "Complete_task", "slot": "solar panel check", "id": "s744677", "source": "seed", "skeleton": "okay that's that's the <SLOT> done", "group": "g744677"}
+{"text": "delete waypoint poi c", "intent": "Delete_waypoint", "slot": "poi c", "id": "s082223", "source": "seed", "skeleton": "delete <WAYPOINT> <SLOT>", "group": "g082223"}
+{"text": "delete next poi", "intent": "Delete_waypoint", "slot": "next poi", "id": "s3f87f6", "source": "seed", "skeleton": "delete <SLOT>", "group": "g082223"}
+{"text": "remove pin two", "intent": "Delete_waypoint", "slot": "pin two", "id": "s03ddfd", "source": "seed", "skeleton": "remove <SLOT>", "group": "g03ddfd"}
+{"text": "i don't need station two anymore, remove it", "intent": "Delete_waypoint", "slot": "station two", "id": "s168298", "source": "seed", "skeleton": "i don't need <SLOT> anymore remove it", "group": "g168298"}
+{"text": "houston, coordinates for poi 3", "intent": "Get_coordinates", "slot": "poi 3", "id": "s9f5a04", "source": "seed", "skeleton": "houston <COORDINATES> for <SLOT>", "group": "g9f5a04"}
+{"text": "what's the grid location of the boulder field", "intent": "Get_coordinates", "slot": "boulder field", "id": "s6e7a58", "source": "seed", "skeleton": "what's the grid location of the <SLOT>", "group": "g6e7a58"}
+{"text": "where exactly is rock outcrop seven", "intent": "Get_coordinates", "slot": "rock outcrop seven", "id": "saa660d", "source": "seed", "skeleton": "where exactly is <SLOT>", "group": "gaa660d"}
+{"text": "roger. give me the location of the crater rim", "intent": "Get_coordinates", "slot": "crater rim", "id": "sc15e89", "source": "seed", "skeleton": "roger give me the location of the <SLOT>", "group": "gc15e89"}
+{"text": "set nav target to sample collection site", "intent": "Set_navigation_target", "slot": "sample collection site", "id": "s5074aa", "source": "seed", "skeleton": "set <NAVIGATION> target to <SLOT>", "group": "g5074aa"}
+{"text": "okay navigate - navigate to geology stop alpha", "intent": "Set_navigation_target", "slot": "geology stop alpha", "id": "sc75f17", "source": "seed", "skeleton": "okay navigate navigate to <SLOT>", "group": "gc75f17"}
+{"text": "i want to go to the ridge overlook", "intent": "Set_navigation_target", "slot": "ridge overlook", "id": "s587100", "source": "seed", "skeleton": "i want to go to the <SLOT>", "group": "g587100"}
+{"text": "houston, route me to poi 1", "intent": "Set_navigation_target", "slot": "poi 1", "id": "s9e9d05", "source": "seed", "skeleton": "houston route me to <SLOT>", "group": "g9e9d05"}
+{"text": "hide the panel", "intent": "close_menu", "id": "sde2a72", "source": "seed", "skeleton": "hide the panel", "group": "gde2a72"}
+{"text": "close that", "intent": "close_menu", "id": "sbc6dad", "source": "seed", "skeleton": "close that", "group": "gbc6dad"}
+{"text": "exit this window", "intent": "close_menu", "id": "s5fd064", "source": "seed", "skeleton": "exit this window", "group": "g5fd064"}
+{"text": "go back", "intent": "close_menu", "id": "s5886bf", "source": "seed", "skeleton": "go back", "group": "g5886bf"}
+{"text": "houston, read co2 production", "intent": "get_co2_production", "id": "s7e828f", "source": "seed", "skeleton": "houston read <CARBON_DIOXIDE> production", "group": "g7e828f"}
+{"text": "how fast am i making co2", "intent": "get_co2_production", "id": "s59a906", "source": "seed", "skeleton": "how fast am i making <CARBON_DIOXIDE>", "group": "g59a906"}
+{"text": "what's my co2 generation rate", "intent": "get_co2_production", "id": "s563a69", "source": "seed", "skeleton": "what's my <CARBON_DIOXIDE> generation rate", "group": "g563a69"}
+{"text": "give me carbon dioxide production", "intent": "get_co2_production", "id": "sadb253", "source": "seed", "skeleton": "give me <CARBON_DIOXIDE> production", "group": "gadb253"}
+{"text": "is the coolant gas loop holding pressure", "intent": "get_coolant_gas_pressure", "id": "s8a571b", "source": "seed", "skeleton": "is the <COOLANT> gas loop holding pressure", "group": "g8a571b"}
+{"text": "how's the coolant gas loop pressure", "intent": "get_coolant_gas_pressure", "id": "sf95a64", "source": "seed", "skeleton": "how's the <COOLANT> gas loop pressure", "group": "gf95a64"}
+{"text": "houston, read coolant gas pressure", "intent": "get_coolant_gas_pressure", "id": "s9353b8", "source": "seed", "skeleton": "houston read <COOLANT_GAS_PRESSURE>", "group": "g9353b8"}
+{"text": "okay need the coolant gas pressure number", "intent": "get_coolant_gas_pressure", "id": "s45fd2c", "source": "seed", "skeleton": "okay need the <COOLANT_GAS_PRESSURE> number", "group": "g45fd2c"}
+{"text": "houston, read coolant liquid pressure", "intent": "get_coolant_liquid_pressure", "id": "s3c8580", "source": "seed", "skeleton": "houston read <COOLANT_LIQUID_PRESSURE>", "group": "g3c8580"}
+{"text": "how's the coolant liquid loop pressure", "intent": "get_coolant_liquid_pressure", "id": "s235455", "source": "seed", "skeleton": "how's the <COOLANT> liquid loop pressure", "group": "g235455"}
+{"text": "give me coolant liquid", "intent": "get_coolant_liquid_pressure", "id": "sa6d950", "source": "seed", "skeleton": "give me <COOLANT> liquid", "group": "ga6d950"}
+{"text": "what's the pressure on the coolant liquid side", "intent": "get_coolant_liquid_pressure", "id": "s93611c", "source": "seed", "skeleton": "what's the pressure on the <COOLANT> liquid side", "group": "g93611c"}
+{"text": "roger. coolant storage percent?", "intent": "get_coolant_storage", "id": "s6c240e", "source": "seed", "skeleton": "roger <COOLANT> storage percent", "group": "g6c240e"}
+{"text": "houston, read coolant storage", "intent": "get_coolant_storage", "id": "sa1acb2", "source": "seed", "skeleton": "houston read <COOLANT> storage", "group": "ga1acb2"}
+{"text": "okay need the coolant storage number", "intent": "get_coolant_storage", "id": "s078321", "source": "seed", "skeleton": "okay need the <COOLANT> storage number", "group": "g078321"}
+{"text": "give me coolant remaining", "intent": "get_coolant_storage", "id": "s4ff341", "source": "seed", "skeleton": "give me <COOLANT> remaining", "group": "g4ff341"}
+{"text": "time check", "intent": "get_eva_elapsed_time", "id": "s003ae7", "source": "seed", "skeleton": "time check", "group": "g003ae7"}
+{"text": "how long has this eva been going", "intent": "get_eva_elapsed_time", "id": "scbeff9", "source": "seed", "skeleton": "how long has this eva been going", "group": "gcbeff9"}
+{"text": "how long have we been out", "intent": "get_eva_elapsed_time", "id": "sf6de80", "source": "seed", "skeleton": "how long have we been out", "group": "gf6de80"}
+{"text": "how much time has passed since egress", "intent": "get_eva_elapsed_time", "id": "s61e608", "source": "seed", "skeleton": "how much time has passed since egress", "group": "g61e608"}
+{"text": "okay need the - the primary fan number", "intent": "get_fan_pri_rpm", "id": "s8ba61e", "source": "seed", "skeleton": "okay need the the <PRIMARY> fan number", "group": "g8ba61e"}
+{"text": "roger, pri fan rpm?", "intent": "get_fan_pri_rpm", "id": "sae139b", "source": "seed", "skeleton": "roger <PRIMARY> fan rpm", "group": "gae139b"}
+{"text": "give me primary fan speed", "intent": "get_fan_pri_rpm", "id": "sb404ce", "source": "seed", "skeleton": "give me <PRIMARY> fan speed", "group": "gb404ce"}
+{"text": "primary fan rpm", "intent": "get_fan_pri_rpm", "id": "saa4159", "source": "seed", "skeleton": "<PRIMARY> fan rpm", "group": "gaa4159"}
+{"text": "secondary fan, what's it say", "intent": "get_fan_sec_rpm", "id": "s765dd7", "source": "seed", "skeleton": "<SECONDARY> fan what's it say", "group": "g765dd7"}
+{"text": "what's the secondary circulation fan at", "intent": "get_fan_sec_rpm", "id": "s7a3208", "source": "seed", "skeleton": "what's the <SECONDARY> circulation fan at", "group": "g7a3208"}
+{"text": "give me secondary fan speed", "intent": "get_fan_sec_rpm", "id": "s356810", "source": "seed", "skeleton": "give me <SECONDARY> fan speed", "group": "g356810"}
+{"text": "okay check secondary fan speed", "intent": "get_fan_sec_rpm", "id": "s780ecd", "source": "seed", "skeleton": "okay check <SECONDARY> fan speed", "group": "g780ecd"}
+{"text": "okay need my heart rate", "intent": "get_heart_rate", "id": "s799b13", "source": "seed", "skeleton": "okay need my <HEART_RATE>", "group": "g799b13"}
+{"text": "houston, read my heart rate", "intent": "get_heart_rate", "id": "s75f444", "source": "seed", "skeleton": "houston read my <HEART_RATE>", "group": "g75f444"}
+{"text": "what's my heart rate", "intent": "get_heart_rate", "id": "s6ac3d8", "source": "seed", "skeleton": "what's my <HEART_RATE>", "group": "g6ac3d8"}
+{"text": "what's my bpm", "intent": "get_heart_rate", "id": "sf56625", "source": "seed", "skeleton": "what's my <BEATS_PER_MINUTE>", "group": "g6ac3d8"}
+{"text": "what are my beats per minute", "intent": "get_heart_rate", "id": "s985f7e", "source": "seed", "skeleton": "what are my <BEATS_PER_MINUTE>", "group": "g6ac3d8"}
+{"text": "okay check helmet co2 pressure", "intent": "get_helmet_pressure_co2", "id": "sf4fb7c", "source": "seed", "skeleton": "okay check helmet <CARBON_DIOXIDE> pressure", "group": "gf4fb7c"}
+{"text": "helmet co two level", "intent": "get_helmet_pressure_co2", "id": "se04853", "source": "seed", "skeleton": "helmet <CARBON_DIOXIDE> level", "group": "ge04853"}
+{"text": "read helmet pressure co2", "intent": "get_helmet_pressure_co2", "id": "s29150b", "source": "seed", "skeleton": "read helmet pressure <CARBON_DIOXIDE>", "group": "g29150b"}
+{"text": "how much co2 is in the helmet", "intent": "get_helmet_pressure_co2", "id": "s30cdf1", "source": "seed", "skeleton": "how much <CARBON_DIOXIDE> is in the helmet", "group": "g30cdf1"}
+{"text": "okay check o2 consumption rate", "intent": "get_oxy_consumption", "id": "s0bb50b", "source": "seed", "skeleton": "okay check <OXYGEN> consumption rate", "group": "g0bb50b"}
+{"text": "how fast am i using oxygen", "intent": "get_oxy_consumption", "id": "s84ab09", "source": "seed", "skeleton": "how fast am i using <OXYGEN>", "group": "g84ab09"}
+{"text": "oxygen consumption", "intent": "get_oxy_consumption", "id": "sa0f672", "source": "seed", "skeleton": "<OXYGEN> consumption", "group": "ga0f672"}
+{"text": "what's the oxygen consumption at", "intent": "get_oxy_consumption", "id": "s2bb496", "source": "seed", "skeleton": "what's the <OXYGEN> consumption at", "group": "g2bb496"}
+{"text": "roger. primary o2 pressure reading?", "intent": "get_oxy_pri_pressure", "id": "s59b2a5", "source": "seed", "skeleton": "roger <PRIMARY> <OXYGEN> pressure reading", "group": "g59b2a5"}
+{"text": "give me pri oxy pressure", "intent": "get_oxy_pri_pressure", "id": "sd5524b", "source": "seed", "skeleton": "give me <PRIMARY> <OXYGEN> pressure", "group": "gd5524b"}
+{"text": "uh, what pressure is the primary oxygen at", "intent": "get_oxy_pri_pressure", "id": "s90da7f", "source": "seed", "skeleton": "uh what pressure is the <PRIMARY> <OXYGEN> at", "group": "g90da7f"}
+{"text": "read primary oxygen tank pressure", "intent": "get_oxy_pri_pressure", "id": "sa57085", "source": "seed", "skeleton": "read <PRIMARY> <OXYGEN> tank pressure", "group": "ga57085"}
+{"text": "what's my primary oxygen storage", "intent": "get_oxy_pri_storage", "id": "sa84167", "source": "seed", "skeleton": "what's my <PRIMARY> <OXYGEN> storage", "group": "ga84167"}
+{"text": "how much oxygen is left in the primary tank", "intent": "get_oxy_pri_storage", "id": "sde925c", "source": "seed", "skeleton": "how much <OXYGEN> is left in the <PRIMARY> tank", "group": "gde925c"}
+{"text": "read out primary oxygen storage please", "intent": "get_oxy_pri_storage", "id": "s5666bd", "source": "seed", "skeleton": "read out <PRIMARY> <OXYGEN> storage please", "group": "g5666bd"}
+{"text": "primary oxygen percent remaining", "intent": "get_oxy_pri_storage", "id": "s19f152", "source": "seed", "skeleton": "<PRIMARY> <OXYGEN> percent remaining", "group": "g19f152"}
+{"text": "houston, secondary o2 pressure please", "intent": "get_oxy_sec_pressure", "id": "s5e593a", "source": "seed", "skeleton": "houston <SECONDARY> <OXYGEN> pressure please", "group": "g5e593a"}
+{"text": "okay i need the - the secondary o2 pressure", "intent": "get_oxy_sec_pressure", "id": "s19652c", "source": "seed", "skeleton": "okay i need the the <SECONDARY> <OXYGEN> pressure", "group": "g19652c"}
+{"text": "secondary oxygen pressure", "intent": "get_oxy_sec_pressure", "id": "s03179a", "source": "seed", "skeleton": "<SECONDARY> <OXYGEN> pressure", "group": "g03179a"}
+{"text": "uh, what's secondary oxygen pressurized to", "intent": "get_oxy_sec_pressure", "id": "s203585", "source": "seed", "skeleton": "uh what's <SECONDARY> <OXYGEN> pressurized to", "group": "g203585"}
+{"text": "okay, how much o2 is left in secondary", "intent": "get_oxy_sec_storage", "id": "sdedb8c", "source": "seed", "skeleton": "okay how much <OXYGEN> is left in <SECONDARY>", "group": "gdedb8c"}
+{"text": "tell me secondary oxygen storage", "intent": "get_oxy_sec_storage", "id": "s92c3e8", "source": "seed", "skeleton": "tell me <SECONDARY> <OXYGEN> storage", "group": "g92c3e8"}
+{"text": "secondary o2 percent", "intent": "get_oxy_sec_storage", "id": "se9a933", "source": "seed", "skeleton": "<SECONDARY> <OXYGEN> percent", "group": "ge9a933"}
+{"text": "check secondary oxygen remaining", "intent": "get_oxy_sec_storage", "id": "s108e1f", "source": "seed", "skeleton": "check <SECONDARY> <OXYGEN> remaining", "group": "g108e1f"}
+{"text": "primary battery percentage", "intent": "get_primary_battery_level", "id": "s3c9cee", "source": "seed", "skeleton": "<PRIMARY> <BATTERY> percentage", "group": "g3c9cee"}
+{"text": "what percent is the primary battery", "intent": "get_primary_battery_level", "id": "s727020", "source": "seed", "skeleton": "what percent is the <PRIMARY> <BATTERY>", "group": "g3c9cee"}
+{"text": "houston, read primary battery level", "intent": "get_primary_battery_level", "id": "s64ff19", "source": "seed", "skeleton": "houston read <PRIMARY> <BATTERY> level", "group": "g64ff19"}
+{"text": "uh is the primary battery getting low", "intent": "get_primary_battery_level", "id": "s3b07c9", "source": "seed", "skeleton": "uh is the <PRIMARY> <BATTERY> getting low", "group": "g3b07c9"}
+{"text": "how full is scrubber a", "intent": "get_scrubber_a_co2_storage", "id": "sf9dba5", "source": "seed", "skeleton": "how full is <SCRUBBER_A>", "group": "gf9dba5"}
+{"text": "scrubber a percent", "intent": "get_scrubber_a_co2_storage", "id": "s077d10", "source": "seed", "skeleton": "<SCRUBBER_A> percent", "group": "g077d10"}
+{"text": "what percent is scrubber a at", "intent": "get_scrubber_a_co2_storage", "id": "sf0c345", "source": "seed", "skeleton": "what percent is <SCRUBBER_A> at", "group": "gf0c345"}
+{"text": "okay need the - the scrubber a number", "intent": "get_scrubber_a_co2_storage", "id": "s173895", "source": "seed", "skeleton": "okay need the the <SCRUBBER_A> number", "group": "g173895"}
+{"text": "uh how much co2 is in scrubber b", "intent": "get_scrubber_b_co2_storage", "id": "sa2cad1", "source": "seed", "skeleton": "uh how much <CARBON_DIOXIDE> is in <SCRUBBER_B>", "group": "ga2cad1"}
+{"text": "scrubber b percent", "intent": "get_scrubber_b_co2_storage", "id": "se4b599", "source": "seed", "skeleton": "<SCRUBBER_B> percent", "group": "ge4b599"}
+{"text": "give me scrubber b level", "intent": "get_scrubber_b_co2_storage", "id": "s927a26", "source": "seed", "skeleton": "give me <SCRUBBER_B> level", "group": "g927a26"}
+{"text": "scrubber b co2", "intent": "get_scrubber_b_co2_storage", "id": "sd43248", "source": "seed", "skeleton": "<SCRUBBER_B> <CARBON_DIOXIDE>", "group": "gd43248"}
+{"text": "what's my secondary battery at", "intent": "get_secondary_battery_level", "id": "saecd2f", "source": "seed", "skeleton": "what's my <SECONDARY> <BATTERY> at", "group": "gaecd2f"}
+{"text": "houston, read secondary battery level", "intent": "get_secondary_battery_level", "id": "s8aeae1", "source": "seed", "skeleton": "houston read <SECONDARY> <BATTERY> level", "group": "g8aeae1"}
+{"text": "secondary battery", "intent": "get_secondary_battery_level", "id": "s523560", "source": "seed", "skeleton": "<SECONDARY> <BATTERY>", "group": "g523560"}
+{"text": "secondary power remaining", "intent": "get_secondary_battery_level", "id": "s8dc334", "source": "seed", "skeleton": "<SECONDARY> <POWER> remaining", "group": "g8dc334"}
+{"text": "okay need the suit co2 number", "intent": "get_suit_pressure_co2", "id": "saa4cad", "source": "seed", "skeleton": "okay need the suit <CARBON_DIOXIDE> number", "group": "gaa4cad"}
+{"text": "is co2 building up in the suit", "intent": "get_suit_pressure_co2", "id": "s736ba6", "source": "seed", "skeleton": "is <CARBON_DIOXIDE> building up in the suit", "group": "g736ba6"}
+{"text": "roger. suit pressure co2?", "intent": "get_suit_pressure_co2", "id": "sb75100", "source": "seed", "skeleton": "roger suit pressure <CARBON_DIOXIDE>", "group": "gb75100"}
+{"text": "suit co2 pressure", "intent": "get_suit_pressure_co2", "id": "s68c07c", "source": "seed", "skeleton": "suit <CARBON_DIOXIDE> pressure", "group": "g68c07c"}
+{"text": "houston, suit other gas partial pressure", "intent": "get_suit_pressure_other", "id": "s8b0010", "source": "seed", "skeleton": "houston suit other gas partial pressure", "group": "g8b0010"}
+{"text": "what's suit pressure other at", "intent": "get_suit_pressure_other", "id": "s309f45", "source": "seed", "skeleton": "what's suit pressure other at", "group": "g309f45"}
+{"text": "okay need the suit trace gas number", "intent": "get_suit_pressure_other", "id": "s863918", "source": "seed", "skeleton": "okay need the suit trace gas number", "group": "g863918"}
+{"text": "roger. suit other pressure?", "intent": "get_suit_pressure_other", "id": "sd1035a", "source": "seed", "skeleton": "roger suit other pressure", "group": "gd1035a"}
+{"text": "houston, read suit oxygen pressure", "intent": "get_suit_pressure_oxy", "id": "s84d892", "source": "seed", "skeleton": "houston read suit <OXYGEN> pressure", "group": "g84d892"}
+{"text": "uh what's my suit o2 partial", "intent": "get_suit_pressure_oxy", "id": "sfe3b01", "source": "seed", "skeleton": "uh what's my suit <OXYGEN> partial", "group": "gfe3b01"}
+{"text": "what is the oxygen partial pressure in the suit", "intent": "get_suit_pressure_oxy", "id": "s552f85", "source": "seed", "skeleton": "what is the <OXYGEN_PARTIAL_PRESSURE> in the suit", "group": "g552f85"}
+{"text": "what's the o2 partial pressure in the suit", "intent": "get_suit_pressure_oxy", "id": "s1e3777", "source": "seed", "skeleton": "what's the <OXYGEN> partial pressure in the suit", "group": "g1e3777"}
+{"text": "roger, check total pressure in the suit", "intent": "get_suit_pressure_total", "id": "sc9e563", "source": "seed", "skeleton": "roger check total pressure in the suit", "group": "gc9e563"}
+{"text": "what's the suit pressurized to, total", "intent": "get_suit_pressure_total", "id": "s56de5f", "source": "seed", "skeleton": "what's the suit pressurized to total", "group": "g56de5f"}
+{"text": "give me total suit psi", "intent": "get_suit_pressure_total", "id": "sccc98c", "source": "seed", "skeleton": "give me total suit psi", "group": "gccc98c"}
+{"text": "total pressure in the suit please", "intent": "get_suit_pressure_total", "id": "sdcf739", "source": "seed", "skeleton": "total pressure in the suit please", "group": "gdcf739"}
+{"text": "roger. what's the internal temperature", "intent": "get_temperature", "id": "sa56b42", "source": "seed", "skeleton": "roger what's the internal <TEMPERATURE>", "group": "ga56b42"}
+{"text": "temperature check", "intent": "get_temperature", "id": "s885820", "source": "seed", "skeleton": "<TEMPERATURE> check", "group": "g885820"}
+{"text": "okay check temp", "intent": "get_temperature", "id": "sb3019f", "source": "seed", "skeleton": "okay check <TEMPERATURE>", "group": "gb3019f"}
+{"text": "give me temperature", "intent": "get_temperature", "id": "s7347cb", "source": "seed", "skeleton": "give me <TEMPERATURE>", "group": "g7347cb"}
+{"text": "uh something just beeped, what's the alert", "intent": "get_warnings", "id": "s5dd78f", "source": "seed", "skeleton": "uh something just beeped what's the alert", "group": "g5dd78f"}
+{"text": "give me the warning summary", "intent": "get_warnings", "id": "s686baa", "source": "seed", "skeleton": "give me the warning summary", "group": "g686baa"}
+{"text": "roger. anything flagged?", "intent": "get_warnings", "id": "sce9dac", "source": "seed", "skeleton": "roger anything flagged", "group": "gce9dac"}
+{"text": "what alerts do i have", "intent": "get_warnings", "id": "s306e80", "source": "seed", "skeleton": "what alerts do i have", "group": "g306e80"}
+{"text": "show me the map screen", "intent": "open_menu_navigation", "id": "s1357f8", "source": "seed", "skeleton": "show me the map screen", "group": "g1357f8"}
+{"text": "uh can you put the map on the hud", "intent": "open_menu_navigation", "id": "s92b8f3", "source": "seed", "skeleton": "uh can you put the map on the <HEADS_UP_DISPLAY>", "group": "g92b8f3"}
+{"text": "pull up the map", "intent": "open_menu_navigation", "id": "s30ae22", "source": "seed", "skeleton": "pull up the map", "group": "g30ae22"}
+{"text": "nav page please", "intent": "open_menu_navigation", "id": "s92d369", "source": "seed", "skeleton": "<NAVIGATION> page please", "group": "g92d369"}
+{"text": "pull up the checklist", "intent": "open_menu_tasks", "id": "s500764", "source": "seed", "skeleton": "pull up the checklist", "group": "g500764"}
+{"text": "let me see my tasks", "intent": "open_menu_tasks", "id": "se658e8", "source": "seed", "skeleton": "let me see my tasks", "group": "ge658e8"}
+{"text": "roger. bring up procedures", "intent": "open_menu_tasks", "id": "s76abf6", "source": "seed", "skeleton": "roger bring up procedures", "group": "g76abf6"}
+{"text": "uh put the task list on the hud", "intent": "open_menu_tasks", "id": "s8c40cc", "source": "seed", "skeleton": "uh put the task list on the <HEADS_UP_DISPLAY>", "group": "g8c40cc"}
+{"text": "open uia", "intent": "open_menu_uia", "id": "s242786", "source": "seed", "skeleton": "open <UMBILICAL_INTERFACE_ASSEMBLY>", "group": "g242786"}
+{"text": "open the uia menu", "intent": "open_menu_uia", "id": "sd94ba4", "source": "seed", "skeleton": "open the <UMBILICAL_INTERFACE_ASSEMBLY> menu", "group": "g242786"}
+{"text": "show me the uia screen", "intent": "open_menu_uia", "id": "s789510", "source": "seed", "skeleton": "show me the <UMBILICAL_INTERFACE_ASSEMBLY> screen", "group": "g789510"}
+{"text": "uh put uia on the hud", "intent": "open_menu_uia", "id": "s6284c0", "source": "seed", "skeleton": "uh put <UMBILICAL_INTERFACE_ASSEMBLY> on the <HEADS_UP_DISPLAY>", "group": "g6284c0"}
+{"text": "uh can you put vitals on the hud", "intent": "open_menu_vitals", "id": "s30f1c8", "source": "seed", "skeleton": "uh can you put vitals on the <HEADS_UP_DISPLAY>", "group": "g30f1c8"}
+{"text": "display vitals", "intent": "open_menu_vitals", "id": "s1f23b9", "source": "seed", "skeleton": "display vitals", "group": "g1f23b9"}
+{"text": "show me my vitals screen", "intent": "open_menu_vitals", "id": "sc2e0f2", "source": "seed", "skeleton": "show me my vitals screen", "group": "gc2e0f2"}
+{"text": "vitals page please", "intent": "open_menu_vitals", "id": "s41d1b0", "source": "seed", "skeleton": "vitals page please", "group": "g41d1b0"}
+{"text": "okay that path is blocked, recalculate", "intent": "reroute_navigation", "id": "seb71e6", "source": "seed", "skeleton": "okay that path is blocked recalculate", "group": "geb71e6"}
+{"text": "find me another way", "intent": "reroute_navigation", "id": "s0030b1", "source": "seed", "skeleton": "find me another way", "group": "g0030b1"}
+{"text": "route around this crater", "intent": "reroute_navigation", "id": "sc8e54a", "source": "seed", "skeleton": "route around this crater", "group": "gc8e54a"}
+{"text": "uh there's a boulder in the way, reroute", "intent": "reroute_navigation", "id": "s2fefb0", "source": "seed", "skeleton": "uh there's a boulder in the way reroute", "group": "g2fefb0"}
+{"text": "negative", "intent": "unhandled", "id": "scb4729", "source": "seed", "skeleton": "negative", "group": "gcb4729"}
+{"text": "um, never mind", "intent": "unhandled", "id": "s4b89d6", "source": "seed", "skeleton": "um never mind", "group": "g4b89d6"}
+{"text": "hold on let me get my footing", "intent": "unhandled", "id": "s130b50", "source": "seed", "skeleton": "hold on let me get my footing", "group": "g130b50"}
+{"text": "say again the last part", "intent": "unhandled", "id": "sefd318", "source": "seed", "skeleton": "say again the last part", "group": "gefd318"}
+{"text": "wow look at the earth", "intent": "unhandled", "id": "se345e1", "source": "seed", "skeleton": "wow look at the earth", "group": "ge345e1"}
+{"text": "there's a lot of glass in this sample", "intent": "unhandled", "id": "sf87a08", "source": "seed", "skeleton": "there's a lot of glass in this sample", "group": "gf87a08"}
+{"text": "the flag's still standing", "intent": "unhandled", "id": "sc6c474", "source": "seed", "skeleton": "the flag's still standing", "group": "gc6c474"}
+{"text": "how's the weather in houston", "intent": "unhandled", "id": "scf400a", "source": "seed", "skeleton": "how's the weather in houston", "group": "gcf400a"}
+{"text": "this rock has some nice vesicles in it", "intent": "unhandled", "id": "s34a528", "source": "seed", "skeleton": "this rock has some nice vesicles in it", "group": "g34a528"}
+{"text": "go ahead houston", "intent": "unhandled", "id": "s706f74", "source": "seed", "skeleton": "go ahead houston", "group": "g706f74"}
+{"text": "you", "intent": "unhandled", "id": "s8af56d", "source": "seed", "skeleton": "you", "group": "g8af56d"}
+{"text": "looks like basalt with some olivine", "intent": "unhandled", "id": "s822519", "source": "seed", "skeleton": "looks like basalt with some olivine", "group": "g822519"}
+{"text": "thanks houston", "intent": "unhandled", "id": "sda768f", "source": "seed", "skeleton": "thanks houston", "group": "gda768f"}
+{"text": "press on with the comprehensive sample", "intent": "unhandled", "id": "s5a4bce", "source": "seed", "skeleton": "press on with the comprehensive sample", "group": "g5a4bce"}
+{"text": "let me think about that for a second", "intent": "unhandled", "id": "sfca32a", "source": "seed", "skeleton": "let me think about that for a second", "group": "gfca32a"}
+{"text": "the map's a little off here but i'm fine", "intent": "unhandled", "id": "s250609", "source": "seed", "skeleton": "the map's a little off here but i'm fine", "group": "g250609"}
+{"text": "thank you.", "intent": "unhandled", "id": "s897a1c", "source": "seed", "skeleton": "thank you", "group": "g897a1c"}
+{"text": "okay i'm back at the rover", "intent": "unhandled", "id": "s6ad27f", "source": "seed", "skeleton": "okay i'm back at the <ROVER>", "group": "g6ad27f"}
+{"text": "i dropped the tongs", "intent": "unhandled", "id": "s5981d9", "source": "seed", "skeleton": "i dropped the tongs", "group": "g5981d9"}
+{"text": "there goes another one, rolling downhill", "intent": "unhandled", "id": "s9164fd", "source": "seed", "skeleton": "there goes another one rolling downhill", "group": "g9164fd"}
+{"text": "i think the battery on the hammer is dead", "intent": "unhandled", "id": "s961c61", "source": "seed", "skeleton": "i think the <BATTERY> on the hammer is dead", "group": "g961c61"}
