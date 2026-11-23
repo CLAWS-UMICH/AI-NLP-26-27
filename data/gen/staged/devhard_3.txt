@@ -1,0 +1,172 @@
+@ oxygen
+= hard
+ps | we've got a long haul up to the ridge after this, so before i commit, how much of the main supply is still there
+ps | okay houston, i'm, uh, i'm a little worried about my air, can you read me what's left
+ps | roger, i was at about sixty when we started, where's the primary sitting now
+ps | eh, the first bottle, how much is in it
+ps | houston, ev one, i'd like a number on oxygen remaining, the pri side
+ps | quick sanity check on the main o2, percentage, then i'll keep moving
+ss | if i have to swap over during the climb, how much would i actually have in the backup bottle
+ss | okay, uh, the - the second one, oxygen left in that
+ss | roger, and the reserve on two, how much is in it
+ss | houston, ev one, number two bottle, what percentage do i have
+ss | i haven't touched the secondary yet, is it still topped off, give me the percent
+ss | eh, backup o2, how much remains
+pp | houston, i'm hearing a hiss near the regulator, what's the pressure in my main bottle
+pp | okay, before we start the climb, i want the psi on tank one
+pp | roger, uh, is the first bottle still holding its pressure
+pp | eh, primary, pounds per square inch, oxygen
+pp | i'm worried the main tank is bleeding off, give me its pressure number
+pp | what's the oxygen bottle pressure, the primary one, i'll wait
+sp | houston, i'm hearing a hiss near the backup, what's the pressure on that bottle
+sp | okay, before i swap tanks, i want the psi on number two
+sp | roger, uh, is the second bottle still holding its pressure
+sp | eh, secondary, pounds per square inch, oxygen
+sp | i'm worried the backup tank is bleeding off, give me its pressure number
+sp | what's the oxygen bottle pressure, the secondary one, i'll wait
+oc | i've been working hard on this trench, am i chewing through my o2 quicker than planned
+oc | okay houston, uh, what's my oxygen usage per hour looking like at this pace
+oc | roger, how much oxygen am i going through, rate wise
+oc | i feel like i'm sucking down air, what's my consumption doing
+oc | eh, o2 rate, how fast is it going
+oc | at this pace, how quickly is my oxygen getting used up
+@ suit_atmos
+= hard
+so | i'm feeling a little woozy, can you check the oxygen partial pressure in my suit for me
+so | okay houston, uh, the ppo2 inside, what is it reading right now
+so | roger, eh, the partial o2 in the suit, number please
+so | before i keep climbing, what's the oxygen partial in here
+so | how much oxygen pressure am i actually breathing in the suit
+so | houston, ev one, suit ppo two
+sc | i've got a dull headache coming on, is carbon dioxide building up in the suit
+sc | okay houston, uh, ppco2, the suit, what's the number
+sc | roger, eh, how much carbon dioxide am i sitting in
+sc | before i keep working, what's the co2 partial pressure in here
+sc | houston, ev one, suit co two
+sc | is the co2 inside my suit getting high, give me the reading
+sx | okay, uh, everything besides oxygen and co2 in the suit, what's that pressure
+sx | roger, the trace gas partial pressure, suit side, what's it at
+sx | houston, ev one, other gases in my suit, pressure please
+sx | eh, the inert gas pressure in here, what is it
+sx | what's the partial pressure for the remaining gases in the suit
+sx | i want to check the other gas reading before i go on
+st | okay, my suit feels a little soft, what's the overall pressure
+st | roger, uh, total suit psi, what's it reading
+st | houston, ev one, the suit's pressure, please
+st | eh, is my suit still holding pressure, give me the number
+st | before i kneel down, what's the suit pressure overall
+st | i want to rule out a leak, total pressure in the suit
+hc | okay, the visor's misting up, is co2 collecting in my helmet
+hc | roger, uh, carbon dioxide up by my face, the helmet number
+hc | houston, ev one, helmet co two
+hc | eh, the co2 in the helmet, what's it at
+hc | before i keep going, how much carbon dioxide is up in the helmet
+hc | i'm breathing a bit heavy, check the helmet for co2
+@ co2_scrub
+= hard
+sa | okay, uh, the alpha canister, how close is it to being saturated
+sa | roger, scrubber a, how much more can it absorb before it's done
+sa | houston, ev one, scrubber alpha status, how full
+sa | eh, the a canister, co2 capacity left
+sa | before i start the trench, is scrubber a getting near its limit
+sa | how loaded up is the alpha scrubber at this point
+sb | okay, uh, the bravo canister, how close is it to being saturated
+sb | roger, scrubber b, how much more can it absorb before it's done
+sb | houston, ev one, scrubber bravo status, how full
+sb | eh, the b scrubber, co2 capacity left
+sb | before i start the trench, is scrubber b getting near its limit
+sb | how loaded up is the bravo scrubber at this point
+cp | i'm working pretty hard, how much carbon dioxide am i putting out per minute
+cp | okay houston, uh, my co2 output, what's the rate
+cp | roger, eh, how fast am i producing carbon dioxide on this climb
+cp | houston, ev one, co2 generation, what is it
+cp | at this pace, how much co2 am i making
+cp | i want my carbon dioxide production number before i keep going
+@ coolant
+= hard
+cs | okay, uh, how much water is left in my cooling reserve
+cs | roger, coolant, how much do i have left to work with
+cs | houston, ev one, coolant quantity, please
+cs | i'm running warm, is my coolant getting low, how much is there
+cs | eh, coolant reserve, how much remains
+cs | before the long climb, how much coolant do i have
+cg | okay, uh, the vapor side of the cooling loop, what's its pressure
+cg | roger, coolant, gas side, psi please
+cg | houston, ev one, gas loop pressure
+cg | eh, the coolant gas, how much pressure is in it
+cg | i'm hearing a hiss, what's the gas side coolant pressure
+cg | before i keep going, check the gas pressure on the cooling loop
+cl | okay, uh, the liquid side of the cooling loop, what's its pressure
+cl | roger, coolant, liquid side, psi please
+cl | houston, ev one, cooling loop pressure
+cl | eh, the coolant, how much pressure is in it
+cl | i'm hearing a gurgle, what's the water loop pressure
+cl | before i keep going, check the pressure on the cooling water
+@ fans
+= hard
+fp | okay, uh, the main fan sounds like it's laboring, how fast is it turning
+fp | roger, fan one, revolutions per minute, please
+fp | houston, ev one, primary fan speed
+fp | eh, the fan, what speed is it running at
+fp | i can barely hear the fan, is it slowing down, what's the rpm
+fp | before i keep going, how fast is the primary fan spinning
+fs | okay, uh, the backup fan sounds like it's laboring, how fast is it turning
+fs | roger, fan two, revolutions per minute, please
+fs | houston, ev one, secondary fan speed
+fs | eh, the second fan, what speed is it running at
+fs | i can barely hear the backup fan, is it slowing down, what's the rpm
+fs | before i keep going, how fast is the secondary fan spinning
+@ power
+= hard
+bp | okay, uh, my power, how much charge do i have left on the main pack
+bp | roger, battery one, what's the charge
+bp | houston, ev one, primary battery, please
+bp | eh, how much power have i got
+bp | i'm worried about the cold draining the battery, what's the level
+bp | before the long walk, how charged is my primary battery
+bs | okay, uh, the backup pack, how much charge does it have
+bs | roger, battery two, what's the charge
+bs | houston, ev one, secondary battery, please
+bs | eh, how much power is on the second battery
+bs | if the main one dies, how much is in the backup battery
+bs | before the long walk, how charged is my secondary battery
+@ menus
+= contrastive
+mt | not the map, the checklist
+mn | no, not the tasks, the map
+mv | not the uia, my vitals
+mu | not vitals, the uia panel
+@ oxygen
+= contrastive
+ss | not the main one, the backup, how much oxygen is in it
+pp | storage is fine, i want the pressure on the primary bottle
+ps | not the pressure, the percentage left in the main tank
+oc | not how much oxygen is left, how fast i'm using it
+@ suit_atmos
+= contrastive
+so | not the tank, the suit's oxygen partial pressure
+st | not oxygen, the whole suit's pressure
+cp | not the level, how fast i'm producing co2
+@ unhandled
+= hard
+u:report | primary's at forty one percent, three point eight five on pressure
+u:report | okay, my flags are clear and i'm reading forty five percent
+u:report | scrubber a looks about two thirds full
+u:report | coolant gas side is steady, copy
+u:report | ppo2's nominal, three point one
+u:report | heart rate's up around one twenty after that climb
+u:chatter | roger, i'll stand by for your suggestions
+u:chatter | okay, press on with the comprehensive sample
+u:chatter | houston, could you verify all your flags are off
+u:jargon_trap | i'm reading oxygen in the soil spectrum
+u:jargon_trap | the battery of tests on this rock is done
+u:jargon_trap | that crater's pressure ridge is gorgeous
+u:negation | belay that, i don't need the coolant reading
+u:negation | scratch that, no fan speed
+u:out_of_scope | vent some oxygen out of the suit
+u:out_of_scope | bump the fan up to high
+u:fragment | what's the, uh, the
+u:fragment | primary, uh
+u:followup | and the gas side?
+u:followup | what about number two
+u:two_commands | give me the primary o2 and the heart rate

@@ -1,0 +1,288 @@
+@ oxygen
+= hard
+ps | okay houston, i'm about to start the long walk back, what does the main bottle have left in it
+ps | roger, uh, before we press on, i want to know how much o2 i've still got
+ps | how's the oxygen holding up, i've been breathing hard on this slope
+ps | i - i need my oxygen percentage, primary side
+ps | what fraction of my primary o2 is remaining
+ps | pri o2 percent, say again
+ps | am i gonna have enough air to make it to the next stop
+ps | houston, quick one, oxygen remaining on tank one
+ps | what's left in the number one tank, percentage wise
+ps | roger that, and what's my o2 down to now
+ps | not the secondary, i mean the main tank, how full is it
+ps | okay, uh, let me get a read on how much oxygen is in primary
+= hard
+ss | okay, and the backup bottle, how much is left in that one
+ss | houston, i want to know what the secondary oxygen is down to
+ss | what percent is left on o2 number two
+ss | second tank, how full
+ss | if primary runs dry, how much does the backup have for me
+ss | roger, uh, sec oxygen, what's remaining
+ss | tell me the - the secondary o2 level real quick
+ss | primary's fine, what's the secondary tank at percentage wise
+ss | okay, how much oxygen remains in the second bottle
+ss | i'd like the o2 percentage on the backup side
+ss | what's my backup supply looking like for oxygen
+ss | houston, before we head out again, tank two oxygen percent please
+= hard
+pp | what's the psi on the primary oxygen bottle
+pp | okay, uh, main tank pressure, what's it reading
+pp | how much pressure is in o2 tank one
+pp | roger, i need the pressure on my pri oxygen
+pp | give me the - the oxygen pressure reading, main side
+pp | what is primary o2 sitting at in psi
+pp | houston, pressure check on the first oxygen tank
+pp | tank pressure please, i want to see if it's dropping
+pp | i'm seeing the main bottle drop, what's its psi now
+pp | secondary is fine, what's primary tank pressure
+pp | what's the oxygen pressure on number one
+pp | okay, read me the psi for o2 primary
+= hard
+sp | what's the psi on the backup oxygen bottle
+sp | houston, pressure in the secondary o2 tank
+sp | how much pressure is tank two holding
+sp | uh, sec o2 psi
+sp | what's the second tank's pressure at right now
+sp | roger, and the backup bottle, is its pressure holding, what's the number
+sp | i want the pressure reading on my secondary oxygen
+sp | not primary, secondary, oxygen pressure
+sp | okay, before i switch over, what psi is the backup tank at
+sp | o2 number two pressure, what does it say
+sp | tell me what the secondary tank pressure is
+sp | what's the - the backup oxygen pressure looking like
+= hard
+oc | how fast am i burning through oxygen right now
+oc | okay, what's my o2 usage rate on this climb
+oc | houston, what rate am i using air at
+oc | am i using oxygen faster than normal
+oc | what's my oxygen flow rate, consumption
+oc | how quick is my o2 going down per hour
+oc | roger, uh, oxygen consumption, what is it
+oc | i've been huffing up this hill, what's my o2 burn
+oc | what's the oxygen draw at the moment
+oc | how much o2 am i using per minute
+oc | give me my oxygen use rate
+oc | what's my current consumption of oxygen
+@ suit_atmos
+= hard
+so | what's the ppo2 inside my suit
+so | okay houston, oxygen partial pressure in the suit, what is it
+so | uh, suit o2 partial pressure
+so | what's the oxygen pressure inside the suit itself, not the tanks
+so | ppo2 reading please
+so | how much oxygen pressure is in my suit atmosphere
+so | what's my suit's o2 partial
+so | roger, partial pressure of o2, suit side
+so | i feel a bit lightheaded, what's my suit ppo2
+so | read me the suit oxygen partial pressure
+so | what does the suit say for o2 partial pressure
+so | pp o2 in the suit, what's it at
+= hard
+sc | how much co2 is in my suit right now
+sc | okay, what's the carbon dioxide level in here
+sc | ppco2, what's it reading
+sc | houston, uh, suit co2 partial pressure
+sc | what's the co2 like inside the suit
+sc | i've got a headache, what's my co2 at
+sc | carbon dioxide partial pressure, suit
+sc | roger, co2 level please
+sc | is co2 building up in my suit, what's the number
+sc | what's the pp co2 in the suit
+sc | tell me my suit carbon dioxide reading
+sc | not the helmet, the suit, co2 pressure
+= hard
+sx | what's the trace gas reading in my suit
+sx | okay, other gas pressure, what is it
+sx | houston, the partial pressure for everything that isn't o2 or co2
+sx | what are the other gases in the suit at
+sx | trace gases, suit, partial pressure
+sx | uh, what's the pressure of the other gases
+sx | how much nitrogen and trace stuff is in here, pressure wise
+sx | roger, other partial pressure reading
+sx | what's the suit pressure for other gas
+sx | i want the trace gas partial pressure
+sx | give me the other gases number
+sx | what's my suit's other pressure value
+= hard
+st | okay, what's my total suit pressure
+st | houston, uh, suit pressure, what is it
+st | am i holding pressure in the suit
+st | what's the overall pressure in my suit
+st | my ears popped, what's the suit pressure at
+st | what's the pressure, overall
+st | roger, total pressure please
+st | how much pressure is my suit holding right now
+st | i want to make sure i don't have a leak, what's my suit pressure
+st | suit psi, total
+st | what is the pressure reading for the whole suit
+st | what's the - the suit pressure reading
+= hard
+hc | how much co2 is in my helmet
+hc | okay, helmet carbon dioxide, what's it at
+hc | visor's fogging, what's the co2 in the helmet
+hc | houston, co2 pressure in the helmet please
+hc | what's the helmet co2 reading
+hc | not the suit, the helmet, co2 level
+hc | uh, carbon dioxide inside my helmet
+hc | what's the co2 like up in the helmet
+hc | helmet co2 partial pressure
+hc | i'm feeling stuffy, check co2 in my helmet for me
+hc | roger, what does the helmet say for co2
+hc | how's the co2 near my face in the helmet
+@ co2_scrub
+= hard
+sa | how full is scrubber a
+sa | okay, scrubber alpha, how much co2 has it soaked up
+sa | houston, what's the a scrubber at
+sa | how saturated is the alpha canister
+sa | uh, scrubber one, co2 storage
+sa | how much more co2 can the scrubber take
+sa | what's the capacity left on scrubber a
+sa | bravo's fine, how loaded is alpha
+sa | roger, scrubber alpha co2 level
+sa | what percentage is the scrubber filled to
+sa | is scrubber a getting full
+sa | tell me how much co2 is in scrubber a
+= hard
+sb | how full is the b scrubber
+sb | okay, scrubber bravo, how much has it absorbed
+sb | houston, what's scrubber b at
+sb | scrubber two co2 storage
+sb | how saturated is bravo
+sb | what's left in scrubber b capacity wise
+sb | alpha's fine, how's bravo doing on co2
+sb | roger, uh, scrubber b level
+sb | is the bravo scrubber getting full
+sb | what percent is scrubber two loaded
+sb | tell me how much co2 is sitting in scrubber b
+sb | scrubber bravo percentage please
+= hard
+cp | how much co2 am i producing right now
+cp | okay, what's my carbon dioxide output rate
+cp | houston, co2 production, what is it
+cp | how fast am i making co2 on this climb
+cp | what's my co2 generation rate
+cp | uh, how much carbon dioxide am i breathing out per minute
+cp | roger, co2 production rate please
+cp | am i putting out more co2 than normal
+cp | what's my metabolic co2 output
+cp | how quickly am i generating carbon dioxide
+cp | tell me my co2 production
+cp | what's the rate i'm exhaling co2 at
+@ coolant
+= hard
+cs | how much coolant do i have left
+cs | okay houston, coolant reserve, what is it
+cs | uh, coolant level please
+cs | what's my coolant storage at
+cs | am i running low on coolant
+cs | how full is the coolant tank
+cs | roger, coolant remaining, percent
+cs | what percentage of coolant is left
+cs | tell me my coolant supply
+cs | i'm warming up, how much coolant is there
+cs | coolant quantity, what's it show
+cs | what's the coolant at
+= hard
+cg | what's the pressure on the gas side of the coolant
+cg | okay, coolant gas pressure, what's it read
+cg | houston, vapor loop pressure please
+cg | uh, gas loop psi
+cg | how's the coolant gas pressure looking
+cg | not the liquid, the gas, coolant pressure
+cg | what's the gas pressure in my cooling loop
+cg | roger, coolant vapor pressure
+cg | tell me the gas side psi on the coolant
+cg | what pressure is the coolant gas at
+cg | is the gas loop holding pressure, what's the number
+cg | coolant gas, psi, say again
+= hard
+cl | what's the pressure on the liquid side of the coolant
+cl | okay, coolant pressure, what's it reading
+cl | houston, water loop pressure please
+cl | uh, liquid loop psi
+cl | how's the liquid coolant pressure
+cl | not the gas, the liquid side, pressure
+cl | what's the pressure on my cooling water
+cl | roger, coolant pressure please
+cl | tell me the liquid psi on the coolant
+cl | what pressure is the coolant liquid at
+cl | is the water loop holding pressure
+cl | coolant psi, what's it at
+@ fans
+= hard
+fp | how fast is my fan spinning
+fp | okay, primary fan rpm
+fp | houston, what's the main fan speed
+fp | uh, fan one, what's it turning at
+fp | is my fan running okay, what's the rpm
+fp | what rpm is the pri fan at
+fp | secondary's off, how's the primary fan speed
+fp | roger, fan speed please
+fp | i hear the fan whining, how fast is it going
+fp | tell me the rpm on fan number one
+fp | what's the main fan doing rpm wise
+fp | fan rpm, what's it reading
+= hard
+fs | how fast is the backup fan spinning
+fs | okay, secondary fan rpm
+fs | houston, what's fan two turning at
+fs | uh, sec fan speed
+fs | is the second fan running, what's its rpm
+fs | what rpm is the backup fan at
+fs | primary's fine, what about the secondary fan's speed
+fs | roger, fan number two speed please
+fs | tell me the secondary fan rpm
+fs | how quick is the second fan going
+fs | backup fan, what's it reading
+fs | what's the - the secondary fan speed
+@ power
+= hard
+bp | how much battery do i have left
+bp | okay houston, primary battery percent
+bp | uh, main batt level
+bp | what's my power at
+bp | how's the battery holding up
+bp | battery one, how much charge
+bp | what percent is the pri battery
+bp | am i gonna have enough power to get back
+bp | roger, battery level please
+bp | secondary's fine, how's the primary battery
+bp | tell me the charge on the main battery
+bp | how much juice is left in my primary pack
+= hard
+bs | how much charge is on the backup battery
+bs | okay, secondary battery percent
+bs | uh, sec batt level
+bs | what's battery two at
+bs | how's the second battery holding up
+bs | what percent is the backup pack at
+bs | primary's fine, what's secondary battery at
+bs | roger, secondary power level please
+bs | tell me the charge on battery number two
+bs | how much power is in the backup
+bs | secondary battery, what's it reading
+bs | if i switch over, how much is in the backup battery
+@ unhandled
+= hard
+u:report | primary o2 is at sixty two percent, copy
+u:report | okay houston, secondary tank's reading full
+u:callout | ev one, waste water, closed
+u:negation | don't bother with the backup tank reading
+u:report | scrubber bravo's showing about half full
+u:report | coolant's holding steady at eighty
+u:out_of_scope | can you dump some coolant, i'm overheating
+u:report | fan's running a bit loud but it's fine
+u:callout | o two vent valve, open
+u:report | battery two at ninety one percent
+u:callout | battery local, copy, switching now
+u:out_of_scope | switch me over to the backup battery
+u:followup | and secondary?
+u:followup | what about bravo
+u:two_commands | check my primary o2 and then the battery
+u:report | helmet co2 is low, i'm good
+u:fragment | what's the co2 on the
+u:jargon_trap | this rock has an oxygen rich rind on it
+u:report | suit pressure's nominal, four point three
+u:chatter | ev two, your fan sounds louder than mine

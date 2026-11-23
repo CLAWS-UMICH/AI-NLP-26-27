@@ -1,0 +1,120 @@
+{
+ "report_unhandled": {
+  "testcases": 55,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "negation_unhandled": {
+  "testcases": 40,
+  "fail_rate": 0.025,
+  "fails": 1,
+  "examples": [
+   "don't show me coords- coords for white rock on the map please"
+  ]
+ },
+ "word_swap": {
+  "testcases": 103,
+  "fail_rate": 0.0194,
+  "fails": 2,
+  "examples": [
+   "houston, scrubber a- b scrubber's co2 storage at this moment",
+   "o2 on the backup bottle, percent"
+  ]
+ },
+ "inv_filler": {
+  "testcases": 269,
+  "fail_rate": 0.0037,
+  "fails": 1,
+  "examples": [
+   [
+    "okay, how much o2 am i going through per hour",
+    "okay, uh, how much o2 am i going through per hour"
+   ]
+  ]
+ },
+ "inv_opener": {
+  "testcases": 269,
+  "fail_rate": 0.0037,
+  "fails": 1,
+  "examples": [
+   [
+    "okay, how much o2 am i going through per hour",
+    "roger, how much o2 am i going through per hour",
+    "houston, how much o2 am i going through per hour"
+   ]
+  ]
+ },
+ "inv_asr_noise": {
+  "testcases": 255,
+  "fail_rate": 0.149,
+  "fails": 38,
+  "examples": [
+   [
+    "roger, prim- primary fan",
+    "roger, print- primary and"
+   ],
+   [
+    "roger, sec- secondary fan",
+    "larger, sec- secondary send"
+   ],
+   [
+    "roger, pri o2 tank psi",
+    "roger, pri o2 time size"
+   ],
+   [
+    "roger, sec o2 tank psi",
+    "larger, sec o2 tank see"
+   ],
+   [
+    "houston, charge level, primary, primary",
+    "use them, storage level, primary, primary"
+   ],
+   [
+    "okay, i'm gonna need the- the vitals page open before we start the hike",
+    "okay, i'm gonna need your- the ride those page open before we start the hike"
+   ],
+   [
+    "okay, um, gas reading needed",
+    "okay, umm, gas reading neither"
+   ],
+   [
+    "can- can i get vitals up?",
+    "can- can i get michael's out?"
+   ],
+   [
+    "can- can i get the map up?",
+    "can- can i get your lab up?"
+   ],
+   [
+    "okay, pri- pri batt percent",
+    "okay, pri- pri path percent"
+   ],
+   [
+    "okay, uh, display sec psi",
+    "okay, f, display sec site"
+   ],
+   [
+    "vitals, uh, open",
+    "light goals, of, open"
+   ]
+  ]
+ },
+ "inv_contractions": {
+  "testcases": 40,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "inv_slot_swap": {
+  "testcases": 40,
+  "fail_rate": 0.025,
+  "fails": 1,
+  "examples": [
+   [
+    "okay, uh, check off plcd?",
+    "okay, uh, check off psmd?"
+   ]
+  ]
+ }
+}

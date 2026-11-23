@@ -1,0 +1,18 @@
+{
+"_note": "Slot-name pools. Train, dev and test never share a name or a name that contains another. Sources: data/slot_names.txt plus generated waypoint names.",
+"place": {
+  "train": ["lander", "lunar lander", "pr lander", "airlock", "uia", "starting point", "poi a", "poi b", "poi c", "poi 1", "poi 2", "poi 3", "point of interest one", "station one", "sample collection site", "pin one", "pin two", "poi e", "poi 5", "poi 6", "station three", "station four", "rover", "habitat", "comm tower"],
+  "dev": ["poi 4", "next poi", "sample site", "east ridge saddle", "comms relay mast", "north massif base", "ejecta blanket edge"],
+  "test": ["poi d", "station two", "point of interest two", "camera site"]
+},
+"waypoint": {
+  "train": ["crater rim", "boulder field", "north rim", "south ridge", "pin three", "pin four", "outcrop", "ridge top", "dark patch", "big rock", "flat spot", "rille edge", "bright ejecta", "rover tracks", "lookout", "layered rock", "overlook", "shadow edge", "glass beads", "east slope", "west crater", "cairn", "regolith mound", "small crater", "double crater", "white rock", "pin six", "pin eight", "pin nine", "pin ten", "basalt flow", "north crater", "rim south", "boulder line", "talus slope", "fresh crater", "gray slope", "ridge base", "dust field", "old tracks", "vent site", "black glass", "sinuous rille", "crater floor", "tall boulder", "ejecta ray", "ev2", "pr", "ltv"],
+  "dev": ["dusty basin", "pin five", "rock pile", "rim west", "orange soil", "steep slope", "broken boulder", "glass bead patch", "twin craters", "dark mantle", "flat shelf four", "cracked slab", "gray dune field"],
+  "test": ["shackleton ridge", "boulder garden", "pin seven", "gray knob", "twin boulders", "ash flat"]
+},
+"task": {
+  "train": ["egress", "ingress", "depress", "prep o2 tanks", "plcd", "camera deployment", "portable lunar camera deployment", "plct", "geology task", "sample collection", "sample marker", "spectrometer reading", "seismometer deployment", "core sample", "drive tube", "soil scoop", "rake sample", "panorama photos", "radiation reading", "heat flow probe", "laser ranging", "rock chip sample", "dust sample", "photo survey", "sample bagging", "seismometer"],
+  "dev": ["xrf scan", "psmd", "camera teardown", "portable lunar camera teardown", "drill core retrieval", "soil mechanics trench", "magnetometer setup", "solar array inspection", "sample bag seal"],
+  "test": ["retroreflector alignment", "regolith charge sensor", "terrain photos", "sensor canister deployment"]
+}
+}

@@ -1,0 +1,1368 @@
+{
+ "model": "runs/round4/model.pt",
+ "dev_hard": {
+  "n": 515,
+  "acc": 0.8175,
+  "macro_f1": 0.8357,
+  "worst_labels": [
+   [
+    "get_oxy_sec_storage",
+    0.533
+   ],
+   [
+    "get_oxy_pri_storage",
+    0.538
+   ],
+   [
+    "get_suit_pressure_other",
+    0.636
+   ],
+   [
+    "get_coolant_liquid_pressure",
+    0.667
+   ],
+   [
+    "get_suit_pressure_co2",
+    0.727
+   ],
+   [
+    "close_menu",
+    0.727
+   ]
+  ],
+  "chatter_let_through": 0.2561,
+  "commands_predicted_unhandled": 0.0647,
+  "wrong_command_accepted": 0.1039,
+  "which_one_pairs": {
+   "get_oxy_pri_storage / get_oxy_sec_storage": {
+    "n": 28,
+    "wrong_side": 0.071,
+    "confident_swaps": 0
+   },
+   "get_oxy_pri_pressure / get_oxy_sec_pressure": {
+    "n": 25,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_fan_pri_rpm / get_fan_sec_rpm": {
+    "n": 25,
+    "wrong_side": 0.08,
+    "confident_swaps": 0
+   },
+   "get_primary_battery_level / get_secondary_battery_level": {
+    "n": 32,
+    "wrong_side": 0.031,
+    "confident_swaps": 0
+   },
+   "get_scrubber_a_co2_storage / get_scrubber_b_co2_storage": {
+    "n": 24,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_coolant_gas_pressure / get_coolant_liquid_pressure": {
+    "n": 25,
+    "wrong_side": 0.12,
+    "confident_swaps": 0
+   },
+   "get_suit_pressure_co2 / get_helmet_pressure_co2": {
+    "n": 23,
+    "wrong_side": 0.087,
+    "confident_swaps": 1
+   }
+  },
+  "errors": [
+   [
+    "okay houston, i'm about to start the long walk back, what does the main bottle have left in it",
+    "get_oxy_pri_storage",
+    "get_oxy_pri_pressure"
+   ],
+   [
+    "roger, uh, before we press on, i want to know how much o2 i've still got",
+    "get_oxy_pri_storage",
+    "get_oxy_sec_storage"
+   ],
+   [
+    "okay, and the backup bottle, how much is left in that one",
+    "get_oxy_sec_storage",
+    "get_secondary_battery_level"
+   ],
+   [
+    "primary's fine, what's the secondary tank at percentage wise",
+    "get_oxy_sec_storage",
+    "unhandled"
+   ],
+   [
+    "i'd like the o2 percentage on the backup side",
+    "get_oxy_sec_storage",
+    "get_secondary_battery_level"
+   ],
+   [
+    "what's my backup supply looking like for oxygen",
+    "get_oxy_sec_storage",
+    "get_secondary_battery_level"
+   ],
+   [
+    "secondary is fine, what's primary tank pressure",
+    "get_oxy_pri_pressure",
+    "unhandled"
+   ],
+   [
+    "how much oxygen pressure is in my suit atmosphere",
+    "get_suit_pressure_oxy",
+    "get_oxy_consumption"
+   ],
+   [
+    "i've got a headache, what's my co2 at",
+    "get_suit_pressure_co2",
+    "get_helmet_pressure_co2"
+   ],
+   [
+    "not the helmet, the suit, co2 pressure",
+    "get_suit_pressure_co2",
+    "get_helmet_pressure_co2"
+   ],
+   [
+    "okay, other gas pressure, what is it",
+    "get_suit_pressure_other",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "houston, the partial pressure for everything that isn't o2 or co2",
+    "get_suit_pressure_other",
+    "get_suit_pressure_co2"
+   ],
+   [
+    "what's my suit's other pressure value",
+    "get_suit_pressure_other",
+    "get_suit_pressure_total"
+   ],
+   [
+    "bravo's fine, how loaded is alpha",
+    "get_scrubber_a_co2_storage",
+    "unhandled"
+   ],
+   [
+    "alpha's fine, how's bravo doing on co2",
+    "get_scrubber_b_co2_storage",
+    "unhandled"
+   ],
+   [
+    "not the liquid, the gas, coolant pressure",
+    "get_coolant_gas_pressure",
+    "get_coolant_liquid_pressure"
+   ],
+   [
+    "okay, coolant pressure, what's it reading",
+    "get_coolant_liquid_pressure",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "coolant psi, what's it at",
+    "get_coolant_liquid_pressure",
+    "get_coolant_storage"
+   ],
+   [
+    "fan rpm, what's it reading",
+    "get_fan_pri_rpm",
+    "get_fan_sec_rpm"
+   ],
+   [
+    "primary's fine, what about the secondary fan's speed",
+    "get_fan_sec_rpm",
+    "unhandled"
+   ],
+   [
+    "what's my power at",
+    "get_primary_battery_level",
+    "get_heart_rate"
+   ],
+   [
+    "primary's fine, what's secondary battery at",
+    "get_secondary_battery_level",
+    "unhandled"
+   ],
+   [
+    "can you dump some coolant, i'm overheating",
+    "unhandled",
+    "get_coolant_storage"
+   ],
+   [
+    "roger that, and what's my o2 down to now",
+    "get_oxy_pri_storage",
+    "get_suit_pressure_oxy"
+   ],
+   [
+    "how much time has gone by since we stepped out",
+    "get_eva_elapsed_time",
+    "unhandled"
+   ],
+   [
+    "how many hours have we been out",
+    "get_eva_elapsed_time",
+    "unhandled"
+   ],
+   [
+    "switch to nav",
+    "open_menu_navigation",
+    "unhandled"
+   ],
+   [
+    "roger, what's the next step",
+    "open_menu_tasks",
+    "reroute_navigation"
+   ],
+   [
+    "switch to tasks",
+    "open_menu_tasks",
+    "unhandled"
+   ],
+   [
+    "what do i do next on the timeline",
+    "open_menu_tasks",
+    "close_menu"
+   ],
+   [
+    "switch to the airlock panel",
+    "open_menu_uia",
+    "unhandled"
+   ],
+   [
+    "how far is the comms relay mast",
+    "Get_coordinates",
+    "get_fan_pri_rpm"
+   ],
+   [
+    "how far to the next poi",
+    "Get_coordinates",
+    "Set_navigation_target"
+   ],
+   [
+    "how do i get to the glass bead patch, give me a route",
+    "Set_navigation_target",
+    "reroute_navigation"
+   ],
+   [
+    "there's a boulder field in the way, recalculate",
+    "reroute_navigation",
+    "unhandled"
+   ],
+   [
+    "path's no good, try a different one",
+    "reroute_navigation",
+    "unhandled"
+   ],
+   [
+    "save my location as dark mantle",
+    "Add_waypoint",
+    "Get_coordinates"
+   ],
+   [
+    "we don't need gray dune field anymore, delete it",
+    "Delete_waypoint",
+    "unhandled"
+   ],
+   [
+    "check off the soil mechanics trench",
+    "Complete_task",
+    "Get_coordinates"
+   ],
+   [
+    "task complete, moving on",
+    "Complete_task",
+    "unhandled"
+   ],
+   [
+    "ev two, can you hand me the scoop",
+    "unhandled",
+    "get_oxy_sec_pressure"
+   ],
+   [
+    "what's the temperature outside on the surface",
+    "unhandled",
+    "get_temperature"
+   ],
+   [
+    "what's the time back home",
+    "unhandled",
+    "get_eva_elapsed_time"
+   ],
+   [
+    "pull up the, uh",
+    "unhandled",
+    "open_menu_navigation"
+   ],
+   [
+    "open the map and tell me my heart rate",
+    "unhandled",
+    "get_heart_rate"
+   ],
+   [
+    "is the xrf scan done yet",
+    "unhandled",
+    "Complete_task"
+   ],
+   [
+    "put that away",
+    "close_menu",
+    "unhandled"
+   ],
+   [
+    "close this and show my vitals",
+    "unhandled",
+    "open_menu_vitals"
+   ],
+   [
+    "we've got a long haul up to the ridge after this, so before i commit, how much of the main supply is still there",
+    "get_oxy_pri_storage",
+    "get_coolant_storage"
+   ],
+   [
+    "if i have to swap over during the climb, how much would i actually have in the backup bottle",
+    "get_oxy_sec_storage",
+    "get_secondary_battery_level"
+   ],
+   [
+    "houston, ev one, number two bottle, what percentage do i have",
+    "get_oxy_sec_storage",
+    "get_oxy_sec_pressure"
+   ],
+   [
+    "eh, primary, pounds per square inch, oxygen",
+    "get_oxy_pri_pressure",
+    "get_oxy_pri_storage"
+   ],
+   [
+    "eh, secondary, pounds per square inch, oxygen",
+    "get_oxy_sec_pressure",
+    "get_oxy_sec_storage"
+   ],
+   [
+    "how much oxygen pressure am i actually breathing in the suit",
+    "get_suit_pressure_oxy",
+    "get_oxy_consumption"
+   ],
+   [
+    "roger, eh, how much carbon dioxide am i sitting in",
+    "get_suit_pressure_co2",
+    "get_co2_production"
+   ],
+   [
+    "eh, the inert gas pressure in here, what is it",
+    "get_suit_pressure_other",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "eh, the a canister, co2 capacity left",
+    "get_scrubber_a_co2_storage",
+    "get_coolant_storage"
+   ],
+   [
+    "before i start the trench, is scrubber a getting near its limit",
+    "get_scrubber_a_co2_storage",
+    "unhandled"
+   ],
+   [
+    "okay, uh, the bravo canister, how close is it to being saturated",
+    "get_scrubber_b_co2_storage",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "before i start the trench, is scrubber b getting near its limit",
+    "get_scrubber_b_co2_storage",
+    "unhandled"
+   ],
+   [
+    "houston, ev one, cooling loop pressure",
+    "get_coolant_liquid_pressure",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "eh, the coolant, how much pressure is in it",
+    "get_coolant_liquid_pressure",
+    "get_coolant_storage"
+   ],
+   [
+    "if the main one dies, how much is in the backup battery",
+    "get_secondary_battery_level",
+    "get_primary_battery_level"
+   ],
+   [
+    "not the main one, the backup, how much oxygen is in it",
+    "get_oxy_sec_storage",
+    "get_oxy_pri_storage"
+   ],
+   [
+    "storage is fine, i want the pressure on the primary bottle",
+    "get_oxy_pri_pressure",
+    "unhandled"
+   ],
+   [
+    "not the pressure, the percentage left in the main tank",
+    "get_oxy_pri_storage",
+    "get_oxy_pri_pressure"
+   ],
+   [
+    "not oxygen, the whole suit's pressure",
+    "get_suit_pressure_total",
+    "get_suit_pressure_oxy"
+   ],
+   [
+    "belay that, i don't need the coolant reading",
+    "unhandled",
+    "get_coolant_storage"
+   ],
+   [
+    "vent some oxygen out of the suit",
+    "unhandled",
+    "get_suit_pressure_oxy"
+   ],
+   [
+    "primary, uh",
+    "unhandled",
+    "get_oxy_pri_pressure"
+   ],
+   [
+    "eh, the first bottle, how much is in it",
+    "get_oxy_pri_storage",
+    "get_oxy_pri_pressure"
+   ],
+   [
+    "okay houston, my heart is pounding after that climb, what's it at",
+    "get_heart_rate",
+    "unhandled"
+   ],
+   [
+    "roger, eh, is my coolant tank getting low",
+    "get_coolant_storage",
+    "unhandled"
+   ],
+   [
+    "switch the display to navigation",
+    "open_menu_navigation",
+    "unhandled"
+   ],
+   [
+    "okay houston, that's enough, clear that panel off my visor",
+    "close_menu",
+    "unhandled"
+   ],
+   [
+    "i've seen enough, collapse the panel",
+    "close_menu",
+    "unhandled"
+   ],
+   [
+    "houston, ev one, flip to my vitals",
+    "open_menu_vitals",
+    "unhandled"
+   ],
+   [
+    "houston, ev one, flip to the uia",
+    "open_menu_uia",
+    "unhandled"
+   ],
+   [
+    "close the map and open the checklist",
+    "unhandled",
+    "open_menu_tasks"
+   ],
+   [
+    "and the liquid?",
+    "unhandled",
+    "get_coolant_liquid_pressure"
+   ],
+   [
+    "forget the backup, how fast is the main fan going",
+    "get_fan_pri_rpm",
+    "get_fan_sec_rpm"
+   ],
+   [
+    "not the pressure, just how much coolant is left",
+    "get_coolant_storage",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "i don't care about the liquid loop, give me the gas side pressure",
+    "get_coolant_gas_pressure",
+    "unhandled"
+   ],
+   [
+    "not my vitals page, just my heart rate number",
+    "get_heart_rate",
+    "open_menu_vitals"
+   ],
+   [
+    "what's my heart rate and how hot is it in here",
+    "unhandled",
+    "get_heart_rate"
+   ],
+   [
+    "check scrubber a and scrubber b for me",
+    "unhandled",
+    "get_scrubber_b_co2_storage"
+   ],
+   [
+    "lower my suit temperature a couple degrees",
+    "unhandled",
+    "get_temperature"
+   ],
+   [
+    "ppo2 looks low to me, what's it actually reading",
+    "get_suit_pressure_oxy",
+    "unhandled"
+   ],
+   [
+    "met, where are we",
+    "get_eva_elapsed_time",
+    "Get_coordinates"
+   ],
+   [
+    "reroute me and then show my heart rate",
+    "unhandled",
+    "get_heart_rate"
+   ],
+   [
+    "open the uia and close the map",
+    "unhandled",
+    "open_menu_uia"
+   ],
+   [
+    "what about the helmet",
+    "unhandled",
+    "get_helmet_pressure_co2"
+   ],
+   [
+    "navigate to, uh",
+    "unhandled",
+    "Set_navigation_target"
+   ],
+   [
+    "what's the ppo",
+    "unhandled",
+    "get_suit_pressure_oxy"
+   ]
+  ],
+  "slot_exact_unseen_names": 0.62,
+  "slot_misses": [
+   [
+    "what's the distance to east ridge saddle",
+    "east ridge saddle",
+    "east ridge"
+   ],
+   [
+    "where exactly is the glass bead patch",
+    "glass bead patch",
+    "glass bead"
+   ],
+   [
+    "coords on the ejecta blanket edge",
+    "ejecta blanket edge",
+    "ejecta"
+   ],
+   [
+    "guide me over to the comms relay mast",
+    "comms relay mast",
+    "comms"
+   ],
+   [
+    "start navigation to east ridge saddle",
+    "east ridge saddle",
+    "east ridge"
+   ],
+   [
+    "let's go to the ejecta blanket edge, set it as the target",
+    "ejecta blanket edge",
+    "ejecta"
+   ],
+   [
+    "take us to the next poi",
+    "next poi",
+    "poi"
+   ],
+   [
+    "okay, drop a pin and call it broken boulder",
+    "broken boulder",
+    "it broken boulder"
+   ],
+   [
+    "houston, uh, add a waypoint named glass bead patch",
+    "glass bead patch",
+    "glass bead"
+   ],
+   [
+    "put a marker here, label it gray dune field",
+    "gray dune field",
+    "gray"
+   ],
+   [
+    "okay, delete the broken boulder pin",
+    "broken boulder",
+    "broken"
+   ],
+   [
+    "houston, uh, remove waypoint glass bead patch",
+    "glass bead patch",
+    "glass bead"
+   ],
+   [
+    "uh, mark the psmd complete",
+    "psmd",
+    null
+   ],
+   [
+    "we finished the solar array inspection, tick it off",
+    "solar array inspection",
+    "solar array"
+   ],
+   [
+    "okay, sample bag seal, put a check next to it",
+    "sample bag seal",
+    "sample bag"
+   ],
+   [
+    "complete the camera teardown task",
+    "camera teardown",
+    "camera"
+   ],
+   [
+    "okay houston, the magnetometer setup is finished, check it off",
+    "magnetometer setup",
+    "magnetometer"
+   ],
+   [
+    "eh, drill core retrieval, mark it done",
+    "drill core retrieval",
+    "drill core"
+   ],
+   [
+    "roger, uh, soil mechanics trench, all done",
+    "soil mechanics trench",
+    "soil"
+   ]
+  ]
+ },
+ "dev_hard_asr": {
+  "n": 317,
+  "acc": 0.6625,
+  "macro_f1": 0.6755,
+  "worst_labels": [
+   [
+    "get_scrubber_a_co2_storage",
+    0.111
+   ],
+   [
+    "get_oxy_pri_storage",
+    0.286
+   ],
+   [
+    "get_oxy_sec_pressure",
+    0.286
+   ],
+   [
+    "get_oxy_sec_storage",
+    0.375
+   ],
+   [
+    "open_menu_vitals",
+    0.4
+   ],
+   [
+    "get_suit_pressure_other",
+    0.429
+   ]
+  ],
+  "chatter_let_through": 0.2449,
+  "commands_predicted_unhandled": 0.1567,
+  "wrong_command_accepted": 0.1978,
+  "which_one_pairs": {
+   "get_oxy_pri_storage / get_oxy_sec_storage": {
+    "n": 15,
+    "wrong_side": 0.067,
+    "confident_swaps": 0
+   },
+   "get_oxy_pri_pressure / get_oxy_sec_pressure": {
+    "n": 16,
+    "wrong_side": 0.062,
+    "confident_swaps": 0
+   },
+   "get_fan_pri_rpm / get_fan_sec_rpm": {
+    "n": 17,
+    "wrong_side": 0.059,
+    "confident_swaps": 0
+   },
+   "get_primary_battery_level / get_secondary_battery_level": {
+    "n": 23,
+    "wrong_side": 0.174,
+    "confident_swaps": 1
+   },
+   "get_scrubber_a_co2_storage / get_scrubber_b_co2_storage": {
+    "n": 18,
+    "wrong_side": 0.167,
+    "confident_swaps": 0
+   },
+   "get_coolant_gas_pressure / get_coolant_liquid_pressure": {
+    "n": 18,
+    "wrong_side": 0.167,
+    "confident_swaps": 0
+   },
+   "get_suit_pressure_co2 / get_helmet_pressure_co2": {
+    "n": 14,
+    "wrong_side": 0.143,
+    "confident_swaps": 1
+   }
+  },
+  "errors": [
+   [
+    "roger uh before we press on i want to know how much o2 finds still got",
+    "get_oxy_pri_storage",
+    "get_co2_production"
+   ],
+   [
+    "okay on the back of the bagel how much is left in that one",
+    "get_oxy_sec_storage",
+    "get_coolant_storage"
+   ],
+   [
+    "o2 number 2 pressure what does it say",
+    "get_oxy_sec_pressure",
+    "get_suit_pressure_oxy"
+   ],
+   [
+    "what's me the backup oxygen pleasure looks like",
+    "get_oxy_sec_pressure",
+    "get_fan_sec_rpm"
+   ],
+   [
+    "i feel a bit like rated what's my supo 2",
+    "get_suit_pressure_oxy",
+    "get_oxy_sec_storage"
+   ],
+   [
+    "watch the suit pressure for other cats",
+    "get_suit_pressure_other",
+    "get_suit_pressure_total"
+   ],
+   [
+    "i'm got a headache what's my co2 at",
+    "get_suit_pressure_co2",
+    "get_helmet_pressure_co2"
+   ],
+   [
+    "not the helmets the suits co2 pressure",
+    "get_suit_pressure_co2",
+    "get_helmet_pressure_co2"
+   ],
+   [
+    "houston what's the scrubber at",
+    "get_scrubber_a_co2_storage",
+    "get_scrubber_b_co2_storage"
+   ],
+   [
+    "robles fine how low did this elbow",
+    "get_scrubber_a_co2_storage",
+    "unhandled"
+   ],
+   [
+    "what's my suit's under pressure value",
+    "get_suit_pressure_other",
+    "get_suit_pressure_total"
+   ],
+   [
+    "and i hold in pressure in the suit",
+    "get_suit_pressure_total",
+    "unhandled"
+   ],
+   [
+    "alpha's fine has bravo doing on co2",
+    "get_scrubber_b_co2_storage",
+    "unhandled"
+   ],
+   [
+    "what percentage is this scrubber filled to",
+    "get_scrubber_a_co2_storage",
+    "get_scrubber_b_co2_storage"
+   ],
+   [
+    "is scrubber getting full",
+    "get_scrubber_a_co2_storage",
+    "get_scrubber_b_co2_storage"
+   ],
+   [
+    "as the castle holding pressure was numbered",
+    "get_coolant_gas_pressure",
+    "unhandled"
+   ],
+   [
+    "okay who impressed her what's it reading",
+    "get_coolant_liquid_pressure",
+    "unhandled"
+   ],
+   [
+    "the liquid the gas cooling pressure",
+    "get_coolant_gas_pressure",
+    "get_coolant_liquid_pressure"
+   ],
+   [
+    "is the logger look holding pressure",
+    "get_coolant_liquid_pressure",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "cool and see what's in it",
+    "get_coolant_liquid_pressure",
+    "get_coolant_storage"
+   ],
+   [
+    "this is my fan running okay what's the rpm",
+    "get_fan_pri_rpm",
+    "get_fan_sec_rpm"
+   ],
+   [
+    "primary is fine what about the secondary fan speed",
+    "get_fan_sec_rpm",
+    "unhandled"
+   ],
+   [
+    "huh main path level",
+    "get_primary_battery_level",
+    "get_fan_pri_rpm"
+   ],
+   [
+    "what's my power ass",
+    "get_primary_battery_level",
+    "get_secondary_battery_level"
+   ],
+   [
+    "what's battery to us",
+    "get_secondary_battery_level",
+    "get_primary_battery_level"
+   ],
+   [
+    "new dump some coolant i'm overheating",
+    "unhandled",
+    "get_coolant_storage"
+   ],
+   [
+    "if i switch over i'll let you in the backup battery",
+    "get_secondary_battery_level",
+    "unhandled"
+   ],
+   [
+    "cooling solder instead yeah yeah",
+    "unhandled",
+    "get_coolant_storage"
+   ],
+   [
+    "roger that watch my o2 down below",
+    "get_oxy_pri_storage",
+    "unhandled"
+   ],
+   [
+    "post check what's number",
+    "get_heart_rate",
+    "get_eva_elapsed_time"
+   ],
+   [
+    "how high has my health gotten on this climb",
+    "get_heart_rate",
+    "get_primary_battery_level"
+   ],
+   [
+    "even clock what to pay",
+    "get_eva_elapsed_time",
+    "get_primary_battery_level"
+   ],
+   [
+    "let me see the light goes this way",
+    "open_menu_vitals",
+    "unhandled"
+   ],
+   [
+    "switch over to my balls",
+    "open_menu_vitals",
+    "unhandled"
+   ],
+   [
+    "switch to nap",
+    "open_menu_navigation",
+    "unhandled"
+   ],
+   [
+    "and i get the uia controls on the hood",
+    "open_menu_uia",
+    "unhandled"
+   ],
+   [
+    "how far is the combs really most",
+    "Get_coordinates",
+    "unhandled"
+   ],
+   [
+    "pause on the ejector line to the edge",
+    "Get_coordinates",
+    "unhandled"
+   ],
+   [
+    "how do i get to the glass bead patch give me a root",
+    "Set_navigation_target",
+    "reroute_navigation"
+   ],
+   [
+    "puffs no good try a different one",
+    "reroute_navigation",
+    "unhandled"
+   ],
+   [
+    "smart this spot",
+    "Add_waypoint",
+    "unhandled"
+   ],
+   [
+    "roger at the rear point post backslab",
+    "Add_waypoint",
+    "unhandled"
+   ],
+   [
+    "more of this spot has been grievers",
+    "Add_waypoint",
+    "unhandled"
+   ],
+   [
+    "save my location as dark mental",
+    "Add_waypoint",
+    "Set_navigation_target"
+   ],
+   [
+    "i want up in at this location called dusty basin",
+    "Add_waypoint",
+    "Get_coordinates"
+   ],
+   [
+    "we don't need great to feel anymore delete it",
+    "Delete_waypoint",
+    "unhandled"
+   ],
+   [
+    "scratters eat low plate points",
+    "Delete_waypoint",
+    "unhandled"
+   ],
+   [
+    "loser in westpin",
+    "Delete_waypoint",
+    "unhandled"
+   ],
+   [
+    "okay sample bad zeal put a click next to it",
+    "Complete_task",
+    "Set_navigation_target"
+   ],
+   [
+    "m2 can you hand me the scoop",
+    "unhandled",
+    "get_heart_rate"
+   ],
+   [
+    "take a picture of this out raw",
+    "unhandled",
+    "Delete_waypoint"
+   ],
+   [
+    "it's actually all resoil marker",
+    "Delete_waypoint",
+    "unhandled"
+   ],
+   [
+    "close this and show my variables",
+    "unhandled",
+    "close_menu"
+   ],
+   [
+    "we've got along all after the ridge after this so before i commit how much of the main supply is still there",
+    "get_oxy_pri_storage",
+    "unhandled"
+   ],
+   [
+    "houston f1 number 2 bottle what percentage do i have",
+    "get_oxy_sec_storage",
+    "get_oxy_sec_pressure"
+   ],
+   [
+    "okay houston i'm i'm a little worried about my ear can you read me what's lit",
+    "get_oxy_pri_storage",
+    "get_temperature"
+   ],
+   [
+    "if i have to sloth over the reason i climb how much wood i actually have in the back of my hole",
+    "get_oxy_sec_storage",
+    "Get_coordinates"
+   ],
+   [
+    "a backup o2 how much remained",
+    "get_oxy_sec_storage",
+    "get_secondary_battery_level"
+   ],
+   [
+    "a primary pound per square inch oxygen",
+    "get_oxy_pri_pressure",
+    "get_oxy_pri_storage"
+   ],
+   [
+    "houston i'm hearing a his near the back up what's the pressure on that bottle",
+    "get_oxy_sec_pressure",
+    "get_oxy_pri_pressure"
+   ],
+   [
+    "ok before i swap tanks i won't decide on number 2",
+    "get_oxy_sec_pressure",
+    "unhandled"
+   ],
+   [
+    "a secondary pounds per square inch oxygen",
+    "get_oxy_sec_pressure",
+    "get_oxy_sec_storage"
+   ],
+   [
+    "roger hey how much carbon dioxide am i sitting in",
+    "get_suit_pressure_co2",
+    "get_co2_production"
+   ],
+   [
+    "hey the inert gas pressure in here what is it",
+    "get_suit_pressure_other",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "a via canister co2 capacity left",
+    "get_scrubber_a_co2_storage",
+    "get_coolant_storage"
+   ],
+   [
+    "before i start the trench scrubber a getting near its limit",
+    "get_scrubber_a_co2_storage",
+    "unhandled"
+   ],
+   [
+    "how loaded up is the elvis grover at this point",
+    "get_scrubber_a_co2_storage",
+    "get_eva_elapsed_time"
+   ],
+   [
+    "ota the bravo transistor how close is it to be exaggerated",
+    "get_scrubber_b_co2_storage",
+    "get_fan_sec_rpm"
+   ],
+   [
+    "houston everyone scrubber global status helpful",
+    "get_scrubber_b_co2_storage",
+    "unhandled"
+   ],
+   [
+    "before i start the trench is scrubber be getting near its limit",
+    "get_scrubber_b_co2_storage",
+    "unhandled"
+   ],
+   [
+    "houston f1 cooling loop pressure",
+    "get_coolant_liquid_pressure",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "hey the coolant how much pressure is in it",
+    "get_coolant_liquid_pressure",
+    "get_coolant_storage"
+   ],
+   [
+    "i barely hear the fan as it's going down was the rpm",
+    "get_fan_pri_rpm",
+    "unhandled"
+   ],
+   [
+    "if the main one dies how much is in the back of battery",
+    "get_secondary_battery_level",
+    "get_primary_battery_level"
+   ],
+   [
+    "now the main one the backup how much oxygen is in it",
+    "get_oxy_sec_storage",
+    "get_oxy_pri_storage"
+   ],
+   [
+    "starridge is fine i want the pressure on the primary puddle",
+    "get_oxy_pri_pressure",
+    "unhandled"
+   ],
+   [
+    "primary huh",
+    "unhandled",
+    "get_oxy_pri_pressure"
+   ],
+   [
+    "a the first bottle how much is in it",
+    "get_oxy_pri_storage",
+    "get_oxy_pri_pressure"
+   ],
+   [
+    "quick one my body temperature works every day",
+    "get_temperature",
+    "unhandled"
+   ],
+   [
+    "roger uh time's in progress what's the black show",
+    "get_eva_elapsed_time",
+    "unhandled"
+   ],
+   [
+    "o2 easy my heart is pounding up through that line let's say that",
+    "get_heart_rate",
+    "unhandled"
+   ],
+   [
+    "after that sprint what's the greatest gas pressure",
+    "get_suit_pressure_other",
+    "get_coolant_gas_pressure"
+   ],
+   [
+    "i can't find the ridge let me see them up",
+    "open_menu_navigation",
+    "unhandled"
+   ],
+   [
+    "flip over to the left please",
+    "open_menu_navigation",
+    "Set_navigation_target"
+   ],
+   [
+    "okay houston uh coolant lived roughly how much",
+    "get_coolant_storage",
+    "unhandled"
+   ],
+   [
+    "houston everyone flip to my vitals",
+    "open_menu_vitals",
+    "unhandled"
+   ],
+   [
+    "houston everyone flip to the uia",
+    "open_menu_uia",
+    "unhandled"
+   ],
+   [
+    "houston ev1 unblocked by a big boulder recalculate my path",
+    "reroute_navigation",
+    "unhandled"
+   ],
+   [
+    "how fast he has a suit gotten since he started the climb",
+    "get_temperature",
+    "get_oxy_consumption"
+   ],
+   [
+    "hey take reason to suit please",
+    "get_temperature",
+    "get_suit_pressure_total"
+   ],
+   [
+    "the slugs too loose rip me around",
+    "reroute_navigation",
+    "unhandled"
+   ],
+   [
+    "now the backup the primary how much charge",
+    "get_primary_battery_level",
+    "get_secondary_battery_level"
+   ],
+   [
+    "roger i'm done watching but to the way",
+    "close_menu",
+    "unhandled"
+   ],
+   [
+    "roger the soil mechanics trench all gone",
+    "Complete_task",
+    "unhandled"
+   ],
+   [
+    "what's my heart rate and how hot is it in view",
+    "unhandled",
+    "get_heart_rate"
+   ],
+   [
+    "check scrubber and scrubber be for me",
+    "unhandled",
+    "get_scrubber_b_co2_storage"
+   ],
+   [
+    "night bravo california elvin",
+    "get_scrubber_a_co2_storage",
+    "unhandled"
+   ],
+   [
+    "o2 where is it now",
+    "get_suit_pressure_co2",
+    "Get_coordinates"
+   ],
+   [
+    "you're right bad how much is left",
+    "get_primary_battery_level",
+    "unhandled"
+   ],
+   [
+    "back 2 please",
+    "get_secondary_battery_level",
+    "get_oxy_sec_storage"
+   ],
+   [
+    "check that how much is left",
+    "get_secondary_battery_level",
+    "get_coolant_storage"
+   ],
+   [
+    "lower my soup temperature a couple degrees",
+    "unhandled",
+    "get_temperature"
+   ],
+   [
+    "houston ev1 the po2 number in the suits",
+    "get_suit_pressure_oxy",
+    "get_suit_pressure_co2"
+   ],
+   [
+    "yeah where are we",
+    "get_eva_elapsed_time",
+    "Get_coordinates"
+   ],
+   [
+    "re root me and then show my heart rate",
+    "unhandled",
+    "get_heart_rate"
+   ],
+   [
+    "navigate to earth",
+    "unhandled",
+    "Set_navigation_target"
+   ],
+   [
+    "what's the ppr",
+    "unhandled",
+    "get_heart_rate"
+   ]
+  ]
+ },
+ "dev_old": {
+  "n": 324,
+  "acc": 0.9969,
+  "macro_f1": 0.9967,
+  "worst_labels": [
+   [
+    "get_oxy_consumption",
+    0.889
+   ],
+   [
+    "get_oxy_pri_storage",
+    1.0
+   ],
+   [
+    "get_oxy_sec_storage",
+    1.0
+   ],
+   [
+    "get_oxy_pri_pressure",
+    1.0
+   ],
+   [
+    "get_oxy_sec_pressure",
+    1.0
+   ],
+   [
+    "get_suit_pressure_oxy",
+    1.0
+   ]
+  ],
+  "chatter_let_through": 0.0,
+  "commands_predicted_unhandled": 0.0,
+  "wrong_command_accepted": 0.0037,
+  "which_one_pairs": {
+   "get_oxy_pri_storage / get_oxy_sec_storage": {
+    "n": 18,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_oxy_pri_pressure / get_oxy_sec_pressure": {
+    "n": 16,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_fan_pri_rpm / get_fan_sec_rpm": {
+    "n": 14,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_primary_battery_level / get_secondary_battery_level": {
+    "n": 16,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_scrubber_a_co2_storage / get_scrubber_b_co2_storage": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_coolant_gas_pressure / get_coolant_liquid_pressure": {
+    "n": 18,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_suit_pressure_co2 / get_helmet_pressure_co2": {
+    "n": 8,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   }
+  },
+  "errors": [
+   [
+    "okay, how much o2 am i going through per hour",
+    "get_oxy_consumption",
+    "get_co2_production"
+   ]
+  ],
+  "slot_exact_unseen_names": 0.825,
+  "slot_misses": [
+   [
+    "houston, need- need prep o2 tanks marked done",
+    "prep o2 tanks",
+    null
+   ],
+   [
+    "houston, mark it as finished, the egress, the egress",
+    "egress",
+    null
+   ],
+   [
+    "okay, remove the rim west waypoint",
+    "rim west",
+    "rim"
+   ],
+   [
+    "xrf scan complete",
+    "xrf scan",
+    "xrf"
+   ],
+   [
+    "okay, mark psmd done",
+    "psmd",
+    null
+   ],
+   [
+    "roger, camera teardown finished",
+    "camera teardown",
+    "camera"
+   ],
+   [
+    "check off portable lunar camera teardown",
+    "portable lunar camera teardown",
+    "portable"
+   ]
+  ]
+ }
+}

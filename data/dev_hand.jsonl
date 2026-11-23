@@ -1,0 +1,152 @@
+{"id": "devhand-get_oxy_pri_storage-00", "text": "roger that, primary oxygen, how much is left", "label": "get_oxy_pri_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_pri_storage-01", "text": "o2 on the main bottle, percent", "label": "get_oxy_pri_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_pri_storage-02", "text": "how's my air supply on primary", "label": "get_oxy_pri_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_pri_storage-03", "text": "okay so uh what's the primary oxygen tank showing for level", "label": "get_oxy_pri_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_storage-00", "text": "backup o2 how full", "label": "get_oxy_sec_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_storage-01", "text": "okay, read me the secondary oxygen percentage", "label": "get_oxy_sec_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_storage-02", "text": "what's left in o2 tank number two", "label": "get_oxy_sec_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_storage-03", "text": "secondary oxygen, i need the level", "label": "get_oxy_sec_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_pri_pressure-00", "text": "psi on primary oxygen", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_pri_pressure-01", "text": "okay, main oxygen tank, what's the pressure", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_pri_pressure-02", "text": "roger, read primary o two pressure", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_pri_pressure-03", "text": "tank one psi", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_pressure-00", "text": "psi on secondary oxygen", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_pressure-01", "text": "okay, backup oxygen tank, what's the pressure", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_pressure-02", "text": "roger, read the secondary o two pressure", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_sec_pressure-03", "text": "tank two psi", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_consumption-00", "text": "oxygen burn", "label": "get_oxy_consumption", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_consumption-01", "text": "okay, how much o2 am i going through per hour", "label": "get_oxy_consumption", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_consumption-02", "text": "rate of oxygen use please", "label": "get_oxy_consumption", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_oxy_consumption-03", "text": "uh what's my consumption on oxygen", "label": "get_oxy_consumption", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_oxy-00", "text": "ppo2 in the suit", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_oxy-01", "text": "okay, suit oxygen partial", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_oxy-02", "text": "roger, what's the partial pressure of oxygen in here", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_oxy-03", "text": "o2 partial pressure suit side", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_co2-00", "text": "ppco2", "label": "get_suit_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_co2-01", "text": "okay, carbon dioxide level in my suit", "label": "get_suit_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_co2-02", "text": "roger, how's my co2 looking", "label": "get_suit_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_co2-03", "text": "co2 partial in the suit", "label": "get_suit_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_other-00", "text": "other gases", "label": "get_suit_pressure_other", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_other-01", "text": "okay, trace gas partial pressure", "label": "get_suit_pressure_other", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_other-02", "text": "roger, what's the other gas reading in my suit", "label": "get_suit_pressure_other", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_other-03", "text": "how are the trace gases", "label": "get_suit_pressure_other", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_total-00", "text": "suit pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_total-01", "text": "okay, read me the total pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_total-02", "text": "roger, how much pressure is my suit at", "label": "get_suit_pressure_total", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_suit_pressure_total-03", "text": "overall pressure in the suit", "label": "get_suit_pressure_total", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_helmet_pressure_co2-00", "text": "helmet carbon dioxide", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_helmet_pressure_co2-01", "text": "okay, co2 level in my helmet", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_helmet_pressure_co2-02", "text": "roger, how's the helmet co2", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_helmet_pressure_co2-03", "text": "carbon dioxide pressure in the helmet please", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_co2_production-00", "text": "co2 output", "label": "get_co2_production", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_co2_production-01", "text": "okay, how much carbon dioxide am i generating", "label": "get_co2_production", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_co2_production-02", "text": "roger, rate of co2 production", "label": "get_co2_production", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_co2_production-03", "text": "how fast am i producing co2", "label": "get_co2_production", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_a_co2_storage-00", "text": "scrubber alpha", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_a_co2_storage-01", "text": "okay, how much co2 is in scrubber a", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_a_co2_storage-02", "text": "roger, scrubber a storage", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_a_co2_storage-03", "text": "the a scrubber, how saturated", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_b_co2_storage-00", "text": "scrubber bravo", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_b_co2_storage-01", "text": "okay, how much co2 is in scrubber b", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_b_co2_storage-02", "text": "roger, scrubber b storage", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_scrubber_b_co2_storage-03", "text": "the b scrubber, how saturated", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_temperature-00", "text": "suit temperature", "label": "get_temperature", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_temperature-01", "text": "okay, how hot is it in the suit", "label": "get_temperature", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_temperature-02", "text": "roger, internal temp", "label": "get_temperature", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_temperature-03", "text": "feeling warm, what's the temp in here", "label": "get_temperature", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_storage-00", "text": "coolant level please", "label": "get_coolant_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_storage-01", "text": "okay, how much coolant have i got", "label": "get_coolant_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_storage-02", "text": "roger, coolant percent", "label": "get_coolant_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_storage-03", "text": "check the coolant reserve", "label": "get_coolant_storage", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_gas_pressure-00", "text": "gas side pressure", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_gas_pressure-01", "text": "okay, coolant gas loop psi", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_gas_pressure-02", "text": "roger, how's the gas loop pressure", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_gas_pressure-03", "text": "coolant vapor side pressure", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_liquid_pressure-00", "text": "liquid side pressure", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_liquid_pressure-01", "text": "okay, coolant liquid loop psi", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_liquid_pressure-02", "text": "roger, how's the liquid loop pressure", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_coolant_liquid_pressure-03", "text": "water loop psi", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_pri_rpm-00", "text": "primary fan", "label": "get_fan_pri_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_pri_rpm-01", "text": "okay, main fan rpm", "label": "get_fan_pri_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_pri_rpm-02", "text": "roger, how's fan one spinning", "label": "get_fan_pri_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_pri_rpm-03", "text": "speed of the primary fan", "label": "get_fan_pri_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_sec_rpm-00", "text": "secondary fan", "label": "get_fan_sec_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_sec_rpm-01", "text": "okay, backup fan rpm", "label": "get_fan_sec_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_sec_rpm-02", "text": "roger, how's fan two spinning", "label": "get_fan_sec_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_fan_sec_rpm-03", "text": "speed of the secondary fan", "label": "get_fan_sec_rpm", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_primary_battery_level-00", "text": "primary battery", "label": "get_primary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_primary_battery_level-01", "text": "okay, main battery percent", "label": "get_primary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_primary_battery_level-02", "text": "roger, how much battery do i have", "label": "get_primary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_primary_battery_level-03", "text": "charge on battery one", "label": "get_primary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_secondary_battery_level-00", "text": "secondary battery", "label": "get_secondary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_secondary_battery_level-01", "text": "okay, backup battery percent", "label": "get_secondary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_secondary_battery_level-02", "text": "roger, how much is left on the second battery", "label": "get_secondary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_secondary_battery_level-03", "text": "charge on battery two", "label": "get_secondary_battery_level", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_heart_rate-00", "text": "heart rate", "label": "get_heart_rate", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_heart_rate-01", "text": "okay, how's my pulse", "label": "get_heart_rate", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_heart_rate-02", "text": "roger, read my heart rate", "label": "get_heart_rate", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_heart_rate-03", "text": "what's my heart doing right now", "label": "get_heart_rate", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_eva_elapsed_time-00", "text": "elapsed eva time", "label": "get_eva_elapsed_time", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_eva_elapsed_time-01", "text": "okay, how long have i been out", "label": "get_eva_elapsed_time", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_eva_elapsed_time-02", "text": "roger, what's the clock on this eva", "label": "get_eva_elapsed_time", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_eva_elapsed_time-03", "text": "time since we left the airlock", "label": "get_eva_elapsed_time", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_warnings-00", "text": "active warnings", "label": "get_warnings", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_warnings-01", "text": "okay, any cautions", "label": "get_warnings", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_warnings-02", "text": "roger, what's the alarm for", "label": "get_warnings", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-get_warnings-03", "text": "do i have any faults showing", "label": "get_warnings", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_vitals-00", "text": "vitals", "label": "open_menu_vitals", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_vitals-01", "text": "okay, vitals up", "label": "open_menu_vitals", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_vitals-02", "text": "roger, open the vitals page", "label": "open_menu_vitals", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_vitals-03", "text": "bring up biomed", "label": "open_menu_vitals", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_navigation-00", "text": "navigation", "label": "open_menu_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_navigation-01", "text": "okay, map up", "label": "open_menu_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_navigation-02", "text": "roger, open the nav page", "label": "open_menu_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_navigation-03", "text": "bring up the minimap", "label": "open_menu_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_tasks-00", "text": "tasks", "label": "open_menu_tasks", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_tasks-01", "text": "okay, task list up", "label": "open_menu_tasks", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_tasks-02", "text": "roger, open the procedures page", "label": "open_menu_tasks", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_tasks-03", "text": "bring up the checklist", "label": "open_menu_tasks", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_uia-00", "text": "uia", "label": "open_menu_uia", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_uia-01", "text": "okay, uia up", "label": "open_menu_uia", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_uia-02", "text": "roger, open the uia page", "label": "open_menu_uia", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-open_menu_uia-03", "text": "bring up the umbilical panel", "label": "open_menu_uia", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-close_menu-00", "text": "close", "label": "close_menu", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-close_menu-01", "text": "okay, panel down", "label": "close_menu", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-close_menu-02", "text": "roger, close the page", "label": "close_menu", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-close_menu-03", "text": "get rid of this screen", "label": "close_menu", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Get_coordinates-00", "text": "where's poi 4", "label": "Get_coordinates", "slot_text": "poi 4", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Get_coordinates-01", "text": "okay, coordinates of dusty basin", "label": "Get_coordinates", "slot_text": "dusty basin", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Get_coordinates-02", "text": "roger, position of the sample site", "label": "Get_coordinates", "slot_text": "sample site", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Get_coordinates-03", "text": "how do i find rock pile, give me coordinates", "label": "Get_coordinates", "slot_text": "rock pile", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Set_navigation_target-00", "text": "navigate to poi 4", "label": "Set_navigation_target", "slot_text": "poi 4", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Set_navigation_target-01", "text": "okay, take me over to dusty basin", "label": "Set_navigation_target", "slot_text": "dusty basin", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Set_navigation_target-02", "text": "roger, head for the sample site", "label": "Set_navigation_target", "slot_text": "sample site", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Set_navigation_target-03", "text": "route to rock pile", "label": "Set_navigation_target", "slot_text": "rock pile", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-reroute_navigation-00", "text": "give me another path", "label": "reroute_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-reroute_navigation-01", "text": "okay, reroute around this", "label": "reroute_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-reroute_navigation-02", "text": "roger, new path please", "label": "reroute_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-reroute_navigation-03", "text": "can't go this way, recalculate", "label": "reroute_navigation", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Add_waypoint-00", "text": "drop a pin, orange soil", "label": "Add_waypoint", "slot_text": "orange soil", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Add_waypoint-01", "text": "okay, waypoint here, call it rim west", "label": "Add_waypoint", "slot_text": "rim west", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Add_waypoint-02", "text": "roger, add pin five", "label": "Add_waypoint", "slot_text": "pin five", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Add_waypoint-03", "text": "mark this as steep slope", "label": "Add_waypoint", "slot_text": "steep slope", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Delete_waypoint-00", "text": "delete orange soil", "label": "Delete_waypoint", "slot_text": "orange soil", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Delete_waypoint-01", "text": "okay, remove the rim west waypoint", "label": "Delete_waypoint", "slot_text": "rim west", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Delete_waypoint-02", "text": "roger, delete pin five", "label": "Delete_waypoint", "slot_text": "pin five", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Delete_waypoint-03", "text": "get rid of the steep slope pin", "label": "Delete_waypoint", "slot_text": "steep slope", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Complete_task-00", "text": "xrf scan complete", "label": "Complete_task", "slot_text": "xrf scan", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Complete_task-01", "text": "okay, mark psmd done", "label": "Complete_task", "slot_text": "psmd", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Complete_task-02", "text": "roger, camera teardown finished", "label": "Complete_task", "slot_text": "camera teardown", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-Complete_task-03", "text": "check off portable lunar camera teardown", "label": "Complete_task", "slot_text": "portable lunar camera teardown", "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-00", "text": "okay, i'm reading forty percent on primary", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-01", "text": "roger, fan pri", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-02", "text": "stand by one", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-03", "text": "this soil is really orange over here", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-04", "text": "copy that houston", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-05", "text": "get a photo of the boulder", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-06", "text": "don't reroute", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-07", "text": "nah forget it", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-08", "text": "what's the", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-09", "text": "thanks for watching", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-10", "text": "the pressure ridge out here is pretty dramatic", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}
+{"id": "devhand-unhandled-11", "text": "i'm moving to the next rock", "label": "unhandled", "slot_text": null, "split": "dev", "source": "handwritten_dev"}

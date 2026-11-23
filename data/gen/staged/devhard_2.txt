@@ -1,0 +1,248 @@
+@ body
+= hard
+hr | okay houston, what's my heart rate doing
+hr | uh, bpm, what am i at
+hr | i'm breathing hard, how fast is my heart going
+hr | pulse check, what's the number
+hr | roger, hr please
+hr | what's my heart beating at right now
+hr | how high has my pulse gotten on this climb
+hr | tell me my current heart rate
+hr | what are my beats per minute
+hr | is my heart rate too high, what's it reading
+hr | i - i want my pulse
+hr | what's my bpm looking like after that hike
+= hard
+tp | it's getting warm in here, what's the suit temperature
+tp | okay, what's my body temp
+tp | houston, uh, what's the temperature inside the suit
+tp | how warm is it in my suit right now
+tp | what's my temperature reading
+tp | roger, suit temp please
+tp | i'm sweating, what's it like in here temperature wise
+tp | tell me the internal suit temperature
+tp | what temperature am i at
+tp | how cold is it in the suit
+tp | inside the suit, what's the temp
+tp | what does the suit read for temperature
+= hard
+et | okay houston, how long have we been on this eva
+et | uh, what's the met
+et | how much time has gone by since we stepped out
+et | eva clock, what's it say
+et | roger, elapsed time please
+et | how long have i been outside so far
+et | what's our time on this excursion
+et | tell me the eva time
+et | how many hours have we been out
+et | what's the elapsed on this walk
+et | since we left the airlock, how long has it been
+et | what's the - the mission elapsed time
+= hard
+wn | okay, do i have any warnings
+wn | houston, uh, are there any active alerts
+wn | what's that tone i just heard, any cautions
+wn | is anything out of limits right now
+wn | roger, c and w, anything up
+wn | any alarms going off on my suit
+wn | tell me if there are any warnings
+wn | what caution is showing
+wn | i heard a beep, what's the alert
+wn | are there any faults i should know about
+wn | anything flagged on the suit
+wn | what warnings do i have
+@ menus
+= hard
+mv | okay, pull up my vitals
+mv | houston, uh, bring my vitals on screen
+mv | show me the vitals page
+mv | i want to see all my suit numbers, open vitals
+mv | roger, vitals panel please
+mv | put the vitals up
+mv | let me see the vitals display
+mv | can you open the suit status page
+mv | switch over to vitals
+mv | display my vitals
+mv | go to the vitals screen
+mv | vitals, up on the hud
+= hard
+mn | okay, pull up the map
+mn | houston, uh, bring up navigation
+mn | show me the nav page
+mn | i need to see where i am, open the map
+mn | roger, map please
+mn | put the map on the hud
+mn | switch to nav
+mn | display the navigation screen
+mn | go to the map view
+mn | can i get the map up
+mn | open nav
+mn | let me see the traverse map
+= hard
+mt | okay, pull up my task list
+mt | houston, uh, bring up the checklist
+mt | show me the procedures
+mt | what's next
+mt | roger, what's the next step
+mt | put the checklist on the hud
+mt | switch to tasks
+mt | display my to do list
+mt | go to the procedures page
+mt | i lost my place, open the checklist
+mt | what do i do next on the timeline
+mt | tasks, open them up
+= hard
+mu | okay, pull up the uia panel
+mu | houston, uh, bring up the airlock controls
+mu | show me the uia
+mu | i'm at the airlock, open the uia screen
+mu | roger, uia please
+mu | put the uia display up
+mu | switch to the airlock panel
+mu | display the uia page
+mu | go to uia
+mu | open up the umbilical interface panel
+mu | can i get the uia controls on the hud
+mu | let me see the airlock panel
+= hard
+mc | okay, close that
+mc | houston, uh, take this panel down
+mc | get this off my screen
+mc | dismiss the page
+mc | roger, hide it
+mc | i've got what i need, close the panel
+mc | exit this screen
+mc | clear the hud
+mc | panel off please
+mc | put that away
+mc | done with this, close it
+mc | go back, close the window
+@ nav
+= hard
+gc | okay houston, where's poi 4 from here | poi 4
+gc | uh, coordinates for the north massif base | north massif base
+gc | how far is the comms relay mast | comms relay mast
+gc | what's the position of twin craters | twin craters
+gc | how far away is sample site | sample site
+gc | roger, where's the broken boulder | broken boulder
+gc | give me the location of dark mantle | dark mantle
+gc | what's the distance to east ridge saddle | east ridge saddle
+gc | where exactly is the glass bead patch | glass bead patch
+gc | i lost sight of rock pile, where is it | rock pile
+gc | coords on the ejecta blanket edge | ejecta blanket edge
+gc | how far to the next poi | next poi
+= hard
+sn | okay, take me to poi 4 | poi 4
+sn | houston, uh, navigate to the north massif base | north massif base
+sn | guide me over to the comms relay mast | comms relay mast
+sn | set a course for twin craters | twin craters
+sn | i want to head to sample site, route me | sample site
+sn | roger, get me to the broken boulder | broken boulder
+sn | lead the way to dark mantle | dark mantle
+sn | start navigation to east ridge saddle | east ridge saddle
+sn | how do i get to the glass bead patch, give me a route | glass bead patch
+sn | navigate me back to rock pile | rock pile
+sn | let's go to the ejecta blanket edge, set it as the target | ejecta blanket edge
+sn | take us to the next poi | next poi
+= hard
+rr | okay, this way's blocked, find me another path
+rr | houston, uh, reroute please
+rr | there's a boulder field in the way, recalculate
+rr | give me a different route
+rr | this slope's too steep, can you route around it
+rr | roger, new path please
+rr | recalculate the route
+rr | i can't get through here, find another way
+rr | reroute around this crater
+rr | path's no good, try a different one
+rr | can you plot me an alternate route
+rr | detour, find me a new way
+= hard
+aw | okay, drop a pin and call it broken boulder | broken boulder
+aw | houston, uh, add a waypoint named glass bead patch | glass bead patch
+aw | mark this spot as twin craters | twin craters
+aw | save my location as dark mantle | dark mantle
+aw | new waypoint, flat shelf four | flat shelf four
+aw | drop a pin right here
+aw | mark this spot
+aw | roger, at a waypoint called cracked slab | cracked slab
+aw | put a marker here, label it gray dune field | gray dune field
+aw | add a waypoint here, no name needed
+aw | i want a pin at this location called dusty basin | dusty basin
+aw | save this as a waypoint
+= hard
+dw | okay, delete the broken boulder pin | broken boulder
+dw | houston, uh, remove waypoint glass bead patch | glass bead patch
+dw | get rid of the twin craters marker | twin craters
+dw | clear dark mantle from the map | dark mantle
+dw | erase the flat shelf four waypoint | flat shelf four
+dw | roger, take cracked slab off the map | cracked slab
+dw | we don't need gray dune field anymore, delete it | gray dune field
+dw | remove the pin called dusty basin | dusty basin
+dw | rock pile can go, delete that one | rock pile
+dw | scrap the steep slope waypoint | steep slope
+dw | trash the orange soil marker | orange soil
+dw | lose the rim west pin | rim west
+@ tasks
+= hard
+ct | okay houston, xrf scan is done | xrf scan
+ct | uh, mark the psmd complete | psmd
+ct | drill core retrieval, finished | drill core retrieval
+ct | check off the soil mechanics trench | soil mechanics trench
+ct | roger, magnetometer setup is complete | magnetometer setup
+ct | done
+ct | task complete, moving on
+ct | we finished the solar array inspection, tick it off | solar array inspection
+ct | okay, sample bag seal, put a check next to it | sample bag seal
+ct | the portable lunar camera teardown is done | portable lunar camera teardown
+ct | that's finished, mark it complete
+ct | complete the camera teardown task | camera teardown
+@ unhandled
+= hard
+u:report | heart rate's sitting around ninety, i'm fine
+u:report | okay, i've got about two hours on the clock
+u:report | warning cleared, roger
+u:report | temperature feels fine in here
+u:report | vitals look good, copy
+u:report | i'm at poi 4 now
+u:report | we're at the north massif base, starting the sample
+u:chatter | okay this regolith is really sticky
+u:chatter | ev two, can you hand me the scoop
+u:chatter | houston, the view from up here is amazing
+u:chatter | roger, standing by for your call
+u:chatter | copy that, moving on to the next rock
+u:chatter | hey, watch your step there
+u:out_of_scope | take a picture of this outcrop
+u:out_of_scope | start the spectrometer
+u:out_of_scope | call ev two on comms
+u:out_of_scope | turn on my helmet lights
+u:out_of_scope | how much time do i have left on this eva
+u:out_of_scope | what's the temperature outside on the surface
+u:out_of_scope | set a ten minute timer
+u:out_of_scope | what's the time back home
+u:out_of_scope | start the magnetometer setup
+u:negation | don't bring the map up yet
+u:negation | never mind, forget it
+u:negation | no, not the vitals
+u:negation | cancel that, i don't need the checklist
+u:negation | wait, don't delete that pin
+u:fragment | pull up the, uh
+u:fragment | what's my, uh
+u:fragment | take me to the
+u:fragment | show me
+u:callout | emu power ev one, on
+u:callout | depress valve, closed
+u:callout | o2 vent, open
+u:jargon_trap | this boulder's got a lot of oxygen locked up in it
+u:jargon_trap | the pressure ridge over there looks interesting
+u:jargon_trap | i see a feature on the map that looks like a channel
+u:noise | thank you so much.
+u:noise | bye.
+u:noise | thanks for watching
+u:two_commands | open the map and tell me my heart rate
+u:two_commands | take me to poi 4 and then drop a pin at twin craters
+u:two_commands | close this and show my vitals
+u:followup | and the backup?
+u:followup | how about alpha
+u:followup | what about the helmet one
+u:report | is the xrf scan done yet

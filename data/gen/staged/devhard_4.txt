@@ -1,0 +1,106 @@
+@ body
+= hard
+tp | okay houston, i've been sitting in full sun for twenty minutes and i'm starting to cook, how hot is it inside
+tp | roger, uh, i'm getting clammy in here, can you read me the suit's internal temp
+tp | before i start digging, i want to know what the thermal reading is inside the suit
+tp | eh, i'm shivering a little, what degree is it in here
+tp | houston, ev one, it feels stuffy and warm, give me the inside temperature
+tp | so am i overheating or is it just me, what does the temperature say
+tp | i - i think my cooling's lagging, how many degrees is it in the suit
+tp | quick one, my body temperature, what's it reading
+tp | roger that, and the temperature in here, is it climbing
+tp | how toasty has the suit gotten since we started the climb
+tp | i'm sweating through my liner, what's the temp inside
+tp | eh, degrees in the suit, please
+tp | houston, ev one, am i running hot, what's my temperature
+tp | after that sprint, what's my temp
+hr | okay houston, my heart is pounding after that climb, what's it at
+hr | roger, uh, how many beats a minute am i doing right now
+hr | eh, ticker, what's it reading
+hr | houston, ev one, pulse please
+hr | i want to pace myself, what's my heart doing
+et | okay houston, i've lost track, how long have we been at this
+et | roger, uh, time since egress, what's the clock show
+et | eh, eva duration so far
+et | houston, ev one, how far into the eva are we, time wise
+@ suit_atmos
+= hard
+hc | the inside of my visor keeps fogging, is carbon dioxide pooling up near my face in the helmet
+hc | okay houston, i feel a little short of breath, what's the co2 reading at the helmet sensor
+hc | roger, uh, the helmet's co2 sensor, what number is it giving
+hc | houston, ev one, i'd like to know how much carbon dioxide is in my helmet before i keep going
+hc | eh, helmet, co two partial, number
+hc | can you tell me if co2 is creeping up in my helmet, i've got a mild headache
+hc | after all that digging, how much carbon dioxide is around my head in the helmet
+hc | i'm a bit lightheaded, what's my helmet saying for carbon dioxide
+hc | the helmet one, co2, what's the level
+hc | houston, i want a helmet co2 check while i catch my breath
+sc | okay houston, uh, the co2 partial inside the suit, give me that
+sc | roger, eh, suit carbon dioxide, is it climbing
+sc | after that sprint, what's the carbon dioxide in the suit
+sx | okay houston, uh, the other partial pressure, the trace stuff
+sx | roger, eh, what's the reading on the gases that aren't oxygen or co2
+sx | after that sprint, what's the trace gas pressure
+@ co2_scrub
+= hard
+cp | okay houston, i'm breathing heavy, how much carbon dioxide am i generating
+cp | roger, uh, what's my co2 production at right now
+cp | eh, carbon dioxide output, number please
+cp | after that sprint, how fast is my body making co2
+cp | houston, ev one, how much co2 am i breathing out these days
+cp | i'm working really hard, what's my rate of co2 production
+@ oxygen
+= hard
+oc | okay houston, uh, i've been breathing hard, what's my oxygen usage at
+oc | roger, eh, how fast is my o2 draining
+oc | after that sprint, what's my oxygen consumption
+oc | houston, ev one, oxygen use rate please
+@ coolant
+= hard
+cs | okay houston, uh, coolant left, roughly how much
+cs | roger, eh, is my coolant tank getting low
+cs | after that sprint, how much coolant is still in the suit
+cs | houston, ev one, coolant supply remaining
+@ menus
+= hard
+mn | okay houston, i'm turned around out here, put the traverse map up on my display
+mn | roger, uh, i need the navigation view, bring that up
+mn | eh, map, on screen
+mn | houston, ev one, pull up nav so i can see where the rover is parked
+mn | i can't find the ridge, let me see the map
+mn | before i head out, show me the nav display
+mn | flip over to the map, please
+mn | i want the map up while i walk
+mn | can you throw the map on the hud for me
+mn | switch the display to navigation
+mc | okay houston, that's enough, clear that panel off my visor
+mc | roger, uh, i'm done looking, put it away
+mc | eh, close
+mc | houston, ev one, get rid of this screen please
+mc | it's blocking my view, take that window down
+mc | i've seen enough, collapse the panel
+mc | go ahead and shut that display
+mc | can you hide whatever's on my screen
+mv | okay houston, i want to see all my numbers at once, vitals up
+mv | roger, uh, the vitals view, please
+mv | eh, vitals, on screen
+mv | houston, ev one, flip to my vitals
+mu | okay houston, i'm hooking up the umbilical, bring the uia panel up
+mu | roger, uh, the uia view, please
+mu | eh, uia, on screen
+mu | houston, ev one, flip to the uia
+mt | okay houston, i want to see what's on the list, tasks up
+mt | roger, uh, what comes after this
+@ nav
+= hard
+rr | okay houston, this crater's too steep to cross, find me another way to the target
+rr | roger, uh, the route you gave me goes through loose rock, plot something else
+rr | eh, reroute, please
+rr | houston, ev one, i'm blocked by a big boulder, recalculate my path
+rr | this path won't work, give me another option
+rr | the slope's too loose, route me around
+@ tasks
+= hard
+ct | okay houston, the magnetometer setup is finished, check it off | magnetometer setup
+ct | roger, uh, soil mechanics trench, all done | soil mechanics trench
+ct | eh, drill core retrieval, mark it done | drill core retrieval

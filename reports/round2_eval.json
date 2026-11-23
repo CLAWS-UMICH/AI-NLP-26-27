@@ -1,0 +1,1019 @@
+{
+ "round": 2,
+ "primer": false,
+ "train_rows": 4329,
+ "dev": {
+  "n": 324,
+  "acc": 0.9938,
+  "macro_f1": 0.996,
+  "family_acc": {
+   "coolant": 1.0,
+   "unhandled": 0.9636,
+   "body": 1.0,
+   "fans": 1.0,
+   "oxygen": 1.0,
+   "suit_atmos": 1.0,
+   "co2_scrub": 1.0,
+   "power": 1.0,
+   "nav": 1.0,
+   "tasks": 1.0,
+   "menus": 1.0
+  },
+  "family_error": {
+   "coolant": 0.0,
+   "unhandled": 0.0364,
+   "body": 0.0,
+   "fans": 0.0,
+   "oxygen": 0.0,
+   "suit_atmos": 0.0,
+   "co2_scrub": 0.0,
+   "power": 0.0,
+   "nav": 0.0,
+   "tasks": 0.0,
+   "menus": 0.0
+  },
+  "per_label": {
+   "get_oxy_pri_storage": 1.0,
+   "get_oxy_sec_storage": 1.0,
+   "get_oxy_pri_pressure": 1.0,
+   "get_oxy_sec_pressure": 1.0,
+   "get_oxy_consumption": 1.0,
+   "get_suit_pressure_oxy": 1.0,
+   "get_suit_pressure_co2": 1.0,
+   "get_suit_pressure_other": 1.0,
+   "get_suit_pressure_total": 1.0,
+   "get_helmet_pressure_co2": 1.0,
+   "get_scrubber_a_co2_storage": 1.0,
+   "get_scrubber_b_co2_storage": 1.0,
+   "get_co2_production": 1.0,
+   "get_coolant_storage": 1.0,
+   "get_coolant_gas_pressure": 1.0,
+   "get_coolant_liquid_pressure": 1.0,
+   "get_fan_pri_rpm": 1.0,
+   "get_fan_sec_rpm": 1.0,
+   "get_primary_battery_level": 1.0,
+   "get_secondary_battery_level": 1.0,
+   "get_heart_rate": 1.0,
+   "get_temperature": 1.0,
+   "get_eva_elapsed_time": 1.0,
+   "get_warnings": 1.0,
+   "open_menu_vitals": 1.0,
+   "open_menu_navigation": 1.0,
+   "open_menu_tasks": 1.0,
+   "open_menu_uia": 1.0,
+   "close_menu": 1.0,
+   "Get_coordinates": 1.0,
+   "Set_navigation_target": 1.0,
+   "reroute_navigation": 1.0,
+   "Add_waypoint": 1.0,
+   "Delete_waypoint": 1.0,
+   "Complete_task": 1.0,
+   "unhandled": 0.964
+  },
+  "top_confusions": [
+   [
+    "unhandled",
+    "get_fan_pri_rpm",
+    2
+   ]
+  ],
+  "slot_exact": 0.775,
+  "slot_token_f1": 0.8517,
+  "slot_exact_unseen_names": 0.8,
+  "slot_exact_seen_names": 0.75,
+  "hard_examples": [
+   {
+    "text": "stand by one",
+    "label": "unhandled",
+    "pred": "get_fan_pri_rpm",
+    "margin": 0.02
+   },
+   {
+    "text": "roger, fan pri",
+    "label": "unhandled",
+    "pred": "get_fan_pri_rpm",
+    "margin": 0.95
+   }
+  ]
+ },
+ "dev_asr": {
+  "n": 216,
+  "acc": 0.7546,
+  "macro_f1": 0.7007,
+  "family_acc": {
+   "coolant": 0.7778,
+   "unhandled": 0.9318,
+   "body": 0.7826,
+   "fans": 0.25,
+   "oxygen": 0.7407,
+   "nav": 0.7857,
+   "co2_scrub": 0.8421,
+   "menus": 0.4737,
+   "power": 0.6364,
+   "suit_atmos": 0.6923,
+   "tasks": 0.8333
+  },
+  "family_error": {
+   "coolant": 0.2222,
+   "unhandled": 0.0682,
+   "body": 0.2174,
+   "fans": 0.75,
+   "oxygen": 0.2593,
+   "nav": 0.2143,
+   "co2_scrub": 0.1579,
+   "menus": 0.5263,
+   "power": 0.3636,
+   "suit_atmos": 0.3077,
+   "tasks": 0.1667
+  },
+  "per_label": {
+   "get_oxy_pri_storage": 0.75,
+   "get_oxy_sec_storage": 0.8,
+   "get_oxy_pri_pressure": 0.6,
+   "get_oxy_sec_pressure": 0.857,
+   "get_oxy_consumption": 0.667,
+   "get_suit_pressure_oxy": 0.667,
+   "get_suit_pressure_co2": 0.667,
+   "get_suit_pressure_other": 0.667,
+   "get_suit_pressure_total": 1.0,
+   "get_helmet_pressure_co2": 0.667,
+   "get_scrubber_a_co2_storage": 0.667,
+   "get_scrubber_b_co2_storage": 0.857,
+   "get_co2_production": 1.0,
+   "get_coolant_storage": 0.667,
+   "get_coolant_gas_pressure": 0.833,
+   "get_coolant_liquid_pressure": 0.833,
+   "get_fan_pri_rpm": 0.333,
+   "get_fan_sec_rpm": 0.2,
+   "get_primary_battery_level": 1.0,
+   "get_secondary_battery_level": 0.333,
+   "get_heart_rate": 0.333,
+   "get_temperature": 0.875,
+   "get_eva_elapsed_time": 0.857,
+   "get_warnings": 0.8,
+   "open_menu_vitals": 0.167,
+   "open_menu_navigation": 0.5,
+   "open_menu_tasks": 0.5,
+   "open_menu_uia": 0.667,
+   "close_menu": 0.75,
+   "Get_coordinates": 0.857,
+   "Set_navigation_target": 1.0,
+   "reroute_navigation": 0.25,
+   "Add_waypoint": 1.0,
+   "Delete_waypoint": 0.5,
+   "Complete_task": 0.833,
+   "unhandled": 0.932
+  },
+  "top_confusions": [
+   [
+    "open_menu_vitals",
+    "unhandled",
+    3
+   ],
+   [
+    "get_fan_sec_rpm",
+    "get_oxy_sec_storage",
+    2
+   ],
+   [
+    "get_scrubber_a_co2_storage",
+    "get_scrubber_b_co2_storage",
+    2
+   ],
+   [
+    "reroute_navigation",
+    "unhandled",
+    2
+   ],
+   [
+    "get_oxy_consumption",
+    "unhandled",
+    2
+   ],
+   [
+    "get_heart_rate",
+    "open_menu_navigation",
+    1
+   ],
+   [
+    "get_oxy_pri_storage",
+    "get_co2_production",
+    1
+   ],
+   [
+    "get_scrubber_b_co2_storage",
+    "get_scrubber_a_co2_storage",
+    1
+   ],
+   [
+    "get_coolant_liquid_pressure",
+    "open_menu_tasks",
+    1
+   ],
+   [
+    "Delete_waypoint",
+    "unhandled",
+    1
+   ],
+   [
+    "open_menu_vitals",
+    "close_menu",
+    1
+   ],
+   [
+    "open_menu_navigation",
+    "close_menu",
+    1
+   ],
+   [
+    "get_heart_rate",
+    "unhandled",
+    1
+   ],
+   [
+    "get_temperature",
+    "unhandled",
+    1
+   ],
+   [
+    "get_secondary_battery_level",
+    "unhandled",
+    1
+   ]
+  ],
+  "slot_exact": 0.3846,
+  "slot_token_f1": 0.5974,
+  "slot_exact_unseen_names": null,
+  "slot_exact_seen_names": 0.3846,
+  "hard_examples": [
+   {
+    "text": "used to bum i need to know if scrubber be as get he close to capacity",
+    "label": "get_scrubber_b_co2_storage",
+    "pred": "get_scrubber_a_co2_storage",
+    "margin": 0.007
+   },
+   {
+    "text": "bring up my own",
+    "label": "open_menu_vitals",
+    "pred": "open_menu_navigation",
+    "margin": 0.013
+   },
+   {
+    "text": "roger sex secondary fund",
+    "label": "get_fan_sec_rpm",
+    "pred": "get_oxy_sec_storage",
+    "margin": 0.028
+   },
+   {
+    "text": "tilly waypoint rover thorax no",
+    "label": "Delete_waypoint",
+    "pred": "unhandled",
+    "margin": 0.031
+   },
+   {
+    "text": "roger ah primary hood",
+    "label": "unhandled",
+    "pred": "get_oxy_pri_pressure",
+    "margin": 0.041
+   },
+   {
+    "text": "just open",
+    "label": "open_menu_tasks",
+    "pred": "open_menu_navigation",
+    "margin": 0.062
+   },
+   {
+    "text": "roger seat buttons",
+    "label": "get_warnings",
+    "pred": "open_menu_tasks",
+    "margin": 0.086
+   },
+   {
+    "text": "everyone verify umbilical connections when you need to cook",
+    "label": "unhandled",
+    "pred": "open_menu_uia",
+    "margin": 0.096
+   },
+   {
+    "text": "okay 6 sec math percent",
+    "label": "get_secondary_battery_level",
+    "pred": "get_fan_sec_rpm",
+    "margin": 0.099
+   },
+   {
+    "text": "roger then we pin five",
+    "label": "Delete_waypoint",
+    "pred": "Add_waypoint",
+    "margin": 0.099
+   },
+   {
+    "text": "roger what's your other guest leaving in my suit",
+    "label": "get_suit_pressure_other",
+    "pred": "get_suit_pressure_total",
+    "margin": 0.113
+   },
+   {
+    "text": "ok i'm done in need of the math page open before we start the hide",
+    "label": "open_menu_navigation",
+    "pred": "close_menu",
+    "margin": 0.122
+   },
+   {
+    "text": "okay i'll need help",
+    "label": "get_heart_rate",
+    "pred": "open_menu_navigation",
+    "margin": 0.143
+   },
+   {
+    "text": "houston i need to know if scrubber is getting close to capacity",
+    "label": "get_scrubber_a_co2_storage",
+    "pred": "get_scrubber_b_co2_storage",
+    "margin": 0.149
+   },
+   {
+    "text": "oxygen perry",
+    "label": "get_oxy_consumption",
+    "pred": "unhandled",
+    "margin": 0.151
+   },
+   {
+    "text": "okay i need a new pad this one's locked locked",
+    "label": "reroute_navigation",
+    "pred": "Add_waypoint",
+    "margin": 0.157
+   },
+   {
+    "text": "tooling level please",
+    "label": "get_coolant_storage",
+    "pred": "open_menu_tasks",
+    "margin": 0.164
+   },
+   {
+    "text": "roger t10",
+    "label": "get_temperature",
+    "pred": "unhandled",
+    "margin": 0.181
+   },
+   {
+    "text": "roger co2 remaining",
+    "label": "get_oxy_pri_storage",
+    "pred": "get_co2_production",
+    "margin": 0.182
+   },
+   {
+    "text": "okay back to battery present",
+    "label": "get_secondary_battery_level",
+    "pred": "get_primary_battery_level",
+    "margin": 0.225
+   },
+   {
+    "text": "use the red button needed",
+    "label": "get_coolant_liquid_pressure",
+    "pred": "open_menu_tasks",
+    "margin": 0.261
+   },
+   {
+    "text": "okay back up and off again",
+    "label": "get_fan_sec_rpm",
+    "pred": "get_secondary_battery_level",
+    "margin": 0.296
+   },
+   {
+    "text": "roger bbpm",
+    "label": "get_heart_rate",
+    "pred": "unhandled",
+    "margin": 0.3
+   },
+   {
+    "text": "roger how's the castle pressure",
+    "label": "get_coolant_gas_pressure",
+    "pred": "get_suit_pressure_total",
+    "margin": 0.311
+   },
+   {
+    "text": "give me another puff",
+    "label": "reroute_navigation",
+    "pred": "unhandled",
+    "margin": 0.387
+   },
+   {
+    "text": "roger scrubber storage",
+    "label": "get_scrubber_a_co2_storage",
+    "pred": "get_scrubber_b_co2_storage",
+    "margin": 0.404
+   },
+   {
+    "text": "okay i'm gonna need the lighthouse page open before we start the hide",
+    "label": "open_menu_vitals",
+    "pred": "close_menu",
+    "margin": 0.419
+   },
+   {
+    "text": "o t means an rpm",
+    "label": "get_fan_pri_rpm",
+    "pred": "get_fan_sec_rpm",
+    "margin": 0.445
+   },
+   {
+    "text": "okay uh there's little to do",
+    "label": "get_oxy_consumption",
+    "pred": "unhandled",
+    "margin": 0.46
+   },
+   {
+    "text": "roger rtm secondary",
+    "label": "get_fan_sec_rpm",
+    "pred": "get_oxy_sec_storage",
+    "margin": 0.467
+   },
+   {
+    "text": "okay uh display pri sci",
+    "label": "get_oxy_pri_pressure",
+    "pred": "get_fan_pri_rpm",
+    "margin": 0.48
+   },
+   {
+    "text": "okay put pool and quantity up on the hat for me",
+    "label": "get_coolant_storage",
+    "pred": "get_suit_pressure_total",
+    "margin": 0.485
+   },
+   {
+    "text": "he left d the time",
+    "label": "get_eva_elapsed_time",
+    "pred": "unhandled",
+    "margin": 0.496
+   },
+   {
+    "text": "ota panel down",
+    "label": "close_menu",
+    "pred": "open_menu_uia",
+    "margin": 0.558
+   },
+   {
+    "text": "bring off the minima",
+    "label": "open_menu_navigation",
+    "pred": "Delete_waypoint",
+    "margin": 0.566
+   },
+   {
+    "text": "that coupled to helpful",
+    "label": "get_oxy_sec_storage",
+    "pred": "unhandled",
+    "margin": 0.569
+   },
+   {
+    "text": "roger how much is left on the secondary",
+    "label": "get_secondary_battery_level",
+    "pred": "get_oxy_sec_storage",
+    "margin": 0.57
+   },
+   {
+    "text": "well for e4",
+    "label": "Get_coordinates",
+    "pred": "unhandled",
+    "margin": 0.586
+   },
+   {
+    "text": "time to sigh",
+    "label": "get_oxy_sec_pressure",
+    "pred": "unhandled",
+    "margin": 0.626
+   },
+   {
+    "text": "pellet carbon dioxide",
+    "label": "get_helmet_pressure_co2",
+    "pred": "get_suit_pressure_co2",
+    "margin": 0.746
+   },
+   {
+    "text": "roger house fan 2 spinning",
+    "label": "get_fan_sec_rpm",
+    "pred": "unhandled",
+    "margin": 0.752
+   },
+   {
+    "text": "o2 partial in the suit",
+    "label": "get_suit_pressure_co2",
+    "pred": "get_suit_pressure_oxy",
+    "margin": 0.832
+   },
+   {
+    "text": "tank won't die",
+    "label": "get_oxy_pri_pressure",
+    "pred": "unhandled",
+    "margin": 0.836
+   },
+   {
+    "text": "houston market has finished be a grass be a grass",
+    "label": "Complete_task",
+    "pred": "unhandled",
+    "margin": 0.858
+   },
+   {
+    "text": "okay um pre o2 study",
+    "label": "unhandled",
+    "pred": "get_oxy_pri_storage",
+    "margin": 0.894
+   },
+   {
+    "text": "we could do that real well",
+    "label": "reroute_navigation",
+    "pred": "unhandled",
+    "margin": 0.925
+   },
+   {
+    "text": "okay soo that's such impartial",
+    "label": "get_suit_pressure_oxy",
+    "pred": "unhandled",
+    "margin": 0.931
+   },
+   {
+    "text": "roger house fan 1 spinning",
+    "label": "get_fan_pri_rpm",
+    "pred": "unhandled",
+    "margin": 0.935
+   },
+   {
+    "text": "uia are open",
+    "label": "open_menu_uia",
+    "pred": "unhandled",
+    "margin": 0.948
+   },
+   {
+    "text": "okay light goes up",
+    "label": "open_menu_vitals",
+    "pred": "unhandled",
+    "margin": 0.962
+   },
+   {
+    "text": "okay let's set that present looking light after the long drivers",
+    "label": "get_secondary_battery_level",
+    "pred": "unhandled",
+    "margin": 0.963
+   },
+   {
+    "text": "bye chose",
+    "label": "open_menu_vitals",
+    "pred": "unhandled",
+    "margin": 0.979
+   },
+   {
+    "text": "vigils are open",
+    "label": "open_menu_vitals",
+    "pred": "unhandled",
+    "margin": 0.981
+   },
+   {
+    "text": "how fast can i reduce in co2",
+    "label": "get_co2_production",
+    "pred": "get_co2_production",
+    "margin": 0.074
+   },
+   {
+    "text": "okay huh display sex eye",
+    "label": "get_oxy_sec_pressure",
+    "pred": "get_oxy_sec_pressure",
+    "margin": 0.11
+   },
+   {
+    "text": "sick bat percent sick bat percent on the screen please",
+    "label": "get_secondary_battery_level",
+    "pred": "get_secondary_battery_level",
+    "margin": 0.125
+   },
+   {
+    "text": "roger need go to gen per minute",
+    "label": "get_co2_production",
+    "pred": "get_co2_production",
+    "margin": 0.155
+   },
+   {
+    "text": "charge on battery 1",
+    "label": "get_primary_battery_level",
+    "pred": "get_primary_battery_level",
+    "margin": 0.155
+   },
+   {
+    "text": "roger zeko 2 remaining",
+    "label": "get_oxy_sec_storage",
+    "pred": "get_oxy_sec_storage",
+    "margin": 0.157
+   },
+   {
+    "text": "the scrubber how saturated",
+    "label": "get_scrubber_a_co2_storage",
+    "pred": "get_scrubber_a_co2_storage",
+    "margin": 0.164
+   },
+   {
+    "text": "houston show me god's gods for white rock on the map please",
+    "label": "Get_coordinates",
+    "pred": "Get_coordinates",
+    "margin": 0.175
+   }
+  ]
+ },
+ "diversity": {
+  "within_label_mean": 0.455,
+  "target": 0.5,
+  "pass": true,
+  "labels_over_0.55": 4,
+  "labels_over_0.62": 1,
+  "per_label": {
+   "Add_waypoint": 0.3158,
+   "Complete_task": 0.2855,
+   "Delete_waypoint": 0.3839,
+   "Get_coordinates": 0.301,
+   "Set_navigation_target": 0.3234,
+   "close_menu": 0.348,
+   "get_co2_production": 0.5932,
+   "get_coolant_gas_pressure": 0.5495,
+   "get_coolant_liquid_pressure": 0.521,
+   "get_coolant_storage": 0.5655,
+   "get_eva_elapsed_time": 0.4771,
+   "get_fan_pri_rpm": 0.5182,
+   "get_fan_sec_rpm": 0.4803,
+   "get_heart_rate": 0.4776,
+   "get_helmet_pressure_co2": 0.6376,
+   "get_oxy_consumption": 0.5483,
+   "get_oxy_pri_pressure": 0.5461,
+   "get_oxy_pri_storage": 0.4803,
+   "get_oxy_sec_pressure": 0.5331,
+   "get_oxy_sec_storage": 0.461,
+   "get_primary_battery_level": 0.4477,
+   "get_scrubber_a_co2_storage": 0.4515,
+   "get_scrubber_b_co2_storage": 0.4612,
+   "get_secondary_battery_level": 0.4359,
+   "get_suit_pressure_co2": 0.4662,
+   "get_suit_pressure_other": 0.5419,
+   "get_suit_pressure_oxy": 0.4535,
+   "get_suit_pressure_total": 0.4876,
+   "get_temperature": 0.5715,
+   "get_warnings": 0.3987,
+   "open_menu_navigation": 0.4262,
+   "open_menu_tasks": 0.3858,
+   "open_menu_uia": 0.4357,
+   "open_menu_vitals": 0.4483,
+   "reroute_navigation": 0.4545,
+   "unhandled": 0.1681
+  },
+  "diversity_worst": [
+   [
+    "get_helmet_pressure_co2",
+    0.638
+   ],
+   [
+    "get_co2_production",
+    0.593
+   ],
+   [
+    "get_temperature",
+    0.571
+   ],
+   [
+    "get_coolant_storage",
+    0.565
+   ],
+   [
+    "get_coolant_gas_pressure",
+    0.549
+   ],
+   [
+    "get_oxy_consumption",
+    0.548
+   ],
+   [
+    "get_oxy_pri_pressure",
+    0.546
+   ],
+   [
+    "get_suit_pressure_other",
+    0.542
+   ],
+   [
+    "get_oxy_sec_pressure",
+    0.533
+   ],
+   [
+    "get_coolant_liquid_pressure",
+    0.521
+   ]
+  ],
+  "test_to_train_nn_same_label": {
+   "p50": 0.775,
+   "p95": 0.873,
+   "max": 0.896
+  }
+ },
+ "family_error": {
+  "coolant": 0.0,
+  "unhandled": 0.0364,
+  "body": 0.0,
+  "fans": 0.0,
+  "oxygen": 0.0,
+  "suit_atmos": 0.0,
+  "co2_scrub": 0.0,
+  "power": 0.0,
+  "nav": 0.0,
+  "tasks": 0.0,
+  "menus": 0.0
+ },
+ "top_confusions": [
+  [
+   "unhandled",
+   "get_fan_pri_rpm",
+   2
+  ]
+ ],
+ "hard_examples": [
+  {
+   "text": "stand by one",
+   "label": "unhandled",
+   "pred": "get_fan_pri_rpm",
+   "margin": 0.02
+  },
+  {
+   "text": "roger, fan pri",
+   "label": "unhandled",
+   "pred": "get_fan_pri_rpm",
+   "margin": 0.95
+  },
+  {
+   "text": "used to bum i need to know if scrubber be as get he close to capacity",
+   "label": "get_scrubber_b_co2_storage",
+   "pred": "get_scrubber_a_co2_storage",
+   "margin": 0.007
+  },
+  {
+   "text": "bring up my own",
+   "label": "open_menu_vitals",
+   "pred": "open_menu_navigation",
+   "margin": 0.013
+  },
+  {
+   "text": "roger sex secondary fund",
+   "label": "get_fan_sec_rpm",
+   "pred": "get_oxy_sec_storage",
+   "margin": 0.028
+  },
+  {
+   "text": "tilly waypoint rover thorax no",
+   "label": "Delete_waypoint",
+   "pred": "unhandled",
+   "margin": 0.031
+  },
+  {
+   "text": "roger ah primary hood",
+   "label": "unhandled",
+   "pred": "get_oxy_pri_pressure",
+   "margin": 0.041
+  },
+  {
+   "text": "just open",
+   "label": "open_menu_tasks",
+   "pred": "open_menu_navigation",
+   "margin": 0.062
+  },
+  {
+   "text": "roger seat buttons",
+   "label": "get_warnings",
+   "pred": "open_menu_tasks",
+   "margin": 0.086
+  },
+  {
+   "text": "everyone verify umbilical connections when you need to cook",
+   "label": "unhandled",
+   "pred": "open_menu_uia",
+   "margin": 0.096
+  },
+  {
+   "text": "okay 6 sec math percent",
+   "label": "get_secondary_battery_level",
+   "pred": "get_fan_sec_rpm",
+   "margin": 0.099
+  },
+  {
+   "text": "roger then we pin five",
+   "label": "Delete_waypoint",
+   "pred": "Add_waypoint",
+   "margin": 0.099
+  },
+  {
+   "text": "roger what's your other guest leaving in my suit",
+   "label": "get_suit_pressure_other",
+   "pred": "get_suit_pressure_total",
+   "margin": 0.113
+  },
+  {
+   "text": "ok i'm done in need of the math page open before we start the hide",
+   "label": "open_menu_navigation",
+   "pred": "close_menu",
+   "margin": 0.122
+  },
+  {
+   "text": "okay i'll need help",
+   "label": "get_heart_rate",
+   "pred": "open_menu_navigation",
+   "margin": 0.143
+  },
+  {
+   "text": "houston i need to know if scrubber is getting close to capacity",
+   "label": "get_scrubber_a_co2_storage",
+   "pred": "get_scrubber_b_co2_storage",
+   "margin": 0.149
+  },
+  {
+   "text": "oxygen perry",
+   "label": "get_oxy_consumption",
+   "pred": "unhandled",
+   "margin": 0.151
+  },
+  {
+   "text": "okay i need a new pad this one's locked locked",
+   "label": "reroute_navigation",
+   "pred": "Add_waypoint",
+   "margin": 0.157
+  },
+  {
+   "text": "tooling level please",
+   "label": "get_coolant_storage",
+   "pred": "open_menu_tasks",
+   "margin": 0.164
+  },
+  {
+   "text": "roger t10",
+   "label": "get_temperature",
+   "pred": "unhandled",
+   "margin": 0.181
+  },
+  {
+   "text": "roger co2 remaining",
+   "label": "get_oxy_pri_storage",
+   "pred": "get_co2_production",
+   "margin": 0.182
+  },
+  {
+   "text": "okay back to battery present",
+   "label": "get_secondary_battery_level",
+   "pred": "get_primary_battery_level",
+   "margin": 0.225
+  }
+ ],
+ "diversity_worst": [
+  [
+   "get_helmet_pressure_co2",
+   0.638
+  ],
+  [
+   "get_co2_production",
+   0.593
+  ],
+  [
+   "get_temperature",
+   0.571
+  ],
+  [
+   "get_coolant_storage",
+   0.565
+  ],
+  [
+   "get_coolant_gas_pressure",
+   0.549
+  ],
+  [
+   "get_oxy_consumption",
+   0.548
+  ],
+  [
+   "get_oxy_pri_pressure",
+   0.546
+  ],
+  [
+   "get_suit_pressure_other",
+   0.542
+  ],
+  [
+   "get_oxy_sec_pressure",
+   0.533
+  ],
+  [
+   "get_coolant_liquid_pressure",
+   0.521
+  ]
+ ],
+ "checklist": {
+  "report_unhandled": {
+   "testcases": 55,
+   "fail_rate": 0.0364,
+   "fails": 2,
+   "examples": [
+    "roger, fan pri",
+    "stand by one"
+   ]
+  },
+  "negation_unhandled": {
+   "testcases": 40,
+   "fail_rate": 0.0,
+   "fails": 0,
+   "examples": []
+  },
+  "word_swap": {
+   "testcases": 103,
+   "fail_rate": 0.0194,
+   "fails": 2,
+   "examples": [
+    "houston, scrubber a- b scrubber's co2 storage at this moment",
+    "o2 on the backup bottle, percent"
+   ]
+  },
+  "inv_filler": {
+   "testcases": 269,
+   "fail_rate": 0.0,
+   "fails": 0,
+   "examples": []
+  },
+  "inv_opener": {
+   "testcases": 269,
+   "fail_rate": 0.0,
+   "fails": 0,
+   "examples": []
+  },
+  "inv_asr_noise": {
+   "testcases": 249,
+   "fail_rate": 0.1687,
+   "fails": 42,
+   "examples": [
+    [
+     "roger, sec- secondary fan",
+     "larger, sec- secondary send"
+    ],
+    [
+     "houston, charge level, primary, primary",
+     "used to, storage level, primary, primary"
+    ],
+    [
+     "houston, charge level, secondary, secondary",
+     "view them, storage level, secondary, secondary"
+    ],
+    [
+     "set nav for rover tracks",
+     "set enough for rover racks"
+    ],
+    [
+     "roger, t- temp?",
+     "logger, t- 10?"
+    ],
+    [
+     "the speed the fan is spinning at on the- the secondary",
+     "a speed for fan is spinning at on the- the secondary"
+    ],
+    [
+     "roger, uh, rpm primary",
+     "roger, are, off em primary"
+    ],
+    [
+     "roger, uh, rpm secondary",
+     "roger, uia, rtm secondary"
+    ],
+    [
+     "okay, um, gas reading needed",
+     "okay, on, gas reading neither"
+    ],
+    [
+     "can- can i get vitals up?",
+     "can- can i get light goals off?"
+    ],
+    [
+     "can- can i get this closed?",
+     "can- can hi get the closed?"
+    ],
+    [
+     "okay, sec- sec batt percent",
+     "okay, sec- sec that present"
+    ]
+   ]
+  },
+  "inv_contractions": {
+   "testcases": 40,
+   "fail_rate": 0.0,
+   "fails": 0,
+   "examples": []
+  },
+  "inv_slot_swap": {
+   "testcases": 40,
+   "fail_rate": 0.05,
+   "fails": 2,
+   "examples": [
+    [
+     "okay, uh, check off plcd?",
+     "okay, uh, check off psmd?"
+    ],
+    [
+     "check off portable lunar camera teardown",
+     "check off psmd"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "model": "runs/round4/model.pt",
+ "test_text": {
+  "n": 382,
+  "acc": 0.945,
+  "macro_f1": 0.9515,
+  "worst_labels": [
+   [
+    "get_suit_pressure_co2",
+    0.7
+   ],
+   [
+    "get_oxy_pri_storage",
+    0.8
+   ],
+   [
+    "get_fan_pri_rpm",
+    0.8
+   ],
+   [
+    "get_suit_pressure_total",
+    0.9
+   ],
+   [
+    "get_scrubber_a_co2_storage",
+    0.9
+   ],
+   [
+    "get_eva_elapsed_time",
+    0.9
+   ]
+  ],
+  "chatter_let_through": 0.0938,
+  "commands_predicted_unhandled": 0.0229,
+  "wrong_command_accepted": 0.0286,
+  "which_one_pairs": {
+   "get_oxy_pri_storage / get_oxy_sec_storage": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_oxy_pri_pressure / get_oxy_sec_pressure": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_fan_pri_rpm / get_fan_sec_rpm": {
+    "n": 20,
+    "wrong_side": 0.05,
+    "confident_swaps": 0
+   },
+   "get_primary_battery_level / get_secondary_battery_level": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_scrubber_a_co2_storage / get_scrubber_b_co2_storage": {
+    "n": 20,
+    "wrong_side": 0.05,
+    "confident_swaps": 0
+   },
+   "get_coolant_gas_pressure / get_coolant_liquid_pressure": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_suit_pressure_co2 / get_helmet_pressure_co2": {
+    "n": 20,
+    "wrong_side": 0.05,
+    "confident_swaps": 0
+   }
+  },
+  "slot_exact_unseen_names": 0.7234
+ },
+ "test_audio_synth": {
+  "n": 382,
+  "acc": 0.7801,
+  "macro_f1": 0.7982,
+  "worst_labels": [
+   [
+    "get_scrubber_a_co2_storage",
+    0.4
+   ],
+   [
+    "get_fan_sec_rpm",
+    0.5
+   ],
+   [
+    "open_menu_vitals",
+    0.5
+   ],
+   [
+    "close_menu",
+    0.6
+   ],
+   [
+    "reroute_navigation",
+    0.6
+   ],
+   [
+    "get_oxy_sec_storage",
+    0.7
+   ]
+  ],
+  "chatter_let_through": 0.1875,
+  "commands_predicted_unhandled": 0.0943,
+  "wrong_command_accepted": 0.1286,
+  "which_one_pairs": {
+   "get_oxy_pri_storage / get_oxy_sec_storage": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_oxy_pri_pressure / get_oxy_sec_pressure": {
+    "n": 20,
+    "wrong_side": 0.05,
+    "confident_swaps": 0
+   },
+   "get_fan_pri_rpm / get_fan_sec_rpm": {
+    "n": 20,
+    "wrong_side": 0.05,
+    "confident_swaps": 0
+   },
+   "get_primary_battery_level / get_secondary_battery_level": {
+    "n": 20,
+    "wrong_side": 0.05,
+    "confident_swaps": 0
+   },
+   "get_scrubber_a_co2_storage / get_scrubber_b_co2_storage": {
+    "n": 20,
+    "wrong_side": 0.25,
+    "confident_swaps": 0
+   },
+   "get_coolant_gas_pressure / get_coolant_liquid_pressure": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   },
+   "get_suit_pressure_co2 / get_helmet_pressure_co2": {
+    "n": 20,
+    "wrong_side": 0.0,
+    "confident_swaps": 0
+   }
+  }
+ }
+}

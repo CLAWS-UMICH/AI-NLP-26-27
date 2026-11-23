@@ -1,0 +1,130 @@
+{
+ "report_unhandled": {
+  "testcases": 55,
+  "fail_rate": 0.0364,
+  "fails": 2,
+  "examples": [
+   "ev1 disconnect uia and dcu umbilical",
+   "roger, fan pri"
+  ]
+ },
+ "negation_unhandled": {
+  "testcases": 40,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "word_swap": {
+  "testcases": 103,
+  "fail_rate": 0.0194,
+  "fails": 2,
+  "examples": [
+   "roger, prim- secondary fan",
+   "o2 on the backup bottle, percent"
+  ]
+ },
+ "inv_filler": {
+  "testcases": 269,
+  "fail_rate": 0.0074,
+  "fails": 2,
+  "examples": [
+   [
+    "what's my heart doing right now",
+    "um, what's my heart doing right now"
+   ],
+   [
+    "close",
+    "okay so, close"
+   ]
+  ]
+ },
+ "inv_opener": {
+  "testcases": 269,
+  "fail_rate": 0.0074,
+  "fails": 2,
+  "examples": [
+   [
+    "what's my heart doing right now",
+    "okay, what's my heart doing right now",
+    "roger, what's my heart doing right now"
+   ],
+   [
+    "close",
+    "okay, close",
+    "roger, close"
+   ]
+  ]
+ },
+ "inv_asr_noise": {
+  "testcases": 252,
+  "fail_rate": 0.1429,
+  "fails": 36,
+  "examples": [
+   [
+    "roger, sec- secondary fan",
+    "larger, sec- secondary send"
+   ],
+   [
+    "roger, sec o2 tank psi",
+    "roger, sec o2 10 size"
+   ],
+   [
+    "okay, i'm gonna need the- the vitals page open before we start the hike",
+    "okay, i'm gonna need for- the libraries page open before we start the hike"
+   ],
+   [
+    "roger, t- temp?",
+    "larger, t- 10?"
+   ],
+   [
+    "can- can i get my tasks up?",
+    "can- can hi get my chucks up?"
+   ],
+   [
+    "okay, sec- sec batt percent",
+    "okay, sec- sec at percent"
+   ],
+   [
+    "okay, uh, display sec psi",
+    "okay, auto, display sec size"
+   ],
+   [
+    "vitals, uh, open",
+    "michael's, are, open"
+   ],
+   [
+    "tasks, uh, open",
+    "chucks, uia, open"
+   ],
+   [
+    "okay, i'm gonna need the- the page closed before we start the hike",
+    "okay, i'm gonna lead of- the page closed before we start the hike"
+   ],
+   [
+    "backup o2 how full",
+    "backup o2 half full"
+   ],
+   [
+    "psi on primary oxygen",
+    "sign a primary oxygen"
+   ]
+  ]
+ },
+ "inv_contractions": {
+  "testcases": 40,
+  "fail_rate": 0.025,
+  "fails": 1,
+  "examples": [
+   [
+    "what's my heart doing right now",
+    "what is my heart doing right now"
+   ]
+  ]
+ },
+ "inv_slot_swap": {
+  "testcases": 40,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ }
+}

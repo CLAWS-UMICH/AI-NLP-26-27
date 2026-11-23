@@ -1,0 +1,538 @@
+{"id": "dh1-g0001-0", "asr": "Ok Houston, I'm about to start the long walk back, what does the main bottle have left in it?", "voice": "Karen", "rate": 219, "snr": 11.5, "link": "wifi", "avg_logprob": -0.119, "no_speech_prob": 0.014}
+{"id": "dh1-g0001-1", "asr": "Roger, uh, before we press on, I want to know how much O2 finds still got.", "voice": "Kathy", "rate": 160, "snr": 14.3, "link": "cable", "avg_logprob": -0.266, "no_speech_prob": 0.037}
+{"id": "dh1-g0001-3", "asr": "I, I need my oxygen percentage, primary side.", "voice": "Junior", "rate": 168, "snr": 10.5, "link": "wifi", "avg_logprob": -0.154, "no_speech_prob": 0.024}
+{"id": "dh1-g0001-4", "asr": "What reaction of my primary O2 is remaining?", "voice": "Fred", "rate": 230, "snr": 12.3, "link": "wifi", "avg_logprob": -0.119, "no_speech_prob": 0.012}
+{"id": "dh1-g0001-6", "asr": "Am I going to have enough air to make it to the next stop?", "voice": "Fred", "rate": 225, "snr": 9.6, "link": "cable", "avg_logprob": -0.082, "no_speech_prob": 0.06}
+{"id": "dh1-g0001-7", "asr": "Houston, quick one, oxygen remaining on tank one.", "voice": "Samantha", "rate": 221, "snr": 13.5, "link": "wifi", "avg_logprob": -0.219, "no_speech_prob": 0.015}
+{"id": "dh1-g0001-8", "asr": "What's left in the number one tank percentage wise?", "voice": "Rishi", "rate": 201, "snr": 12.8, "link": "cable", "avg_logprob": -0.223, "no_speech_prob": 0.026}
+{"id": "dh1-g0002-12", "asr": "Okay, on the back of the bagel, how much is left in that one?", "voice": "Junior", "rate": 181, "snr": 14.0, "link": "wifi", "avg_logprob": -0.386, "no_speech_prob": 0.098}
+{"id": "dh1-g0002-14", "asr": "1% is left on O2 number 2.", "voice": "Tessa", "rate": 207, "snr": 18.3, "link": "cable", "avg_logprob": -0.159, "no_speech_prob": 0.014}
+{"id": "dh1-g0002-16", "asr": "If primary runs dry, how much does the backup have for me?", "voice": "Tessa", "rate": 196, "snr": 12.1, "link": "wifi", "avg_logprob": -0.04, "no_speech_prob": 0.011}
+{"id": "dh1-g0002-17", "asr": "Roger, uh, sake oxygen, what's remaining?", "voice": "Rishi", "rate": 161, "snr": 7.3, "link": "wifi", "avg_logprob": -0.598, "no_speech_prob": 0.06}
+{"id": "dh1-g0002-18", "asr": "Tell me the, the secondary O2 level real quick.", "voice": "Karen", "rate": 162, "snr": 5.3, "link": "wifi", "avg_logprob": -0.21, "no_speech_prob": 0.031}
+{"id": "dh1-g0003-28", "asr": "Give me the oxygen pressure reading, main side.", "voice": "Karen", "rate": 201, "snr": 13.8, "link": "cable", "avg_logprob": -0.122, "no_speech_prob": 0.004}
+{"id": "dh1-g0003-31", "asr": "Tank pressure please, I want to see if it's dropping.", "voice": "Samantha", "rate": 179, "snr": 19.7, "link": "wifi", "avg_logprob": -0.106, "no_speech_prob": 0.004}
+{"id": "dh1-g0003-32", "asr": "I'm seeing the main bottle drop, what's its signo.", "voice": "Moira", "rate": 221, "snr": 9.6, "link": "wifi", "avg_logprob": -0.191, "no_speech_prob": 0.013}
+{"id": "dh1-g0003-33", "asr": "Secondary is fine. What's primary tank pressure?", "voice": "Rishi", "rate": 167, "snr": 16.3, "link": "cable", "avg_logprob": -0.15, "no_speech_prob": 0.013}
+{"id": "dh1-g0002-19", "asr": "Primary's fine, what's the secondary tank at percentage-wise?", "voice": "Karen", "rate": 231, "snr": 14.4, "link": "cable", "avg_logprob": -0.139, "no_speech_prob": 0.001}
+{"id": "dh1-g0002-20", "asr": "Okay, how much oxygen remains in the second bottle?", "voice": "Samantha", "rate": 170, "snr": 9.0, "link": "wifi", "avg_logprob": -0.17, "no_speech_prob": 0.023}
+{"id": "dh1-g0002-21", "asr": "I'd like the O2 percentage on the backup side.", "voice": "Rishi", "rate": 187, "snr": 17.9, "link": "wifi", "avg_logprob": -0.055, "no_speech_prob": 0.024}
+{"id": "dh1-g0002-22", "asr": "What's my backup supply looking like for oxygen?", "voice": "Daniel", "rate": 214, "snr": 17.0, "link": "cable", "avg_logprob": -0.092, "no_speech_prob": 0.006}
+{"id": "dh1-g0002-23", "asr": "Houston, before we head out again, tank 2 oxygen percent please.", "voice": "Rishi", "rate": 199, "snr": 13.9, "link": "cable", "avg_logprob": -0.199, "no_speech_prob": 0.031}
+{"id": "dh1-g0003-25", "asr": "Okay, uh, main tank pressure, what's it reading?", "voice": "Daniel", "rate": 205, "snr": 11.0, "link": "cable", "avg_logprob": -0.28, "no_speech_prob": 0.036}
+{"id": "dh1-g0003-26", "asr": "How much pressure is an O2 tank 1?", "voice": "Samantha", "rate": 233, "snr": 17.4, "link": "wifi", "avg_logprob": -0.119, "no_speech_prob": 0.003}
+{"id": "dh1-g0003-27", "asr": "Roger, I need the pressure on my PRI oxygen.", "voice": "Kathy", "rate": 164, "snr": 17.1, "link": "cable", "avg_logprob": -0.077, "no_speech_prob": 0.008}
+{"id": "dh1-g0003-34", "asr": "What's the oxygen pressure on number one?", "voice": "Samantha", "rate": 185, "snr": 5.4, "link": "cable", "avg_logprob": -0.085, "no_speech_prob": 0.012}
+{"id": "dh1-g0004-36", "asr": "What's the C on the backup oxygen bottle?", "voice": "Daniel", "rate": 162, "snr": 13.0, "link": "wifi", "avg_logprob": -0.156, "no_speech_prob": 0.007}
+{"id": "dh1-g0004-41", "asr": "Roger, and the backup bottle, is its pressure holding, what's the number?", "voice": "Tessa", "rate": 232, "snr": 13.9, "link": "cable", "avg_logprob": -0.122, "no_speech_prob": 0.005}
+{"id": "dh1-g0004-42", "asr": "I want the pressure reading on my secondary oxygen.", "voice": "Junior", "rate": 197, "snr": 14.9, "link": "cable", "avg_logprob": -0.066, "no_speech_prob": 0.021}
+{"id": "dh1-g0004-44", "asr": "Ok, before I switch over, West Side is a backup tank hat.", "voice": "Kathy", "rate": 197, "snr": 10.6, "link": "wifi", "avg_logprob": -0.388, "no_speech_prob": 0.056}
+{"id": "dh1-g0004-45", "asr": "O2, number 2, pressure, what does it say?", "voice": "Fred", "rate": 172, "snr": 18.5, "link": "wifi", "avg_logprob": -0.193, "no_speech_prob": 0.021}
+{"id": "dh1-g0004-47", "asr": "What's me, the backup oxygen pleasure looks like.", "voice": "Kathy", "rate": 229, "snr": 8.0, "link": "cable", "avg_logprob": -0.378, "no_speech_prob": 0.017}
+{"id": "dh1-g0005-49", "asr": "Okay, what's my O2 usage rate on this climb?", "voice": "Kathy", "rate": 169, "snr": 11.1, "link": "wifi", "avg_logprob": -0.383, "no_speech_prob": 0.031}
+{"id": "dh1-g0005-50", "asr": "Houston, what rate am I using here at?", "voice": "Ralph", "rate": 164, "snr": 17.8, "link": "wifi", "avg_logprob": -0.152, "no_speech_prob": 0.049}
+{"id": "dh1-g0005-53", "asr": "How quick is my O2 going down per hour?", "voice": "Tessa", "rate": 196, "snr": 12.2, "link": "wifi", "avg_logprob": -0.086, "no_speech_prob": 0.008}
+{"id": "dh1-g0005-55", "asr": "I've been huffing up this hill, what's my O2 burn?", "voice": "Karen", "rate": 166, "snr": 17.8, "link": "cable", "avg_logprob": -0.052, "no_speech_prob": 0.004}
+{"id": "dh1-g0006-63", "asr": "What's the oxygen pressure inside the suit itself, not the tanks?", "voice": "Karen", "rate": 203, "snr": 18.2, "link": "wifi", "avg_logprob": -0.083, "no_speech_prob": 0.002}
+{"id": "dh1-g0006-65", "asr": "How much oxygen pressure is in my Suit atmosphere?", "voice": "Daniel", "rate": 195, "snr": 11.5, "link": "cable", "avg_logprob": -0.132, "no_speech_prob": 0.008}
+{"id": "dh1-g0006-68", "asr": "I feel a bit like rated, what's my Supo 2?", "voice": "Moira", "rate": 221, "snr": 15.5, "link": "wifi", "avg_logprob": -0.419, "no_speech_prob": 0.006}
+{"id": "dh1-g0006-69", "asr": "Read me the soon oxygen partial pressure.", "voice": "Kathy", "rate": 181, "snr": 14.2, "link": "cable", "avg_logprob": -0.714, "no_speech_prob": 0.014}
+{"id": "dh1-g0006-70", "asr": "What does the suit say for O2 partial pressure?", "voice": "Kathy", "rate": 167, "snr": 16.9, "link": "cable", "avg_logprob": -0.113, "no_speech_prob": 0.015}
+{"id": "dh1-g0008-85", "asr": "Okay, other gas pressure, what is it?", "voice": "Junior", "rate": 177, "snr": 17.1, "link": "wifi", "avg_logprob": -0.197, "no_speech_prob": 0.062}
+{"id": "dh1-g0008-86", "asr": "Houston, the partial pressure for everything that isn't O2 or CO2.", "voice": "Daniel", "rate": 184, "snr": 10.5, "link": "cable", "avg_logprob": -0.099, "no_speech_prob": 0.021}
+{"id": "dh1-g0008-89", "asr": "Ah, what's the pressure of the other gases?", "voice": "Karen", "rate": 163, "snr": 10.7, "link": "wifi", "avg_logprob": -0.106, "no_speech_prob": 0.003}
+{"id": "dh1-g0008-92", "asr": "Watch the suit pressure for other cats.", "voice": "Ralph", "rate": 179, "snr": 17.5, "link": "wifi", "avg_logprob": -0.312, "no_speech_prob": 0.028}
+{"id": "dh1-g0007-73", "asr": "Okay, what's the carbon dioxide level in here?", "voice": "Tessa", "rate": 171, "snr": 9.5, "link": "wifi", "avg_logprob": -0.166, "no_speech_prob": 0.019}
+{"id": "dh1-g0007-77", "asr": "I'm got a headache, what's my CO2 at?", "voice": "Fred", "rate": 162, "snr": 12.2, "link": "cable", "avg_logprob": -0.403, "no_speech_prob": 0.007}
+{"id": "dh1-g0007-79", "asr": "Roger, CO2 level, please.", "voice": "Fred", "rate": 188, "snr": 18.7, "link": "wifi", "avg_logprob": -0.165, "no_speech_prob": 0.013}
+{"id": "dh1-g0007-83", "asr": "Not the helmets, the suits, CO2 pressure.", "voice": "Moira", "rate": 162, "snr": 15.0, "link": "cable", "avg_logprob": -0.112, "no_speech_prob": 0.004}
+{"id": "dh1-g0011-122", "asr": "Houston, what's the scrubber at?", "voice": "Kathy", "rate": 218, "snr": 14.6, "link": "cable", "avg_logprob": -0.282, "no_speech_prob": 0.036}
+{"id": "dh1-g0011-123", "asr": "How saturated is the alpha canister?", "voice": "Samantha", "rate": 163, "snr": 7.9, "link": "wifi", "avg_logprob": -0.198, "no_speech_prob": 0.028}
+{"id": "dh1-g0011-127", "asr": "Robles fine, how low did this elbow?", "voice": "Kathy", "rate": 183, "snr": 5.2, "link": "cable", "avg_logprob": -0.587, "no_speech_prob": 0.017}
+{"id": "dh1-g0011-128", "asr": "Roger, scrubber, alpha, CO2 level.", "voice": "Junior", "rate": 206, "snr": 15.6, "link": "wifi", "avg_logprob": -0.396, "no_speech_prob": 0.017}
+{"id": "dh1-g0009-101", "asr": "Watch the pressure overall.", "voice": "Fred", "rate": 189, "snr": 6.8, "link": "cable", "avg_logprob": -0.09, "no_speech_prob": 0.026}
+{"id": "dh1-g0009-104", "asr": "I want to make sure I don't have a leak, what's my suit pressure?", "voice": "Junior", "rate": 179, "snr": 11.6, "link": "wifi", "avg_logprob": -0.198, "no_speech_prob": 0.042}
+{"id": "dh1-g0010-113", "asr": "Not the SUSE, the helmet, CO2 level.", "voice": "Samantha", "rate": 217, "snr": 18.0, "link": "cable", "avg_logprob": -0.299, "no_speech_prob": 0.005}
+{"id": "dh1-g0010-119", "asr": "How's the CO2 near my face in the helmet?", "voice": "Rishi", "rate": 216, "snr": 10.6, "link": "wifi", "avg_logprob": -0.214, "no_speech_prob": 0.05}
+{"id": "dh1-g0008-94", "asr": "Give me the other gases number.", "voice": "Daniel", "rate": 201, "snr": 15.4, "link": "wifi", "avg_logprob": -0.141, "no_speech_prob": 0.014}
+{"id": "dh1-g0008-95", "asr": "What's my suit's under pressure value?", "voice": "Junior", "rate": 221, "snr": 5.5, "link": "cable", "avg_logprob": -0.448, "no_speech_prob": 0.052}
+{"id": "dh1-g0009-98", "asr": "And I hold in pressure in the suit.", "voice": "Daniel", "rate": 184, "snr": 11.0, "link": "wifi", "avg_logprob": -0.172, "no_speech_prob": 0.006}
+{"id": "dh1-g0009-100", "asr": "My ears popped, watch the suit pressure it.", "voice": "Tessa", "rate": 181, "snr": 19.1, "link": "wifi", "avg_logprob": -0.253, "no_speech_prob": 0.018}
+{"id": "dh1-g0012-138", "asr": "Alpha's fine, has Bravo doing on CO2.", "voice": "Moira", "rate": 197, "snr": 10.3, "link": "wifi", "avg_logprob": -0.217, "no_speech_prob": 0.013}
+{"id": "dh1-g0012-140", "asr": "As the Bravo scrubber gets in full.", "voice": "Kathy", "rate": 219, "snr": 14.5, "link": "cable", "avg_logprob": -0.663, "no_speech_prob": 0.047}
+{"id": "dh1-g0012-141", "asr": "What percent is scrubber too loaded?", "voice": "Rishi", "rate": 197, "snr": 15.8, "link": "wifi", "avg_logprob": -0.13, "no_speech_prob": 0.024}
+{"id": "dh1-g0013-146", "asr": "Houston, CO2 production, what is it?", "voice": "Karen", "rate": 226, "snr": 7.2, "link": "cable", "avg_logprob": -0.074, "no_speech_prob": 0.022}
+{"id": "dh1-g0013-147", "asr": "How fast am I making CO2 on this climb?", "voice": "Daniel", "rate": 186, "snr": 19.3, "link": "wifi", "avg_logprob": -0.107, "no_speech_prob": 0.002}
+{"id": "dh1-g0013-149", "asr": "Oh, how much carbon dioxide am I reading out per minute?", "voice": "Ralph", "rate": 189, "snr": 12.1, "link": "wifi", "avg_logprob": -0.183, "no_speech_prob": 0.035}
+{"id": "dh1-g0013-155", "asr": "What's the rate I'm exhaling code to add?", "voice": "Kathy", "rate": 196, "snr": 15.3, "link": "wifi", "avg_logprob": -0.388, "no_speech_prob": 0.022}
+{"id": "dh1-g0014-157", "asr": "Ok Houston, coolant reserve, what is it?", "voice": "Moira", "rate": 206, "snr": 18.0, "link": "cable", "avg_logprob": -0.222, "no_speech_prob": 0.025}
+{"id": "dh1-g0011-129", "asr": "What percentage is this scrubber filled to?", "voice": "Moira", "rate": 202, "snr": 11.8, "link": "wifi", "avg_logprob": -0.294, "no_speech_prob": 0.018}
+{"id": "dh1-g0011-130", "asr": "Is scrubber getting full?", "voice": "Tessa", "rate": 234, "snr": 11.1, "link": "wifi", "avg_logprob": -0.392, "no_speech_prob": 0.035}
+{"id": "dh1-g0012-133", "asr": "Okay, scrubber Bravo, how much has it absorbed?", "voice": "Samantha", "rate": 206, "snr": 7.6, "link": "wifi", "avg_logprob": -0.383, "no_speech_prob": 0.061}
+{"id": "dh1-g0012-135", "asr": "Scrubber 2 CO2 storage.", "voice": "Samantha", "rate": 161, "snr": 19.9, "link": "cable", "avg_logprob": -0.209, "no_speech_prob": 0.006}
+{"id": "dh1-g0014-159", "asr": "Once my coolant storage it.", "voice": "Tessa", "rate": 171, "snr": 5.5, "link": "wifi", "avg_logprob": -0.384, "no_speech_prob": 0.073}
+{"id": "dh1-g0014-160", "asr": "Am I running low on coolant?", "voice": "Moira", "rate": 178, "snr": 14.7, "link": "wifi", "avg_logprob": -0.033, "no_speech_prob": 0.021}
+{"id": "dh1-g0014-164", "asr": "Tell me my coolant supply.", "voice": "Karen", "rate": 182, "snr": 17.8, "link": "cable", "avg_logprob": -0.128, "no_speech_prob": 0.01}
+{"id": "dh1-g0015-170", "asr": "Houston, vapor loop pressure please.", "voice": "Karen", "rate": 174, "snr": 13.0, "link": "cable", "avg_logprob": -0.493, "no_speech_prob": 0.009}
+{"id": "dh1-g0015-176", "asr": "Tell me the gas sights I on the coolant.", "voice": "Fred", "rate": 212, "snr": 5.8, "link": "cable", "avg_logprob": -0.268, "no_speech_prob": 0.012}
+{"id": "dh1-g0015-178", "asr": "As the castle holding pressure was numbered.", "voice": "Fred", "rate": 214, "snr": 7.5, "link": "wifi", "avg_logprob": -0.47, "no_speech_prob": 0.053}
+{"id": "dh1-g0015-179", "asr": "Coolant gas, Si, say it again.", "voice": "Ralph", "rate": 200, "snr": 12.7, "link": "cable", "avg_logprob": -0.281, "no_speech_prob": 0.042}
+{"id": "dh1-g0016-181", "asr": "Okay, who impressed her? What's it reading?", "voice": "Ralph", "rate": 211, "snr": 7.1, "link": "wifi", "avg_logprob": -0.436, "no_speech_prob": 0.051}
+{"id": "dh1-g0015-172", "asr": "How's the coolant gas pressure looking?", "voice": "Fred", "rate": 169, "snr": 10.6, "link": "wifi", "avg_logprob": -0.238, "no_speech_prob": 0.055}
+{"id": "dh1-g0015-173", "asr": "The liquid, the gas, cooling pressure.", "voice": "Kathy", "rate": 187, "snr": 17.4, "link": "wifi", "avg_logprob": -0.242, "no_speech_prob": 0.018}
+{"id": "dh1-g0015-174", "asr": "What's the gas pressure in my cooling room?", "voice": "Rishi", "rate": 210, "snr": 12.8, "link": "wifi", "avg_logprob": -0.161, "no_speech_prob": 0.058}
+{"id": "dh1-g0015-175", "asr": "Roger, coolant, vapor pressure.", "voice": "Karen", "rate": 202, "snr": 13.9, "link": "wifi", "avg_logprob": -0.215, "no_speech_prob": 0.013}
+{"id": "dh1-g0016-184", "asr": "How's the liquid cooling pressure?", "voice": "Fred", "rate": 169, "snr": 13.5, "link": "cable", "avg_logprob": -0.275, "no_speech_prob": 0.019}
+{"id": "dh1-g0016-185", "asr": "Not to cast the liquid side pressure.", "voice": "Fred", "rate": 172, "snr": 12.1, "link": "wifi", "avg_logprob": -0.197, "no_speech_prob": 0.017}
+{"id": "dh1-g0016-188", "asr": "Tell me the liquid sign on the coolant.", "voice": "Junior", "rate": 193, "snr": 19.9, "link": "cable", "avg_logprob": -0.267, "no_speech_prob": 0.032}
+{"id": "dh1-g0016-190", "asr": "Is the logger look holding pressure?", "voice": "Junior", "rate": 219, "snr": 14.5, "link": "wifi", "avg_logprob": -0.544, "no_speech_prob": 0.02}
+{"id": "dh1-g0016-191", "asr": "Cool and see what's in it.", "voice": "Tessa", "rate": 175, "snr": 10.3, "link": "wifi", "avg_logprob": -0.303, "no_speech_prob": 0.15}
+{"id": "dh1-g0017-194", "asr": "Houston, what's the main fan speed?", "voice": "Kathy", "rate": 219, "snr": 16.5, "link": "cable", "avg_logprob": -0.259, "no_speech_prob": 0.048}
+{"id": "dh1-g0017-195", "asr": "Ah, fan 1, what's the turning at?", "voice": "Karen", "rate": 197, "snr": 15.7, "link": "cable", "avg_logprob": -0.214, "no_speech_prob": 0.01}
+{"id": "dh1-g0017-196", "asr": "This is my fan running okay, what's the RPM?", "voice": "Karen", "rate": 234, "snr": 8.4, "link": "wifi", "avg_logprob": -0.246, "no_speech_prob": 0.025}
+{"id": "dh1-g0017-198", "asr": "2nd result, how's the primary fan speed?", "voice": "Daniel", "rate": 195, "snr": 10.8, "link": "cable", "avg_logprob": -0.341, "no_speech_prob": 0.019}
+{"id": "dh1-g0017-200", "asr": "I can use a fan lining, how fast is it going?", "voice": "Kathy", "rate": 197, "snr": 7.4, "link": "cable", "avg_logprob": -0.234, "no_speech_prob": 0.01}
+{"id": "dh1-g0017-201", "asr": "Tell me the RPM on fan number one.", "voice": "Junior", "rate": 163, "snr": 15.6, "link": "cable", "avg_logprob": -0.194, "no_speech_prob": 0.04}
+{"id": "dh1-g0017-202", "asr": "What's the main fan doing RPM wise?", "voice": "Daniel", "rate": 174, "snr": 14.1, "link": "wifi", "avg_logprob": -0.209, "no_speech_prob": 0.025}
+{"id": "dh1-g0018-209", "asr": "What RPM is the backup fan at?", "voice": "Samantha", "rate": 226, "snr": 19.1, "link": "cable", "avg_logprob": -0.158, "no_speech_prob": 0.009}
+{"id": "dh1-g0018-210", "asr": "Primary is fine, what about the secondary fan speed?", "voice": "Ralph", "rate": 226, "snr": 10.1, "link": "cable", "avg_logprob": -0.227, "no_speech_prob": 0.024}
+{"id": "dh1-g0018-214", "asr": "Backup fan, what's it reading?", "voice": "Rishi", "rate": 168, "snr": 9.0, "link": "cable", "avg_logprob": -0.286, "no_speech_prob": 0.026}
+{"id": "dh1-g0019-218", "asr": "Huh, main path level.", "voice": "Fred", "rate": 162, "snr": 16.1, "link": "wifi", "avg_logprob": -0.253, "no_speech_prob": 0.043}
+{"id": "dh1-g0017-203", "asr": "And RPM, what's it reading?", "voice": "Ralph", "rate": 164, "snr": 7.8, "link": "wifi", "avg_logprob": -0.544, "no_speech_prob": 0.082}
+{"id": "dh1-g0018-204", "asr": "How fast is the backup fan spinning?", "voice": "Daniel", "rate": 169, "snr": 11.8, "link": "wifi", "avg_logprob": -0.036, "no_speech_prob": 0.011}
+{"id": "dh1-g0018-206", "asr": "Houston, what's fan 2 turning at?", "voice": "Daniel", "rate": 185, "snr": 19.7, "link": "cable", "avg_logprob": -0.2, "no_speech_prob": 0.035}
+{"id": "dh1-g0018-208", "asr": "Is the second fan running, once it's off the end.", "voice": "Tessa", "rate": 191, "snr": 6.1, "link": "cable", "avg_logprob": -0.375, "no_speech_prob": 0.056}
+{"id": "dh1-g0019-219", "asr": "What's my power ass?", "voice": "Moira", "rate": 168, "snr": 7.3, "link": "cable", "avg_logprob": -0.379, "no_speech_prob": 0.022}
+{"id": "dh1-g0019-220", "asr": "How's the battery holding up?", "voice": "Kathy", "rate": 227, "snr": 14.2, "link": "cable", "avg_logprob": -0.056, "no_speech_prob": 0.008}
+{"id": "dh1-g0019-221", "asr": "Battery 1, how much charge?", "voice": "Tessa", "rate": 196, "snr": 14.4, "link": "cable", "avg_logprob": -0.186, "no_speech_prob": 0.024}
+{"id": "dh1-g0019-222", "asr": "What percent is the free battery?", "voice": "Samantha", "rate": 160, "snr": 6.6, "link": "wifi", "avg_logprob": -0.446, "no_speech_prob": 0.042}
+{"id": "dh1-g0020-229", "asr": "Okay, secondary battery present.", "voice": "Kathy", "rate": 199, "snr": 15.2, "link": "wifi", "avg_logprob": -0.309, "no_speech_prob": 0.028}
+{"id": "dh1-g0020-231", "asr": "What's battery to us?", "voice": "Moira", "rate": 176, "snr": 19.9, "link": "cable", "avg_logprob": -0.095, "no_speech_prob": 0.01}
+{"id": "dh1-g0020-232", "asr": "How's the second battery holding up?", "voice": "Daniel", "rate": 176, "snr": 8.2, "link": "wifi", "avg_logprob": -0.108, "no_speech_prob": 0.027}
+{"id": "dh1-g0020-234", "asr": "Primary spine, what secondary battery add?", "voice": "Junior", "rate": 170, "snr": 5.6, "link": "cable", "avg_logprob": -0.239, "no_speech_prob": 0.022}
+{"id": "dh1-g0019-223", "asr": "Am I gonna have enough power to get back?", "voice": "Kathy", "rate": 222, "snr": 11.3, "link": "cable", "avg_logprob": -0.123, "no_speech_prob": 0.061}
+{"id": "dh1-g0019-226", "asr": "Tell me the charge on the main battery.", "voice": "Fred", "rate": 204, "snr": 12.0, "link": "cable", "avg_logprob": -0.047, "no_speech_prob": 0.013}
+{"id": "dh1-g0019-227", "asr": "How much juice is left in my primary pack?", "voice": "Moira", "rate": 164, "snr": 14.5, "link": "cable", "avg_logprob": -0.045, "no_speech_prob": 0.003}
+{"id": "dh1-g0020-228", "asr": "How much charge is on the backup battery?", "voice": "Karen", "rate": 191, "snr": 19.5, "link": "wifi", "avg_logprob": -0.101, "no_speech_prob": 0.004}
+{"id": "dh1-g0020-235", "asr": "Roger, secondary power level, please.", "voice": "Junior", "rate": 162, "snr": 8.1, "link": "cable", "avg_logprob": -0.166, "no_speech_prob": 0.034}
+{"id": "dh1-g0020-236", "asr": "Tell me the charge on battery number 2.", "voice": "Moira", "rate": 206, "snr": 8.3, "link": "wifi", "avg_logprob": -0.194, "no_speech_prob": 0.019}
+{"id": "dh1-g0020-237", "asr": "How much power is in the backup?", "voice": "Fred", "rate": 208, "snr": 15.1, "link": "wifi", "avg_logprob": -0.092, "no_speech_prob": 0.04}
+{"id": "dh1-g0020-238", "asr": "Secondary battery, what's it reading?", "voice": "Daniel", "rate": 196, "snr": 14.9, "link": "wifi", "avg_logprob": -0.191, "no_speech_prob": 0.031}
+{"id": "dh1-g0021-246", "asr": "New dump some coolant, I'm overheating.", "voice": "Fred", "rate": 194, "snr": 16.8, "link": "wifi", "avg_logprob": -0.334, "no_speech_prob": 0.018}
+{"id": "dh1-g0021-247", "asr": "Fans running a bit loud but it's fine.", "voice": "Ralph", "rate": 228, "snr": 11.4, "link": "cable", "avg_logprob": -0.211, "no_speech_prob": 0.044}
+{"id": "dh1-g0021-248", "asr": "O2 vent valve open.", "voice": "Tessa", "rate": 170, "snr": 16.0, "link": "wifi", "avg_logprob": -0.212, "no_speech_prob": 0.041}
+{"id": "dh1-g0021-250", "asr": "February local, copy, switching now.", "voice": "Junior", "rate": 190, "snr": 9.8, "link": "cable", "avg_logprob": -0.556, "no_speech_prob": 0.038}
+{"id": "dh1-g0020-239", "asr": "If I switch over, I'll let you in the backup battery.", "voice": "Kathy", "rate": 167, "snr": 10.7, "link": "wifi", "avg_logprob": -0.307, "no_speech_prob": 0.055}
+{"id": "dh1-g0021-242", "asr": "Ev1, wastewater, closed.", "voice": "Moira", "rate": 185, "snr": 16.6, "link": "cable", "avg_logprob": -0.274, "no_speech_prob": 0.013}
+{"id": "dh1-g0021-243", "asr": "Don't bother with the backup tank reading.", "voice": "Samantha", "rate": 210, "snr": 12.3, "link": "wifi", "avg_logprob": -0.075, "no_speech_prob": 0.011}
+{"id": "dh1-g0021-245", "asr": "Cooling solder instead, yeah, yeah.", "voice": "Kathy", "rate": 166, "snr": 18.9, "link": "cable", "avg_logprob": -0.644, "no_speech_prob": 0.016}
+{"id": "dh1-g0021-251", "asr": "Switch me over to the backup battery.", "voice": "Samantha", "rate": 168, "snr": 11.5, "link": "wifi", "avg_logprob": -0.044, "no_speech_prob": 0.004}
+{"id": "dh1-g0021-252", "asr": "And secondary.", "voice": "Rishi", "rate": 164, "snr": 18.1, "link": "cable", "avg_logprob": -0.366, "no_speech_prob": 0.344}
+{"id": "dh1-g0021-253", "asr": "What about Bravo?", "voice": "Kathy", "rate": 193, "snr": 19.7, "link": "cable", "avg_logprob": -0.597, "no_speech_prob": 0.056}
+{"id": "dh1-g0021-255", "asr": "Health telemetry is low, I'm good.", "voice": "Junior", "rate": 166, "snr": 12.3, "link": "wifi", "avg_logprob": -0.494, "no_speech_prob": 0.04}
+{"id": "dh1-g0021-257", "asr": "This rock has an oxygen rich rind on it.", "voice": "Daniel", "rate": 206, "snr": 10.3, "link": "wifi", "avg_logprob": -0.233, "no_speech_prob": 0.02}
+{"id": "dh1-g0021-258", "asr": "Suit pressures nominal, 4.3", "voice": "Daniel", "rate": 221, "snr": 14.3, "link": "cable", "avg_logprob": -0.323, "no_speech_prob": 0.019}
+{"id": "dh1-g0021-259", "asr": "F2, your fan sounds louder than mine.", "voice": "Samantha", "rate": 209, "snr": 5.9, "link": "cable", "avg_logprob": -0.094, "no_speech_prob": 0.009}
+{"id": "dh1-g0001-9", "asr": "Roger that, watch my O2 down below.", "voice": "Kathy", "rate": 220, "snr": 7.6, "link": "wifi", "avg_logprob": -0.559, "no_speech_prob": 0.047}
+{"id": "dh1-g0002-13", "asr": "Houston, I want to know what the secondary oxygen is down to.", "voice": "Samantha", "rate": 227, "snr": 12.2, "link": "cable", "avg_logprob": -0.021, "no_speech_prob": 0.002}
+{"id": "dh1-g0006-64", "asr": "PPO through reading, please.", "voice": "Junior", "rate": 221, "snr": 8.5, "link": "wifi", "avg_logprob": -0.481, "no_speech_prob": 0.104}
+{"id": "dh1-g0014-167", "asr": "What's the coolant hat?", "voice": "Junior", "rate": 198, "snr": 18.0, "link": "cable", "avg_logprob": -0.141, "no_speech_prob": 0.036}
+{"id": "dh2-g0001-1", "asr": "Ah, BPM, what am I at?", "voice": "Tessa", "rate": 179, "snr": 19.7, "link": "wifi", "avg_logprob": -0.658, "no_speech_prob": 0.07}
+{"id": "dh2-g0001-2", "asr": "I'm breathing hard, how fast is my heart going?", "voice": "Tessa", "rate": 226, "snr": 15.9, "link": "cable", "avg_logprob": -0.043, "no_speech_prob": 0.003}
+{"id": "dh2-g0001-3", "asr": "Post check what's number.", "voice": "Junior", "rate": 220, "snr": 10.7, "link": "wifi", "avg_logprob": -0.371, "no_speech_prob": 0.048}
+{"id": "dh2-g0001-5", "asr": "What's my heart beating at right now?", "voice": "Ralph", "rate": 165, "snr": 19.7, "link": "wifi", "avg_logprob": -0.188, "no_speech_prob": 0.023}
+{"id": "dh2-g0001-6", "asr": "How high has my health gotten on this climb?", "voice": "Samantha", "rate": 179, "snr": 6.6, "link": "cable", "avg_logprob": -0.193, "no_speech_prob": 0.004}
+{"id": "dh2-g0001-8", "asr": "What are my beats per minute?", "voice": "Kathy", "rate": 167, "snr": 10.9, "link": "cable", "avg_logprob": -0.245, "no_speech_prob": 0.011}
+{"id": "dh2-g0001-9", "asr": "Is my heart rate too high? What's it reading?", "voice": "Daniel", "rate": 229, "snr": 9.9, "link": "wifi", "avg_logprob": -0.131, "no_speech_prob": 0.072}
+{"id": "dh2-g0001-11", "asr": "What's my BPM looking like after that hike?", "voice": "Kathy", "rate": 206, "snr": 6.0, "link": "cable", "avg_logprob": -0.343, "no_speech_prob": 0.029}
+{"id": "dh2-g0003-26", "asr": "How much time has gone by since we stepped out?", "voice": "Daniel", "rate": 178, "snr": 19.7, "link": "cable", "avg_logprob": -0.027, "no_speech_prob": 0.007}
+{"id": "dh2-g0003-27", "asr": "Even clock, what to pay?", "voice": "Karen", "rate": 220, "snr": 10.8, "link": "cable", "avg_logprob": -0.616, "no_speech_prob": 0.062}
+{"id": "dh2-g0003-29", "asr": "How long have I been outside so far?", "voice": "Tessa", "rate": 176, "snr": 14.3, "link": "cable", "avg_logprob": -0.018, "no_speech_prob": 0.008}
+{"id": "dh2-g0003-30", "asr": "What's our time on this excursion?", "voice": "Fred", "rate": 187, "snr": 5.8, "link": "cable", "avg_logprob": -0.266, "no_speech_prob": 0.047}
+{"id": "dh2-g0003-31", "asr": "Tell me the evil time.", "voice": "Daniel", "rate": 212, "snr": 11.6, "link": "wifi", "avg_logprob": -0.297, "no_speech_prob": 0.017}
+{"id": "dh2-g0003-32", "asr": "How many hours have we been out?", "voice": "Daniel", "rate": 161, "snr": 15.6, "link": "wifi", "avg_logprob": -0.033, "no_speech_prob": 0.007}
+{"id": "dh2-g0003-33", "asr": "What's the elapsed on this walk?", "voice": "Samantha", "rate": 193, "snr": 14.6, "link": "cable", "avg_logprob": -0.126, "no_speech_prob": 0.007}
+{"id": "dh2-g0003-35", "asr": "What's the mission that laughs time?", "voice": "Daniel", "rate": 197, "snr": 11.9, "link": "cable", "avg_logprob": -0.393, "no_speech_prob": 0.009}
+{"id": "dh2-g0004-37", "asr": "Houston, are there any active alerts?", "voice": "Daniel", "rate": 181, "snr": 5.1, "link": "cable", "avg_logprob": -0.135, "no_speech_prob": 0.049}
+{"id": "dh2-g0004-38", "asr": "What's that told I just heard any questions?", "voice": "Kathy", "rate": 202, "snr": 19.4, "link": "wifi", "avg_logprob": -0.478, "no_speech_prob": 0.016}
+{"id": "dh2-g0004-39", "asr": "Is anything out of limits right now?", "voice": "Moira", "rate": 188, "snr": 10.1, "link": "cable", "avg_logprob": -0.039, "no_speech_prob": 0.011}
+{"id": "dh2-g0004-40", "asr": "Roger, C&W, anything up.", "voice": "Fred", "rate": 189, "snr": 10.4, "link": "wifi", "avg_logprob": -0.244, "no_speech_prob": 0.056}
+{"id": "dh2-g0004-42", "asr": "Tell me if there are any warnings.", "voice": "Daniel", "rate": 194, "snr": 14.8, "link": "wifi", "avg_logprob": -0.057, "no_speech_prob": 0.017}
+{"id": "dh2-g0004-43", "asr": "What caution is showing?", "voice": "Daniel", "rate": 191, "snr": 7.2, "link": "wifi", "avg_logprob": -0.142, "no_speech_prob": 0.013}
+{"id": "dh2-g0004-45", "asr": "Are there any faults I should know about?", "voice": "Tessa", "rate": 168, "snr": 11.4, "link": "cable", "avg_logprob": -0.022, "no_speech_prob": 0.007}
+{"id": "dh2-g0004-47", "asr": "What warnings do I have?", "voice": "Junior", "rate": 218, "snr": 16.9, "link": "cable", "avg_logprob": -0.073, "no_speech_prob": 0.011}
+{"id": "dh2-g0005-49", "asr": "Houston, uh, bring my vitals on screen.", "voice": "Karen", "rate": 178, "snr": 19.1, "link": "cable", "avg_logprob": -0.174, "no_speech_prob": 0.01}
+{"id": "dh2-g0005-51", "asr": "I want to see all my suit numbers, open vitals.", "voice": "Daniel", "rate": 194, "snr": 18.8, "link": "cable", "avg_logprob": -0.09, "no_speech_prob": 0.009}
+{"id": "dh2-g0005-52", "asr": "Roger, vitals panel please.", "voice": "Fred", "rate": 209, "snr": 16.6, "link": "cable", "avg_logprob": -0.29, "no_speech_prob": 0.028}
+{"id": "dh2-g0005-53", "asr": "Put the vitals up.", "voice": "Karen", "rate": 232, "snr": 17.3, "link": "wifi", "avg_logprob": -0.36, "no_speech_prob": 0.04}
+{"id": "dh2-g0005-54", "asr": "Let me see the light goes this way.", "voice": "Junior", "rate": 188, "snr": 5.1, "link": "wifi", "avg_logprob": -0.136, "no_speech_prob": 0.067}
+{"id": "dh2-g0005-55", "asr": "Can you open the Suit status page?", "voice": "Moira", "rate": 207, "snr": 18.5, "link": "wifi", "avg_logprob": -0.1, "no_speech_prob": 0.015}
+{"id": "dh2-g0005-56", "asr": "Switch over to my balls.", "voice": "Daniel", "rate": 219, "snr": 8.8, "link": "cable", "avg_logprob": -0.221, "no_speech_prob": 0.03}
+{"id": "dh2-g0005-58", "asr": "Go to the vital screen.", "voice": "Moira", "rate": 231, "snr": 5.0, "link": "cable", "avg_logprob": -0.08, "no_speech_prob": 0.031}
+{"id": "dh2-g0006-61", "asr": "Houston, bring up navigation.", "voice": "Daniel", "rate": 190, "snr": 17.2, "link": "wifi", "avg_logprob": -0.259, "no_speech_prob": 0.01}
+{"id": "dh2-g0006-63", "asr": "I need to see where I am, open them up.", "voice": "Moira", "rate": 232, "snr": 15.9, "link": "cable", "avg_logprob": -0.088, "no_speech_prob": 0.009}
+{"id": "dh2-g0006-66", "asr": "Switch to nap.", "voice": "Samantha", "rate": 195, "snr": 18.0, "link": "wifi", "avg_logprob": -0.671, "no_speech_prob": 0.012}
+{"id": "dh2-g0006-67", "asr": "Display the navigation screen.", "voice": "Karen", "rate": 221, "snr": 15.6, "link": "cable", "avg_logprob": -0.087, "no_speech_prob": 0.008}
+{"id": "dh2-g0006-68", "asr": "Go to the map view.", "voice": "Daniel", "rate": 185, "snr": 16.9, "link": "cable", "avg_logprob": -0.097, "no_speech_prob": 0.03}
+{"id": "dh2-g0007-72", "asr": "Okay, pull up my task list.", "voice": "Kathy", "rate": 194, "snr": 16.2, "link": "cable", "avg_logprob": -0.187, "no_speech_prob": 0.024}
+{"id": "dh2-g0007-74", "asr": "Show me the procedure.", "voice": "Karen", "rate": 231, "snr": 7.8, "link": "wifi", "avg_logprob": -0.081, "no_speech_prob": 0.023}
+{"id": "dh2-g0007-75", "asr": "What's next?", "voice": "Ralph", "rate": 220, "snr": 13.8, "link": "cable", "avg_logprob": -0.058, "no_speech_prob": 0.078}
+{"id": "dh2-g0007-76", "asr": "Roger, what's the next step?", "voice": "Rishi", "rate": 230, "snr": 18.4, "link": "cable", "avg_logprob": -0.086, "no_speech_prob": 0.053}
+{"id": "dh2-g0007-78", "asr": "Switch to tasks.", "voice": "Moira", "rate": 232, "snr": 11.8, "link": "wifi", "avg_logprob": -0.312, "no_speech_prob": 0.024}
+{"id": "dh2-g0007-79", "asr": "Display my to-do list.", "voice": "Rishi", "rate": 233, "snr": 8.7, "link": "wifi", "avg_logprob": -0.463, "no_speech_prob": 0.263}
+{"id": "dh2-g0007-81", "asr": "I lost my place, open the checklist.", "voice": "Fred", "rate": 177, "snr": 18.6, "link": "wifi", "avg_logprob": -0.139, "no_speech_prob": 0.009}
+{"id": "dh2-g0007-82", "asr": "What do I do next on the timeline?", "voice": "Kathy", "rate": 205, "snr": 8.5, "link": "wifi", "avg_logprob": -0.356, "no_speech_prob": 0.067}
+{"id": "dh2-g0007-83", "asr": "Pasks, open them up.", "voice": "Ralph", "rate": 187, "snr": 12.5, "link": "cable", "avg_logprob": -0.276, "no_speech_prob": 0.053}
+{"id": "dh2-g0008-85", "asr": "Houston, bring up the airlock controls.", "voice": "Daniel", "rate": 166, "snr": 19.9, "link": "cable", "avg_logprob": -0.133, "no_speech_prob": 0.02}
+{"id": "dh2-g0008-86", "asr": "Show me the UIA.", "voice": "Kathy", "rate": 185, "snr": 19.7, "link": "cable", "avg_logprob": -0.26, "no_speech_prob": 0.125}
+{"id": "dh2-g0008-87", "asr": "I'm at the airlock open the UIA screen.", "voice": "Fred", "rate": 164, "snr": 12.2, "link": "wifi", "avg_logprob": -0.316, "no_speech_prob": 0.032}
+{"id": "dh2-g0008-90", "asr": "Switch to the airlock panel.", "voice": "Rishi", "rate": 229, "snr": 11.6, "link": "wifi", "avg_logprob": -0.353, "no_speech_prob": 0.02}
+{"id": "dh2-g0008-91", "asr": "Just leave a new UIA page.", "voice": "Kathy", "rate": 189, "snr": 9.7, "link": "wifi", "avg_logprob": -0.415, "no_speech_prob": 0.17}
+{"id": "dh2-g0008-92", "asr": "Go to UIA.", "voice": "Daniel", "rate": 202, "snr": 16.4, "link": "cable", "avg_logprob": -0.132, "no_speech_prob": 0.033}
+{"id": "dh2-g0008-94", "asr": "And I get the UIA controls on the hood.", "voice": "Ralph", "rate": 178, "snr": 8.6, "link": "cable", "avg_logprob": -0.122, "no_speech_prob": 0.038}
+{"id": "dh2-g0009-98", "asr": "Get this off my screen.", "voice": "Samantha", "rate": 176, "snr": 6.3, "link": "cable", "avg_logprob": -0.061, "no_speech_prob": 0.012}
+{"id": "dh2-g0009-100", "asr": "Roger, hide it.", "voice": "Samantha", "rate": 226, "snr": 13.2, "link": "cable", "avg_logprob": -0.112, "no_speech_prob": 0.029}
+{"id": "dh2-g0009-101", "asr": "I've got what I need, close the panel.", "voice": "Samantha", "rate": 221, "snr": 11.5, "link": "wifi", "avg_logprob": -0.118, "no_speech_prob": 0.012}
+{"id": "dh2-g0009-102", "asr": "Exit the screen.", "voice": "Daniel", "rate": 186, "snr": 10.0, "link": "cable", "avg_logprob": -0.127, "no_speech_prob": 0.06}
+{"id": "dh2-g0009-106", "asr": "Done with this, closes.", "voice": "Moira", "rate": 199, "snr": 16.1, "link": "cable", "avg_logprob": -0.236, "no_speech_prob": 0.03}
+{"id": "dh2-g0009-107", "asr": "Go back, close the window.", "voice": "Moira", "rate": 208, "snr": 16.7, "link": "wifi", "avg_logprob": -0.064, "no_speech_prob": 0.016}
+{"id": "dh2-g0010-109", "asr": "Uh, coordinates for an ordinary, messy face.", "voice": "Ralph", "rate": 181, "snr": 5.3, "link": "cable", "avg_logprob": -0.764, "no_speech_prob": 0.068}
+{"id": "dh2-g0010-110", "asr": "How far is the combs really most?", "voice": "Moira", "rate": 196, "snr": 13.6, "link": "wifi", "avg_logprob": -0.448, "no_speech_prob": 0.008}
+{"id": "dh2-g0010-111", "asr": "What's the position of twin craters?", "voice": "Daniel", "rate": 180, "snr": 7.4, "link": "wifi", "avg_logprob": -0.073, "no_speech_prob": 0.019}
+{"id": "dh2-g0010-112", "asr": "How far away is sample sight?", "voice": "Daniel", "rate": 216, "snr": 10.1, "link": "cable", "avg_logprob": -0.201, "no_speech_prob": 0.016}
+{"id": "dh2-g0010-113", "asr": "Roger, where's the broken boulder?", "voice": "Daniel", "rate": 213, "snr": 6.7, "link": "cable", "avg_logprob": -0.13, "no_speech_prob": 0.02}
+{"id": "dh2-g0010-114", "asr": "Give me the location of dark mantle.", "voice": "Fred", "rate": 228, "snr": 16.1, "link": "cable", "avg_logprob": -0.21, "no_speech_prob": 0.021}
+{"id": "dh2-g0010-119", "asr": "How far to the next point?", "voice": "Junior", "rate": 215, "snr": 10.1, "link": "wifi", "avg_logprob": -0.235, "no_speech_prob": 0.032}
+{"id": "dh2-g0011-120", "asr": "Okay, take me to point 4.", "voice": "Karen", "rate": 177, "snr": 13.4, "link": "cable", "avg_logprob": -0.615, "no_speech_prob": 0.009}
+{"id": "dh2-g0011-121", "asr": "Houston, navigate to the North massive phase.", "voice": "Moira", "rate": 208, "snr": 17.6, "link": "wifi", "avg_logprob": -0.405, "no_speech_prob": 0.085}
+{"id": "dh2-g0011-122", "asr": "Guide me over to the Coons relay most.", "voice": "Moira", "rate": 218, "snr": 5.5, "link": "cable", "avg_logprob": -0.495, "no_speech_prob": 0.019}
+{"id": "dh2-g0010-115", "asr": "What's the distance to East Ridge saddle?", "voice": "Samantha", "rate": 195, "snr": 12.3, "link": "wifi", "avg_logprob": -0.069, "no_speech_prob": 0.01}
+{"id": "dh2-g0010-116", "asr": "Where exactly is the glass bead patch?", "voice": "Samantha", "rate": 219, "snr": 16.1, "link": "wifi", "avg_logprob": -0.066, "no_speech_prob": 0.015}
+{"id": "dh2-g0010-117", "asr": "I lost sight of rock pile, where is it?", "voice": "Karen", "rate": 207, "snr": 7.8, "link": "cable", "avg_logprob": -0.284, "no_speech_prob": 0.011}
+{"id": "dh2-g0010-118", "asr": "Pause on the ejector line to the edge.", "voice": "Fred", "rate": 164, "snr": 10.9, "link": "wifi", "avg_logprob": -0.479, "no_speech_prob": 0.046}
+{"id": "dh2-g0011-123", "asr": "Set a course for twin craters.", "voice": "Samantha", "rate": 231, "snr": 8.0, "link": "wifi", "avg_logprob": -0.122, "no_speech_prob": 0.039}
+{"id": "dh2-g0011-124", "asr": "I want to head to sample sites, root me.", "voice": "Daniel", "rate": 203, "snr": 12.8, "link": "wifi", "avg_logprob": -0.152, "no_speech_prob": 0.022}
+{"id": "dh2-g0011-125", "asr": "Roger, get me to the broken boulder.", "voice": "Karen", "rate": 183, "snr": 15.2, "link": "wifi", "avg_logprob": -0.09, "no_speech_prob": 0.002}
+{"id": "dh2-g0011-126", "asr": "Lead the way to dark mantle.", "voice": "Karen", "rate": 182, "snr": 18.4, "link": "cable", "avg_logprob": -0.098, "no_speech_prob": 0.004}
+{"id": "dh2-g0011-131", "asr": "Take us to the next point.", "voice": "Tessa", "rate": 208, "snr": 19.1, "link": "cable", "avg_logprob": -0.203, "no_speech_prob": 0.017}
+{"id": "dh2-g0012-132", "asr": "Ok, this waste block, find me another path.", "voice": "Samantha", "rate": 201, "snr": 13.0, "link": "wifi", "avg_logprob": -0.33, "no_speech_prob": 0.016}
+{"id": "dh2-g0012-134", "asr": "There's a boulder field in the way, recalculate.", "voice": "Ralph", "rate": 221, "snr": 12.9, "link": "cable", "avg_logprob": -0.225, "no_speech_prob": 0.016}
+{"id": "dh2-g0012-136", "asr": "The slots too steep, you root around it.", "voice": "Junior", "rate": 230, "snr": 11.1, "link": "wifi", "avg_logprob": -0.213, "no_speech_prob": 0.037}
+{"id": "dh2-g0011-127", "asr": "Start navigation to East Ridge Faddle.", "voice": "Moira", "rate": 216, "snr": 7.8, "link": "cable", "avg_logprob": -0.291, "no_speech_prob": 0.009}
+{"id": "dh2-g0011-128", "asr": "How do I get to the glass bead patch? Give me a root.", "voice": "Tessa", "rate": 189, "snr": 11.5, "link": "wifi", "avg_logprob": -0.214, "no_speech_prob": 0.01}
+{"id": "dh2-g0011-129", "asr": "Navigate me back to rock pile.", "voice": "Daniel", "rate": 233, "snr": 7.0, "link": "cable", "avg_logprob": -0.214, "no_speech_prob": 0.02}
+{"id": "dh2-g0011-130", "asr": "Let's go to the ejector line to the edge, set it as retarded.", "voice": "Junior", "rate": 165, "snr": 5.7, "link": "cable", "avg_logprob": -0.437, "no_speech_prob": 0.036}
+{"id": "dh2-g0012-139", "asr": "I can get rid of you, find another way.", "voice": "Junior", "rate": 229, "snr": 11.1, "link": "wifi", "avg_logprob": -0.12, "no_speech_prob": 0.017}
+{"id": "dh2-g0012-141", "asr": "Puffs no good, try a different one.", "voice": "Tessa", "rate": 198, "snr": 15.2, "link": "cable", "avg_logprob": -0.127, "no_speech_prob": 0.006}
+{"id": "dh2-g0012-142", "asr": "You flood in an alternate route.", "voice": "Kathy", "rate": 207, "snr": 9.1, "link": "wifi", "avg_logprob": -0.505, "no_speech_prob": 0.059}
+{"id": "dh2-g0012-143", "asr": "Dieter, find your way.", "voice": "Kathy", "rate": 199, "snr": 9.8, "link": "cable", "avg_logprob": -0.662, "no_speech_prob": 0.081}
+{"id": "dh2-g0013-148", "asr": "New waypoint, flag shell 4.", "voice": "Rishi", "rate": 233, "snr": 15.2, "link": "cable", "avg_logprob": -0.368, "no_speech_prob": 0.052}
+{"id": "dh2-g0013-149", "asr": "Drop the pin right here.", "voice": "Moira", "rate": 231, "snr": 14.4, "link": "wifi", "avg_logprob": -0.126, "no_speech_prob": 0.002}
+{"id": "dh2-g0013-150", "asr": "Smart this spot.", "voice": "Samantha", "rate": 226, "snr": 19.9, "link": "cable", "avg_logprob": -0.447, "no_speech_prob": 0.033}
+{"id": "dh2-g0013-151", "asr": "Roger at the rear point post backslab.", "voice": "Kathy", "rate": 160, "snr": 8.3, "link": "cable", "avg_logprob": -0.631, "no_speech_prob": 0.025}
+{"id": "dh2-g0013-144", "asr": "Okay, drop up in hand, call your broken boulder.", "voice": "Rishi", "rate": 225, "snr": 6.4, "link": "wifi", "avg_logprob": -0.359, "no_speech_prob": 0.095}
+{"id": "dh2-g0013-145", "asr": "Houston, uh, add a waypoint named glass bead patch.", "voice": "Samantha", "rate": 226, "snr": 14.9, "link": "cable", "avg_logprob": -0.338, "no_speech_prob": 0.011}
+{"id": "dh2-g0013-146", "asr": "More of this spot has been grievers.", "voice": "Kathy", "rate": 164, "snr": 6.0, "link": "wifi", "avg_logprob": -0.682, "no_speech_prob": 0.017}
+{"id": "dh2-g0013-147", "asr": "Save my location as dark mental.", "voice": "Karen", "rate": 201, "snr": 12.3, "link": "cable", "avg_logprob": -0.193, "no_speech_prob": 0.006}
+{"id": "dh2-g0013-152", "asr": "So it's hard for you to label a great new field.", "voice": "Junior", "rate": 223, "snr": 5.0, "link": "cable", "avg_logprob": -0.358, "no_speech_prob": 0.083}
+{"id": "dh2-g0013-153", "asr": "Add a waypoint here, no name needed.", "voice": "Rishi", "rate": 227, "snr": 9.6, "link": "cable", "avg_logprob": -0.159, "no_speech_prob": 0.008}
+{"id": "dh2-g0013-154", "asr": "I want up in at this location called Dusty Basin.", "voice": "Rishi", "rate": 226, "snr": 10.8, "link": "wifi", "avg_logprob": -0.274, "no_speech_prob": 0.061}
+{"id": "dh2-g0013-155", "asr": "Say this is a waypoint.", "voice": "Karen", "rate": 212, "snr": 16.3, "link": "cable", "avg_logprob": -0.136, "no_speech_prob": 0.008}
+{"id": "dh2-g0014-156", "asr": "Rotate, delete the broken boulder pin.", "voice": "Junior", "rate": 186, "snr": 9.4, "link": "cable", "avg_logprob": -0.429, "no_speech_prob": 0.053}
+{"id": "dh2-g0014-157", "asr": "Houston, Earth, remove waypoint, glass bead patch.", "voice": "Rishi", "rate": 226, "snr": 11.9, "link": "cable", "avg_logprob": -0.279, "no_speech_prob": 0.025}
+{"id": "dh2-g0014-158", "asr": "Get rid of the twin craters marker.", "voice": "Tessa", "rate": 211, "snr": 19.5, "link": "wifi", "avg_logprob": -0.155, "no_speech_prob": 0.005}
+{"id": "dh2-g0014-160", "asr": "Erase the flat shell for a waypoint.", "voice": "Junior", "rate": 173, "snr": 10.7, "link": "cable", "avg_logprob": -0.234, "no_speech_prob": 0.028}
+{"id": "dh2-g0014-162", "asr": "We don't need great to feel anymore, delete it.", "voice": "Kathy", "rate": 191, "snr": 18.2, "link": "wifi", "avg_logprob": -0.408, "no_speech_prob": 0.027}
+{"id": "dh2-g0014-163", "asr": "Remove the pin call dusty basin.", "voice": "Tessa", "rate": 174, "snr": 14.2, "link": "wifi", "avg_logprob": -0.384, "no_speech_prob": 0.037}
+{"id": "dh2-g0014-164", "asr": "Rock pile to go, delete that one.", "voice": "Fred", "rate": 228, "snr": 19.5, "link": "wifi", "avg_logprob": -0.347, "no_speech_prob": 0.055}
+{"id": "dh2-g0014-165", "asr": "Scratters eat low plate points.", "voice": "Kathy", "rate": 220, "snr": 16.9, "link": "wifi", "avg_logprob": -0.764, "no_speech_prob": 0.035}
+{"id": "dh2-g0014-167", "asr": "Loser in Westpin.", "voice": "Junior", "rate": 181, "snr": 9.6, "link": "cable", "avg_logprob": -0.659, "no_speech_prob": 0.021}
+{"id": "dh2-g0015-169", "asr": "Oh, mark the PSMD to bleed.", "voice": "Ralph", "rate": 200, "snr": 15.2, "link": "wifi", "avg_logprob": -0.401, "no_speech_prob": 0.094}
+{"id": "dh2-g0015-170", "asr": "Real core retrieval finished.", "voice": "Ralph", "rate": 223, "snr": 18.1, "link": "cable", "avg_logprob": -0.469, "no_speech_prob": 0.026}
+{"id": "dh2-g0015-171", "asr": "Check off the soil mechanics trench.", "voice": "Rishi", "rate": 173, "snr": 14.0, "link": "wifi", "avg_logprob": -0.105, "no_speech_prob": 0.047}
+{"id": "dh2-g0015-173", "asr": "Done.", "voice": "Tessa", "rate": 191, "snr": 13.7, "link": "wifi", "avg_logprob": -0.16, "no_speech_prob": 0.112}
+{"id": "dh2-g0015-174", "asr": "Test complete, moving on.", "voice": "Kathy", "rate": 233, "snr": 8.5, "link": "cable", "avg_logprob": -0.131, "no_speech_prob": 0.035}
+{"id": "dh2-g0015-175", "asr": "We finished the solar array inspection, took it off.", "voice": "Ralph", "rate": 160, "snr": 12.7, "link": "wifi", "avg_logprob": -0.309, "no_speech_prob": 0.016}
+{"id": "dh2-g0015-176", "asr": "Okay, sample bad zeal, put a click next to it.", "voice": "Kathy", "rate": 213, "snr": 16.4, "link": "cable", "avg_logprob": -0.561, "no_speech_prob": 0.047}
+{"id": "dh2-g0015-178", "asr": "That's finished, market complete.", "voice": "Moira", "rate": 198, "snr": 13.5, "link": "cable", "avg_logprob": -0.098, "no_speech_prob": 0.009}
+{"id": "dh2-g0015-179", "asr": "Complete the camera teardole on task.", "voice": "Moira", "rate": 197, "snr": 18.7, "link": "wifi", "avg_logprob": -0.35, "no_speech_prob": 0.008}
+{"id": "dh2-g0016-180", "asr": "Art rate sitting around 90, I'm fine.", "voice": "Rishi", "rate": 233, "snr": 15.3, "link": "wifi", "avg_logprob": -0.349, "no_speech_prob": 0.019}
+{"id": "dh2-g0016-182", "asr": "Warning cleared, rough job.", "voice": "Karen", "rate": 191, "snr": 14.0, "link": "wifi", "avg_logprob": -0.443, "no_speech_prob": 0.029}
+{"id": "dh2-g0016-183", "asr": "Temperature feels fine every year.", "voice": "Kathy", "rate": 167, "snr": 14.5, "link": "wifi", "avg_logprob": -0.407, "no_speech_prob": 0.025}
+{"id": "dh2-g0016-187", "asr": "O2, this riggle is really starchy.", "voice": "Kathy", "rate": 217, "snr": 19.2, "link": "cable", "avg_logprob": -0.528, "no_speech_prob": 0.021}
+{"id": "dh2-g0016-188", "asr": "M2, can you hand me the scoop?", "voice": "Ralph", "rate": 215, "snr": 16.9, "link": "wifi", "avg_logprob": -0.193, "no_speech_prob": 0.079}
+{"id": "dh2-g0016-189", "asr": "Houston, the view from up here is amazing.", "voice": "Moira", "rate": 228, "snr": 9.5, "link": "wifi", "avg_logprob": -0.033, "no_speech_prob": 0.019}
+{"id": "dh2-g0016-190", "asr": "Roger, standing by for your call.", "voice": "Junior", "rate": 233, "snr": 10.2, "link": "wifi", "avg_logprob": -0.071, "no_speech_prob": 0.018}
+{"id": "dh2-g0016-191", "asr": "Copy that, moving onto the next rock.", "voice": "Tessa", "rate": 198, "snr": 17.2, "link": "wifi", "avg_logprob": -0.105, "no_speech_prob": 0.01}
+{"id": "dh2-g0016-192", "asr": "Hey, watch your step there.", "voice": "Ralph", "rate": 218, "snr": 15.3, "link": "wifi", "avg_logprob": -0.352, "no_speech_prob": 0.031}
+{"id": "dh2-g0016-193", "asr": "Take a picture of this out raw.", "voice": "Daniel", "rate": 231, "snr": 9.0, "link": "cable", "avg_logprob": -0.368, "no_speech_prob": 0.023}
+{"id": "dh2-g0016-194", "asr": "Start the spectrometer.", "voice": "Moira", "rate": 216, "snr": 14.3, "link": "wifi", "avg_logprob": -0.105, "no_speech_prob": 0.017}
+{"id": "dh2-g0016-195", "asr": "Call air 2 on comms.", "voice": "Tessa", "rate": 184, "snr": 15.8, "link": "wifi", "avg_logprob": -0.362, "no_speech_prob": 0.017}
+{"id": "dh2-g0016-198", "asr": "What's the temperature outside on the surface?", "voice": "Daniel", "rate": 200, "snr": 8.9, "link": "cable", "avg_logprob": -0.026, "no_speech_prob": 0.008}
+{"id": "dh2-g0016-199", "asr": "Set a 10 minute timer.", "voice": "Junior", "rate": 171, "snr": 7.3, "link": "cable", "avg_logprob": -0.246, "no_speech_prob": 0.063}
+{"id": "dh2-g0016-200", "asr": "Watch the time back home.", "voice": "Fred", "rate": 194, "snr": 11.4, "link": "wifi", "avg_logprob": -0.271, "no_speech_prob": 0.013}
+{"id": "dh2-g0016-201", "asr": "Start the magnetometer setup.", "voice": "Junior", "rate": 178, "snr": 14.6, "link": "wifi", "avg_logprob": -0.167, "no_speech_prob": 0.039}
+{"id": "dh2-g0016-202", "asr": "Don't bring the map up yet.", "voice": "Moira", "rate": 163, "snr": 16.2, "link": "cable", "avg_logprob": -0.072, "no_speech_prob": 0.009}
+{"id": "dh2-g0016-203", "asr": "Never mind, forget it.", "voice": "Kathy", "rate": 216, "snr": 10.7, "link": "wifi", "avg_logprob": -0.124, "no_speech_prob": 0.059}
+{"id": "dh2-g0016-205", "asr": "Cancel that, I don't need the checklist.", "voice": "Rishi", "rate": 229, "snr": 10.1, "link": "wifi", "avg_logprob": -0.174, "no_speech_prob": 0.074}
+{"id": "dh2-g0016-207", "asr": "Probably, huh?", "voice": "Fred", "rate": 187, "snr": 11.3, "link": "wifi", "avg_logprob": -0.855, "no_speech_prob": 0.069}
+{"id": "dh2-g0016-208", "asr": "What's my up?", "voice": "Kathy", "rate": 191, "snr": 12.4, "link": "wifi", "avg_logprob": -0.429, "no_speech_prob": 0.033}
+{"id": "dh2-g0016-212", "asr": "Depress valve closed.", "voice": "Moira", "rate": 228, "snr": 15.5, "link": "cable", "avg_logprob": -0.184, "no_speech_prob": 0.039}
+{"id": "dh2-g0016-214", "asr": "This builder's got a lot of oxygen locked up in it.", "voice": "Daniel", "rate": 203, "snr": 19.8, "link": "cable", "avg_logprob": -0.102, "no_speech_prob": 0.004}
+{"id": "dh2-g0016-215", "asr": "The pressure ridge over there looks interesting.", "voice": "Kathy", "rate": 161, "snr": 13.6, "link": "cable", "avg_logprob": -0.074, "no_speech_prob": 0.025}
+{"id": "dh2-g0016-217", "asr": "Staying to us all much.", "voice": "Ralph", "rate": 195, "snr": 10.9, "link": "wifi", "avg_logprob": -0.522, "no_speech_prob": 0.044}
+{"id": "dh2-g0016-220", "asr": "Open the map and tell me my heart rate.", "voice": "Fred", "rate": 183, "snr": 6.2, "link": "cable", "avg_logprob": -0.206, "no_speech_prob": 0.027}
+{"id": "dh2-g0016-223", "asr": "And look back, hope.", "voice": "Ralph", "rate": 188, "snr": 16.2, "link": "cable", "avg_logprob": -0.458, "no_speech_prob": 0.111}
+{"id": "dh2-g0016-224", "asr": "How about Galva?", "voice": "Ralph", "rate": 198, "snr": 14.8, "link": "wifi", "avg_logprob": -0.812, "no_speech_prob": 0.075}
+{"id": "dh2-g0016-226", "asr": "Is the XRS stand on yet?", "voice": "Daniel", "rate": 226, "snr": 16.3, "link": "wifi", "avg_logprob": -0.344, "no_speech_prob": 0.03}
+{"id": "dh2-g0002-18", "asr": "I'm wetting, what's it like to do temperature-wise?", "voice": "Fred", "rate": 193, "snr": 10.1, "link": "wifi", "avg_logprob": -0.519, "no_speech_prob": 0.024}
+{"id": "dh2-g0003-24", "asr": "Okay Houston, how long have we been on this either?", "voice": "Daniel", "rate": 178, "snr": 11.0, "link": "cable", "avg_logprob": -0.176, "no_speech_prob": 0.023}
+{"id": "dh2-g0004-41", "asr": "Any alarm is going off on my suit.", "voice": "Daniel", "rate": 179, "snr": 9.3, "link": "wifi", "avg_logprob": -0.172, "no_speech_prob": 0.034}
+{"id": "dh2-g0004-46", "asr": "Anything flagged on the suit.", "voice": "Samantha", "rate": 232, "snr": 14.2, "link": "cable", "avg_logprob": -0.295, "no_speech_prob": 0.144}
+{"id": "dh2-g0009-105", "asr": "Put that away.", "voice": "Daniel", "rate": 195, "snr": 17.9, "link": "wifi", "avg_logprob": -0.176, "no_speech_prob": 0.045}
+{"id": "dh2-g0014-161", "asr": "Roger, pay crack, slap off the map.", "voice": "Ralph", "rate": 169, "snr": 18.7, "link": "cable", "avg_logprob": -0.409, "no_speech_prob": 0.04}
+{"id": "dh2-g0014-166", "asr": "It's actually all resoil marker.", "voice": "Ralph", "rate": 215, "snr": 18.2, "link": "wifi", "avg_logprob": -0.877, "no_speech_prob": 0.011}
+{"id": "dh2-g0016-181", "asr": "Okay, I've got about 2 hours on my clock.", "voice": "Fred", "rate": 179, "snr": 11.5, "link": "wifi", "avg_logprob": -0.218, "no_speech_prob": 0.012}
+{"id": "dh2-g0016-186", "asr": "We're at North Massif Base, start in the sample.", "voice": "Junior", "rate": 190, "snr": 18.1, "link": "cable", "avg_logprob": -0.324, "no_speech_prob": 0.008}
+{"id": "dh2-g0016-206", "asr": "Wait, don't delete that pin.", "voice": "Moira", "rate": 227, "snr": 15.5, "link": "cable", "avg_logprob": -0.106, "no_speech_prob": 0.02}
+{"id": "dh2-g0016-216", "asr": "I see a feature on the map that looks like a channel.", "voice": "Junior", "rate": 231, "snr": 15.8, "link": "wifi", "avg_logprob": -0.109, "no_speech_prob": 0.049}
+{"id": "dh2-g0016-222", "asr": "Close this and show my variables.", "voice": "Junior", "rate": 162, "snr": 5.9, "link": "cable", "avg_logprob": -0.41, "no_speech_prob": 0.052}
+{"id": "dh3-g0001-0", "asr": "We've got along all after the ridge after this, so before I commit, how much of the main supply is still there.", "voice": "Tessa", "rate": 228, "snr": 5.1, "link": "wifi", "avg_logprob": -0.137, "no_speech_prob": 0.05}
+{"id": "dh3-g0001-7", "asr": "Ok, the second one, oxygen left in that.", "voice": "Daniel", "rate": 199, "snr": 12.6, "link": "wifi", "avg_logprob": -0.288, "no_speech_prob": 0.043}
+{"id": "dh3-g0001-8", "asr": "Roger and the Reserve on 2, how much is in it?", "voice": "Fred", "rate": 224, "snr": 19.0, "link": "wifi", "avg_logprob": -0.328, "no_speech_prob": 0.018}
+{"id": "dh3-g0001-9", "asr": "Houston, F1, number 2 bottle, what percentage do I have?", "voice": "Tessa", "rate": 198, "snr": 14.7, "link": "cable", "avg_logprob": -0.132, "no_speech_prob": 0.017}
+{"id": "dh3-g0001-10", "asr": "I haven't touched the secondary yet, is it still topped off, give me the present?", "voice": "Moira", "rate": 200, "snr": 17.2, "link": "cable", "avg_logprob": -0.094, "no_speech_prob": 0.001}
+{"id": "dh3-g0001-1", "asr": "Okay Houston, I'm, I'm a little worried about my ear. Can you read me what's lit?", "voice": "Tessa", "rate": 165, "snr": 10.7, "link": "wifi", "avg_logprob": -0.236, "no_speech_prob": 0.088}
+{"id": "dh3-g0001-4", "asr": "Houston, have one, I'd like to number on oxygen remaining, the PRI side.", "voice": "Junior", "rate": 187, "snr": 12.6, "link": "wifi", "avg_logprob": -0.323, "no_speech_prob": 0.044}
+{"id": "dh3-g0001-5", "asr": "Quick sanity check on the main O2, percentage, then I'll keep moving.", "voice": "Samantha", "rate": 163, "snr": 14.8, "link": "wifi", "avg_logprob": -0.103, "no_speech_prob": 0.006}
+{"id": "dh3-g0001-6", "asr": "If I have to sloth over the reason I climb, how much wood I actually have in the back of my hole.", "voice": "Ralph", "rate": 179, "snr": 6.9, "link": "cable", "avg_logprob": -0.441, "no_speech_prob": 0.116}
+{"id": "dh3-g0001-11", "asr": "A, backup O2, how much remained.", "voice": "Karen", "rate": 233, "snr": 16.5, "link": "wifi", "avg_logprob": -0.188, "no_speech_prob": 0.022}
+{"id": "dh3-g0001-12", "asr": "Houston, I'm hearing of this near the regulator. What's the pressure in my main bottle?", "voice": "Rishi", "rate": 170, "snr": 12.2, "link": "wifi", "avg_logprob": -0.182, "no_speech_prob": 0.125}
+{"id": "dh3-g0001-13", "asr": "Okay, before we start the climb, I want to sign on Tank 1.", "voice": "Fred", "rate": 212, "snr": 11.0, "link": "wifi", "avg_logprob": -0.313, "no_speech_prob": 0.066}
+{"id": "dh3-g0001-14", "asr": "Roger, A, is the first particle still holding its pressure.", "voice": "Fred", "rate": 188, "snr": 19.9, "link": "cable", "avg_logprob": -0.338, "no_speech_prob": 0.003}
+{"id": "dh3-g0001-15", "asr": "A primary pound per square inch oxygen.", "voice": "Rishi", "rate": 174, "snr": 13.5, "link": "wifi", "avg_logprob": -0.488, "no_speech_prob": 0.118}
+{"id": "dh3-g0001-16", "asr": "I'm worried the main tank is bleeding off. Give me expression number.", "voice": "Daniel", "rate": 204, "snr": 11.0, "link": "wifi", "avg_logprob": -0.183, "no_speech_prob": 0.011}
+{"id": "dh3-g0001-18", "asr": "Houston, I'm hearing a his near the back up, what's the pressure on that bottle?", "voice": "Moira", "rate": 227, "snr": 18.1, "link": "cable", "avg_logprob": -0.11, "no_speech_prob": 0.005}
+{"id": "dh3-g0001-19", "asr": "Ok, before I swap tanks, I won't decide on number 2.", "voice": "Junior", "rate": 218, "snr": 16.8, "link": "cable", "avg_logprob": -0.319, "no_speech_prob": 0.031}
+{"id": "dh3-g0001-20", "asr": "Roger is the second bottle still holding its pressure.", "voice": "Rishi", "rate": 162, "snr": 15.8, "link": "wifi", "avg_logprob": -0.153, "no_speech_prob": 0.024}
+{"id": "dh3-g0001-21", "asr": "A secondary pounds per square inch oxygen.", "voice": "Tessa", "rate": 227, "snr": 5.2, "link": "wifi", "avg_logprob": -0.368, "no_speech_prob": 0.083}
+{"id": "dh3-g0001-22", "asr": "I'm worried the backup tank is bleeding off, give me its pressure number.", "voice": "Samantha", "rate": 192, "snr": 13.9, "link": "cable", "avg_logprob": -0.062, "no_speech_prob": 0.002}
+{"id": "dh3-g0001-24", "asr": "I've been working hard on this trench, am I chewing through my O2 quicker than planned?", "voice": "Samantha", "rate": 199, "snr": 19.4, "link": "wifi", "avg_logprob": -0.038, "no_speech_prob": 0.003}
+{"id": "dh3-g0001-27", "asr": "I feel like I'm sucking down air, what's my consumption doing?", "voice": "Daniel", "rate": 165, "snr": 16.1, "link": "cable", "avg_logprob": -0.106, "no_speech_prob": 0.005}
+{"id": "dh3-g0001-28", "asr": "A O2 rate, how fast is it going?", "voice": "Moira", "rate": 161, "snr": 12.5, "link": "wifi", "avg_logprob": -0.171, "no_speech_prob": 0.033}
+{"id": "dh3-g0002-30", "asr": "I'm feeling a little woozy, can you check the oxygen partial pressure in my soup for me?", "voice": "Samantha", "rate": 177, "snr": 7.8, "link": "wifi", "avg_logprob": -0.1, "no_speech_prob": 0.013}
+{"id": "dh3-g0002-31", "asr": "Okay, using the PPO2 inside, what is it reading right now?", "voice": "Fred", "rate": 217, "snr": 17.8, "link": "cable", "avg_logprob": -0.3, "no_speech_prob": 0.021}
+{"id": "dh3-g0002-32", "asr": "Roger A, the partial O2 in the suit. Number please.", "voice": "Junior", "rate": 223, "snr": 15.9, "link": "cable", "avg_logprob": -0.24, "no_speech_prob": 0.016}
+{"id": "dh3-g0002-33", "asr": "Before I keep climbing, what's the oxygen parcel in here?", "voice": "Fred", "rate": 223, "snr": 19.9, "link": "cable", "avg_logprob": -0.207, "no_speech_prob": 0.018}
+{"id": "dh3-g0002-34", "asr": "How much oxygen pressure am I actually breathing in the suit?", "voice": "Karen", "rate": 206, "snr": 14.6, "link": "wifi", "avg_logprob": -0.041, "no_speech_prob": 0.005}
+{"id": "dh3-g0002-38", "asr": "Roger, hey, how much carbon dioxide am I sitting in?", "voice": "Rishi", "rate": 194, "snr": 5.3, "link": "cable", "avg_logprob": -0.224, "no_speech_prob": 0.041}
+{"id": "dh3-g0002-39", "asr": "Before I keep working, what's the CO2 partial pressure in here?", "voice": "Daniel", "rate": 200, "snr": 14.8, "link": "cable", "avg_logprob": -0.07, "no_speech_prob": 0.005}
+{"id": "dh3-g0002-40", "asr": "Houston, F1, SuCO2.", "voice": "Karen", "rate": 218, "snr": 18.9, "link": "cable", "avg_logprob": -0.426, "no_speech_prob": 0.027}
+{"id": "dh3-g0002-41", "asr": "Is the CO2 inside my suit getting high? Give me the reading.", "voice": "Rishi", "rate": 223, "snr": 9.3, "link": "wifi", "avg_logprob": -0.161, "no_speech_prob": 0.074}
+{"id": "dh3-g0002-45", "asr": "Hey, the inert gas pressure in here. What is it?", "voice": "Daniel", "rate": 165, "snr": 6.6, "link": "cable", "avg_logprob": -0.133, "no_speech_prob": 0.048}
+{"id": "dh3-g0002-47", "asr": "I want to check the other gas reading before I go on.", "voice": "Daniel", "rate": 202, "snr": 14.6, "link": "cable", "avg_logprob": -0.018, "no_speech_prob": 0.004}
+{"id": "dh3-g0002-48", "asr": "Ok, my suit feels a little soft, what's the overall pressure?", "voice": "Rishi", "rate": 162, "snr": 11.6, "link": "wifi", "avg_logprob": -0.193, "no_speech_prob": 0.044}
+{"id": "dh3-g0002-50", "asr": "Houston, everyone, the suit's pressure, please.", "voice": "Moira", "rate": 230, "snr": 6.2, "link": "cable", "avg_logprob": -0.32, "no_speech_prob": 0.098}
+{"id": "dh3-g0002-51", "asr": "Hey, is my Suit still holding pressure? Give me the number.", "voice": "Ralph", "rate": 164, "snr": 14.6, "link": "cable", "avg_logprob": -0.249, "no_speech_prob": 0.014}
+{"id": "dh3-g0002-52", "asr": "Before I kneel down, what's the suit pressure overall?", "voice": "Rishi", "rate": 194, "snr": 19.0, "link": "wifi", "avg_logprob": -0.103, "no_speech_prob": 0.018}
+{"id": "dh3-g0002-53", "asr": "I want to rule out to leave total pressure in the suit.", "voice": "Fred", "rate": 206, "snr": 7.7, "link": "wifi", "avg_logprob": -0.258, "no_speech_prob": 0.011}
+{"id": "dh3-g0002-56", "asr": "Houston, add one, helmet, CO2.", "voice": "Junior", "rate": 188, "snr": 7.2, "link": "cable", "avg_logprob": -0.464, "no_speech_prob": 0.053}
+{"id": "dh3-g0002-58", "asr": "Before I keep going, how much carbon dioxide is up in the helmet?", "voice": "Junior", "rate": 174, "snr": 13.4, "link": "cable", "avg_logprob": -0.064, "no_speech_prob": 0.015}
+{"id": "dh3-g0003-61", "asr": "Roger, scrubber A, how much more can it absorb before it's done?", "voice": "Karen", "rate": 226, "snr": 19.8, "link": "cable", "avg_logprob": -0.064, "no_speech_prob": 0.006}
+{"id": "dh3-g0003-62", "asr": "Houston, everyone, scrubber alpha status, how full.", "voice": "Daniel", "rate": 189, "snr": 14.0, "link": "cable", "avg_logprob": -0.333, "no_speech_prob": 0.039}
+{"id": "dh3-g0003-63", "asr": "A, VIA canister, CO2 capacity left.", "voice": "Junior", "rate": 181, "snr": 16.2, "link": "cable", "avg_logprob": -0.398, "no_speech_prob": 0.023}
+{"id": "dh3-g0003-64", "asr": "Before I start the trench, scrubber a getting near its limit.", "voice": "Samantha", "rate": 207, "snr": 16.3, "link": "wifi", "avg_logprob": -0.157, "no_speech_prob": 0.004}
+{"id": "dh3-g0003-65", "asr": "How loaded up is the Elvis Grover at this point?", "voice": "Kathy", "rate": 214, "snr": 19.2, "link": "wifi", "avg_logprob": -0.269, "no_speech_prob": 0.004}
+{"id": "dh3-g0003-66", "asr": "OTA, the Bravo transistor, how close is it to be exaggerated?", "voice": "Ralph", "rate": 160, "snr": 9.2, "link": "cable", "avg_logprob": -0.455, "no_speech_prob": 0.049}
+{"id": "dh3-g0003-67", "asr": "Roger, scrubber V, how much more can it absorb before it's done?", "voice": "Tessa", "rate": 189, "snr": 11.2, "link": "wifi", "avg_logprob": -0.179, "no_speech_prob": 0.015}
+{"id": "dh3-g0003-68", "asr": "Houston, everyone, scrubber, global status, helpful.", "voice": "Kathy", "rate": 208, "snr": 12.4, "link": "cable", "avg_logprob": -0.35, "no_speech_prob": 0.059}
+{"id": "dh3-g0003-69", "asr": "Hey, the beast rubber, CO2 capacity left.", "voice": "Junior", "rate": 233, "snr": 16.1, "link": "wifi", "avg_logprob": -0.513, "no_speech_prob": 0.033}
+{"id": "dh3-g0003-70", "asr": "Before I start the trench, is scrubber be getting near its limit.", "voice": "Daniel", "rate": 173, "snr": 11.8, "link": "cable", "avg_logprob": -0.177, "no_speech_prob": 0.006}
+{"id": "dh3-g0003-71", "asr": "How loaded up is the bravo scrubber at this point?", "voice": "Rishi", "rate": 170, "snr": 17.5, "link": "cable", "avg_logprob": -0.123, "no_speech_prob": 0.009}
+{"id": "dh3-g0003-75", "asr": "Usually there's one O2 generation where there's it.", "voice": "Kathy", "rate": 223, "snr": 5.9, "link": "cable", "avg_logprob": -0.476, "no_speech_prob": 0.076}
+{"id": "dh3-g0003-77", "asr": "I want my carbon dioxide production number before I keep going.", "voice": "Karen", "rate": 218, "snr": 6.7, "link": "wifi", "avg_logprob": -0.039, "no_speech_prob": 0.04}
+{"id": "dh3-g0004-80", "asr": "Houston, head 1, coolant quantity, please.", "voice": "Daniel", "rate": 186, "snr": 6.1, "link": "wifi", "avg_logprob": -0.219, "no_speech_prob": 0.089}
+{"id": "dh3-g0004-81", "asr": "I'm running warm, is my coolant getting low, how much is there?", "voice": "Ralph", "rate": 196, "snr": 18.5, "link": "cable", "avg_logprob": -0.302, "no_speech_prob": 0.008}
+{"id": "dh3-g0004-82", "asr": "A, fully reserved, how much remains.", "voice": "Ralph", "rate": 224, "snr": 7.8, "link": "cable", "avg_logprob": -0.309, "no_speech_prob": 0.048}
+{"id": "dh3-g0004-84", "asr": "Okay, uh, the vapor side of the cooling loop. What's its pressure?", "voice": "Rishi", "rate": 167, "snr": 13.5, "link": "wifi", "avg_logprob": -0.285, "no_speech_prob": 0.182}
+{"id": "dh3-g0004-86", "asr": "Houston, F1, gas loop pressure.", "voice": "Rishi", "rate": 180, "snr": 19.9, "link": "cable", "avg_logprob": -0.192, "no_speech_prob": 0.031}
+{"id": "dh3-g0004-88", "asr": "I'm hearing a view, what's the gas-side coolant pressure?", "voice": "Karen", "rate": 217, "snr": 7.2, "link": "cable", "avg_logprob": -0.267, "no_speech_prob": 0.003}
+{"id": "dh3-g0004-89", "asr": "Before I keep going, check the gas pressure on the cooling loop.", "voice": "Junior", "rate": 231, "snr": 11.3, "link": "wifi", "avg_logprob": -0.063, "no_speech_prob": 0.044}
+{"id": "dh3-g0004-91", "asr": "Roger, coolant, liquid side, side please.", "voice": "Junior", "rate": 223, "snr": 9.6, "link": "cable", "avg_logprob": -0.225, "no_speech_prob": 0.043}
+{"id": "dh3-g0004-92", "asr": "Houston, F1, cooling loop pressure.", "voice": "Samantha", "rate": 167, "snr": 17.5, "link": "wifi", "avg_logprob": -0.138, "no_speech_prob": 0.007}
+{"id": "dh3-g0004-93", "asr": "Hey, the coolant. How much pressure is in it?", "voice": "Daniel", "rate": 217, "snr": 7.8, "link": "wifi", "avg_logprob": -0.164, "no_speech_prob": 0.052}
+{"id": "dh3-g0004-94", "asr": "I'm hearing a girdle, what's the water loop pressure?", "voice": "Moira", "rate": 223, "snr": 14.8, "link": "wifi", "avg_logprob": -0.259, "no_speech_prob": 0.011}
+{"id": "dh3-g0004-95", "asr": "Before I keep going, check the pressure on the cooling water.", "voice": "Junior", "rate": 219, "snr": 7.5, "link": "wifi", "avg_logprob": -0.064, "no_speech_prob": 0.049}
+{"id": "dh3-g0005-96", "asr": "Okay, uh, the main fan sounds like it's laboring, how fast is it through me?", "voice": "Fred", "rate": 185, "snr": 7.7, "link": "wifi", "avg_logprob": -0.247, "no_speech_prob": 0.024}
+{"id": "dh3-g0005-97", "asr": "Roger, and one, revolutions per minute, please.", "voice": "Ralph", "rate": 194, "snr": 12.3, "link": "wifi", "avg_logprob": -0.295, "no_speech_prob": 0.047}
+{"id": "dh3-g0005-98", "asr": "Houston, F1, primary fan speed.", "voice": "Rishi", "rate": 200, "snr": 18.0, "link": "wifi", "avg_logprob": -0.225, "no_speech_prob": 0.033}
+{"id": "dh3-g0005-99", "asr": "A, the fan, what speed is it running at?", "voice": "Rishi", "rate": 234, "snr": 8.1, "link": "cable", "avg_logprob": -0.262, "no_speech_prob": 0.353}
+{"id": "dh3-g0005-100", "asr": "I barely hear the fan, as it's going down, was the RPM.", "voice": "Junior", "rate": 183, "snr": 6.2, "link": "wifi", "avg_logprob": -0.222, "no_speech_prob": 0.043}
+{"id": "dh3-g0005-102", "asr": "Okay, the backup fan sounds like it's lathering. How fast is it turning?", "voice": "Moira", "rate": 227, "snr": 6.6, "link": "wifi", "avg_logprob": -0.266, "no_speech_prob": 0.063}
+{"id": "dh3-g0005-103", "asr": "Roger, fan 2, revolutions per minute, please.", "voice": "Fred", "rate": 227, "snr": 17.1, "link": "wifi", "avg_logprob": -0.313, "no_speech_prob": 0.03}
+{"id": "dh3-g0005-104", "asr": "Houston, head 1, secondary fan speed.", "voice": "Daniel", "rate": 221, "snr": 12.2, "link": "wifi", "avg_logprob": -0.317, "no_speech_prob": 0.064}
+{"id": "dh3-g0005-105", "asr": "Hey, the second fan, what speed is it running at?", "voice": "Daniel", "rate": 206, "snr": 9.5, "link": "wifi", "avg_logprob": -0.059, "no_speech_prob": 0.024}
+{"id": "dh3-g0005-106", "asr": "I can barely hear the backup fan, is it slowing down? What's the RPM?", "voice": "Samantha", "rate": 227, "snr": 18.1, "link": "wifi", "avg_logprob": -0.119, "no_speech_prob": 0.008}
+{"id": "dh3-g0006-108", "asr": "Okay, ah, my power, how much charge do I have left on the main pack?", "voice": "Kathy", "rate": 160, "snr": 17.8, "link": "cable", "avg_logprob": -0.268, "no_speech_prob": 0.041}
+{"id": "dh3-g0006-109", "asr": "Roger, battery run, what's the charge?", "voice": "Kathy", "rate": 183, "snr": 11.1, "link": "wifi", "avg_logprob": -0.406, "no_speech_prob": 0.018}
+{"id": "dh3-g0006-110", "asr": "Houston, if one, primary, battery, please.", "voice": "Tessa", "rate": 173, "snr": 5.8, "link": "cable", "avg_logprob": -0.288, "no_speech_prob": 0.05}
+{"id": "dh3-g0006-111", "asr": "Hey, how much power have I got?", "voice": "Fred", "rate": 220, "snr": 10.8, "link": "wifi", "avg_logprob": -0.089, "no_speech_prob": 0.024}
+{"id": "dh3-g0006-112", "asr": "I'm worried about the cold draining the battery, what's the level?", "voice": "Samantha", "rate": 203, "snr": 6.6, "link": "wifi", "avg_logprob": -0.04, "no_speech_prob": 0.007}
+{"id": "dh3-g0006-113", "asr": "Before the long walk, how charge is my primary battery?", "voice": "Tessa", "rate": 204, "snr": 17.0, "link": "wifi", "avg_logprob": -0.096, "no_speech_prob": 0.016}
+{"id": "dh3-g0006-114", "asr": "Okay, the backup path, how much charge does it have?", "voice": "Moira", "rate": 228, "snr": 5.4, "link": "wifi", "avg_logprob": -0.238, "no_speech_prob": 0.082}
+{"id": "dh3-g0006-115", "asr": "Roger, battery 2, what's the charge?", "voice": "Karen", "rate": 230, "snr": 9.2, "link": "wifi", "avg_logprob": -0.303, "no_speech_prob": 0.011}
+{"id": "dh3-g0006-117", "asr": "How much power is on the second battery?", "voice": "Rishi", "rate": 208, "snr": 11.8, "link": "wifi", "avg_logprob": -0.177, "no_speech_prob": 0.046}
+{"id": "dh3-g0006-118", "asr": "If the main one dies, how much is in the back of battery?", "voice": "Ralph", "rate": 213, "snr": 13.5, "link": "cable", "avg_logprob": -0.091, "no_speech_prob": 0.023}
+{"id": "dh3-g0006-119", "asr": "Before the long walk, I'll charge as my secondary battery.", "voice": "Junior", "rate": 228, "snr": 9.0, "link": "wifi", "avg_logprob": -0.253, "no_speech_prob": 0.038}
+{"id": "dh3-g0007-123", "asr": "Not rivals, the UIA panel.", "voice": "Junior", "rate": 230, "snr": 7.1, "link": "cable", "avg_logprob": -0.595, "no_speech_prob": 0.075}
+{"id": "dh3-g0008-124", "asr": "Now the main one, the backup, how much oxygen is in it.", "voice": "Ralph", "rate": 173, "snr": 14.5, "link": "cable", "avg_logprob": -0.181, "no_speech_prob": 0.019}
+{"id": "dh3-g0008-125", "asr": "Starridge is fine, I want the pressure on the primary puddle.", "voice": "Ralph", "rate": 170, "snr": 9.7, "link": "cable", "avg_logprob": -0.306, "no_speech_prob": 0.006}
+{"id": "dh3-g0008-126", "asr": "Not the pressure, the percentage left in the main tank.", "voice": "Samantha", "rate": 174, "snr": 17.3, "link": "cable", "avg_logprob": -0.055, "no_speech_prob": 0.002}
+{"id": "dh3-g0008-127", "asr": "Not how much oxygen is left, how fast I'm using it.", "voice": "Samantha", "rate": 171, "snr": 15.8, "link": "cable", "avg_logprob": -0.064, "no_speech_prob": 0.003}
+{"id": "dh3-g0009-128", "asr": "Not the tank, the suit's oxygen partial pressure.", "voice": "Junior", "rate": 172, "snr": 5.2, "link": "wifi", "avg_logprob": -0.424, "no_speech_prob": 0.027}
+{"id": "dh3-g0009-129", "asr": "Not oxygen, the whole suit's pressure.", "voice": "Moira", "rate": 189, "snr": 18.1, "link": "cable", "avg_logprob": -0.211, "no_speech_prob": 0.009}
+{"id": "dh3-g0009-130", "asr": "Not the level, how fast time producing CO2.", "voice": "Junior", "rate": 172, "snr": 17.8, "link": "cable", "avg_logprob": -0.134, "no_speech_prob": 0.01}
+{"id": "dh3-g0010-134", "asr": "Coolant gas side is steady. Copy.", "voice": "Rishi", "rate": 192, "snr": 7.9, "link": "cable", "avg_logprob": -0.209, "no_speech_prob": 0.054}
+{"id": "dh3-g0010-137", "asr": "Roger, I'll stand by for your suggestions.", "voice": "Daniel", "rate": 175, "snr": 5.4, "link": "cable", "avg_logprob": -0.032, "no_speech_prob": 0.017}
+{"id": "dh3-g0010-138", "asr": "Okay, press on with the comprehensive example.", "voice": "Junior", "rate": 228, "snr": 12.3, "link": "cable", "avg_logprob": -0.314, "no_speech_prob": 0.043}
+{"id": "dh3-g0010-139", "asr": "Houston, could you verify all your flags are off?", "voice": "Tessa", "rate": 201, "snr": 13.8, "link": "cable", "avg_logprob": -0.042, "no_speech_prob": 0.009}
+{"id": "dh3-g0010-140", "asr": "I'm reading oxygen in the soil spectrum.", "voice": "Karen", "rate": 169, "snr": 8.9, "link": "wifi", "avg_logprob": -0.19, "no_speech_prob": 0.009}
+{"id": "dh3-g0010-141", "asr": "The battery of tests on this rock is done.", "voice": "Samantha", "rate": 194, "snr": 19.3, "link": "wifi", "avg_logprob": -0.025, "no_speech_prob": 0.004}
+{"id": "dh3-g0010-147", "asr": "Watch that.", "voice": "Rishi", "rate": 215, "snr": 5.4, "link": "wifi", "avg_logprob": -0.593, "no_speech_prob": 0.241}
+{"id": "dh3-g0010-148", "asr": "Primary, huh?", "voice": "Fred", "rate": 160, "snr": 6.8, "link": "cable", "avg_logprob": -0.228, "no_speech_prob": 0.063}
+{"id": "dh3-g0010-150", "asr": "What about number two?", "voice": "Rishi", "rate": 210, "snr": 16.4, "link": "cable", "avg_logprob": -0.178, "no_speech_prob": 0.098}
+{"id": "dh3-g0001-2", "asr": "Roger, I was at about 60 when we started, where's the primary city now?", "voice": "Junior", "rate": 179, "snr": 5.4, "link": "wifi", "avg_logprob": -0.143, "no_speech_prob": 0.024}
+{"id": "dh3-g0010-142", "asr": "That craters pressure ridges gorgeous.", "voice": "Samantha", "rate": 205, "snr": 12.8, "link": "wifi", "avg_logprob": -0.221, "no_speech_prob": 0.016}
+{"id": "dh3-g0010-143", "asr": "Believe that, I don't need the coolant reading.", "voice": "Moira", "rate": 193, "snr": 14.6, "link": "cable", "avg_logprob": -0.198, "no_speech_prob": 0.004}
+{"id": "dh3-g0010-144", "asr": "Scratch that, no fan speed.", "voice": "Rishi", "rate": 230, "snr": 13.3, "link": "wifi", "avg_logprob": -0.306, "no_speech_prob": 0.032}
+{"id": "dh3-g0010-145", "asr": "Then some oxygen out of the food.", "voice": "Karen", "rate": 201, "snr": 6.1, "link": "cable", "avg_logprob": -0.196, "no_speech_prob": 0.01}
+{"id": "dh3-g0010-135", "asr": "PPO 2's manual, 3.1", "voice": "Kathy", "rate": 168, "snr": 16.1, "link": "wifi", "avg_logprob": -0.565, "no_speech_prob": 0.036}
+{"id": "dh3-g0010-136", "asr": "Hard rate of around 120 after that line.", "voice": "Junior", "rate": 164, "snr": 5.3, "link": "wifi", "avg_logprob": -0.543, "no_speech_prob": 0.037}
+{"id": "dh4-g0001-2", "asr": "Before I start digging, I want to know what the thermal reading is inside the suit.", "voice": "Kathy", "rate": 211, "snr": 12.6, "link": "wifi", "avg_logprob": -0.093, "no_speech_prob": 0.025}
+{"id": "dh4-g0001-4", "asr": "Fusion, add one, it feels stuffy and warm. Give me the inside temperature.", "voice": "Junior", "rate": 231, "snr": 18.8, "link": "wifi", "avg_logprob": -0.394, "no_speech_prob": 0.027}
+{"id": "dh3-g0001-3", "asr": "A, the first bottle, how much is in it?", "voice": "Moira", "rate": 207, "snr": 15.8, "link": "wifi", "avg_logprob": -0.163, "no_speech_prob": 0.069}
+{"id": "dh3-g0002-54", "asr": "Okay, the visor's misting up, is CO2 collecting in my helmet.", "voice": "Tessa", "rate": 178, "snr": 7.2, "link": "wifi", "avg_logprob": -0.164, "no_speech_prob": 0.015}
+{"id": "dh3-g0010-131", "asr": "Primary is at 41%, 3.85 on pressure.", "voice": "Samantha", "rate": 217, "snr": 11.8, "link": "cable", "avg_logprob": -0.156, "no_speech_prob": 0.018}
+{"id": "dh3-g0010-132", "asr": "Okay, my flags are clear and I'm reading 45%.", "voice": "Moira", "rate": 177, "snr": 16.3, "link": "wifi", "avg_logprob": -0.116, "no_speech_prob": 0.005}
+{"id": "dh4-g0001-5", "asr": "So am I overheating or is it just me, what does the temperature say?", "voice": "Rishi", "rate": 227, "snr": 8.3, "link": "cable", "avg_logprob": -0.05, "no_speech_prob": 0.01}
+{"id": "dh4-g0001-6", "asr": "Hi, I think my tool is lagging, how many degrees is it in the suit?", "voice": "Junior", "rate": 205, "snr": 18.5, "link": "cable", "avg_logprob": -0.19, "no_speech_prob": 0.013}
+{"id": "dh4-g0001-7", "asr": "Quick one, my body temperature works every day.", "voice": "Fred", "rate": 169, "snr": 6.9, "link": "wifi", "avg_logprob": -0.39, "no_speech_prob": 0.045}
+{"id": "dh4-g0001-12", "asr": "Houston, F1, am I running hot, what's my temperature?", "voice": "Karen", "rate": 214, "snr": 15.2, "link": "wifi", "avg_logprob": -0.167, "no_speech_prob": 0.01}
+{"id": "dh4-g0001-19", "asr": "Okay Houston, I've lost track. How long have we been at this?", "voice": "Tessa", "rate": 194, "snr": 20.0, "link": "cable", "avg_logprob": -0.129, "no_speech_prob": 0.012}
+{"id": "dh4-g0001-20", "asr": "Roger, uh, time's in progress, what's the black show?", "voice": "Junior", "rate": 186, "snr": 8.2, "link": "wifi", "avg_logprob": -0.49, "no_speech_prob": 0.039}
+{"id": "dh4-g0001-21", "asr": "Hey, Eva duration so far.", "voice": "Kathy", "rate": 194, "snr": 14.0, "link": "wifi", "avg_logprob": -0.358, "no_speech_prob": 0.039}
+{"id": "dh4-g0001-22", "asr": "Houston, F1, how far into the EVA way, time wise.", "voice": "Daniel", "rate": 168, "snr": 18.1, "link": "cable", "avg_logprob": -0.261, "no_speech_prob": 0.019}
+{"id": "dh4-g0001-13", "asr": "After that sprint, what's my temp?", "voice": "Daniel", "rate": 211, "snr": 18.7, "link": "wifi", "avg_logprob": -0.173, "no_speech_prob": 0.011}
+{"id": "dh4-g0001-14", "asr": "O2, easy, my heart is pounding up through that line, let's say that.", "voice": "Kathy", "rate": 211, "snr": 7.1, "link": "wifi", "avg_logprob": -0.473, "no_speech_prob": 0.024}
+{"id": "dh4-g0001-15", "asr": "Roger, uh, how many beats am I doing right now?", "voice": "Kathy", "rate": 209, "snr": 7.6, "link": "cable", "avg_logprob": -0.325, "no_speech_prob": 0.177}
+{"id": "dh4-g0001-18", "asr": "I want to pace myself, what's my heart doing?", "voice": "Samantha", "rate": 218, "snr": 13.5, "link": "wifi", "avg_logprob": -0.099, "no_speech_prob": 0.007}
+{"id": "dh4-g0002-26", "asr": "Houston, F1, I'd like to know how much carbon dioxide is in my helmet before I keep going.", "voice": "Karen", "rate": 220, "snr": 7.0, "link": "cable", "avg_logprob": -0.066, "no_speech_prob": 0.028}
+{"id": "dh4-g0002-27", "asr": "A helmet, CO2 partial number.", "voice": "Kathy", "rate": 173, "snr": 12.9, "link": "cable", "avg_logprob": -0.32, "no_speech_prob": 0.034}
+{"id": "dh4-g0002-28", "asr": "Can you tell me if O2 is creeping up in my helmet? I've got a mild headache.", "voice": "Daniel", "rate": 214, "snr": 18.3, "link": "wifi", "avg_logprob": -0.051, "no_speech_prob": 0.006}
+{"id": "dh4-g0002-29", "asr": "After all that digging, how much carbon dioxide is around my head in the helmet?", "voice": "Karen", "rate": 216, "snr": 10.1, "link": "cable", "avg_logprob": -0.047, "no_speech_prob": 0.003}
+{"id": "dh4-g0003-43", "asr": "Used to add one, how much CO2 am I really out these days?", "voice": "Ralph", "rate": 208, "snr": 12.6, "link": "cable", "avg_logprob": -0.21, "no_speech_prob": 0.033}
+{"id": "dh4-g0004-45", "asr": "Ok Houston, I've been breathing hard, what's my oxygen usage hack?", "voice": "Rishi", "rate": 180, "snr": 13.4, "link": "wifi", "avg_logprob": -0.264, "no_speech_prob": 0.063}
+{"id": "dh4-g0004-46", "asr": "Roger A, how fast is my O2 training?", "voice": "Ralph", "rate": 160, "snr": 19.8, "link": "wifi", "avg_logprob": -0.223, "no_speech_prob": 0.021}
+{"id": "dh4-g0004-47", "asr": "After that sprint, what's my oxygen consumption?", "voice": "Rishi", "rate": 234, "snr": 17.4, "link": "wifi", "avg_logprob": -0.153, "no_speech_prob": 0.02}
+{"id": "dh4-g0002-37", "asr": "Roger A, what's the reading on the gases that aren't oxygen or CO2?", "voice": "Rishi", "rate": 217, "snr": 11.7, "link": "wifi", "avg_logprob": -0.228, "no_speech_prob": 0.117}
+{"id": "dh4-g0002-38", "asr": "After that sprint, what's the greatest gas pressure?", "voice": "Kathy", "rate": 175, "snr": 18.9, "link": "wifi", "avg_logprob": -0.138, "no_speech_prob": 0.009}
+{"id": "dh4-g0003-41", "asr": "A, carton dioxide output, number please.", "voice": "Moira", "rate": 177, "snr": 10.6, "link": "cable", "avg_logprob": -0.268, "no_speech_prob": 0.024}
+{"id": "dh4-g0003-42", "asr": "After that sprint, how fast is my body making CO2?", "voice": "Rishi", "rate": 194, "snr": 18.9, "link": "wifi", "avg_logprob": -0.174, "no_speech_prob": 0.012}
+{"id": "dh4-g0002-31", "asr": "The helmet one, CO2, watch the level.", "voice": "Moira", "rate": 223, "snr": 14.5, "link": "wifi", "avg_logprob": -0.16, "no_speech_prob": 0.037}
+{"id": "dh4-g0002-34", "asr": "Roger, A, food carbon dioxide, is it climbing?", "voice": "Karen", "rate": 175, "snr": 14.6, "link": "cable", "avg_logprob": -0.271, "no_speech_prob": 0.006}
+{"id": "dh4-g0002-35", "asr": "After that sprint, watch the carbon dioxide in the suit.", "voice": "Tessa", "rate": 218, "snr": 9.5, "link": "wifi", "avg_logprob": -0.109, "no_speech_prob": 0.014}
+{"id": "dh4-g0002-36", "asr": "Ok, U2, the other partial pressure, the grey stuff.", "voice": "Ralph", "rate": 176, "snr": 9.9, "link": "wifi", "avg_logprob": -0.445, "no_speech_prob": 0.069}
+{"id": "dh4-g0006-57", "asr": "I can't find the ridge, let me see them up.", "voice": "Moira", "rate": 166, "snr": 10.8, "link": "cable", "avg_logprob": -0.088, "no_speech_prob": 0.004}
+{"id": "dh4-g0006-58", "asr": "Before I head out, show me the nav display.", "voice": "Rishi", "rate": 228, "snr": 14.0, "link": "cable", "avg_logprob": -0.044, "no_speech_prob": 0.002}
+{"id": "dh4-g0006-59", "asr": "Flip over to the left, please.", "voice": "Kathy", "rate": 228, "snr": 15.1, "link": "cable", "avg_logprob": -0.169, "no_speech_prob": 0.053}
+{"id": "dh4-g0006-60", "asr": "I want a map of why I walk.", "voice": "Ralph", "rate": 181, "snr": 5.5, "link": "wifi", "avg_logprob": -0.417, "no_speech_prob": 0.051}
+{"id": "dh4-g0004-48", "asr": "Houston, F1, oxygen use rate please.", "voice": "Karen", "rate": 198, "snr": 5.9, "link": "cable", "avg_logprob": -0.403, "no_speech_prob": 0.032}
+{"id": "dh4-g0005-49", "asr": "Okay Houston, uh, coolant lived, roughly how much?", "voice": "Karen", "rate": 169, "snr": 10.0, "link": "wifi", "avg_logprob": -0.314, "no_speech_prob": 0.038}
+{"id": "dh4-g0005-50", "asr": "Roger, hey, is my coolant tank getting low?", "voice": "Junior", "rate": 167, "snr": 6.1, "link": "wifi", "avg_logprob": -0.263, "no_speech_prob": 0.046}
+{"id": "dh4-g0005-52", "asr": "Houston, at 1, coolant supply remaining.", "voice": "Ralph", "rate": 207, "snr": 14.3, "link": "wifi", "avg_logprob": -0.391, "no_speech_prob": 0.029}
+{"id": "dh4-g0006-53", "asr": "Ok Houston, I'm turned around out here, put the traverse map up on my display.", "voice": "Samantha", "rate": 214, "snr": 16.3, "link": "cable", "avg_logprob": -0.128, "no_speech_prob": 0.009}
+{"id": "dh4-g0006-54", "asr": "Roger, I need the navigation view. Bring that up.", "voice": "Daniel", "rate": 178, "snr": 10.8, "link": "wifi", "avg_logprob": -0.142, "no_speech_prob": 0.025}
+{"id": "dh4-g0006-55", "asr": "Hey, Matt, on screen.", "voice": "Daniel", "rate": 174, "snr": 17.6, "link": "cable", "avg_logprob": -0.312, "no_speech_prob": 0.066}
+{"id": "dh4-g0006-56", "asr": "Houston, F1, cool up now so I can see where the rover is parked.", "voice": "Samantha", "rate": 181, "snr": 7.5, "link": "cable", "avg_logprob": -0.168, "no_speech_prob": 0.03}
+{"id": "dh4-g0006-70", "asr": "Can you hide what ever's on my screen?", "voice": "Karen", "rate": 201, "snr": 5.9, "link": "wifi", "avg_logprob": -0.257, "no_speech_prob": 0.022}
+{"id": "dh4-g0006-71", "asr": "Ok Houston, I want to see all my numbers at once, vital dot.", "voice": "Karen", "rate": 202, "snr": 9.9, "link": "cable", "avg_logprob": -0.127, "no_speech_prob": 0.011}
+{"id": "dh4-g0006-72", "asr": "Roger, the Vitals view, please.", "voice": "Daniel", "rate": 184, "snr": 9.8, "link": "cable", "avg_logprob": -0.365, "no_speech_prob": 0.052}
+{"id": "dh4-g0006-74", "asr": "Houston, everyone, flip to my vitals.", "voice": "Moira", "rate": 190, "snr": 8.8, "link": "cable", "avg_logprob": -0.233, "no_speech_prob": 0.057}
+{"id": "dh4-g0006-62", "asr": "We should display it in navigation.", "voice": "Ralph", "rate": 191, "snr": 12.4, "link": "wifi", "avg_logprob": -0.478, "no_speech_prob": 0.025}
+{"id": "dh4-g0006-63", "asr": "Okay, Houston, that's enough. Clear that panel off my visor.", "voice": "Moira", "rate": 169, "snr": 9.2, "link": "wifi", "avg_logprob": -0.181, "no_speech_prob": 0.036}
+{"id": "dh4-g0006-65", "asr": "Hey, close.", "voice": "Junior", "rate": 219, "snr": 7.4, "link": "wifi", "avg_logprob": -0.454, "no_speech_prob": 0.171}
+{"id": "dh4-g0006-68", "asr": "I've seen enough, collapse the panel.", "voice": "Tessa", "rate": 202, "snr": 13.2, "link": "cable", "avg_logprob": -0.075, "no_speech_prob": 0.006}
+{"id": "dh4-g0006-75", "asr": "Ok Houston, I'm hooking up the umbilical, bring the UIA panel up.", "voice": "Samantha", "rate": 177, "snr": 9.9, "link": "wifi", "avg_logprob": -0.127, "no_speech_prob": 0.03}
+{"id": "dh4-g0006-77", "asr": "UIA on screen.", "voice": "Moira", "rate": 204, "snr": 12.4, "link": "cable", "avg_logprob": -0.27, "no_speech_prob": 0.167}
+{"id": "dh4-g0006-78", "asr": "Houston, everyone, flip to the UIA.", "voice": "Moira", "rate": 215, "snr": 19.6, "link": "wifi", "avg_logprob": -0.139, "no_speech_prob": 0.023}
+{"id": "dh4-g0006-79", "asr": "Okay, Houston, I want to see what's on the list. Tasks up.", "voice": "Junior", "rate": 160, "snr": 10.0, "link": "cable", "avg_logprob": -0.22, "no_speech_prob": 0.042}
+{"id": "dh4-g0007-81", "asr": "Ok Houston, this grader is too steep to cross, find me another way to the target.", "voice": "Fred", "rate": 197, "snr": 12.1, "link": "cable", "avg_logprob": -0.226, "no_speech_prob": 0.021}
+{"id": "dh4-g0007-82", "asr": "Roger, the route you gave me goes to lose rock, block something else.", "voice": "Tessa", "rate": 217, "snr": 7.5, "link": "wifi", "avg_logprob": -0.292, "no_speech_prob": 0.034}
+{"id": "dh4-g0007-83", "asr": "A, reroute, please.", "voice": "Karen", "rate": 195, "snr": 19.8, "link": "wifi", "avg_logprob": -0.188, "no_speech_prob": 0.055}
+{"id": "dh4-g0007-84", "asr": "Houston, Ev1, unblocked by a big boulder, recalculate my path.", "voice": "Karen", "rate": 231, "snr": 11.3, "link": "cable", "avg_logprob": -0.21, "no_speech_prob": 0.009}
+{"id": "dh4-g0001-1", "asr": "Roger, ah, I'm getting clammy in here, can you read me the suit's internal 10?", "voice": "Samantha", "rate": 193, "snr": 19.6, "link": "cable", "avg_logprob": -0.162, "no_speech_prob": 0.002}
+{"id": "dh4-g0001-9", "asr": "How fast he has a suit gotten since he started the climb.", "voice": "Fred", "rate": 205, "snr": 5.5, "link": "wifi", "avg_logprob": -0.426, "no_speech_prob": 0.049}
+{"id": "dh4-g0001-10", "asr": "I'm sweating on my liner, what's the attempt inside?", "voice": "Kathy", "rate": 197, "snr": 8.6, "link": "cable", "avg_logprob": -0.218, "no_speech_prob": 0.019}
+{"id": "dh4-g0001-11", "asr": "Hey, take reason to suit, please.", "voice": "Fred", "rate": 180, "snr": 18.7, "link": "wifi", "avg_logprob": -0.251, "no_speech_prob": 0.034}
+{"id": "dh4-g0007-85", "asr": "This part won't work, give me another option.", "voice": "Rishi", "rate": 225, "snr": 15.0, "link": "wifi", "avg_logprob": -0.09, "no_speech_prob": 0.016}
+{"id": "dh4-g0007-86", "asr": "The slugs too loose, rip me around.", "voice": "Karen", "rate": 196, "snr": 14.7, "link": "wifi", "avg_logprob": -0.308, "no_speech_prob": 0.007}
+{"id": "dh4-g0008-87", "asr": "Ok Houston, the magnetometer setup is finished, check it off.", "voice": "Tessa", "rate": 197, "snr": 7.6, "link": "wifi", "avg_logprob": -0.16, "no_speech_prob": 0.04}
+{"id": "dh4-g0008-89", "asr": "A, drill core retrieval, market done.", "voice": "Karen", "rate": 183, "snr": 9.5, "link": "wifi", "avg_logprob": -0.248, "no_speech_prob": 0.034}
+{"id": "dh5-g0001-9", "asr": "And the liquid.", "voice": "Daniel", "rate": 211, "snr": 19.3, "link": "cable", "avg_logprob": -0.183, "no_speech_prob": 0.193}
+{"id": "dh5-g0002-12", "asr": "Forget the back off, how fast is the main fan going?", "voice": "Moira", "rate": 182, "snr": 9.6, "link": "wifi", "avg_logprob": -0.197, "no_speech_prob": 0.017}
+{"id": "dh5-g0003-14", "asr": "Now the backup, the primary, how much charge.", "voice": "Fred", "rate": 189, "snr": 10.2, "link": "wifi", "avg_logprob": -0.21, "no_speech_prob": 0.012}
+{"id": "dh5-g0004-15", "asr": "Not alpha, I want Bravo's level.", "voice": "Moira", "rate": 229, "snr": 19.4, "link": "cable", "avg_logprob": -0.191, "no_speech_prob": 0.007}
+{"id": "dh4-g0002-24", "asr": "Ok Houston, I feel a little short of breath. What's the CO2 reading at the helmet sensor?", "voice": "Rishi", "rate": 161, "snr": 6.5, "link": "wifi", "avg_logprob": -0.192, "no_speech_prob": 0.086}
+{"id": "dh4-g0002-30", "asr": "I'm a bit lightheaded, what's my helmet saying for carbon dioxide?", "voice": "Fred", "rate": 181, "snr": 7.3, "link": "wifi", "avg_logprob": -0.102, "no_speech_prob": 0.013}
+{"id": "dh4-g0005-51", "asr": "After that sprint, how much coolant is still in the suit?", "voice": "Daniel", "rate": 192, "snr": 7.6, "link": "wifi", "avg_logprob": -0.302, "no_speech_prob": 0.029}
+{"id": "dh4-g0006-64", "asr": "Roger, I'm done watching, but to the way.", "voice": "Kathy", "rate": 214, "snr": 6.0, "link": "wifi", "avg_logprob": -0.472, "no_speech_prob": 0.041}
+{"id": "dh4-g0008-88", "asr": "Roger, the soil mechanics trench, all gone.", "voice": "Moira", "rate": 213, "snr": 16.0, "link": "wifi", "avg_logprob": -0.277, "no_speech_prob": 0.012}
+{"id": "dh5-g0001-0", "asr": "Thank you very much.", "voice": "Samantha", "rate": 233, "snr": 17.7, "link": "wifi", "avg_logprob": -0.049, "no_speech_prob": 0.012}
+{"id": "dh5-g0001-3", "asr": "I'll see you next time.", "voice": "Samantha", "rate": 220, "snr": 6.4, "link": "cable", "avg_logprob": -0.064, "no_speech_prob": 0.037}
+{"id": "dh5-g0001-7", "asr": "Close the map and open the checklist.", "voice": "Samantha", "rate": 164, "snr": 15.3, "link": "cable", "avg_logprob": -0.028, "no_speech_prob": 0.002}
+{"id": "dh5-g0001-6", "asr": "What's my heart rate and how hot is it in view?", "voice": "Fred", "rate": 230, "snr": 7.4, "link": "wifi", "avg_logprob": -0.181, "no_speech_prob": 0.006}
+{"id": "dh5-g0001-8", "asr": "Check scrubber and scrubber be for me.", "voice": "Moira", "rate": 210, "snr": 16.6, "link": "wifi", "avg_logprob": -0.205, "no_speech_prob": 0.007}
+{"id": "dh5-g0004-16", "asr": "Night Bravo, California, Elvin.", "voice": "Kathy", "rate": 224, "snr": 18.2, "link": "wifi", "avg_logprob": -0.99, "no_speech_prob": 0.033}
+{"id": "dh5-g0005-17", "asr": "Not the pressure, just how much coolant is left.", "voice": "Karen", "rate": 164, "snr": 5.6, "link": "wifi", "avg_logprob": -0.084, "no_speech_prob": 0.008}
+{"id": "dh5-g0005-18", "asr": "I don't care about the liquid loop, give me the gas side pressure.", "voice": "Moira", "rate": 199, "snr": 9.2, "link": "cable", "avg_logprob": -0.065, "no_speech_prob": 0.004}
+{"id": "dh5-g0006-19", "asr": "Not my vitals page, just my heart rate number.", "voice": "Ralph", "rate": 190, "snr": 14.1, "link": "cable", "avg_logprob": -0.21, "no_speech_prob": 0.023}
+{"id": "dh6-g0002-9", "asr": "What's the Met reading? I lost track.", "voice": "Samantha", "rate": 223, "snr": 11.4, "link": "cable", "avg_logprob": -0.269, "no_speech_prob": 0.008}
+{"id": "dh6-g0002-10", "asr": "CSW, anything new.", "voice": "Junior", "rate": 160, "snr": 11.7, "link": "cable", "avg_logprob": -0.275, "no_speech_prob": 0.071}
+{"id": "dh6-g0002-11", "asr": "C&W, anything flat since we started.", "voice": "Karen", "rate": 182, "snr": 14.9, "link": "wifi", "avg_logprob": -0.307, "no_speech_prob": 0.021}
+{"id": "dh6-g0003-12", "asr": "At 1, charge left.", "voice": "Fred", "rate": 209, "snr": 16.0, "link": "cable", "avg_logprob": -0.355, "no_speech_prob": 0.011}
+{"id": "dh6-g0001-3", "asr": "O2, where is it now?", "voice": "Daniel", "rate": 206, "snr": 13.3, "link": "wifi", "avg_logprob": -0.264, "no_speech_prob": 0.014}
+{"id": "dh6-g0001-5", "asr": "Suit sigh, what's it reading after the climb?", "voice": "Kathy", "rate": 172, "snr": 19.9, "link": "cable", "avg_logprob": -0.344, "no_speech_prob": 0.006}
+{"id": "dh6-g0002-6", "asr": "BPM after that climb, what is it?", "voice": "Junior", "rate": 186, "snr": 17.0, "link": "wifi", "avg_logprob": -0.348, "no_speech_prob": 0.029}
+{"id": "dh6-g0002-7", "asr": "H object, what's it at?", "voice": "Rishi", "rate": 188, "snr": 15.4, "link": "wifi", "avg_logprob": -0.559, "no_speech_prob": 0.081}
+{"id": "dh6-g0003-13", "asr": "You're right, bad. How much is left?", "voice": "Ralph", "rate": 163, "snr": 11.5, "link": "wifi", "avg_logprob": -0.324, "no_speech_prob": 0.048}
+{"id": "dh6-g0003-14", "asr": "Back 2%, please.", "voice": "Tessa", "rate": 220, "snr": 10.1, "link": "wifi", "avg_logprob": -0.398, "no_speech_prob": 0.11}
+{"id": "dh6-g0003-15", "asr": "Check that, how much is left.", "voice": "Samantha", "rate": 214, "snr": 8.4, "link": "cable", "avg_logprob": -0.351, "no_speech_prob": 0.008}
+{"id": "dh6-g0005-18", "asr": "Liquid sites die on the coolant loop.", "voice": "Samantha", "rate": 186, "snr": 16.6, "link": "wifi", "avg_logprob": -0.312, "no_speech_prob": 0.022}
+{"id": "dh6-g0007-22", "asr": "UIA display, bring it up for the unveiling for haircut.", "voice": "Kathy", "rate": 204, "snr": 7.7, "link": "cable", "avg_logprob": -0.366, "no_speech_prob": 0.075}
+{"id": "dh6-g0007-23", "asr": "Pull up the procedures, I forgot the next step.", "voice": "Tessa", "rate": 170, "snr": 14.1, "link": "cable", "avg_logprob": -0.154, "no_speech_prob": 0.008}
+{"id": "dh6-g0007-24", "asr": "Checklist view, use.", "voice": "Tessa", "rate": 178, "snr": 5.5, "link": "cable", "avg_logprob": -0.407, "no_speech_prob": 0.164}
+{"id": "dh6-g0007-25", "asr": "Houston, add one, put my task list up.", "voice": "Kathy", "rate": 167, "snr": 5.6, "link": "wifi", "avg_logprob": -0.32, "no_speech_prob": 0.069}
+{"id": "dh6-g0008-35", "asr": "Looks like the pressure ridge continues past the crater.", "voice": "Tessa", "rate": 225, "snr": 12.9, "link": "wifi", "avg_logprob": -0.026, "no_speech_prob": 0.004}
+{"id": "dh6-g0008-36", "asr": "Lower my soup temperature a couple degrees.", "voice": "Samantha", "rate": 183, "snr": 10.4, "link": "wifi", "avg_logprob": -0.184, "no_speech_prob": 0.007}
+{"id": "dh6-g0008-45", "asr": "And the P1.", "voice": "Junior", "rate": 196, "snr": 16.8, "link": "cable", "avg_logprob": -0.468, "no_speech_prob": 0.146}
+{"id": "dh6-g0008-52", "asr": "Thanks for listening.", "voice": "Kathy", "rate": 189, "snr": 9.8, "link": "cable", "avg_logprob": -0.105, "no_speech_prob": 0.043}
+{"id": "dh6-g0008-27", "asr": "My VPM's around 100, I'm fine.", "voice": "Samantha", "rate": 228, "snr": 12.4, "link": "wifi", "avg_logprob": -0.26, "no_speech_prob": 0.012}
+{"id": "dh6-g0008-29", "asr": "With his two hours tent copy.", "voice": "Kathy", "rate": 164, "snr": 11.3, "link": "cable", "avg_logprob": -0.46, "no_speech_prob": 0.028}
+{"id": "dh6-g0008-33", "asr": "The foils got a lot of pertooprostinage.", "voice": "Karen", "rate": 211, "snr": 12.6, "link": "wifi", "avg_logprob": -0.478, "no_speech_prob": 0.009}
+{"id": "dh6-g0008-34", "asr": "The layering on this rock face looks like a map.", "voice": "Junior", "rate": 186, "snr": 13.5, "link": "wifi", "avg_logprob": -0.244, "no_speech_prob": 0.023}
+{"id": "dh6-g0008-53", "asr": "Subtitles by the Amara community.", "voice": "Moira", "rate": 233, "snr": 14.0, "link": "cable", "avg_logprob": -0.207, "no_speech_prob": 0.04}
+{"id": "dh6-g0008-54", "asr": "You know.", "voice": "Junior", "rate": 231, "snr": 12.0, "link": "cable", "avg_logprob": -0.375, "no_speech_prob": 0.106}
+{"id": "dh6-g0008-55", "asr": "Please subscribe.", "voice": "Daniel", "rate": 166, "snr": 10.5, "link": "wifi", "avg_logprob": -0.238, "no_speech_prob": 0.11}
+{"id": "dh6-g0001-0", "asr": "PPO2 looks low to me, what's it actually reading?", "voice": "Karen", "rate": 171, "snr": 10.1, "link": "cable", "avg_logprob": -0.159, "no_speech_prob": 0.004}
+{"id": "dh6-g0001-1", "asr": "Houston, Ev1, the po2 number in the suits.", "voice": "Moira", "rate": 164, "snr": 11.3, "link": "cable", "avg_logprob": -0.387, "no_speech_prob": 0.013}
+{"id": "dh6-g0001-4", "asr": "Watch PPC O2 doing after that climb.", "voice": "Fred", "rate": 187, "snr": 13.8, "link": "cable", "avg_logprob": -0.128, "no_speech_prob": 0.011}
+{"id": "dh6-g0002-8", "asr": "Yeah, where are we?", "voice": "Samantha", "rate": 187, "snr": 8.7, "link": "wifi", "avg_logprob": -0.478, "no_speech_prob": 0.091}
+{"id": "dh6-g0008-26", "asr": "PTO 2 is 3.1, work for it.", "voice": "Fred", "rate": 220, "snr": 8.5, "link": "wifi", "avg_logprob": -0.633, "no_speech_prob": 0.089}
+{"id": "dh6-g0008-28", "asr": "Bat 1 at 60, copy.", "voice": "Rishi", "rate": 182, "snr": 11.4, "link": "wifi", "avg_logprob": -0.349, "no_speech_prob": 0.027}
+{"id": "dh6-g0008-30", "asr": "C&W is blue, nothing black.", "voice": "Fred", "rate": 196, "snr": 9.6, "link": "wifi", "avg_logprob": -0.35, "no_speech_prob": 0.051}
+{"id": "dh6-g0008-38", "asr": "Re-root me and then show my heart rate.", "voice": "Moira", "rate": 190, "snr": 13.6, "link": "cable", "avg_logprob": -0.199, "no_speech_prob": 0.005}
+{"id": "dh6-g0008-39", "asr": "Open the UIA and close the map.", "voice": "Karen", "rate": 174, "snr": 6.6, "link": "cable", "avg_logprob": -0.254, "no_speech_prob": 0.043}
+{"id": "dh6-g0008-43", "asr": "And fan tool.", "voice": "Fred", "rate": 200, "snr": 17.2, "link": "cable", "avg_logprob": -0.572, "no_speech_prob": 0.136}
+{"id": "dh6-g0008-44", "asr": "What about the helmet?", "voice": "Junior", "rate": 214, "snr": 11.6, "link": "cable", "avg_logprob": -0.107, "no_speech_prob": 0.03}
+{"id": "dh6-g0008-50", "asr": "Navigate to Earth.", "voice": "Junior", "rate": 207, "snr": 11.0, "link": "wifi", "avg_logprob": -0.788, "no_speech_prob": 0.144}
+{"id": "dh6-g0008-51", "asr": "What's the PPR?", "voice": "Karen", "rate": 183, "snr": 18.3, "link": "cable", "avg_logprob": -0.177, "no_speech_prob": 0.03}

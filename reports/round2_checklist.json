@@ -1,0 +1,114 @@
+{
+ "report_unhandled": {
+  "testcases": 55,
+  "fail_rate": 0.0364,
+  "fails": 2,
+  "examples": [
+   "roger, fan pri",
+   "stand by one"
+  ]
+ },
+ "negation_unhandled": {
+  "testcases": 40,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "word_swap": {
+  "testcases": 103,
+  "fail_rate": 0.0194,
+  "fails": 2,
+  "examples": [
+   "houston, scrubber a- b scrubber's co2 storage at this moment",
+   "o2 on the backup bottle, percent"
+  ]
+ },
+ "inv_filler": {
+  "testcases": 269,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "inv_opener": {
+  "testcases": 269,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "inv_asr_noise": {
+  "testcases": 249,
+  "fail_rate": 0.1687,
+  "fails": 42,
+  "examples": [
+   [
+    "roger, sec- secondary fan",
+    "larger, sec- secondary send"
+   ],
+   [
+    "houston, charge level, primary, primary",
+    "used to, storage level, primary, primary"
+   ],
+   [
+    "houston, charge level, secondary, secondary",
+    "view them, storage level, secondary, secondary"
+   ],
+   [
+    "set nav for rover tracks",
+    "set enough for rover racks"
+   ],
+   [
+    "roger, t- temp?",
+    "logger, t- 10?"
+   ],
+   [
+    "the speed the fan is spinning at on the- the secondary",
+    "a speed for fan is spinning at on the- the secondary"
+   ],
+   [
+    "roger, uh, rpm primary",
+    "roger, are, off em primary"
+   ],
+   [
+    "roger, uh, rpm secondary",
+    "roger, uia, rtm secondary"
+   ],
+   [
+    "okay, um, gas reading needed",
+    "okay, on, gas reading neither"
+   ],
+   [
+    "can- can i get vitals up?",
+    "can- can i get light goals off?"
+   ],
+   [
+    "can- can i get this closed?",
+    "can- can hi get the closed?"
+   ],
+   [
+    "okay, sec- sec batt percent",
+    "okay, sec- sec that present"
+   ]
+  ]
+ },
+ "inv_contractions": {
+  "testcases": 40,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "inv_slot_swap": {
+  "testcases": 40,
+  "fail_rate": 0.05,
+  "fails": 2,
+  "examples": [
+   [
+    "okay, uh, check off plcd?",
+    "okay, uh, check off psmd?"
+   ],
+   [
+    "check off portable lunar camera teardown",
+    "check off psmd"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "report_unhandled": {
+  "testcases": 64,
+  "fail_rate": 0.125,
+  "fails": 8,
+  "examples": [
+   "ev1 verify umbilical connection from uia to dcu",
+   "batt umb",
+   "wait until suit pressure and o2 pressure equal 4",
+   "verify fan pri",
+   "verify pump close",
+   "verify oxy pri",
+   "roger, fan pri",
+   "don't reroute"
+  ]
+ },
+ "negation_unhandled": {
+  "testcases": 40,
+  "fail_rate": 0.625,
+  "fails": 25,
+  "examples": [
+   "don't put coolant gas psi up on the hud for me",
+   "don't put coolant liquid psi up on the hud for me",
+   "don't show coords for rover tracks",
+   "don't delete waypoint rover tracks now",
+   "don't show me coords- coords for white rock on the map please",
+   "don't set nav- nav to white rock and show me the path",
+   "don't add way- waypoint white rock where i'm standing right now",
+   "don't delete way- waypoint white rock off the map please",
+   "don't show me what pressure is in the- in the gas loop",
+   "don't mark it as finished, the egress, the egress",
+   "don't put coolant quantity up on the hud for me",
+   "don't read me the secondary oxygen percentage"
+  ]
+ },
+ "word_swap": {
+  "testcases": 103,
+  "fail_rate": 0.0291,
+  "fails": 3,
+  "examples": [
+   "roger, sec- primary fan",
+   "houston, scrubber a- b scrubber's co2 storage at this moment",
+   "primary fan"
+  ]
+ },
+ "inv_filler": {
+  "testcases": 269,
+  "fail_rate": 0.026,
+  "fails": 7,
+  "examples": [
+   [
+    "roger, prim- primary fan",
+    "roger, okay so, prim- primary fan"
+   ],
+   [
+    "map, uh, open",
+    "uh, uh, map, uh, open"
+   ],
+   [
+    "how's my air supply on primary",
+    "uh, uh, how's my air supply on primary"
+   ],
+   [
+    "roger, how's my co2 looking",
+    "roger, okay so, how's my co2 looking"
+   ],
+   [
+    "check the coolant reserve",
+    "uh, uh, check the coolant reserve"
+   ],
+   [
+    "close",
+    "uh, close"
+   ],
+   [
+    "mark this as steep slope",
+    "uh, mark this as steep slope"
+   ]
+  ]
+ },
+ "inv_opener": {
+  "testcases": 269,
+  "fail_rate": 0.026,
+  "fails": 7,
+  "examples": [
+   [
+    "roger, prim- primary fan",
+    "okay, prim- primary fan",
+    "houston, prim- primary fan"
+   ],
+   [
+    "map, uh, open",
+    "okay, map, uh, open",
+    "roger, map, uh, open"
+   ],
+   [
+    "uia, uh, open",
+    "okay, uia, uh, open",
+    "roger, uia, uh, open"
+   ],
+   [
+    "how's my air supply on primary",
+    "okay, how's my air supply on primary",
+    "roger, how's my air supply on primary"
+   ],
+   [
+    "check the coolant reserve",
+    "okay, check the coolant reserve",
+    "roger, check the coolant reserve"
+   ],
+   [
+    "okay, vitals up",
+    "roger, vitals up",
+    "houston, vitals up"
+   ],
+   [
+    "close",
+    "okay, close",
+    "roger, close"
+   ]
+  ]
+ },
+ "inv_asr_noise": {
+  "testcases": 248,
+  "fail_rate": 0.1935,
+  "fails": 48,
+  "examples": [
+   [
+    "roger, prim- primary fan",
+    "logger, prim- primary and"
+   ],
+   [
+    "roger, sec- secondary fan",
+    "logger, sec- secondary and"
+   ],
+   [
+    "roger, pri o2 tank psi",
+    "roger, pri o2 time sign"
+   ],
+   [
+    "roger, sec o2 tank psi",
+    "roger, sec o2 time sigh"
+   ],
+   [
+    "set nav for rover tracks",
+    "set knob for rover tracks"
+   ],
+   [
+    "okay, what's sec batt percent looking like after the long traverse",
+    "okay, what's sec that percent looking like after your long traverse"
+   ],
+   [
+    "roger, t- temp?",
+    "logger, t- 10?"
+   ],
+   [
+    "roger, secondary oxygen tank, read me the pressure when you can",
+    "roger, secondary oxygen time, read me of pressure when you can"
+   ],
+   [
+    "roger, uh, rpm primary",
+    "roger, err, rtm primary"
+   ],
+   [
+    "roger, uh, rpm secondary",
+    "roger, ah, rtm secondary"
+   ],
+   [
+    "roger, need trace gases",
+    "roger, knead raise gases"
+   ],
+   [
+    "can- can i get my tasks up?",
+    "can- can i get my chucks out of?"
+   ]
+  ]
+ },
+ "inv_contractions": {
+  "testcases": 40,
+  "fail_rate": 0.025,
+  "fails": 1,
+  "examples": [
+   [
+    "what's left in o2 tank number two",
+    "what is left in o2 tank number two"
+   ]
+  ]
+ },
+ "inv_slot_swap": {
+  "testcases": 40,
+  "fail_rate": 0.1,
+  "fails": 4,
+  "examples": [
+   [
+    "roger, head for the sample site",
+    "roger, head for the pin five"
+   ],
+   [
+    "route to rock pile",
+    "route to pin five"
+   ],
+   [
+    "mark this as steep slope",
+    "mark this as rim west"
+   ],
+   [
+    "check off portable lunar camera teardown",
+    "check off psmd"
+   ]
+  ]
+ }
+}

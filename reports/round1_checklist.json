@@ -1,0 +1,124 @@
+{
+ "report_unhandled": {
+  "testcases": 55,
+  "fail_rate": 0.0364,
+  "fails": 2,
+  "examples": [
+   "roger, fan pri",
+   "get a photo of the boulder"
+  ]
+ },
+ "negation_unhandled": {
+  "testcases": 40,
+  "fail_rate": 0.1,
+  "fails": 4,
+  "examples": [
+   "don't show me coords- coords for white rock on the map please",
+   "don't add way- waypoint white rock where i'm standing right now",
+   "don't delete way- waypoint white rock off the map please",
+   "don't show me what pressure is in the- in the gas loop"
+  ]
+ },
+ "word_swap": {
+  "testcases": 103,
+  "fail_rate": 0.0097,
+  "fails": 1,
+  "examples": [
+   "houston, scrubber a- b scrubber's co2 storage at this moment"
+  ]
+ },
+ "inv_filler": {
+  "testcases": 269,
+  "fail_rate": 0.0074,
+  "fails": 2,
+  "examples": [
+   [
+    "ppo2 in the suit",
+    "um, ppo2 in the suit"
+   ],
+   [
+    "okay, carbon dioxide level in my suit",
+    "okay, okay so, carbon dioxide level in my suit"
+   ]
+  ]
+ },
+ "inv_opener": {
+  "testcases": 269,
+  "fail_rate": 0.0037,
+  "fails": 1,
+  "examples": [
+   [
+    "ppo2 in the suit",
+    "okay, ppo2 in the suit",
+    "roger, ppo2 in the suit"
+   ]
+  ]
+ },
+ "inv_asr_noise": {
+  "testcases": 249,
+  "fail_rate": 0.1526,
+  "fails": 38,
+  "examples": [
+   [
+    "okay, uh, need temp",
+    "okay, a, need 10"
+   ],
+   [
+    "roger, sec- secondary fan",
+    "logger, sec- secondary send"
+   ],
+   [
+    "roger, b- bpm?",
+    "logger, b- bpm?"
+   ],
+   [
+    "roger, t- temp?",
+    "logger, t- 10?"
+   ],
+   [
+    "houston, redo nav- nav, i can't get through this way",
+    "fusion, redo knob- nav, i can't get through this way"
+   ],
+   [
+    "can- can i get vitals up?",
+    "can- can i get light goals out?"
+   ],
+   [
+    "can- can i get the map up?",
+    "can- can i get to map off?"
+   ],
+   [
+    "can- can i get my tasks up?",
+    "can- can i get my chucks out?"
+   ],
+   [
+    "map, uh, open",
+    "math, pough, open"
+   ],
+   [
+    "tasks, uh, open",
+    "chucks, pough, open"
+   ],
+   [
+    "okay, i'm gonna need the- the page closed before we start the hike",
+    "okay, i'm gonna knead to- the page closed before we start the hike"
+   ],
+   [
+    "okay, uh, display pri psi",
+    "okay, o2, display pri c"
+   ]
+  ]
+ },
+ "inv_contractions": {
+  "testcases": 40,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ },
+ "inv_slot_swap": {
+  "testcases": 40,
+  "fail_rate": 0.0,
+  "fails": 0,
+  "examples": []
+ }
+}

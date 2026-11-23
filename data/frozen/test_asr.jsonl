@@ -1,0 +1,382 @@
+{"id": "test-get_oxy_pri_storage-04", "asr": "I'm, I'm getting a little winded, how's my oxygen?", "voice": "Samantha", "rate": 160, "snr": 11.0, "link": "cable", "avg_logprob": -0.096, "no_speech_prob": 0.005}
+{"id": "test-get_oxy_pri_storage-05", "asr": "Primary tank, how full is it on oxygen?", "voice": "Tessa", "rate": 209, "snr": 19.6, "link": "cable", "avg_logprob": -0.105, "no_speech_prob": 0.004}
+{"id": "test-get_oxy_pri_storage-06", "asr": "Give me O2 primary.", "voice": "Tessa", "rate": 167, "snr": 18.9, "link": "wifi", "avg_logprob": -0.167, "no_speech_prob": 0.016}
+{"id": "test-get_oxy_pri_storage-07", "asr": "Ok, oxygen remaining, primary.", "voice": "Fred", "rate": 207, "snr": 16.8, "link": "wifi", "avg_logprob": -0.168, "no_speech_prob": 0.031}
+{"id": "test-get_oxy_pri_storage-00", "asr": "OK, Houston, what's primary O2 at?", "voice": "Ralph", "rate": 211, "snr": 10.5, "link": "wifi", "avg_logprob": -0.305, "no_speech_prob": 0.073}
+{"id": "test-get_oxy_pri_storage-01", "asr": "Roger, how much oxygen do I have left in the maintain?", "voice": "Karen", "rate": 190, "snr": 7.6, "link": "cable", "avg_logprob": -0.079, "no_speech_prob": 0.002}
+{"id": "test-get_oxy_pri_storage-02", "asr": "PREO 2%", "voice": "Moira", "rate": 217, "snr": 9.4, "link": "cable", "avg_logprob": -0.548, "no_speech_prob": 0.026}
+{"id": "test-get_oxy_pri_storage-03", "asr": "Huh, check my primary oxygen level.", "voice": "Junior", "rate": 168, "snr": 17.8, "link": "wifi", "avg_logprob": -0.215, "no_speech_prob": 0.021}
+{"id": "test-get_oxy_pri_storage-08", "asr": "1% is the first O2 tank showing.", "voice": "Tessa", "rate": 208, "snr": 6.6, "link": "wifi", "avg_logprob": -0.147, "no_speech_prob": 0.016}
+{"id": "test-get_oxy_pri_storage-09", "asr": "Need my oxygen number, primary side.", "voice": "Daniel", "rate": 228, "snr": 18.8, "link": "wifi", "avg_logprob": -0.073, "no_speech_prob": 0.012}
+{"id": "test-get_oxy_sec_storage-00", "asr": "Roger and the secretary O2 was that redane.", "voice": "Junior", "rate": 213, "snr": 19.9, "link": "cable", "avg_logprob": -0.4, "no_speech_prob": 0.015}
+{"id": "test-get_oxy_sec_storage-01", "asr": "How much is left in the backup oxygen tank?", "voice": "Tessa", "rate": 210, "snr": 15.7, "link": "cable", "avg_logprob": -0.04, "no_speech_prob": 0.005}
+{"id": "test-get_oxy_sec_storage-02", "asr": "Succo 2%.", "voice": "Moira", "rate": 185, "snr": 6.9, "link": "cable", "avg_logprob": -0.586, "no_speech_prob": 0.057}
+{"id": "test-get_oxy_sec_storage-03", "asr": "Okay, check secondary oxygen for me.", "voice": "Fred", "rate": 218, "snr": 10.9, "link": "cable", "avg_logprob": -0.413, "no_speech_prob": 0.085}
+{"id": "test-get_oxy_sec_storage-04", "asr": "What's time two and four oxygen?", "voice": "Daniel", "rate": 193, "snr": 10.8, "link": "wifi", "avg_logprob": -0.448, "no_speech_prob": 0.048}
+{"id": "test-get_oxy_sec_storage-05", "asr": "Use the earth, secondary or city level, please.", "voice": "Kathy", "rate": 226, "snr": 6.8, "link": "cable", "avg_logprob": -0.621, "no_speech_prob": 0.059}
+{"id": "test-get_oxy_sec_storage-06", "asr": "Second O2 tank, half full.", "voice": "Karen", "rate": 181, "snr": 15.4, "link": "cable", "avg_logprob": -0.231, "no_speech_prob": 0.007}
+{"id": "test-get_oxy_sec_storage-07", "asr": "I learned that I can't afford to remember.", "voice": "Kathy", "rate": 234, "snr": 8.5, "link": "cable", "avg_logprob": -0.696, "no_speech_prob": 0.035}
+{"id": "test-get_oxy_sec_storage-08", "asr": "Ok, oxygen on the secondary, what do we have?", "voice": "Samantha", "rate": 183, "snr": 15.2, "link": "wifi", "avg_logprob": -0.119, "no_speech_prob": 0.01}
+{"id": "test-get_oxy_sec_storage-09", "asr": "How's the secondary oxygen holding up?", "voice": "Daniel", "rate": 223, "snr": 6.8, "link": "cable", "avg_logprob": -0.037, "no_speech_prob": 0.015}
+{"id": "test-get_oxy_pri_pressure-00", "asr": "Primary oxygen bottle pressure.", "voice": "Karen", "rate": 210, "snr": 14.8, "link": "cable", "avg_logprob": -0.145, "no_speech_prob": 0.003}
+{"id": "test-get_oxy_pri_pressure-01", "asr": "Okay, what's the sign on the main O2-10?", "voice": "Samantha", "rate": 164, "snr": 5.3, "link": "cable", "avg_logprob": -0.274, "no_speech_prob": 0.031}
+{"id": "test-get_oxy_pri_pressure-02", "asr": "Roger, give me type 1 pressure.", "voice": "Ralph", "rate": 216, "snr": 15.6, "link": "wifi", "avg_logprob": -0.281, "no_speech_prob": 0.018}
+{"id": "test-get_oxy_pri_pressure-03", "asr": "How much pressure is in the primary O2?", "voice": "Tessa", "rate": 202, "snr": 16.5, "link": "cable", "avg_logprob": -0.024, "no_speech_prob": 0.005}
+{"id": "test-get_oxy_pri_pressure-04", "asr": "CO2 side.", "voice": "Rishi", "rate": 160, "snr": 9.8, "link": "cable", "avg_logprob": -0.828, "no_speech_prob": 0.246}
+{"id": "test-get_oxy_pri_pressure-05", "asr": "Ah, check pressure on the primary oxygen bottle.", "voice": "Samantha", "rate": 228, "snr": 6.1, "link": "wifi", "avg_logprob": -0.13, "no_speech_prob": 0.007}
+{"id": "test-get_oxy_pri_pressure-06", "asr": "Houston, what is primary time pressure reading?", "voice": "Ralph", "rate": 197, "snr": 9.0, "link": "wifi", "avg_logprob": -0.503, "no_speech_prob": 0.052}
+{"id": "test-get_oxy_pri_pressure-07", "asr": "Oxygen tank pressure", "voice": "Samantha", "rate": 219, "snr": 9.8, "link": "cable", "avg_logprob": -0.171, "no_speech_prob": 0.022}
+{"id": "test-get_oxy_pri_pressure-08", "asr": "As the primary oxygen paints still above 3,000 psi.", "voice": "Ralph", "rate": 177, "snr": 10.7, "link": "wifi", "avg_logprob": -0.452, "no_speech_prob": 0.054}
+{"id": "test-get_oxy_pri_pressure-09", "asr": "Need primary O2 pressure.", "voice": "Rishi", "rate": 160, "snr": 16.4, "link": "cable", "avg_logprob": -0.243, "no_speech_prob": 0.019}
+{"id": "test-get_oxy_sec_pressure-00", "asr": "Secondary oxygen final pressure.", "voice": "Fred", "rate": 180, "snr": 14.0, "link": "cable", "avg_logprob": -0.536, "no_speech_prob": 0.035}
+{"id": "test-get_oxy_sec_pressure-01", "asr": "Okay, side on the backup O2 tank.", "voice": "Rishi", "rate": 184, "snr": 7.7, "link": "wifi", "avg_logprob": -0.418, "no_speech_prob": 0.103}
+{"id": "test-get_oxy_sec_pressure-02", "asr": "Roger, time to pressure please.", "voice": "Moira", "rate": 208, "snr": 18.2, "link": "wifi", "avg_logprob": -0.176, "no_speech_prob": 0.018}
+{"id": "test-get_oxy_sec_pressure-03", "asr": "Set, O2, side.", "voice": "Junior", "rate": 185, "snr": 19.4, "link": "cable", "avg_logprob": -1.011, "no_speech_prob": 0.039}
+{"id": "test-get_oxy_sec_pressure-04", "asr": "What's the pressure in the secondary oxygen bottle?", "voice": "Rishi", "rate": 206, "snr": 9.7, "link": "cable", "avg_logprob": -0.061, "no_speech_prob": 0.036}
+{"id": "test-get_oxy_sec_pressure-05", "asr": "Ah, secondary tang, what's it reading for pressure?", "voice": "Daniel", "rate": 205, "snr": 12.1, "link": "wifi", "avg_logprob": -0.278, "no_speech_prob": 0.023}
+{"id": "test-get_oxy_sec_pressure-06", "asr": "Check the second O2 tank's pressure.", "voice": "Rishi", "rate": 171, "snr": 17.8, "link": "wifi", "avg_logprob": -0.077, "no_speech_prob": 0.033}
+{"id": "test-get_oxy_sec_pressure-07", "asr": "Houston, I need secondary oxygen pressure.", "voice": "Moira", "rate": 175, "snr": 9.0, "link": "cable", "avg_logprob": -0.05, "no_speech_prob": 0.009}
+{"id": "test-get_oxy_sec_pressure-08", "asr": "How many C in the backup oxygen tank?", "voice": "Tessa", "rate": 161, "snr": 17.4, "link": "cable", "avg_logprob": -0.15, "no_speech_prob": 0.01}
+{"id": "test-get_oxy_sec_pressure-09", "asr": "Pressure on secondary O2.", "voice": "Fred", "rate": 226, "snr": 15.0, "link": "wifi", "avg_logprob": -0.23, "no_speech_prob": 0.023}
+{"id": "test-get_oxy_consumption-00", "asr": "How fast am I burning through oxygen?", "voice": "Tessa", "rate": 199, "snr": 12.2, "link": "wifi", "avg_logprob": -0.082, "no_speech_prob": 0.023}
+{"id": "test-get_oxy_consumption-01", "asr": "Okay, what's my O2 consumption rate?", "voice": "Ralph", "rate": 169, "snr": 18.4, "link": "wifi", "avg_logprob": -0.146, "no_speech_prob": 0.016}
+{"id": "test-get_oxy_consumption-02", "asr": "Roger, oxygen use rate.", "voice": "Moira", "rate": 164, "snr": 6.3, "link": "cable", "avg_logprob": -0.241, "no_speech_prob": 0.011}
+{"id": "test-get_oxy_consumption-03", "asr": "Am I using oxygen faster than plants?", "voice": "Rishi", "rate": 222, "snr": 10.2, "link": "wifi", "avg_logprob": -0.173, "no_speech_prob": 0.065}
+{"id": "test-get_oxy_consumption-04", "asr": "O2 burn rate.", "voice": "Fred", "rate": 181, "snr": 14.3, "link": "wifi", "avg_logprob": -0.179, "no_speech_prob": 0.079}
+{"id": "test-get_oxy_consumption-05", "asr": "Houston, how quickly am I consuming oxygen right now?", "voice": "Rishi", "rate": 218, "snr": 8.0, "link": "wifi", "avg_logprob": -0.046, "no_speech_prob": 0.02}
+{"id": "test-get_oxy_consumption-06", "asr": "What's the oxygen consumption?", "voice": "Daniel", "rate": 200, "snr": 5.2, "link": "cable", "avg_logprob": -0.041, "no_speech_prob": 0.031}
+{"id": "test-get_oxy_consumption-07", "asr": "Huh, check how much O2 I'm using per minute.", "voice": "Daniel", "rate": 201, "snr": 16.3, "link": "wifi", "avg_logprob": -0.209, "no_speech_prob": 0.017}
+{"id": "test-get_oxy_consumption-08", "asr": "Give me my oxygen consumption.", "voice": "Ralph", "rate": 226, "snr": 17.2, "link": "cable", "avg_logprob": -0.116, "no_speech_prob": 0.029}
+{"id": "test-get_oxy_consumption-09", "asr": "I'm breathing hard, what's the O2 usage rate?", "voice": "Fred", "rate": 227, "snr": 6.8, "link": "wifi", "avg_logprob": -0.178, "no_speech_prob": 0.031}
+{"id": "test-get_suit_pressure_oxy-00", "asr": "Suit PPO 2.", "voice": "Moira", "rate": 202, "snr": 17.9, "link": "wifi", "avg_logprob": -0.439, "no_speech_prob": 0.017}
+{"id": "test-get_suit_pressure_oxy-01", "asr": "Ok, oxygen partial pressure in the suit.", "voice": "Rishi", "rate": 216, "snr": 6.6, "link": "wifi", "avg_logprob": -0.316, "no_speech_prob": 0.198}
+{"id": "test-get_suit_pressure_oxy-02", "asr": "Roger, what's my PPO2?", "voice": "Ralph", "rate": 198, "snr": 13.3, "link": "cable", "avg_logprob": -0.194, "no_speech_prob": 0.03}
+{"id": "test-get_suit_pressure_oxy-03", "asr": "Partial pressure of O2, CO2.", "voice": "Samantha", "rate": 217, "snr": 7.5, "link": "wifi", "avg_logprob": -0.266, "no_speech_prob": 0.048}
+{"id": "test-get_suit_pressure_oxy-04", "asr": "UH, check through the oxygen partial pressure.", "voice": "Ralph", "rate": 195, "snr": 14.5, "link": "wifi", "avg_logprob": -0.915, "no_speech_prob": 0.092}
+{"id": "test-get_suit_pressure_oxy-05", "asr": "Fused to watch the O2 partial pressure inside the suit.", "voice": "Ralph", "rate": 220, "snr": 15.2, "link": "cable", "avg_logprob": -0.312, "no_speech_prob": 0.052}
+{"id": "test-get_suit_pressure_oxy-06", "asr": "O2, CO2.", "voice": "Kathy", "rate": 203, "snr": 6.2, "link": "wifi", "avg_logprob": -0.805, "no_speech_prob": 0.145}
+{"id": "test-get_suit_pressure_oxy-07", "asr": "How much oxygen partial pressure am I having to suit?", "voice": "Kathy", "rate": 232, "snr": 16.5, "link": "wifi", "avg_logprob": -0.142, "no_speech_prob": 0.017}
+{"id": "test-get_suit_pressure_oxy-08", "asr": "Suit O2 pressure.", "voice": "Tessa", "rate": 202, "snr": 7.1, "link": "cable", "avg_logprob": -0.146, "no_speech_prob": 0.025}
+{"id": "test-get_suit_pressure_oxy-09", "asr": "What's the oxygen pressure reading inside my suit?", "voice": "Moira", "rate": 212, "snr": 14.7, "link": "wifi", "avg_logprob": -0.043, "no_speech_prob": 0.005}
+{"id": "test-get_suit_pressure_co2-00", "asr": "CO2 reading.", "voice": "Tessa", "rate": 174, "snr": 9.9, "link": "cable", "avg_logprob": -0.232, "no_speech_prob": 0.036}
+{"id": "test-get_suit_pressure_co2-01", "asr": "Okay, what's the carbon dioxide in my suit?", "voice": "Junior", "rate": 207, "snr": 14.1, "link": "wifi", "avg_logprob": -0.134, "no_speech_prob": 0.044}
+{"id": "test-get_suit_pressure_co2-02", "asr": "Roger, suit, CO2.", "voice": "Fred", "rate": 168, "snr": 12.2, "link": "cable", "avg_logprob": -0.454, "no_speech_prob": 0.053}
+{"id": "test-get_suit_pressure_co2-03", "asr": "PPC O2.", "voice": "Samantha", "rate": 224, "snr": 6.2, "link": "cable", "avg_logprob": -0.616, "no_speech_prob": 0.184}
+{"id": "test-get_suit_pressure_co2-08", "asr": "Suit CO2 partial pressure.", "voice": "Rishi", "rate": 214, "snr": 19.9, "link": "cable", "avg_logprob": -0.13, "no_speech_prob": 0.015}
+{"id": "test-get_suit_pressure_co2-09", "asr": "Leave CO2 pressure for the suit.", "voice": "Junior", "rate": 195, "snr": 17.0, "link": "wifi", "avg_logprob": -0.339, "no_speech_prob": 0.041}
+{"id": "test-get_suit_pressure_other-00", "asr": "Trace gas number.", "voice": "Tessa", "rate": 161, "snr": 12.0, "link": "cable", "avg_logprob": -0.2, "no_speech_prob": 0.02}
+{"id": "test-get_suit_pressure_other-01", "asr": "Okay, what are the other guesses at in the suit?", "voice": "Tessa", "rate": 215, "snr": 15.0, "link": "wifi", "avg_logprob": -0.211, "no_speech_prob": 0.016}
+{"id": "test-get_suit_pressure_co2-04", "asr": "Ah, check carbon dioxide partial pressure in the suit.", "voice": "Kathy", "rate": 222, "snr": 18.7, "link": "wifi", "avg_logprob": -0.225, "no_speech_prob": 0.023}
+{"id": "test-get_suit_pressure_co2-05", "asr": "How much CO2 is in the zoo right now?", "voice": "Junior", "rate": 197, "snr": 6.5, "link": "cable", "avg_logprob": -0.18, "no_speech_prob": 0.04}
+{"id": "test-get_suit_pressure_co2-06", "asr": "Houston, through carbon dioxide reading.", "voice": "Samantha", "rate": 200, "snr": 12.3, "link": "cable", "avg_logprob": -0.486, "no_speech_prob": 0.009}
+{"id": "test-get_suit_pressure_co2-07", "asr": "I've got a headache, what's my code to us?", "voice": "Moira", "rate": 225, "snr": 13.1, "link": "wifi", "avg_logprob": -0.085, "no_speech_prob": 0.003}
+{"id": "test-get_suit_pressure_other-02", "asr": "Roger, Sootray's gas.", "voice": "Samantha", "rate": 221, "snr": 9.6, "link": "wifi", "avg_logprob": -0.673, "no_speech_prob": 0.036}
+{"id": "test-get_suit_pressure_other-03", "asr": "Check color gas parcel pressure.", "voice": "Ralph", "rate": 182, "snr": 5.4, "link": "cable", "avg_logprob": -0.589, "no_speech_prob": 0.042}
+{"id": "test-get_suit_pressure_other-04", "asr": "Oh, pressure of the other gases.", "voice": "Ralph", "rate": 207, "snr": 16.2, "link": "cable", "avg_logprob": -0.338, "no_speech_prob": 0.027}
+{"id": "test-get_suit_pressure_other-05", "asr": "Houston, trace guesses in my suit, what's the number?", "voice": "Tessa", "rate": 174, "snr": 14.6, "link": "cable", "avg_logprob": -0.063, "no_speech_prob": 0.013}
+{"id": "test-get_suit_pressure_total-00", "asr": "How's the suit holding pressure?", "voice": "Rishi", "rate": 179, "snr": 11.5, "link": "cable", "avg_logprob": -0.165, "no_speech_prob": 0.019}
+{"id": "test-get_suit_pressure_total-01", "asr": "Okay, total suit pressure.", "voice": "Daniel", "rate": 225, "snr": 18.9, "link": "cable", "avg_logprob": -0.288, "no_speech_prob": 0.018}
+{"id": "test-get_suit_pressure_total-02", "asr": "Roger, soopy.", "voice": "Junior", "rate": 176, "snr": 16.8, "link": "cable", "avg_logprob": -0.816, "no_speech_prob": 0.057}
+{"id": "test-get_suit_pressure_total-03", "asr": "Overall through pressure.", "voice": "Rishi", "rate": 228, "snr": 12.0, "link": "wifi", "avg_logprob": -0.376, "no_speech_prob": 0.258}
+{"id": "test-get_suit_pressure_other-06", "asr": "What's the food pressure from other gases?", "voice": "Karen", "rate": 197, "snr": 6.7, "link": "wifi", "avg_logprob": -0.21, "no_speech_prob": 0.025}
+{"id": "test-get_suit_pressure_other-07", "asr": "Need the trace gas reading.", "voice": "Tessa", "rate": 178, "snr": 9.5, "link": "wifi", "avg_logprob": -0.207, "no_speech_prob": 0.022}
+{"id": "test-get_suit_pressure_other-08", "asr": "Other gas pressure, soothe.", "voice": "Rishi", "rate": 207, "snr": 14.2, "link": "wifi", "avg_logprob": -0.298, "no_speech_prob": 0.025}
+{"id": "test-get_suit_pressure_other-09", "asr": "How much trace gases in the soo?", "voice": "Samantha", "rate": 189, "snr": 14.8, "link": "wifi", "avg_logprob": -0.376, "no_speech_prob": 0.026}
+{"id": "test-get_suit_pressure_total-04", "asr": "Houston, what's total pressure in pursuit?", "voice": "Tessa", "rate": 206, "snr": 6.3, "link": "cable", "avg_logprob": -0.256, "no_speech_prob": 0.031}
+{"id": "test-get_suit_pressure_total-05", "asr": "Is my suit pressure still at four?", "voice": "Ralph", "rate": 184, "snr": 11.4, "link": "wifi", "avg_logprob": -0.428, "no_speech_prob": 0.044}
+{"id": "test-get_suit_pressure_total-06", "asr": "Suit pressure reading, please.", "voice": "Ralph", "rate": 200, "snr": 10.3, "link": "wifi", "avg_logprob": -0.536, "no_speech_prob": 0.023}
+{"id": "test-get_suit_pressure_total-07", "asr": "Pressure.", "voice": "Fred", "rate": 197, "snr": 18.9, "link": "cable", "avg_logprob": -0.31, "no_speech_prob": 0.036}
+{"id": "test-get_suit_pressure_total-08", "asr": "Check total pressure.", "voice": "Ralph", "rate": 180, "snr": 13.0, "link": "wifi", "avg_logprob": -0.108, "no_speech_prob": 0.028}
+{"id": "test-get_suit_pressure_total-09", "asr": "I need my suits overall pressure.", "voice": "Rishi", "rate": 224, "snr": 16.2, "link": "wifi", "avg_logprob": -0.06, "no_speech_prob": 0.031}
+{"id": "test-get_helmet_pressure_co2-00", "asr": "CO2 in the helmet, what's it reading?", "voice": "Karen", "rate": 171, "snr": 14.1, "link": "wifi", "avg_logprob": -0.123, "no_speech_prob": 0.002}
+{"id": "test-get_helmet_pressure_co2-01", "asr": "O2, CO2, CO2, CO2, CO2, CO2,", "voice": "Kathy", "rate": 230, "snr": 8.8, "link": "cable", "avg_logprob": -0.471, "no_speech_prob": 0.079}
+{"id": "test-get_helmet_pressure_co2-02", "asr": "Roger, what's the call to up in my helmet?", "voice": "Fred", "rate": 184, "snr": 6.5, "link": "wifi", "avg_logprob": -0.198, "no_speech_prob": 0.019}
+{"id": "test-get_helmet_pressure_co2-03", "asr": "Up, helmet CO2 pressure.", "voice": "Daniel", "rate": 183, "snr": 9.9, "link": "wifi", "avg_logprob": -0.407, "no_speech_prob": 0.043}
+{"id": "test-get_helmet_pressure_co2-04", "asr": "How much carbon dioxide is building up in the helmet?", "voice": "Karen", "rate": 188, "snr": 6.8, "link": "wifi", "avg_logprob": -0.015, "no_speech_prob": 0.016}
+{"id": "test-get_helmet_pressure_co2-05", "asr": "Houston, helmet CO2 number.", "voice": "Samantha", "rate": 206, "snr": 17.5, "link": "cable", "avg_logprob": -0.132, "no_speech_prob": 0.009}
+{"id": "test-get_helmet_pressure_co2-06", "asr": "Check CO2 pressure inside the helmet.", "voice": "Rishi", "rate": 208, "snr": 15.7, "link": "cable", "avg_logprob": -0.158, "no_speech_prob": 0.038}
+{"id": "test-get_helmet_pressure_co2-07", "asr": "Pelvic O2 partial pressure", "voice": "Moira", "rate": 227, "snr": 6.1, "link": "cable", "avg_logprob": -0.529, "no_speech_prob": 0.027}
+{"id": "test-get_helmet_pressure_co2-08", "asr": "I'm feeling stealthy, what's the helmet code 2?", "voice": "Junior", "rate": 233, "snr": 11.0, "link": "wifi", "avg_logprob": -0.659, "no_speech_prob": 0.074}
+{"id": "test-get_helmet_pressure_co2-09", "asr": "Need the helmets, carbon dioxide reading.", "voice": "Ralph", "rate": 191, "snr": 15.1, "link": "wifi", "avg_logprob": -0.424, "no_speech_prob": 0.018}
+{"id": "test-get_co2_production-00", "asr": "How much CO2 am I producing?", "voice": "Samantha", "rate": 181, "snr": 10.4, "link": "cable", "avg_logprob": -0.028, "no_speech_prob": 0.011}
+{"id": "test-get_co2_production-01", "asr": "Ok, carbon dioxide production.", "voice": "Rishi", "rate": 217, "snr": 12.0, "link": "cable", "avg_logprob": -0.317, "no_speech_prob": 0.1}
+{"id": "test-get_co2_production-02", "asr": "Roger, what's my CO2 output raid?", "voice": "Karen", "rate": 175, "snr": 8.5, "link": "cable", "avg_logprob": -0.22, "no_speech_prob": 0.01}
+{"id": "test-get_co2_production-03", "asr": "CO2 generation rates.", "voice": "Moira", "rate": 220, "snr": 12.2, "link": "wifi", "avg_logprob": -0.36, "no_speech_prob": 0.017}
+{"id": "test-get_co2_production-04", "asr": "Huh, how fast am I making carbon dioxide?", "voice": "Junior", "rate": 176, "snr": 14.9, "link": "wifi", "avg_logprob": -0.193, "no_speech_prob": 0.033}
+{"id": "test-get_co2_production-05", "asr": "Houston, check my CO2 production.", "voice": "Tessa", "rate": 214, "snr": 9.5, "link": "cable", "avg_logprob": -0.421, "no_speech_prob": 0.024}
+{"id": "test-get_co2_production-06", "asr": "How much CO2 am I exhaling per minute?", "voice": "Daniel", "rate": 160, "snr": 19.6, "link": "wifi", "avg_logprob": -0.042, "no_speech_prob": 0.009}
+{"id": "test-get_co2_production-07", "asr": "Need go to production numbers.", "voice": "Rishi", "rate": 211, "snr": 9.9, "link": "cable", "avg_logprob": -0.217, "no_speech_prob": 0.047}
+{"id": "test-get_co2_production-08", "asr": "What rate is my body making, CO2?", "voice": "Samantha", "rate": 174, "snr": 7.4, "link": "wifi", "avg_logprob": -0.141, "no_speech_prob": 0.005}
+{"id": "test-get_co2_production-09", "asr": "My Pro II production, well, that's it.", "voice": "Kathy", "rate": 164, "snr": 12.8, "link": "cable", "avg_logprob": -0.464, "no_speech_prob": 0.024}
+{"id": "test-get_scrubber_a_co2_storage-00", "asr": "Scrubber A, how full is it?", "voice": "Junior", "rate": 169, "snr": 19.7, "link": "cable", "avg_logprob": -0.33, "no_speech_prob": 0.007}
+{"id": "test-get_scrubber_a_co2_storage-01", "asr": "O3, CO2's knowledge on scrubber, Alvin.", "voice": "Kathy", "rate": 211, "snr": 5.1, "link": "wifi", "avg_logprob": -0.509, "no_speech_prob": 0.05}
+{"id": "test-get_scrubber_a_co2_storage-02", "asr": "Roger, scrubber at capacity.", "voice": "Ralph", "rate": 209, "snr": 17.0, "link": "wifi", "avg_logprob": -0.192, "no_speech_prob": 0.018}
+{"id": "test-get_scrubber_a_co2_storage-03", "asr": "How much CO2 has rubber ones all tough?", "voice": "Ralph", "rate": 219, "snr": 8.5, "link": "cable", "avg_logprob": -0.388, "no_speech_prob": 0.041}
+{"id": "test-get_scrubber_a_co2_storage-04", "asr": "Huh, check via scrubber.", "voice": "Daniel", "rate": 161, "snr": 8.7, "link": "cable", "avg_logprob": -0.257, "no_speech_prob": 0.048}
+{"id": "test-get_scrubber_a_co2_storage-05", "asr": "Houston, what scrubber at?", "voice": "Samantha", "rate": 220, "snr": 19.7, "link": "wifi", "avg_logprob": -0.117, "no_speech_prob": 0.03}
+{"id": "test-get_scrubber_a_co2_storage-06", "asr": "Scrubber status.", "voice": "Ralph", "rate": 216, "snr": 9.4, "link": "cable", "avg_logprob": -0.194, "no_speech_prob": 0.09}
+{"id": "test-get_scrubber_a_co2_storage-07", "asr": "Is scrubber alpha getting saturated?", "voice": "Daniel", "rate": 215, "snr": 18.0, "link": "wifi", "avg_logprob": -0.265, "no_speech_prob": 0.011}
+{"id": "test-get_scrubber_a_co2_storage-08", "asr": "Scrubber a CO2 level.", "voice": "Fred", "rate": 207, "snr": 11.9, "link": "cable", "avg_logprob": -0.669, "no_speech_prob": 0.016}
+{"id": "test-get_scrubber_a_co2_storage-09", "asr": "Need the CO2 storage reading for scrubber, eh?", "voice": "Ralph", "rate": 232, "snr": 10.1, "link": "cable", "avg_logprob": -0.371, "no_speech_prob": 0.025}
+{"id": "test-get_scrubber_b_co2_storage-00", "asr": "Scrubber be helpful.", "voice": "Ralph", "rate": 181, "snr": 12.2, "link": "wifi", "avg_logprob": -0.297, "no_speech_prob": 0.035}
+{"id": "test-get_scrubber_b_co2_storage-01", "asr": "Ok, CO2 storage on scrubber bravo.", "voice": "Rishi", "rate": 230, "snr": 10.7, "link": "cable", "avg_logprob": -0.248, "no_speech_prob": 0.049}
+{"id": "test-get_scrubber_b_co2_storage-02", "asr": "Roger, scrubber B capacity.", "voice": "Moira", "rate": 233, "snr": 18.5, "link": "wifi", "avg_logprob": -0.203, "no_speech_prob": 0.01}
+{"id": "test-get_scrubber_b_co2_storage-03", "asr": "How much CO2 is in scrubber 2?", "voice": "Rishi", "rate": 222, "snr": 17.9, "link": "cable", "avg_logprob": -0.167, "no_speech_prob": 0.019}
+{"id": "test-get_scrubber_b_co2_storage-04", "asr": "Eh, check the Bravo scrubber.", "voice": "Moira", "rate": 214, "snr": 16.1, "link": "wifi", "avg_logprob": -0.317, "no_speech_prob": 0.037}
+{"id": "test-get_scrubber_b_co2_storage-05", "asr": "Houston, what scrubber be reading?", "voice": "Samantha", "rate": 214, "snr": 17.2, "link": "cable", "avg_logprob": -0.099, "no_speech_prob": 0.011}
+{"id": "test-get_scrubber_b_co2_storage-06", "asr": "As the piece scrubber flows to full.", "voice": "Junior", "rate": 218, "snr": 5.2, "link": "cable", "avg_logprob": -0.397, "no_speech_prob": 0.071}
+{"id": "test-get_scrubber_b_co2_storage-07", "asr": "Scrubber beat O2 level.", "voice": "Daniel", "rate": 231, "snr": 6.9, "link": "cable", "avg_logprob": -0.385, "no_speech_prob": 0.01}
+{"id": "test-get_scrubber_b_co2_storage-08", "asr": "Need scrubber Bravo storage.", "voice": "Samantha", "rate": 231, "snr": 18.2, "link": "wifi", "avg_logprob": -0.513, "no_speech_prob": 0.036}
+{"id": "test-get_scrubber_b_co2_storage-09", "asr": "Switching to be soon, how scrubber be located.", "voice": "Junior", "rate": 178, "snr": 16.9, "link": "cable", "avg_logprob": -0.191, "no_speech_prob": 0.022}
+{"id": "test-get_temperature-00", "asr": "What's the temperature in my food?", "voice": "Karen", "rate": 227, "snr": 8.5, "link": "cable", "avg_logprob": -0.145, "no_speech_prob": 0.009}
+{"id": "test-get_temperature-01", "asr": "Okay, Suit internal temp.", "voice": "Daniel", "rate": 228, "snr": 14.0, "link": "cable", "avg_logprob": -0.3, "no_speech_prob": 0.018}
+{"id": "test-get_temperature-02", "asr": "Roger, how warm is it in here?", "voice": "Daniel", "rate": 190, "snr": 17.0, "link": "wifi", "avg_logprob": -0.037, "no_speech_prob": 0.012}
+{"id": "test-get_temperature-03", "asr": "I'm sweating, what's the suit temperature?", "voice": "Moira", "rate": 216, "snr": 17.1, "link": "wifi", "avg_logprob": -0.124, "no_speech_prob": 0.004}
+{"id": "test-get_temperature-04", "asr": "Oh, temperature check.", "voice": "Fred", "rate": 231, "snr": 9.8, "link": "cable", "avg_logprob": -0.394, "no_speech_prob": 0.051}
+{"id": "test-get_temperature-05", "asr": "Houston, what's my suit reading for temperature?", "voice": "Moira", "rate": 214, "snr": 15.5, "link": "cable", "avg_logprob": -0.051, "no_speech_prob": 0.005}
+{"id": "test-get_temperature-06", "asr": "Is it getting hard inside the suit?", "voice": "Ralph", "rate": 190, "snr": 17.2, "link": "cable", "avg_logprob": -0.233, "no_speech_prob": 0.042}
+{"id": "test-get_temperature-07", "asr": "Impressive.", "voice": "Rishi", "rate": 234, "snr": 8.7, "link": "wifi", "avg_logprob": -0.832, "no_speech_prob": 0.155}
+{"id": "test-get_temperature-08", "asr": "How cold is it inside my food?", "voice": "Karen", "rate": 232, "snr": 14.6, "link": "wifi", "avg_logprob": -0.02, "no_speech_prob": 0.005}
+{"id": "test-get_temperature-09", "asr": "Need the internal temperature.", "voice": "Rishi", "rate": 215, "snr": 9.7, "link": "cable", "avg_logprob": -0.186, "no_speech_prob": 0.046}
+{"id": "test-get_coolant_storage-00", "asr": "How much coolant has left.", "voice": "Ralph", "rate": 164, "snr": 8.0, "link": "cable", "avg_logprob": -0.141, "no_speech_prob": 0.014}
+{"id": "test-get_coolant_storage-01", "asr": "Okay, cool, install it.", "voice": "Kathy", "rate": 168, "snr": 5.1, "link": "wifi", "avg_logprob": -0.45, "no_speech_prob": 0.045}
+{"id": "test-get_coolant_storage-02", "asr": "Roger, fully reserved percent.", "voice": "Kathy", "rate": 224, "snr": 16.9, "link": "wifi", "avg_logprob": -0.316, "no_speech_prob": 0.016}
+{"id": "test-get_coolant_storage-03", "asr": "Coolant.", "voice": "Junior", "rate": 184, "snr": 19.0, "link": "cable", "avg_logprob": -0.583, "no_speech_prob": 0.108}
+{"id": "test-get_coolant_storage-04", "asr": "Oh, check my coolant supply.", "voice": "Samantha", "rate": 200, "snr": 9.9, "link": "wifi", "avg_logprob": -0.258, "no_speech_prob": 0.018}
+{"id": "test-get_coolant_storage-05", "asr": "Houston, what the coolant tank had.", "voice": "Junior", "rate": 199, "snr": 11.3, "link": "cable", "avg_logprob": -0.286, "no_speech_prob": 0.016}
+{"id": "test-get_coolant_storage-06", "asr": "Is my coolant running low?", "voice": "Rishi", "rate": 191, "snr": 16.3, "link": "wifi", "avg_logprob": -0.285, "no_speech_prob": 0.043}
+{"id": "test-get_coolant_storage-07", "asr": "Cooling remaining.", "voice": "Ralph", "rate": 208, "snr": 16.8, "link": "cable", "avg_logprob": -0.124, "no_speech_prob": 0.031}
+{"id": "test-get_coolant_storage-08", "asr": "New coolant storage level.", "voice": "Tessa", "rate": 169, "snr": 10.8, "link": "wifi", "avg_logprob": -0.492, "no_speech_prob": 0.016}
+{"id": "test-get_coolant_storage-09", "asr": "Healthful is the coolant.", "voice": "Daniel", "rate": 232, "snr": 17.7, "link": "wifi", "avg_logprob": -0.438, "no_speech_prob": 0.013}
+{"id": "test-get_coolant_gas_pressure-00", "asr": "Coolant gap loop pressure.", "voice": "Samantha", "rate": 219, "snr": 7.3, "link": "wifi", "avg_logprob": -0.395, "no_speech_prob": 0.041}
+{"id": "test-get_coolant_gas_pressure-01", "asr": "Okay, press around the coolant side.", "voice": "Ralph", "rate": 224, "snr": 6.2, "link": "wifi", "avg_logprob": -0.635, "no_speech_prob": 0.085}
+{"id": "test-get_coolant_gas_pressure-02", "asr": "Roger, gas loop C.", "voice": "Tessa", "rate": 169, "snr": 17.7, "link": "wifi", "avg_logprob": -0.42, "no_speech_prob": 0.04}
+{"id": "test-get_coolant_gas_pressure-03", "asr": "Check the coolant vapor pressure.", "voice": "Rishi", "rate": 229, "snr": 15.8, "link": "cable", "avg_logprob": -0.071, "no_speech_prob": 0.151}
+{"id": "test-get_coolant_gas_pressure-04", "asr": "Houston, what's the gas side of the coolant reading?", "voice": "Rishi", "rate": 161, "snr": 9.4, "link": "wifi", "avg_logprob": -0.155, "no_speech_prob": 0.02}
+{"id": "test-get_coolant_gas_pressure-05", "asr": "Gas coolant pressure reading.", "voice": "Karen", "rate": 193, "snr": 9.6, "link": "cable", "avg_logprob": -0.688, "no_speech_prob": 0.006}
+{"id": "test-get_coolant_gas_pressure-06", "asr": "How's the pressure in the castle?", "voice": "Fred", "rate": 175, "snr": 5.8, "link": "wifi", "avg_logprob": -0.244, "no_speech_prob": 0.043}
+{"id": "test-get_coolant_gas_pressure-07", "asr": "Be tooling gas side.", "voice": "Junior", "rate": 203, "snr": 12.0, "link": "wifi", "avg_logprob": -0.881, "no_speech_prob": 0.051}
+{"id": "test-get_coolant_gas_pressure-08", "asr": "What pressure is the coolant gases?", "voice": "Moira", "rate": 230, "snr": 19.3, "link": "wifi", "avg_logprob": -0.151, "no_speech_prob": 0.009}
+{"id": "test-get_coolant_gas_pressure-09", "asr": "That's loose.", "voice": "Karen", "rate": 169, "snr": 7.6, "link": "wifi", "avg_logprob": -0.705, "no_speech_prob": 0.16}
+{"id": "test-get_coolant_liquid_pressure-00", "asr": "Coolant liquid loop pressure.", "voice": "Samantha", "rate": 194, "snr": 9.1, "link": "cable", "avg_logprob": -0.135, "no_speech_prob": 0.024}
+{"id": "test-get_coolant_liquid_pressure-01", "asr": "Okay, pressure on the liquid side.", "voice": "Daniel", "rate": 227, "snr": 18.8, "link": "wifi", "avg_logprob": -0.142, "no_speech_prob": 0.015}
+{"id": "test-get_coolant_liquid_pressure-02", "asr": "Roger, liquid loop thigh.", "voice": "Samantha", "rate": 207, "snr": 9.5, "link": "wifi", "avg_logprob": -0.304, "no_speech_prob": 0.038}
+{"id": "test-get_coolant_liquid_pressure-03", "asr": "Ah, check the liquid tool and line pressure.", "voice": "Daniel", "rate": 218, "snr": 12.4, "link": "wifi", "avg_logprob": -0.306, "no_speech_prob": 0.021}
+{"id": "test-get_coolant_liquid_pressure-04", "asr": "Houston, what's the liquid loot reading?", "voice": "Karen", "rate": 202, "snr": 12.0, "link": "cable", "avg_logprob": -0.213, "no_speech_prob": 0.005}
+{"id": "test-get_coolant_liquid_pressure-05", "asr": "What's the water loop hat for pressure?", "voice": "Kathy", "rate": 171, "snr": 12.7, "link": "cable", "avg_logprob": -0.419, "no_speech_prob": 0.024}
+{"id": "test-get_coolant_liquid_pressure-06", "asr": "House pressure in the liquid cooling glue.", "voice": "Samantha", "rate": 163, "snr": 18.7, "link": "wifi", "avg_logprob": -0.117, "no_speech_prob": 0.014}
+{"id": "test-get_coolant_liquid_pressure-07", "asr": "New coolant liquid side.", "voice": "Rishi", "rate": 227, "snr": 7.1, "link": "wifi", "avg_logprob": -0.607, "no_speech_prob": 0.061}
+{"id": "test-get_coolant_liquid_pressure-08", "asr": "What pressure is the coolant liquid at?", "voice": "Karen", "rate": 233, "snr": 14.5, "link": "cable", "avg_logprob": -0.012, "no_speech_prob": 0.001}
+{"id": "test-get_coolant_liquid_pressure-09", "asr": "Work with you.", "voice": "Ralph", "rate": 198, "snr": 6.3, "link": "wifi", "avg_logprob": -0.952, "no_speech_prob": 0.316}
+{"id": "test-get_fan_pri_rpm-00", "asr": "Primary fan RPM.", "voice": "Rishi", "rate": 208, "snr": 16.2, "link": "wifi", "avg_logprob": -0.694, "no_speech_prob": 0.031}
+{"id": "test-get_fan_pri_rpm-01", "asr": "OK, how fast is the blind room fan running?", "voice": "Kathy", "rate": 161, "snr": 7.9, "link": "cable", "avg_logprob": -0.343, "no_speech_prob": 0.049}
+{"id": "test-get_fan_pri_rpm-02", "asr": "Roger, fan one speed.", "voice": "Tessa", "rate": 197, "snr": 19.0, "link": "cable", "avg_logprob": -0.387, "no_speech_prob": 0.024}
+{"id": "test-get_fan_pri_rpm-03", "asr": "Fan off EM.", "voice": "Rishi", "rate": 178, "snr": 10.8, "link": "wifi", "avg_logprob": -0.415, "no_speech_prob": 0.056}
+{"id": "test-get_fan_pri_rpm-04", "asr": "Check the main fan.", "voice": "Rishi", "rate": 172, "snr": 16.5, "link": "cable", "avg_logprob": -0.179, "no_speech_prob": 0.123}
+{"id": "test-get_fan_pri_rpm-05", "asr": "Houston, what's the pre-fan skinning at?", "voice": "Karen", "rate": 225, "snr": 10.9, "link": "cable", "avg_logprob": -0.164, "no_speech_prob": 0.009}
+{"id": "test-get_fan_pri_rpm-06", "asr": "Is the primary fan still up to speed?", "voice": "Junior", "rate": 206, "snr": 5.8, "link": "wifi", "avg_logprob": -0.182, "no_speech_prob": 0.048}
+{"id": "test-get_fan_pri_rpm-07", "asr": "Turn.", "voice": "Kathy", "rate": 213, "snr": 8.4, "link": "cable", "avg_logprob": -0.918, "no_speech_prob": 0.227}
+{"id": "test-get_fan_pri_rpm-08", "asr": "These primary fan rails.", "voice": "Fred", "rate": 233, "snr": 6.7, "link": "wifi", "avg_logprob": -1.006, "no_speech_prob": 0.196}
+{"id": "test-get_fan_pri_rpm-09", "asr": "What's the first pan's RPM?", "voice": "Fred", "rate": 231, "snr": 11.8, "link": "cable", "avg_logprob": -0.309, "no_speech_prob": 0.019}
+{"id": "test-get_fan_sec_rpm-00", "asr": "Secondary fan RPM.", "voice": "Ralph", "rate": 183, "snr": 11.5, "link": "wifi", "avg_logprob": -0.243, "no_speech_prob": 0.081}
+{"id": "test-get_fan_sec_rpm-01", "asr": "Okay, how fast is the secondary fan running?", "voice": "Moira", "rate": 192, "snr": 8.7, "link": "cable", "avg_logprob": -0.109, "no_speech_prob": 0.008}
+{"id": "test-get_fan_sec_rpm-02", "asr": "Roger, fancy speed.", "voice": "Kathy", "rate": 225, "snr": 7.9, "link": "wifi", "avg_logprob": -0.485, "no_speech_prob": 0.043}
+{"id": "test-get_fan_sec_rpm-03", "asr": "Oh, check, go back for fun.", "voice": "Fred", "rate": 231, "snr": 7.0, "link": "cable", "avg_logprob": -0.599, "no_speech_prob": 0.078}
+{"id": "test-get_fan_sec_rpm-08", "asr": "Secondary fan, how fast.", "voice": "Junior", "rate": 179, "snr": 9.8, "link": "wifi", "avg_logprob": -0.305, "no_speech_prob": 0.059}
+{"id": "test-get_fan_sec_rpm-09", "asr": "And two.", "voice": "Junior", "rate": 171, "snr": 5.4, "link": "wifi", "avg_logprob": -0.692, "no_speech_prob": 0.177}
+{"id": "test-get_primary_battery_level-00", "asr": "Primary battery level.", "voice": "Tessa", "rate": 177, "snr": 14.4, "link": "cable", "avg_logprob": -0.132, "no_speech_prob": 0.016}
+{"id": "test-get_primary_battery_level-01", "asr": "Okay, how much charge is left on the main battery?", "voice": "Ralph", "rate": 211, "snr": 14.9, "link": "cable", "avg_logprob": -0.125, "no_speech_prob": 0.028}
+{"id": "test-get_fan_sec_rpm-04", "asr": "Houston, what's the sec found at?", "voice": "Fred", "rate": 168, "snr": 17.5, "link": "cable", "avg_logprob": -0.418, "no_speech_prob": 0.047}
+{"id": "test-get_fan_sec_rpm-05", "asr": "It's the second fan spinning.", "voice": "Samantha", "rate": 161, "snr": 18.4, "link": "wifi", "avg_logprob": -0.346, "no_speech_prob": 0.072}
+{"id": "test-get_fan_sec_rpm-06", "asr": "Re-sacred and farewells.", "voice": "Kathy", "rate": 206, "snr": 6.4, "link": "cable", "avg_logprob": -1.146, "no_speech_prob": 0.071}
+{"id": "test-get_fan_sec_rpm-07", "asr": "What's that number two doing for RPM?", "voice": "Ralph", "rate": 212, "snr": 12.4, "link": "wifi", "avg_logprob": -0.357, "no_speech_prob": 0.042}
+{"id": "test-get_primary_battery_level-02", "asr": "Roger, battery 1%.", "voice": "Ralph", "rate": 231, "snr": 14.5, "link": "cable", "avg_logprob": -0.334, "no_speech_prob": 0.051}
+{"id": "test-get_primary_battery_level-03", "asr": "Power remaining.", "voice": "Samantha", "rate": 229, "snr": 5.8, "link": "cable", "avg_logprob": -0.219, "no_speech_prob": 0.045}
+{"id": "test-get_primary_battery_level-04", "asr": "Ah, Chick primary battery.", "voice": "Karen", "rate": 172, "snr": 7.4, "link": "cable", "avg_logprob": -0.406, "no_speech_prob": 0.011}
+{"id": "test-get_primary_battery_level-05", "asr": "Houston, what's my battery at?", "voice": "Rishi", "rate": 226, "snr": 16.8, "link": "cable", "avg_logprob": -0.051, "no_speech_prob": 0.016}
+{"id": "test-get_primary_battery_level-06", "asr": "Is the primary battery getting low.", "voice": "Samantha", "rate": 165, "snr": 13.3, "link": "cable", "avg_logprob": -0.298, "no_speech_prob": 0.019}
+{"id": "test-get_primary_battery_level-07", "asr": "Pretty bad.", "voice": "Daniel", "rate": 167, "snr": 9.8, "link": "wifi", "avg_logprob": -0.697, "no_speech_prob": 0.062}
+{"id": "test-get_primary_battery_level-08", "asr": "Need my battery charge.", "voice": "Junior", "rate": 231, "snr": 16.1, "link": "cable", "avg_logprob": -0.432, "no_speech_prob": 0.023}
+{"id": "test-get_primary_battery_level-09", "asr": "What's the first battery reading?", "voice": "Kathy", "rate": 173, "snr": 15.6, "link": "cable", "avg_logprob": -0.288, "no_speech_prob": 0.011}
+{"id": "test-get_secondary_battery_level-00", "asr": "Secondary battery level.", "voice": "Fred", "rate": 218, "snr": 20.0, "link": "wifi", "avg_logprob": -0.167, "no_speech_prob": 0.046}
+{"id": "test-get_secondary_battery_level-01", "asr": "Okay, how much charge on the backup battery?", "voice": "Daniel", "rate": 184, "snr": 18.6, "link": "cable", "avg_logprob": -0.126, "no_speech_prob": 0.009}
+{"id": "test-get_secondary_battery_level-02", "asr": "Roger, battery 2%.", "voice": "Ralph", "rate": 172, "snr": 10.4, "link": "cable", "avg_logprob": -0.264, "no_speech_prob": 0.029}
+{"id": "test-get_secondary_battery_level-03", "asr": "Ah, 6-8-3 battery battery.", "voice": "Kathy", "rate": 214, "snr": 10.8, "link": "wifi", "avg_logprob": -0.926, "no_speech_prob": 0.096}
+{"id": "test-get_secondary_battery_level-04", "asr": "UIA, UIA, what's the second battery at?", "voice": "Fred", "rate": 212, "snr": 7.6, "link": "wifi", "avg_logprob": -0.467, "no_speech_prob": 0.071}
+{"id": "test-get_secondary_battery_level-05", "asr": "Is the second battery still full?", "voice": "Tessa", "rate": 165, "snr": 8.5, "link": "cable", "avg_logprob": -0.268, "no_speech_prob": 0.059}
+{"id": "test-get_secondary_battery_level-06", "asr": "Take that.", "voice": "Junior", "rate": 183, "snr": 9.1, "link": "wifi", "avg_logprob": -0.803, "no_speech_prob": 0.125}
+{"id": "test-get_secondary_battery_level-07", "asr": "Lead back to battery charge.", "voice": "Ralph", "rate": 198, "snr": 16.3, "link": "cable", "avg_logprob": -0.482, "no_speech_prob": 0.034}
+{"id": "test-get_secondary_battery_level-08", "asr": "What's the reading on battery number two?", "voice": "Samantha", "rate": 196, "snr": 10.5, "link": "cable", "avg_logprob": -0.123, "no_speech_prob": 0.006}
+{"id": "test-get_secondary_battery_level-09", "asr": "Secondary power level.", "voice": "Junior", "rate": 232, "snr": 6.0, "link": "cable", "avg_logprob": -0.167, "no_speech_prob": 0.053}
+{"id": "test-get_heart_rate-00", "asr": "What's my heart rate?", "voice": "Tessa", "rate": 227, "snr": 10.7, "link": "wifi", "avg_logprob": -0.22, "no_speech_prob": 0.033}
+{"id": "test-get_heart_rate-01", "asr": "OK, heart rate check.", "voice": "Rishi", "rate": 193, "snr": 14.4, "link": "cable", "avg_logprob": -0.442, "no_speech_prob": 0.085}
+{"id": "test-get_heart_rate-02", "asr": "Roger, how fast is my heart beating?", "voice": "Rishi", "rate": 229, "snr": 14.7, "link": "cable", "avg_logprob": -0.051, "no_speech_prob": 0.009}
+{"id": "test-get_heart_rate-03", "asr": "Pulse.", "voice": "Moira", "rate": 186, "snr": 8.1, "link": "wifi", "avg_logprob": -0.565, "no_speech_prob": 0.294}
+{"id": "test-get_heart_rate-04", "asr": "What's my BPMs?", "voice": "Moira", "rate": 205, "snr": 17.4, "link": "wifi", "avg_logprob": -0.283, "no_speech_prob": 0.025}
+{"id": "test-get_heart_rate-05", "asr": "Houston, heart rate please.", "voice": "Moira", "rate": 180, "snr": 18.3, "link": "cable", "avg_logprob": -0.16, "no_speech_prob": 0.035}
+{"id": "test-get_heart_rate-06", "asr": "I'm, I'm pushing hard up this slope, what's my heart doing?", "voice": "Karen", "rate": 216, "snr": 17.9, "link": "cable", "avg_logprob": -0.084, "no_speech_prob": 0.003}
+{"id": "test-get_heart_rate-07", "asr": "Feeds per minute.", "voice": "Samantha", "rate": 218, "snr": 13.8, "link": "wifi", "avg_logprob": -0.658, "no_speech_prob": 0.057}
+{"id": "test-get_heart_rate-08", "asr": "Is my pulse too high.", "voice": "Tessa", "rate": 178, "snr": 8.9, "link": "wifi", "avg_logprob": -0.31, "no_speech_prob": 0.045}
+{"id": "test-get_heart_rate-09", "asr": "Need my heart rate number.", "voice": "Moira", "rate": 192, "snr": 14.3, "link": "cable", "avg_logprob": -0.21, "no_speech_prob": 0.005}
+{"id": "test-get_eva_elapsed_time-00", "asr": "How long haven't been on this anyway?", "voice": "Kathy", "rate": 201, "snr": 5.8, "link": "cable", "avg_logprob": -0.296, "no_speech_prob": 0.062}
+{"id": "test-get_eva_elapsed_time-01", "asr": "Okay, elapsed time.", "voice": "Rishi", "rate": 195, "snr": 9.2, "link": "wifi", "avg_logprob": -0.365, "no_speech_prob": 0.058}
+{"id": "test-get_eva_elapsed_time-02", "asr": "Roger, what's the evil time?", "voice": "Rishi", "rate": 185, "snr": 15.1, "link": "wifi", "avg_logprob": -0.49, "no_speech_prob": 0.036}
+{"id": "test-get_eva_elapsed_time-03", "asr": "How long since egress?", "voice": "Rishi", "rate": 167, "snr": 16.1, "link": "wifi", "avg_logprob": -0.25, "no_speech_prob": 0.019}
+{"id": "test-get_eva_elapsed_time-04", "asr": "Oh, check missing the last time.", "voice": "Ralph", "rate": 183, "snr": 5.7, "link": "wifi", "avg_logprob": -0.524, "no_speech_prob": 0.098}
+{"id": "test-get_eva_elapsed_time-05", "asr": "Houston, how much time have I been outside?", "voice": "Karen", "rate": 229, "snr": 16.0, "link": "wifi", "avg_logprob": -0.028, "no_speech_prob": 0.002}
+{"id": "test-get_eva_elapsed_time-06", "asr": "Every left.", "voice": "Karen", "rate": 181, "snr": 8.7, "link": "cable", "avg_logprob": -0.886, "no_speech_prob": 0.078}
+{"id": "test-get_eva_elapsed_time-07", "asr": "How many hours into the spatioca we?", "voice": "Daniel", "rate": 186, "snr": 18.9, "link": "cable", "avg_logprob": -0.448, "no_speech_prob": 0.009}
+{"id": "test-get_eva_elapsed_time-08", "asr": "Time on Eva.", "voice": "Tessa", "rate": 220, "snr": 16.6, "link": "cable", "avg_logprob": -0.333, "no_speech_prob": 0.025}
+{"id": "test-get_eva_elapsed_time-09", "asr": "Need be elapsed time.", "voice": "Daniel", "rate": 167, "snr": 16.1, "link": "cable", "avg_logprob": -0.456, "no_speech_prob": 0.017}
+{"id": "test-get_warnings-00", "asr": "Any alert.", "voice": "Karen", "rate": 210, "snr": 9.6, "link": "wifi", "avg_logprob": -0.136, "no_speech_prob": 0.082}
+{"id": "test-get_warnings-01", "asr": "Okay, what warnings do I have?", "voice": "Rishi", "rate": 217, "snr": 12.1, "link": "wifi", "avg_logprob": -0.164, "no_speech_prob": 0.035}
+{"id": "test-get_warnings-02", "asr": "Roger, are there any questions active?", "voice": "Tessa", "rate": 233, "snr": 5.9, "link": "cable", "avg_logprob": -0.113, "no_speech_prob": 0.012}
+{"id": "test-get_warnings-03", "asr": "Huh, why is it the plane?", "voice": "Junior", "rate": 217, "snr": 17.5, "link": "wifi", "avg_logprob": -0.532, "no_speech_prob": 0.086}
+{"id": "test-get_warnings-04", "asr": "Use the check for warnings.", "voice": "Ralph", "rate": 203, "snr": 13.6, "link": "wifi", "avg_logprob": -0.509, "no_speech_prob": 0.168}
+{"id": "test-get_warnings-05", "asr": "Is anything out of limits.", "voice": "Rishi", "rate": 160, "snr": 18.1, "link": "cable", "avg_logprob": -0.136, "no_speech_prob": 0.106}
+{"id": "test-get_warnings-06", "asr": "Good morning.", "voice": "Kathy", "rate": 219, "snr": 17.2, "link": "cable", "avg_logprob": -0.892, "no_speech_prob": 0.093}
+{"id": "test-get_warnings-07", "asr": "What's the caution light for?", "voice": "Karen", "rate": 204, "snr": 6.2, "link": "cable", "avg_logprob": -0.203, "no_speech_prob": 0.016}
+{"id": "test-get_warnings-08", "asr": "Do I have any active alert?", "voice": "Samantha", "rate": 221, "snr": 18.0, "link": "wifi", "avg_logprob": -0.072, "no_speech_prob": 0.006}
+{"id": "test-get_warnings-09", "asr": "Show me the caution and warning list.", "voice": "Tessa", "rate": 167, "snr": 5.5, "link": "cable", "avg_logprob": -0.048, "no_speech_prob": 0.045}
+{"id": "test-open_menu_vitals-00", "asr": "All providals.", "voice": "Ralph", "rate": 174, "snr": 17.4, "link": "wifi", "avg_logprob": -0.75, "no_speech_prob": 0.081}
+{"id": "test-open_menu_vitals-01", "asr": "Okay, bring up my Vibels panel.", "voice": "Kathy", "rate": 181, "snr": 18.1, "link": "wifi", "avg_logprob": -0.446, "no_speech_prob": 0.084}
+{"id": "test-open_menu_vitals-02", "asr": "Roger, show the biomedical page.", "voice": "Samantha", "rate": 207, "snr": 12.0, "link": "wifi", "avg_logprob": -0.09, "no_speech_prob": 0.014}
+{"id": "test-open_menu_vitals-03", "asr": "Ah, cool up, I should.", "voice": "Karen", "rate": 208, "snr": 14.8, "link": "wifi", "avg_logprob": -0.752, "no_speech_prob": 0.046}
+{"id": "test-open_menu_navigation-02", "asr": "Roger, show me the new map.", "voice": "Tessa", "rate": 197, "snr": 9.3, "link": "wifi", "avg_logprob": -0.439, "no_speech_prob": 0.025}
+{"id": "test-open_menu_navigation-03", "asr": "Uh, pull up the map.", "voice": "Ralph", "rate": 167, "snr": 18.1, "link": "cable", "avg_logprob": -0.389, "no_speech_prob": 0.084}
+{"id": "test-open_menu_navigation-04", "asr": "Houston, switch to navigation.", "voice": "Karen", "rate": 213, "snr": 5.0, "link": "cable", "avg_logprob": -0.189, "no_speech_prob": 0.055}
+{"id": "test-open_menu_navigation-05", "asr": "Matt, please.", "voice": "Karen", "rate": 168, "snr": 12.8, "link": "wifi", "avg_logprob": -0.341, "no_speech_prob": 0.027}
+{"id": "test-open_menu_vitals-08", "asr": "Can you put my vitals on the heart?", "voice": "Karen", "rate": 183, "snr": 7.2, "link": "wifi", "avg_logprob": -0.13, "no_speech_prob": 0.021}
+{"id": "test-open_menu_vitals-09", "asr": "Go to the Vitals menu.", "voice": "Moira", "rate": 174, "snr": 8.2, "link": "cable", "avg_logprob": -0.169, "no_speech_prob": 0.023}
+{"id": "test-open_menu_navigation-00", "asr": "Open navigation.", "voice": "Ralph", "rate": 222, "snr": 11.6, "link": "wifi", "avg_logprob": -0.527, "no_speech_prob": 0.054}
+{"id": "test-open_menu_navigation-01", "asr": "Ok, bring up the nav panel.", "voice": "Rishi", "rate": 216, "snr": 16.1, "link": "wifi", "avg_logprob": -0.288, "no_speech_prob": 0.043}
+{"id": "test-open_menu_vitals-04", "asr": "Houston, I want the vital screen up.", "voice": "Rishi", "rate": 209, "snr": 18.7, "link": "cable", "avg_logprob": -0.159, "no_speech_prob": 0.012}
+{"id": "test-open_menu_vitals-05", "asr": "Swift providers.", "voice": "Kathy", "rate": 230, "snr": 6.0, "link": "cable", "avg_logprob": -1.052, "no_speech_prob": 0.113}
+{"id": "test-open_menu_vitals-06", "asr": "Displace the triadles.", "voice": "Junior", "rate": 195, "snr": 19.7, "link": "wifi", "avg_logprob": -0.964, "no_speech_prob": 0.124}
+{"id": "test-open_menu_vitals-07", "asr": "Michael's panel", "voice": "Tessa", "rate": 161, "snr": 16.5, "link": "wifi", "avg_logprob": -0.614, "no_speech_prob": 0.057}
+{"id": "test-open_menu_navigation-06", "asr": "Just lay the map.", "voice": "Karen", "rate": 218, "snr": 11.0, "link": "wifi", "avg_logprob": -0.399, "no_speech_prob": 0.016}
+{"id": "test-open_menu_navigation-07", "asr": "Can I get the navigation screen?", "voice": "Daniel", "rate": 205, "snr": 9.9, "link": "cable", "avg_logprob": -0.031, "no_speech_prob": 0.013}
+{"id": "test-open_menu_navigation-08", "asr": "Go to med.", "voice": "Karen", "rate": 166, "snr": 12.4, "link": "cable", "avg_logprob": -0.503, "no_speech_prob": 0.023}
+{"id": "test-open_menu_navigation-09", "asr": "Put the map off.", "voice": "Moira", "rate": 178, "snr": 6.5, "link": "cable", "avg_logprob": -0.494, "no_speech_prob": 0.08}
+{"id": "test-open_menu_tasks-04", "asr": "Houston, switch to the procedure screen.", "voice": "Fred", "rate": 225, "snr": 17.5, "link": "cable", "avg_logprob": -0.387, "no_speech_prob": 0.061}
+{"id": "test-open_menu_tasks-05", "asr": "Toes panel.", "voice": "Moira", "rate": 216, "snr": 10.0, "link": "cable", "avg_logprob": -0.808, "no_speech_prob": 0.114}
+{"id": "test-open_menu_tasks-06", "asr": "Display the procedural list.", "voice": "Karen", "rate": 203, "snr": 11.3, "link": "cable", "avg_logprob": -0.24, "no_speech_prob": 0.009}
+{"id": "test-open_menu_tasks-07", "asr": "And I see my test list.", "voice": "Kathy", "rate": 211, "snr": 5.6, "link": "wifi", "avg_logprob": -0.287, "no_speech_prob": 0.065}
+{"id": "test-open_menu_tasks-00", "asr": "Open tasks.", "voice": "Moira", "rate": 200, "snr": 19.0, "link": "cable", "avg_logprob": -0.325, "no_speech_prob": 0.043}
+{"id": "test-open_menu_tasks-01", "asr": "Okay, bring up the task list.", "voice": "Tessa", "rate": 164, "snr": 12.7, "link": "wifi", "avg_logprob": -0.205, "no_speech_prob": 0.015}
+{"id": "test-open_menu_tasks-02", "asr": "Roger, checklist on the display.", "voice": "Karen", "rate": 169, "snr": 11.5, "link": "cable", "avg_logprob": -0.084, "no_speech_prob": 0.006}
+{"id": "test-open_menu_tasks-03", "asr": "Uh, pull up my tasks.", "voice": "Ralph", "rate": 194, "snr": 15.2, "link": "wifi", "avg_logprob": -0.486, "no_speech_prob": 0.163}
+{"id": "test-open_menu_tasks-08", "asr": "Go to the Chasks menu.", "voice": "Tessa", "rate": 210, "snr": 18.1, "link": "wifi", "avg_logprob": -0.174, "no_speech_prob": 0.014}
+{"id": "test-open_menu_tasks-09", "asr": "Put the checklist up.", "voice": "Tessa", "rate": 215, "snr": 17.6, "link": "cable", "avg_logprob": -0.082, "no_speech_prob": 0.036}
+{"id": "test-open_menu_uia-00", "asr": "O2, CO2, UIA.", "voice": "Ralph", "rate": 173, "snr": 13.8, "link": "cable", "avg_logprob": -0.318, "no_speech_prob": 0.052}
+{"id": "test-open_menu_uia-01", "asr": "Okay, bring up the UIA screen.", "voice": "Moira", "rate": 190, "snr": 15.2, "link": "cable", "avg_logprob": -0.13, "no_speech_prob": 0.019}
+{"id": "test-open_menu_uia-02", "asr": "Roger, show the umbilical interface panel.", "voice": "Daniel", "rate": 172, "snr": 17.6, "link": "wifi", "avg_logprob": -0.043, "no_speech_prob": 0.004}
+{"id": "test-open_menu_uia-03", "asr": "Ah, pull up your ear.", "voice": "Fred", "rate": 201, "snr": 19.4, "link": "cable", "avg_logprob": -0.307, "no_speech_prob": 0.024}
+{"id": "test-open_menu_uia-04", "asr": "Use an switch to the air light panel.", "voice": "Fred", "rate": 221, "snr": 17.8, "link": "cable", "avg_logprob": -0.49, "no_speech_prob": 0.034}
+{"id": "test-open_menu_uia-05", "asr": "UIA panel.", "voice": "Junior", "rate": 195, "snr": 19.5, "link": "cable", "avg_logprob": -0.25, "no_speech_prob": 0.091}
+{"id": "test-open_menu_uia-06", "asr": "Display the UIA page.", "voice": "Ralph", "rate": 211, "snr": 9.9, "link": "wifi", "avg_logprob": -0.087, "no_speech_prob": 0.065}
+{"id": "test-open_menu_uia-07", "asr": "Can I get the UIA menu up?", "voice": "Daniel", "rate": 179, "snr": 9.4, "link": "cable", "avg_logprob": -0.05, "no_speech_prob": 0.015}
+{"id": "test-open_menu_uia-08", "asr": "So can you read it?", "voice": "Kathy", "rate": 229, "snr": 6.2, "link": "wifi", "avg_logprob": -0.632, "no_speech_prob": 0.178}
+{"id": "test-open_menu_uia-09", "asr": "UIA panel, please.", "voice": "Daniel", "rate": 206, "snr": 10.6, "link": "wifi", "avg_logprob": -0.303, "no_speech_prob": 0.031}
+{"id": "test-close_menu-00", "asr": "Close it.", "voice": "Junior", "rate": 163, "snr": 11.8, "link": "wifi", "avg_logprob": -0.124, "no_speech_prob": 0.04}
+{"id": "test-close_menu-01", "asr": "Ok, close the panel.", "voice": "Rishi", "rate": 210, "snr": 5.1, "link": "wifi", "avg_logprob": -0.283, "no_speech_prob": 0.103}
+{"id": "test-close_menu-02", "asr": "Roger, get that office for me.", "voice": "Kathy", "rate": 166, "snr": 5.0, "link": "wifi", "avg_logprob": -0.639, "no_speech_prob": 0.07}
+{"id": "test-close_menu-03", "asr": "Uh, I did.", "voice": "Moira", "rate": 162, "snr": 11.2, "link": "wifi", "avg_logprob": -0.688, "no_speech_prob": 0.149}
+{"id": "test-close_menu-08", "asr": "Go back, load that.", "voice": "Karen", "rate": 234, "snr": 14.9, "link": "cable", "avg_logprob": -0.268, "no_speech_prob": 0.033}
+{"id": "test-close_menu-09", "asr": "Minimize the panel.", "voice": "Daniel", "rate": 174, "snr": 6.6, "link": "cable", "avg_logprob": -0.121, "no_speech_prob": 0.051}
+{"id": "test-Get_coordinates-00", "asr": "Where is pointy?", "voice": "Daniel", "rate": 188, "snr": 16.7, "link": "wifi", "avg_logprob": -0.495, "no_speech_prob": 0.028}
+{"id": "test-Get_coordinates-01", "asr": "Okay, coordinate for stage U2.", "voice": "Ralph", "rate": 207, "snr": 11.3, "link": "wifi", "avg_logprob": -0.574, "no_speech_prob": 0.093}
+{"id": "test-close_menu-04", "asr": "Houston, clear the display.", "voice": "Tessa", "rate": 212, "snr": 9.9, "link": "cable", "avg_logprob": -0.201, "no_speech_prob": 0.042}
+{"id": "test-close_menu-05", "asr": "Close the map.", "voice": "Ralph", "rate": 203, "snr": 19.8, "link": "wifi", "avg_logprob": -0.043, "no_speech_prob": 0.037}
+{"id": "test-close_menu-06", "asr": "Tailor down.", "voice": "Fred", "rate": 225, "snr": 14.8, "link": "cable", "avg_logprob": -1.028, "no_speech_prob": 0.048}
+{"id": "test-close_menu-07", "asr": "Exit this menu.", "voice": "Moira", "rate": 233, "snr": 15.2, "link": "wifi", "avg_logprob": -0.116, "no_speech_prob": 0.074}
+{"id": "test-Get_coordinates-02", "asr": "Roger, what's the location of Zachary Ridge?", "voice": "Fred", "rate": 182, "snr": 6.5, "link": "wifi", "avg_logprob": -0.433, "no_speech_prob": 0.022}
+{"id": "test-Get_coordinates-03", "asr": "Huh, give me the position of point of interest too.", "voice": "Fred", "rate": 186, "snr": 12.0, "link": "wifi", "avg_logprob": -0.409, "no_speech_prob": 0.023}
+{"id": "test-Get_coordinates-04", "asr": "Houston wears a camera sight.", "voice": "Kathy", "rate": 211, "snr": 16.3, "link": "wifi", "avg_logprob": -0.326, "no_speech_prob": 0.02}
+{"id": "test-Get_coordinates-05", "asr": "Hoods on twin builders.", "voice": "Daniel", "rate": 223, "snr": 11.0, "link": "wifi", "avg_logprob": -0.534, "no_speech_prob": 0.032}
+{"id": "test-Get_coordinates-06", "asr": "What are the coordinates of possession?", "voice": "Ralph", "rate": 214, "snr": 14.9, "link": "cable", "avg_logprob": -0.63, "no_speech_prob": 0.033}
+{"id": "test-Get_coordinates-07", "asr": "Need a fix on grain off.", "voice": "Samantha", "rate": 205, "snr": 7.1, "link": "wifi", "avg_logprob": -0.219, "no_speech_prob": 0.024}
+{"id": "test-Get_coordinates-08", "asr": "Location of ash lab.", "voice": "Kathy", "rate": 173, "snr": 13.8, "link": "cable", "avg_logprob": -0.442, "no_speech_prob": 0.025}
+{"id": "test-Get_coordinates-09", "asr": "Where did we put folder garden?", "voice": "Moira", "rate": 202, "snr": 7.7, "link": "cable", "avg_logprob": -0.338, "no_speech_prob": 0.005}
+{"id": "test-Set_navigation_target-00", "asr": "Take me to Poidy.", "voice": "Moira", "rate": 182, "snr": 7.4, "link": "wifi", "avg_logprob": -0.622, "no_speech_prob": 0.034}
+{"id": "test-Set_navigation_target-01", "asr": "Okay, navigate to station two.", "voice": "Rishi", "rate": 220, "snr": 16.1, "link": "wifi", "avg_logprob": -0.295, "no_speech_prob": 0.078}
+{"id": "test-Set_navigation_target-02", "asr": "Roger, set a course for shuttle to reach.", "voice": "Moira", "rate": 187, "snr": 5.5, "link": "cable", "avg_logprob": -0.197, "no_speech_prob": 0.009}
+{"id": "test-Set_navigation_target-03", "asr": "Uh, guide me to point of interest to...", "voice": "Ralph", "rate": 197, "snr": 18.4, "link": "wifi", "avg_logprob": -0.402, "no_speech_prob": 0.047}
+{"id": "test-Set_navigation_target-08", "asr": "I want to go to Ashland.", "voice": "Fred", "rate": 227, "snr": 6.1, "link": "wifi", "avg_logprob": -0.391, "no_speech_prob": 0.029}
+{"id": "test-Set_navigation_target-09", "asr": "Set folder carton as my destination.", "voice": "Fred", "rate": 178, "snr": 16.2, "link": "cable", "avg_logprob": -0.333, "no_speech_prob": 0.012}
+{"id": "test-reroute_navigation-00", "asr": "We rub me.", "voice": "Karen", "rate": 233, "snr": 10.0, "link": "wifi", "avg_logprob": -0.626, "no_speech_prob": 0.022}
+{"id": "test-reroute_navigation-01", "asr": "Ok, find me a new path.", "voice": "Samantha", "rate": 161, "snr": 18.2, "link": "cable", "avg_logprob": -0.189, "no_speech_prob": 0.02}
+{"id": "test-Set_navigation_target-04", "asr": "Houston, route me to the camera site.", "voice": "Moira", "rate": 233, "snr": 5.4, "link": "wifi", "avg_logprob": -0.078, "no_speech_prob": 0.021}
+{"id": "test-Set_navigation_target-05", "asr": "Head to twin boulders.", "voice": "Karen", "rate": 193, "snr": 10.1, "link": "wifi", "avg_logprob": -0.346, "no_speech_prob": 0.041}
+{"id": "test-Set_navigation_target-06", "asr": "Leave me back to pin 7.", "voice": "Samantha", "rate": 213, "snr": 10.9, "link": "wifi", "avg_logprob": -0.228, "no_speech_prob": 0.035}
+{"id": "test-Set_navigation_target-07", "asr": "Nav to grain off.", "voice": "Karen", "rate": 169, "snr": 6.4, "link": "wifi", "avg_logprob": -0.462, "no_speech_prob": 0.019}
+{"id": "test-reroute_navigation-02", "asr": "Roger, recalculate the route.", "voice": "Daniel", "rate": 220, "snr": 14.4, "link": "cable", "avg_logprob": -0.061, "no_speech_prob": 0.012}
+{"id": "test-reroute_navigation-03", "asr": "There's a boulder in the way, give me another route.", "voice": "Moira", "rate": 196, "snr": 10.9, "link": "wifi", "avg_logprob": -0.131, "no_speech_prob": 0.022}
+{"id": "test-reroute_navigation-04", "asr": "Tuesday, the slopes too steep renewed.", "voice": "Kathy", "rate": 168, "snr": 8.5, "link": "wifi", "avg_logprob": -0.52, "no_speech_prob": 0.066}
+{"id": "test-reroute_navigation-05", "asr": "New rule.", "voice": "Rishi", "rate": 188, "snr": 9.5, "link": "wifi", "avg_logprob": -0.451, "no_speech_prob": 0.179}
+{"id": "test-reroute_navigation-06", "asr": "Calculate a different way around.", "voice": "Daniel", "rate": 171, "snr": 7.2, "link": "wifi", "avg_logprob": -0.106, "no_speech_prob": 0.028}
+{"id": "test-reroute_navigation-07", "asr": "Move me around the scrubber.", "voice": "Kathy", "rate": 170, "snr": 13.5, "link": "wifi", "avg_logprob": -0.713, "no_speech_prob": 0.031}
+{"id": "test-reroute_navigation-08", "asr": "Alternate loop, please.", "voice": "Kathy", "rate": 175, "snr": 16.4, "link": "cable", "avg_logprob": -0.596, "no_speech_prob": 0.021}
+{"id": "test-reroute_navigation-09", "asr": "Redo the navigation power.", "voice": "Moira", "rate": 173, "snr": 5.5, "link": "cable", "avg_logprob": -0.388, "no_speech_prob": 0.026}
+{"id": "test-Add_waypoint-00", "asr": "Grab a pin here, call it at your bridge.", "voice": "Junior", "rate": 172, "snr": 6.6, "link": "wifi", "avg_logprob": -0.853, "no_speech_prob": 0.136}
+{"id": "test-Add_waypoint-01", "asr": "Okay, add the waypoint names when bolders.", "voice": "Fred", "rate": 178, "snr": 17.8, "link": "wifi", "avg_logprob": -0.33, "no_speech_prob": 0.025}
+{"id": "test-Add_waypoint-02", "asr": "Roger, mark this spot as grain off.", "voice": "Karen", "rate": 183, "snr": 9.6, "link": "cable", "avg_logprob": -0.334, "no_speech_prob": 0.007}
+{"id": "test-Add_waypoint-03", "asr": "UIA, waypoint, ash lab.", "voice": "Junior", "rate": 203, "snr": 13.0, "link": "wifi", "avg_logprob": -0.587, "no_speech_prob": 0.142}
+{"id": "test-Add_waypoint-04", "asr": "Houston, save this location as Boulder Garden.", "voice": "Junior", "rate": 192, "snr": 7.8, "link": "wifi", "avg_logprob": -0.192, "no_speech_prob": 0.05}
+{"id": "test-Add_waypoint-05", "asr": "At a waypoint called thin 7.", "voice": "Daniel", "rate": 184, "snr": 17.2, "link": "cable", "avg_logprob": -0.444, "no_speech_prob": 0.059}
+{"id": "test-Add_waypoint-06", "asr": "Place a pin, label it grain off.", "voice": "Moira", "rate": 205, "snr": 11.0, "link": "wifi", "avg_logprob": -0.086, "no_speech_prob": 0.013}
+{"id": "test-Add_waypoint-07", "asr": "Create waypoint twin boulders.", "voice": "Tessa", "rate": 183, "snr": 16.3, "link": "cable", "avg_logprob": -0.197, "no_speech_prob": 0.011}
+{"id": "test-Add_waypoint-08", "asr": "Pin this is Ash Fnet.", "voice": "Tessa", "rate": 214, "snr": 14.0, "link": "cable", "avg_logprob": -0.762, "no_speech_prob": 0.047}
+{"id": "test-Add_waypoint-09", "asr": "Add waypoint, sexual bridge.", "voice": "Junior", "rate": 219, "snr": 9.4, "link": "wifi", "avg_logprob": -0.77, "no_speech_prob": 0.064}
+{"id": "test-Delete_waypoint-00", "asr": "Delete the shakalat and ridge waypoint.", "voice": "Rishi", "rate": 196, "snr": 13.0, "link": "wifi", "avg_logprob": -0.541, "no_speech_prob": 0.053}
+{"id": "test-Delete_waypoint-01", "asr": "Okay, remove pin seven.", "voice": "Samantha", "rate": 232, "snr": 9.0, "link": "wifi", "avg_logprob": -0.601, "no_speech_prob": 0.075}
+{"id": "test-Delete_waypoint-02", "asr": "Roger, get rid of the twin builders pin.", "voice": "Daniel", "rate": 171, "snr": 13.6, "link": "cable", "avg_logprob": -0.143, "no_speech_prob": 0.01}
+{"id": "test-Delete_waypoint-03", "asr": "UH, waypoint, way up.", "voice": "Kathy", "rate": 199, "snr": 8.6, "link": "cable", "avg_logprob": -0.642, "no_speech_prob": 0.084}
+{"id": "test-Delete_waypoint-04", "asr": "UIA, UIA, delete dash lab.", "voice": "Ralph", "rate": 223, "snr": 8.8, "link": "wifi", "avg_logprob": -0.9, "no_speech_prob": 0.126}
+{"id": "test-Delete_waypoint-05", "asr": "Remove the boulder garden hardware.", "voice": "Junior", "rate": 217, "snr": 12.2, "link": "cable", "avg_logprob": -0.469, "no_speech_prob": 0.038}
+{"id": "test-Delete_waypoint-06", "asr": "The race pin seven.", "voice": "Karen", "rate": 188, "snr": 8.0, "link": "cable", "avg_logprob": -0.395, "no_speech_prob": 0.068}
+{"id": "test-Delete_waypoint-07", "asr": "Take off the grain of waypoint.", "voice": "Daniel", "rate": 199, "snr": 8.1, "link": "wifi", "avg_logprob": -0.289, "no_speech_prob": 0.012}
+{"id": "test-Delete_waypoint-08", "asr": "Delete waypoint twin boulders.", "voice": "Tessa", "rate": 194, "snr": 8.0, "link": "wifi", "avg_logprob": -0.354, "no_speech_prob": 0.014}
+{"id": "test-Delete_waypoint-09", "asr": "Widely ash left pin.", "voice": "Ralph", "rate": 161, "snr": 9.4, "link": "wifi", "avg_logprob": -0.579, "no_speech_prob": 0.048}
+{"id": "test-Complete_task-00", "asr": "Our grad role reflects our alignment complete.", "voice": "Junior", "rate": 176, "snr": 11.3, "link": "wifi", "avg_logprob": -0.534, "no_speech_prob": 0.043}
+{"id": "test-Complete_task-01", "asr": "Ok, regular charge sensor is done.", "voice": "Rishi", "rate": 202, "snr": 8.4, "link": "wifi", "avg_logprob": -0.266, "no_speech_prob": 0.081}
+{"id": "test-Complete_task-02", "asr": "Roger, check off terrain photos.", "voice": "Karen", "rate": 197, "snr": 17.6, "link": "wifi", "avg_logprob": -0.152, "no_speech_prob": 0.008}
+{"id": "test-Complete_task-03", "asr": "A sensor canister deployment finished.", "voice": "Tessa", "rate": 190, "snr": 12.7, "link": "cable", "avg_logprob": -0.325, "no_speech_prob": 0.053}
+{"id": "test-Complete_task-04", "asr": "Use me, retro reflector alignment complete, market.", "voice": "Fred", "rate": 176, "snr": 12.4, "link": "wifi", "avg_logprob": -0.348, "no_speech_prob": 0.051}
+{"id": "test-Complete_task-05", "asr": "The ring photo is done.", "voice": "Daniel", "rate": 179, "snr": 5.1, "link": "wifi", "avg_logprob": -0.596, "no_speech_prob": 0.114}
+{"id": "test-Complete_task-06", "asr": "Complete the regolith charge sensor task.", "voice": "Samantha", "rate": 226, "snr": 9.2, "link": "wifi", "avg_logprob": -0.255, "no_speech_prob": 0.005}
+{"id": "test-Complete_task-07", "asr": "Set sensor canister deployment to complete.", "voice": "Daniel", "rate": 198, "snr": 15.7, "link": "wifi", "avg_logprob": -0.151, "no_speech_prob": 0.018}
+{"id": "test-Complete_task-08", "asr": "We're done with terrain photos, tick it off.", "voice": "Daniel", "rate": 167, "snr": 17.4, "link": "wifi", "avg_logprob": -0.162, "no_speech_prob": 0.014}
+{"id": "test-Complete_task-09", "asr": "Close as rich or reflector alignment.", "voice": "Moira", "rate": 182, "snr": 12.8, "link": "cable", "avg_logprob": -0.451, "no_speech_prob": 0.005}
+{"id": "test-unhandled-00", "asr": "Okay, primary, O2, meeting 92%.", "voice": "Kathy", "rate": 224, "snr": 7.9, "link": "wifi", "avg_logprob": -0.512, "no_speech_prob": 0.026}
+{"id": "test-unhandled-01", "asr": "Roger, scrubber looks good.", "voice": "Moira", "rate": 188, "snr": 17.8, "link": "cable", "avg_logprob": -0.092, "no_speech_prob": 0.009}
+{"id": "test-unhandled-02", "asr": "Copy, tooling gas pressure nominal.", "voice": "Junior", "rate": 228, "snr": 16.7, "link": "wifi", "avg_logprob": -0.39, "no_speech_prob": 0.009}
+{"id": "test-unhandled-03", "asr": "Heart rate's coming down now.", "voice": "Moira", "rate": 178, "snr": 15.6, "link": "cable", "avg_logprob": -0.175, "no_speech_prob": 0.003}
+{"id": "test-unhandled-04", "asr": "My food pressure is holding it for.", "voice": "Samantha", "rate": 234, "snr": 6.5, "link": "cable", "avg_logprob": -0.18, "no_speech_prob": 0.009}
+{"id": "test-unhandled-05", "asr": "Flags up here.", "voice": "Daniel", "rate": 233, "snr": 15.3, "link": "cable", "avg_logprob": -0.334, "no_speech_prob": 0.027}
+{"id": "test-unhandled-06", "asr": "Okay, e-new power coming on now.", "voice": "Rishi", "rate": 233, "snr": 8.9, "link": "wifi", "avg_logprob": -0.39, "no_speech_prob": 0.091}
+{"id": "test-unhandled-07", "asr": "I've got the vent open.", "voice": "Daniel", "rate": 191, "snr": 17.1, "link": "wifi", "avg_logprob": -0.103, "no_speech_prob": 0.036}
+{"id": "test-unhandled-08", "asr": "Switching oxygen over to secondary.", "voice": "Tessa", "rate": 169, "snr": 8.3, "link": "cable", "avg_logprob": -0.036, "no_speech_prob": 0.011}
+{"id": "test-unhandled-09", "asr": "If to, how's it going over there?", "voice": "Tessa", "rate": 196, "snr": 9.6, "link": "wifi", "avg_logprob": -0.167, "no_speech_prob": 0.027}
+{"id": "test-unhandled-10", "asr": "Houston, standby.", "voice": "Samantha", "rate": 222, "snr": 10.1, "link": "wifi", "avg_logprob": -0.241, "no_speech_prob": 0.066}
+{"id": "test-unhandled-11", "asr": "Say it again.", "voice": "Junior", "rate": 230, "snr": 13.1, "link": "cable", "avg_logprob": -0.273, "no_speech_prob": 0.138}
+{"id": "test-unhandled-12", "asr": "Press on it.", "voice": "Tessa", "rate": 229, "snr": 8.3, "link": "wifi", "avg_logprob": -0.885, "no_speech_prob": 0.102}
+{"id": "test-unhandled-13", "asr": "This rock has some nice vesicles in it.", "voice": "Moira", "rate": 185, "snr": 19.8, "link": "wifi", "avg_logprob": -0.034, "no_speech_prob": 0.014}
+{"id": "test-unhandled-14", "asr": "Okay, I'm at the station.", "voice": "Samantha", "rate": 210, "snr": 5.2, "link": "wifi", "avg_logprob": -0.159, "no_speech_prob": 0.065}
+{"id": "test-unhandled-15", "asr": "Take a picture of this helicopter.", "voice": "Kathy", "rate": 203, "snr": 20.0, "link": "cable", "avg_logprob": -0.347, "no_speech_prob": 0.029}
+{"id": "test-unhandled-16", "asr": "Start the spectrometer.", "voice": "Moira", "rate": 204, "snr": 18.9, "link": "cable", "avg_logprob": -0.087, "no_speech_prob": 0.01}
+{"id": "test-unhandled-17", "asr": "Turn on my helmet lights.", "voice": "Rishi", "rate": 166, "snr": 18.3, "link": "cable", "avg_logprob": -0.073, "no_speech_prob": 0.03}
+{"id": "test-unhandled-18", "asr": "How much time do I have lived?", "voice": "Tessa", "rate": 190, "snr": 9.6, "link": "wifi", "avg_logprob": -0.048, "no_speech_prob": 0.01}
+{"id": "test-unhandled-19", "asr": "Don't open the mat.", "voice": "Daniel", "rate": 197, "snr": 12.2, "link": "cable", "avg_logprob": -0.107, "no_speech_prob": 0.047}
+{"id": "test-unhandled-20", "asr": "Never mind.", "voice": "Fred", "rate": 181, "snr": 10.5, "link": "wifi", "avg_logprob": -0.226, "no_speech_prob": 0.026}
+{"id": "test-unhandled-21", "asr": "Cancel that.", "voice": "Samantha", "rate": 226, "snr": 13.4, "link": "cable", "avg_logprob": -0.141, "no_speech_prob": 0.038}
+{"id": "test-unhandled-22", "asr": "What's my...", "voice": "Ralph", "rate": 206, "snr": 17.5, "link": "wifi", "avg_logprob": -0.563, "no_speech_prob": 0.054}
+{"id": "test-unhandled-23", "asr": "O2, CO2", "voice": "Kathy", "rate": 227, "snr": 8.8, "link": "cable", "avg_logprob": -0.93, "no_speech_prob": 0.113}
+{"id": "test-unhandled-24", "asr": "Thank you.", "voice": "Fred", "rate": 160, "snr": 5.9, "link": "cable", "avg_logprob": -0.132, "no_speech_prob": 0.095}
+{"id": "test-unhandled-25", "asr": "You.", "voice": "Tessa", "rate": 168, "snr": 16.8, "link": "wifi", "avg_logprob": -0.658, "no_speech_prob": 0.222}
+{"id": "test-unhandled-30", "asr": "Using, we are heading back towards the roller.", "voice": "Fred", "rate": 173, "snr": 6.1, "link": "cable", "avg_logprob": -0.535, "no_speech_prob": 0.022}
+{"id": "test-unhandled-31", "asr": "Say the coordinates again for F2.", "voice": "Samantha", "rate": 198, "snr": 15.1, "link": "wifi", "avg_logprob": -0.104, "no_speech_prob": 0.019}
+{"id": "test-unhandled-26", "asr": "The oxygen in this rock is locked up in the minerals.", "voice": "Kathy", "rate": 191, "snr": 15.1, "link": "cable", "avg_logprob": -0.075, "no_speech_prob": 0.038}
+{"id": "test-unhandled-27", "asr": "Close the hash behind me.", "voice": "Junior", "rate": 216, "snr": 12.5, "link": "cable", "avg_logprob": -0.205, "no_speech_prob": 0.039}
+{"id": "test-unhandled-28", "asr": "Roger, battery 2 with AT.", "voice": "Karen", "rate": 171, "snr": 16.6, "link": "wifi", "avg_logprob": -0.378, "no_speech_prob": 0.006}
+{"id": "test-unhandled-29", "asr": "Okay, I think the fan sounds louder now.", "voice": "Daniel", "rate": 208, "snr": 11.2, "link": "cable", "avg_logprob": -0.18, "no_speech_prob": 0.011}

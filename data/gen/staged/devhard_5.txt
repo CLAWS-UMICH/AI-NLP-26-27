@@ -1,0 +1,33 @@
+@ unhandled
+= hard
+u:noise | thank you very much.
+u:noise | okay.
+u:noise | so...
+u:noise | i'll see you next time.
+u:noise | hmm.
+u:two_commands | pull up the vitals and then reroute me
+u:two_commands | what's my heart rate and how hot is it in here
+u:two_commands | close the map and open the checklist
+u:two_commands | check scrubber a and scrubber b for me
+u:followup | and the liquid?
+u:followup | how about the backup one
+@ fans
+= contrastive
+fs | not fan one, fan two, how fast is it going
+fp | forget the backup, how fast is the main fan going
+@ power
+= contrastive
+bs | the main battery's fine, i'm asking about the backup's charge
+bp | not the backup, the primary, how much charge
+@ co2_scrub
+= contrastive
+sb | not alpha, i want bravo's level
+sa | not bravo, how full is alpha
+@ coolant
+= contrastive
+cs | not the pressure, just how much coolant is left
+cg | i don't care about the liquid loop, give me the gas side pressure
+@ body
+= contrastive
+hr | not my vitals page, just my heart rate number
+et | not how much time is left, how long we've been out

@@ -1,0 +1,112 @@
+{
+ "batches": {
+  "1": {
+   "proposed": 260,
+   "too_close_to_train": 102,
+   "relabel_disagree": 11,
+   "dup_of_dev": 8,
+   "kept": 139
+  },
+  "2": {
+   "proposed": 227,
+   "too_close_to_train": 54,
+   "relabel_disagree": 7,
+   "dup_of_dev": 6,
+   "kept": 160
+  },
+  "3": {
+   "proposed": 152,
+   "too_close_to_train": 26,
+   "relabel_disagree": 4,
+   "contrastive_needs_both": 5,
+   "dup_of_dev": 2,
+   "kept": 115
+  },
+  "4": {
+   "proposed": 90,
+   "too_close_to_train": 9,
+   "relabel_disagree": 10,
+   "kept": 71
+  },
+  "5": {
+   "proposed": 21,
+   "too_close_to_train": 4,
+   "relabel_disagree": 2,
+   "contrastive_needs_both": 2,
+   "kept": 13
+  },
+  "6": {
+   "proposed": 56,
+   "too_close_to_train": 10,
+   "relabel_disagree": 6,
+   "kept": 40
+  }
+ },
+ "summary": {
+  "total": 515,
+  "per_label": {
+   "Add_waypoint": 12,
+   "Complete_task": 11,
+   "Delete_waypoint": 11,
+   "Get_coordinates": 11,
+   "Set_navigation_target": 12,
+   "close_menu": 11,
+   "get_co2_production": 10,
+   "get_coolant_gas_pressure": 13,
+   "get_coolant_liquid_pressure": 12,
+   "get_coolant_storage": 13,
+   "get_eva_elapsed_time": 15,
+   "get_fan_pri_rpm": 14,
+   "get_fan_sec_rpm": 11,
+   "get_heart_rate": 14,
+   "get_helmet_pressure_co2": 12,
+   "get_oxy_consumption": 12,
+   "get_oxy_pri_pressure": 14,
+   "get_oxy_pri_storage": 13,
+   "get_oxy_sec_pressure": 11,
+   "get_oxy_sec_storage": 15,
+   "get_primary_battery_level": 16,
+   "get_scrubber_a_co2_storage": 12,
+   "get_scrubber_b_co2_storage": 12,
+   "get_secondary_battery_level": 16,
+   "get_suit_pressure_co2": 11,
+   "get_suit_pressure_other": 11,
+   "get_suit_pressure_oxy": 14,
+   "get_suit_pressure_total": 11,
+   "get_temperature": 12,
+   "get_warnings": 12,
+   "open_menu_navigation": 13,
+   "open_menu_tasks": 12,
+   "open_menu_uia": 11,
+   "open_menu_vitals": 10,
+   "reroute_navigation": 13,
+   "unhandled": 82
+  },
+  "unhandled_share": 0.159,
+  "unhandled_kinds": {
+   "callout": 4,
+   "negation": 7,
+   "report": 18,
+   "out_of_scope": 12,
+   "jargon_trap": 9,
+   "chatter": 7,
+   "fragment": 5,
+   "noise": 7,
+   "two_commands": 7,
+   "followup": 6
+  },
+  "contrastive_share": 0.056,
+  "empty_slot_rows": 6,
+  "train_cos": {
+   "p50": 0.73,
+   "p95": 0.84,
+   "max": 0.85,
+   "over_limit": 0
+  },
+  "train_jac": {
+   "p50": 0.25,
+   "p95": 0.455,
+   "max": 0.579
+  }
+ }
+}

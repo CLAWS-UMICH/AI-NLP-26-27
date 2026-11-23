@@ -1,0 +1,382 @@
+{"id": "test-get_oxy_pri_storage-00", "text": "okay houston, what's primary o2 at", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-01", "text": "roger, how much oxygen do i have left in the main tank", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-02", "text": "pri o2 percent", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-03", "text": "uh, check my primary oxygen level", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-04", "text": "i'm - i'm getting a little winded, how's my oxygen", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-05", "text": "primary tank, how full is it on oxygen", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-06", "text": "give me o two primary", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-07", "text": "okay, oxygen remaining, primary", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-08", "text": "what percent is the first o2 tank showing", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_storage-09", "text": "need my oxygen number, primary side", "label": "get_oxy_pri_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-00", "text": "roger, and the secondary o2, what's that reading", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-01", "text": "how much is left in the backup oxygen tank", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-02", "text": "sec o2 percent", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-03", "text": "okay, check secondary oxygen for me", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-04", "text": "what's tank two at for oxygen", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-05", "text": "houston, uh, secondary oxygen level please", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-06", "text": "second o2 tank, how full", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-07", "text": "i want the backup o two number", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-08", "text": "okay, oxygen on the secondary, what do we have", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_storage-09", "text": "how's the secondary oxygen holding up", "label": "get_oxy_sec_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-00", "text": "primary oxygen bottle pressure", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-01", "text": "okay, what's the psi on the main o2 tank", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-02", "text": "roger, give me tank one pressure", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-03", "text": "how much pressure is in the primary o two", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-04", "text": "pri o2 psi", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-05", "text": "uh, check pressure on the primary oxygen bottle", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-06", "text": "houston, what is primary tank pressure reading", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-07", "text": "oxygen tank pressure", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-08", "text": "is the primary oxygen tank still above three thousand psi", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_pri_pressure-09", "text": "need primary o2 pressure", "label": "get_oxy_pri_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-00", "text": "secondary oxygen bottle pressure", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-01", "text": "okay, psi on the backup o2 tank", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-02", "text": "roger, tank two pressure please", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-03", "text": "sec o two psi", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-04", "text": "what's the pressure in the secondary oxygen bottle", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-05", "text": "uh, secondary tank, what's it reading for pressure", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-06", "text": "check the second o2 tank's pressure", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-07", "text": "houston, i need secondary oxygen pressure", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-08", "text": "how many psi in the backup oxygen tank", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_sec_pressure-09", "text": "pressure on secondary o2", "label": "get_oxy_sec_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-00", "text": "how fast am i burning through oxygen", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-01", "text": "okay, what's my o2 consumption rate", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-02", "text": "roger, oxygen use rate", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-03", "text": "am i using oxygen faster than planned", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-04", "text": "o two burn rate", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-05", "text": "houston, how quickly am i consuming oxygen right now", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-06", "text": "what's the oxygen consumption", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-07", "text": "uh, check how much o2 i'm using per minute", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-08", "text": "give me my oxygen consumption", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_oxy_consumption-09", "text": "i'm breathing hard, what's the o2 usage rate", "label": "get_oxy_consumption", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-00", "text": "suit p p o two", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-01", "text": "okay, oxygen partial pressure in the suit", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-02", "text": "roger, what's my ppo2", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-03", "text": "partial pressure of o2, suit", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-04", "text": "uh, check suit oxygen partial pressure", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-05", "text": "houston, what's the o2 partial pressure inside the suit", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-06", "text": "need suit ppo2", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-07", "text": "how much oxygen partial pressure am i at in the suit", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-08", "text": "suit o2 pressure", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_oxy-09", "text": "what's the oxygen pressure reading inside my suit", "label": "get_suit_pressure_oxy", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-00", "text": "co2 reading", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-01", "text": "okay, what's the carbon dioxide in my suit", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-02", "text": "roger, suit co2", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-03", "text": "p p c o two", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-04", "text": "uh, check carbon dioxide partial pressure in the suit", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-05", "text": "how much co2 is in the suit right now", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-06", "text": "houston, suit carbon dioxide reading", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-07", "text": "i've got a headache, what's my co2 at", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-08", "text": "suit c o two partial pressure", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_co2-09", "text": "need co2 pressure for the suit", "label": "get_suit_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-00", "text": "trace gas number", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-01", "text": "okay, what are the other gases at in the suit", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-02", "text": "roger, suit trace gas", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-03", "text": "check other gas partial pressure", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-04", "text": "uh, pressure of the other gases", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-05", "text": "houston, trace gases in my suit, what's the number", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-06", "text": "what's the suit pressure from other gases", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-07", "text": "need the trace gas reading", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-08", "text": "other gas pressure, suit", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_other-09", "text": "how much trace gas is in the suit", "label": "get_suit_pressure_other", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-00", "text": "how's the suit holding pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-01", "text": "okay, total suit pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-02", "text": "roger, suit p", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-03", "text": "uh, overall suit pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-04", "text": "houston, what's total pressure in the suit", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-05", "text": "is my suit pressure still at four", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-06", "text": "suit pressure reading please", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-07", "text": "pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-08", "text": "check total pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_suit_pressure_total-09", "text": "i need my suit's overall pressure", "label": "get_suit_pressure_total", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-00", "text": "co2 in the helmet, what's it reading", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-01", "text": "okay, helmet carbon dioxide pressure", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-02", "text": "roger, what's the co2 up in my helmet", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-03", "text": "uh, helmet c o two pressure", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-04", "text": "how much carbon dioxide is building up in the helmet", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-05", "text": "houston, helmet co2 number", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-06", "text": "check co2 pressure inside the helmet", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-07", "text": "helmet co2 partial pressure", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-08", "text": "i'm feeling stuffy, what's the helmet co2", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_helmet_pressure_co2-09", "text": "need the helmet's carbon dioxide reading", "label": "get_helmet_pressure_co2", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-00", "text": "how much co2 am i producing", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-01", "text": "okay, carbon dioxide production", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-02", "text": "roger, what's my co2 output rate", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-03", "text": "co2 generation rate", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-04", "text": "uh, how fast am i making carbon dioxide", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-05", "text": "houston, check my co2 production", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-06", "text": "how much c o two am i exhaling per minute", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-07", "text": "need co2 production numbers", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-08", "text": "what rate is my body making co2", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_co2_production-09", "text": "my co2 production, what is it", "label": "get_co2_production", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-00", "text": "scrubber a, how full is it", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-01", "text": "okay, co2 storage on scrubber alpha", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-02", "text": "roger, scrubber a capacity", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-03", "text": "how much co2 has scrubber one soaked up", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-04", "text": "uh, check the a scrubber", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-05", "text": "houston, what's scrubber a at", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-06", "text": "scrubber status", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-07", "text": "is scrubber alpha getting saturated", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-08", "text": "scrubber a co2 level", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_a_co2_storage-09", "text": "need the co2 storage reading for scrubber a", "label": "get_scrubber_a_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-00", "text": "scrubber b, how full", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-01", "text": "okay, co2 storage on scrubber bravo", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-02", "text": "roger, scrubber b capacity", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-03", "text": "how much co2 is in scrubber two", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-04", "text": "uh, check the bravo scrubber", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-05", "text": "houston, what's scrubber b reading", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-06", "text": "is the b scrubber close to full", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-07", "text": "scrubber b co2 level", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-08", "text": "need scrubber bravo storage", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_scrubber_b_co2_storage-09", "text": "switching to b soon, how's scrubber b looking", "label": "get_scrubber_b_co2_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-00", "text": "what's the temperature in my suit", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-01", "text": "okay, suit internal temp", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-02", "text": "roger, how warm is it in here", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-03", "text": "i'm sweating, what's the suit temperature", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-04", "text": "uh, temperature check", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-05", "text": "houston, what's my suit reading for temperature", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-06", "text": "is it getting hot inside the suit", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-07", "text": "temperature", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-08", "text": "how cold is it inside my suit", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_temperature-09", "text": "need the internal temperature", "label": "get_temperature", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-00", "text": "how much coolant is left", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-01", "text": "okay, coolant storage", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-02", "text": "roger, coolant reserve percent", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-03", "text": "coolant", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-04", "text": "uh, check my coolant supply", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-05", "text": "houston, what's the coolant tank at", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-06", "text": "is my coolant running low", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-07", "text": "coolant remaining", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-08", "text": "need coolant storage level", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_storage-09", "text": "how full is the coolant", "label": "get_coolant_storage", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-00", "text": "coolant gas loop pressure", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-01", "text": "okay, pressure on the coolant gas side", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-02", "text": "roger, gas loop psi", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-03", "text": "uh, check the coolant vapor pressure", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-04", "text": "houston, what's the gas side of the coolant reading", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-05", "text": "gas coolant pressure reading", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-06", "text": "how's the pressure in the gas loop", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-07", "text": "need coolant gas psi", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-08", "text": "what pressure is the coolant gas at", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_gas_pressure-09", "text": "gas loop", "label": "get_coolant_gas_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-00", "text": "coolant liquid loop pressure", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-01", "text": "okay, pressure on the liquid side", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-02", "text": "roger, liquid loop psi", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-03", "text": "uh, check the liquid coolant line pressure", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-04", "text": "houston, what's the liquid loop reading", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-05", "text": "what's the water loop at for pressure", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-06", "text": "how's pressure in the liquid cooling loop", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-07", "text": "need coolant liquid psi", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-08", "text": "what pressure is the coolant liquid at", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_coolant_liquid_pressure-09", "text": "liquid loop", "label": "get_coolant_liquid_pressure", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-00", "text": "primary fan rpm", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-01", "text": "okay, how fast is the primary fan running", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-02", "text": "roger, fan one speed", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-03", "text": "fan rpm", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-04", "text": "uh, check the main fan", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-05", "text": "houston, what's the pri fan spinning at", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-06", "text": "is the primary fan still up to speed", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-07", "text": "fan", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-08", "text": "need primary fan revs", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_pri_rpm-09", "text": "what's the first fan's rpm", "label": "get_fan_pri_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-00", "text": "secondary fan rpm", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-01", "text": "okay, how fast is the secondary fan running", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-02", "text": "roger, fan two speed", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-03", "text": "uh, check the backup fan", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-04", "text": "houston, what's the sec fan at", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-05", "text": "is the second fan spinning", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-06", "text": "need secondary fan revs", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-07", "text": "what's fan number two doing for rpm", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-08", "text": "secondary fan, how fast", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_fan_sec_rpm-09", "text": "fan two", "label": "get_fan_sec_rpm", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-00", "text": "primary battery level", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-01", "text": "okay, how much charge is left on the main battery", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-02", "text": "roger, battery one percent", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-03", "text": "power remaining", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-04", "text": "uh, check primary battery", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-05", "text": "houston, what's my battery at", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-06", "text": "is the primary battery getting low", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-07", "text": "pri batt", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-08", "text": "need main battery charge", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_primary_battery_level-09", "text": "what's the first battery reading", "label": "get_primary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-00", "text": "secondary battery level", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-01", "text": "okay, how much charge on the backup battery", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-02", "text": "roger, battery two percent", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-03", "text": "uh, check secondary battery", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-04", "text": "houston, what's the sec battery at", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-05", "text": "is the second battery still full", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-06", "text": "sec batt", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-07", "text": "need backup battery charge", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-08", "text": "what's the reading on battery number two", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_secondary_battery_level-09", "text": "secondary power level", "label": "get_secondary_battery_level", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-00", "text": "what's my heart rate", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-01", "text": "okay, heart rate check", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-02", "text": "roger, how fast is my heart beating", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-03", "text": "pulse", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-04", "text": "uh, what's my bpm at", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-05", "text": "houston, heart rate please", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-06", "text": "i'm - i'm pushing hard up this slope, what's my heart doing", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-07", "text": "beats per minute", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-08", "text": "is my pulse too high", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_heart_rate-09", "text": "need my heart rate number", "label": "get_heart_rate", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-00", "text": "how long have we been on this eva", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-01", "text": "okay, elapsed time", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-02", "text": "roger, what's the eva time", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-03", "text": "how long since egress", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-04", "text": "uh, check mission elapsed time", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-05", "text": "houston, how much time have i been outside", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-06", "text": "eva elapsed", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-07", "text": "how many hours into the spacewalk are we", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-08", "text": "time on eva", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_eva_elapsed_time-09", "text": "need the elapsed time", "label": "get_eva_elapsed_time", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-00", "text": "any alerts", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-01", "text": "okay, what warnings do i have", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-02", "text": "roger, are there any cautions active", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-03", "text": "uh, why is it beeping", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-04", "text": "houston, check for warnings", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-05", "text": "is anything out of limits", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-06", "text": "warnings", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-07", "text": "what's that caution light for", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-08", "text": "do i have any active alerts", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-get_warnings-09", "text": "show me the caution and warning list", "label": "get_warnings", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-00", "text": "open vitals", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-01", "text": "okay, bring up my vitals panel", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-02", "text": "roger, show the biomedical page", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-03", "text": "uh, pull up vitals", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-04", "text": "houston, i want the vitals screen up", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-05", "text": "switch to vitals", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-06", "text": "display suit vitals", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-07", "text": "vitals panel", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-08", "text": "can you put my vitals on the hud", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_vitals-09", "text": "go to the vitals menu", "label": "open_menu_vitals", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-00", "text": "open navigation", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-01", "text": "okay, bring up the nav panel", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-02", "text": "roger, show me the mini map", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-03", "text": "uh, pull up the map", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-04", "text": "houston, switch to navigation", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-05", "text": "map please", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-06", "text": "display the map", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-07", "text": "can i get the navigation screen", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-08", "text": "go to nav", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_navigation-09", "text": "put the map up", "label": "open_menu_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-00", "text": "open tasks", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-01", "text": "okay, bring up the task list", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-02", "text": "roger, checklist on the display", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-03", "text": "uh, pull up my tasks", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-04", "text": "houston, switch to the procedures screen", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-05", "text": "task panel", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-06", "text": "display the procedure list", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-07", "text": "can i see my task list", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-08", "text": "go to the tasks menu", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_tasks-09", "text": "put the checklist up", "label": "open_menu_tasks", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-00", "text": "open the uia", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-01", "text": "okay, bring up the uia screen", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-02", "text": "roger, show the umbilical interface panel", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-03", "text": "uh, pull up uia", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-04", "text": "houston, switch to the airlock panel", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-05", "text": "uia panel", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-06", "text": "display the uia page", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-07", "text": "can i get the uia menu up", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-08", "text": "go to uia", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-open_menu_uia-09", "text": "you i a panel please", "label": "open_menu_uia", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-00", "text": "close it", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-01", "text": "okay, close the panel", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-02", "text": "roger, get that off the screen", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-03", "text": "uh, hide it", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-04", "text": "houston, clear the display", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-05", "text": "close the map", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-06", "text": "take that down", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-07", "text": "exit this menu", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-08", "text": "go back, close that", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-close_menu-09", "text": "minimize the panel", "label": "close_menu", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-00", "text": "where is poi d", "label": "Get_coordinates", "slot_text": "poi d", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-01", "text": "okay, coordinates for station two", "label": "Get_coordinates", "slot_text": "station two", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-02", "text": "roger, what's the location of shackleton ridge", "label": "Get_coordinates", "slot_text": "shackleton ridge", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-03", "text": "uh, give me the position of point of interest two", "label": "Get_coordinates", "slot_text": "point of interest two", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-04", "text": "houston, where's the camera site", "label": "Get_coordinates", "slot_text": "camera site", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-05", "text": "coords on twin boulders", "label": "Get_coordinates", "slot_text": "twin boulders", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-06", "text": "what are the coordinates of pin seven", "label": "Get_coordinates", "slot_text": "pin seven", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-07", "text": "need a fix on gray knob", "label": "Get_coordinates", "slot_text": "gray knob", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-08", "text": "location of ash flat", "label": "Get_coordinates", "slot_text": "ash flat", "split": "test", "source": "handwritten_test"}
+{"id": "test-Get_coordinates-09", "text": "where did we put boulder garden", "label": "Get_coordinates", "slot_text": "boulder garden", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-00", "text": "take me to poi d", "label": "Set_navigation_target", "slot_text": "poi d", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-01", "text": "okay, navigate to station two", "label": "Set_navigation_target", "slot_text": "station two", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-02", "text": "roger, set a course for shackleton ridge", "label": "Set_navigation_target", "slot_text": "shackleton ridge", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-03", "text": "uh, guide me to point of interest two", "label": "Set_navigation_target", "slot_text": "point of interest two", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-04", "text": "houston, route me to the camera site", "label": "Set_navigation_target", "slot_text": "camera site", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-05", "text": "head to twin boulders", "label": "Set_navigation_target", "slot_text": "twin boulders", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-06", "text": "lead me back to pin seven", "label": "Set_navigation_target", "slot_text": "pin seven", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-07", "text": "nav to gray knob", "label": "Set_navigation_target", "slot_text": "gray knob", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-08", "text": "i want to go to ash flat", "label": "Set_navigation_target", "slot_text": "ash flat", "split": "test", "source": "handwritten_test"}
+{"id": "test-Set_navigation_target-09", "text": "set boulder garden as my destination", "label": "Set_navigation_target", "slot_text": "boulder garden", "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-00", "text": "reroute me", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-01", "text": "okay, find me a new path", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-02", "text": "roger, recalculate the route", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-03", "text": "uh, there's a boulder in the way, give me another route", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-04", "text": "houston, this slope's too steep, reroute", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-05", "text": "new route", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-06", "text": "calculate a different way around", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-07", "text": "can you route me around this crater", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-08", "text": "alternate route please", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-reroute_navigation-09", "text": "redo the navigation path", "label": "reroute_navigation", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-00", "text": "drop a pin here, call it shackleton ridge", "label": "Add_waypoint", "slot_text": "shackleton ridge", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-01", "text": "okay, add a waypoint named twin boulders", "label": "Add_waypoint", "slot_text": "twin boulders", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-02", "text": "roger, mark this spot as gray knob", "label": "Add_waypoint", "slot_text": "gray knob", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-03", "text": "uh, new waypoint, ash flat", "label": "Add_waypoint", "slot_text": "ash flat", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-04", "text": "houston, save this location as boulder garden", "label": "Add_waypoint", "slot_text": "boulder garden", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-05", "text": "at a waypoint called pin seven", "label": "Add_waypoint", "slot_text": "pin seven", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-06", "text": "place a pin, label it gray knob", "label": "Add_waypoint", "slot_text": "gray knob", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-07", "text": "create waypoint twin boulders", "label": "Add_waypoint", "slot_text": "twin boulders", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-08", "text": "pin this as ash flat", "label": "Add_waypoint", "slot_text": "ash flat", "split": "test", "source": "handwritten_test"}
+{"id": "test-Add_waypoint-09", "text": "add way point shackleton ridge", "label": "Add_waypoint", "slot_text": "shackleton ridge", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-00", "text": "delete the shackleton ridge waypoint", "label": "Delete_waypoint", "slot_text": "shackleton ridge", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-01", "text": "okay, remove pin seven", "label": "Delete_waypoint", "slot_text": "pin seven", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-02", "text": "roger, get rid of the twin boulders pin", "label": "Delete_waypoint", "slot_text": "twin boulders", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-03", "text": "uh, clear waypoint gray knob", "label": "Delete_waypoint", "slot_text": "gray knob", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-04", "text": "houston, delete ash flat", "label": "Delete_waypoint", "slot_text": "ash flat", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-05", "text": "remove the boulder garden marker", "label": "Delete_waypoint", "slot_text": "boulder garden", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-06", "text": "erase pin seven", "label": "Delete_waypoint", "slot_text": "pin seven", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-07", "text": "take off the gray knob waypoint", "label": "Delete_waypoint", "slot_text": "gray knob", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-08", "text": "delete waypoint twin boulders", "label": "Delete_waypoint", "slot_text": "twin boulders", "split": "test", "source": "handwritten_test"}
+{"id": "test-Delete_waypoint-09", "text": "wipe the ash flat pin", "label": "Delete_waypoint", "slot_text": "ash flat", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-00", "text": "mark retroreflector alignment complete", "label": "Complete_task", "slot_text": "retroreflector alignment", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-01", "text": "okay, regolith charge sensor is done", "label": "Complete_task", "slot_text": "regolith charge sensor", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-02", "text": "roger, check off terrain photos", "label": "Complete_task", "slot_text": "terrain photos", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-03", "text": "uh, sensor canister deployment finished", "label": "Complete_task", "slot_text": "sensor canister deployment", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-04", "text": "houston, retroreflector alignment complete, mark it", "label": "Complete_task", "slot_text": "retroreflector alignment", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-05", "text": "terrain photos done", "label": "Complete_task", "slot_text": "terrain photos", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-06", "text": "complete the regolith charge sensor task", "label": "Complete_task", "slot_text": "regolith charge sensor", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-07", "text": "set sensor canister deployment to complete", "label": "Complete_task", "slot_text": "sensor canister deployment", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-08", "text": "we're done with terrain photos, tick it off", "label": "Complete_task", "slot_text": "terrain photos", "split": "test", "source": "handwritten_test"}
+{"id": "test-Complete_task-09", "text": "close out retroreflector alignment", "label": "Complete_task", "slot_text": "retroreflector alignment", "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-00", "text": "okay, primary o2 reading ninety two percent", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-01", "text": "roger, scrubber a looks good", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-02", "text": "copy, coolant gas pressure's nominal", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-03", "text": "heart rate's coming down now", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-04", "text": "my suit pressure is holding at four", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-05", "text": "flags are clear", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-06", "text": "okay, emu power coming on now", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-07", "text": "i've got the vent open", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-08", "text": "switching oxygen over to secondary", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-09", "text": "ev two, how's it going over there", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-10", "text": "houston, stand by", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-11", "text": "say again", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-12", "text": "press on", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-13", "text": "this rock has some nice vesicles in it", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-14", "text": "okay, i'm at the station", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-15", "text": "take a picture of this outcrop", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-16", "text": "start the spectrometer", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-17", "text": "turn on my helmet lights", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-18", "text": "how much time do i have left", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-19", "text": "don't open the map", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-20", "text": "never mind", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-21", "text": "cancel that", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-22", "text": "what's my", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-23", "text": "open the", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-24", "text": "thank you", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-25", "text": "you", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-26", "text": "the oxygen in this rock is locked up in the minerals", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-27", "text": "close the hatch behind me", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-28", "text": "roger, battery two at eighty", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-29", "text": "okay, i - i think the fan sounds louder now", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-30", "text": "houston, we're heading back toward the rover", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
+{"id": "test-unhandled-31", "text": "say the coordinates again for ev two", "label": "unhandled", "slot_text": null, "split": "test", "source": "handwritten_test"}
